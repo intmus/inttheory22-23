@@ -4,6 +4,12 @@ title: Lesson 1a - Pitches and Clefs
 abc: true
 ---
 
+<!--Hi Future Sean! I hope you've had a great summer. I know that you've forgotten how to commit, add, and push as well as all the other basics, but a while ago, you installed an VS code extension to make this easier. It will probably work on this new repository, but if not, you'll need to set it up by clicking on the gear in the lower left corner, and click on "Git add commit push" to set it up. 
+
+Once it's running properly, you can use ctrl + s to save changes, and then ctrl + alt + p to automatically git add, git commit, and git push without having to log in every gd time. You'll need to add a description, but that's not too bad. 
+
+You're welcome! And if it doesn't work, just have Evan fix it like you always do lol -->
+
 ### A Starting Place
 
 By the time musicians begin formally exploring music theory, they likely are familiar with basic music notation--treble and bass clefs, staves, ledger lines, and accidentals--due to time spent performing. If you are uncomfortable with any of aspect of these concepts, you can review by reading the explanations under the *Further Reading* section of [Discussion 1a]({{ site.baseurl }}/01-pitches-clefs/a2-pitchesclefs.html). 
