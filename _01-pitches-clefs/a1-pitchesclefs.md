@@ -4,6 +4,8 @@ title: Lesson 1a - Pitches and Clefs
 abc: true
 ---
 
+TEST TEST TEST
+
 ### A Starting Place
 
 By the time musicians begin formally exploring music theory, they likely are familiar with basic music notation--treble and bass clefs, staves, ledger lines, and accidentals--due to time spent performing. If you are uncomfortable with any of aspect of these concepts, you can review by reading the explanations under the *Further Reading* section of [Discussion 1a]({{ site.baseurl }}/01-pitches-clefs/a2-pitchesclefs.html). 
