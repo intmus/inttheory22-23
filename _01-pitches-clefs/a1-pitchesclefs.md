@@ -4,7 +4,7 @@ title: Lesson 1a - Pitches and Clefs
 abc: true
 ---
 
-TEST TEST TEST
+REmoved
 
 ### A Starting Place
 
