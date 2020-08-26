@@ -4,7 +4,7 @@ title: Lesson 1a - Pitches and Clefs
 abc: true
 ---
 
-<!--Hi Future Sean! I hope you've had a great summer. I know that you've forgotten how to commit, add, and push as well as all the other basics, but a while ago, you installed an VS code extension to make this easier. It will probably work on this new repository, but if not, you'll need to set it up by clicking on the gear in the lower left corner, and click on "Git add commit push" to set it up. 
+<!--Hi Future Sean! I hope you've had a great summer. I know that you've forgotten how to commit, add, and push as well as all the other basics, but a while ago, you installed an VS code extension to make this easier. It will probably work on this new repository, but if not, you'll need to set it up by clicking on the gear in the lower left corner, choose Extensions, and click on "Git add commit push" to set it up. 
 
 Once it's running properly, you can use ctrl + s to save changes, and then ctrl + alt + p to automatically git add, git commit, and git push without having to log in every gd time. You'll need to add a description, but that's not too bad. 
 
@@ -16,14 +16,19 @@ By the time musicians begin formally exploring music theory, they likely are fam
 
 ## Clefs
 
-Even though most college music students are familiar with reading music, they are usually far more comfortable when working in the clef most associated with their primary instrument or voice-part. It is vital that musicians be fluent in not only the two most common clefs -- treble and bass -- but also with two additional clefs: alto clef and tenor clef. These clefs are commonly used by instruments such as viola, cello, trombone, and bassoon. They alleviate the use of ledger lines in the extreme registers of an instrument, so it is imperative that you become comfortable reading music in all of the most common clefs.
+Even though most college music students are familiar with reading music, most are partial to the clef associated with their primary instrument or voice-part. It is vital that musicians be fluent in not only the two most common clefs--treble and bass--but also with two additional clefs: alto clef and tenor clef. Alto and tenor clefs are often used by instruments such as viola, cello, trombone, and bassoon. They alleviate the use of ledger lines in the extreme registers of an instrument and appear regularly in even the most elementary music.
+
+
+### Exploring clefs
 
 Treble clef is sometimes referred to as a *G-clef*, and bass clef can be called an *F-clef*.
-Alto and tenor clefs are known as *C-clefs*. 
+Alto and tenor clefs are known as *C-clefs*. So let's piece together the notes and octave relationships between the clefs as well as why the clefs have these alternate names. 
 
-### Goals for this topic
-
-In the examples below, the treble and alto clefs are in unison, and the tenor and bass clefs are in unison. The treble and bass clefs are separated by one octave. You can find middle C on the first line below the treble clef staff.
+In the examples below: 
+- the treble and alto clefs are in unison
+- the tenor and bass clefs are in unison 
+- the treble/alto clefs are separated from the the tenor/bass clefs by one octave
+- middle C rests on the first ledgeer line below the treble clef staff
 
 Knowing this, use these examples to find:
 - the order of pitch names for each clef's lines and spaces.
@@ -52,7 +57,9 @@ w: E A F B G C# G{% endcapture %}
 
 ### Conclusion
 
-The lines and spaces of each clef are:
+Clefs have secondary names because each clef is centered around the pitch in its name. The bass clef's dots surround an F, and the two C-clefs are centered on middle C. Treble clef, however, not only encircles the G at the center of its spiral, but it evolved from a stylized *G*. For a well-researched, short article on the evolution of clefs, I suggest reading Jimmy Stamp's [The Evolution of the Treble Clef](http://www.smithsonianmag.com/arts-culture/the-evolution-of-the-treble-clef-87122373/) from the Smithsonian website.
+
+The octave relationship for each clef is the most important thing you can remember from this discussion, and the easiest way to demonstrate this is to look at where middle C sits on each clef. Below, you can see the note names for the lines and spaces of each clef, and middle C is highlighted at the beginning of each staff.
 
 {% capture ex2 %}X: 2
 T:Pitch Names for Each Clef
@@ -60,26 +67,26 @@ M:C
 L:1/4
 K:C
 V:1 name="Treble Clef"
-E G B d f| F A c e|]
-w: E G B D F F A C E
+C | E G B d f| F A c e|]
+w: midC E G B D F F A C E
 V:2 name="Alto Clef" clef="alto"
-F, A, C E G| G, B, D F|]
-w: F A C E G G B D F
+C | F, A, C E G| G, B, D F|]
+w: midC F A C E G G B D F
 V:3 name="Tenor Clef" clef="tenor"
-D, F, A, C E| E, G, B, D|]
-w: D F A C E E G B D
+C | D, F, A, C E| E, G, B, D|]
+w: midC D F A C E E G B D
 V:4 name="Bass Clef" clef="bass"
-G,, B,, D, F, A,| A,, C, E, G,|]
-w: G B D F A A C E G{% endcapture %}
+C | G,, B,, D, F, A,| A,, C, E, G,|]
+w: midC G B D F A A C E G{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
-
-Clefs have secondary names because each clef is centered around the pitch in its name. The bass clef's dots surround an F, and the two C-clefs are centered on middle C. Treble clef, however, not only encircles the G at the center of its spiral, but it evolved from a stylized *G*.
-
-For a well-researched, short article on the evolution of clefs, I suggest reading Jimmy Stamp's [The Evolution of the Treble Clef](http://www.smithsonianmag.com/arts-culture/the-evolution-of-the-treble-clef-87122373/) from the Smithsonian website.
 
 ### Tips and tricks
 
 When asked about their methods, past students suggested working on clefs via:
 - Memorization - The most widely used method uses flash cards or other repetitive devices to practice identifying notes on each clef to ensure a quick and efficient memorization.
-- Relative note identifications - Another student remembers one important note for each clef and then visually "counts" through the alphabet upward or downward to find pitches in unfamiliar clefs. One student suggested remembering where C is and counting by steps (letter names), but another suggested memorizing how thirds are stacked to move around more quickly. While this is a reasonable method for beginning to familiarize yourself with clefs, it will ultimately be too slow and inconsistent to be practical.
-- The final suggestion was to determine the relationship of your weaker clefs to your strongest clef, and then use this to read in the clef. For example, if you are primarily comfortable in treble-clef, you could remember that alto-clef moves all of the pitches down by a step relative to treble clef. (This ignores octave displacement, of course.) In this case, if you read the alto clef as a treble clef but *up* a step, this compensates and gives you a quick visual method for reading the clef. Like the relative note identification method above, this could be slow or inconsistent, but if one regularly transposes, this could be used.
+- Relative note identifications - Some students remember one important note for each clef and then visually "count" through the alphabet upward or downward to find pitches in unfamiliar clefs. For example, you could memorize where C sits in each clef and count steps (letter names), or you could expand that concept to memorize how thirds are stacked to move around more quickly. While this is a reasonable method for familiarizing yourself with clefs, it will ultimately be too slow and inconsistent to be practical.
+- The final suggestion was to determine the visual relationship of your weaker clefs to your strongest clef, and then use this to read in the new clef. 
+    - For example, if you are primarily comfortable in treble-clef, you could remember that alto-clef moves all of the pitches down by a step relative to treble clef. (This ignores octave displacement, of course.) In this case, if you read alto clef as a treble clef but *up* a step, this compensates and gives you a quick visual method for reading the clef. 
+        - To demonstrate this method: if a note head is on the line where B would be in treble clef, you could "translate" that pitch into alto clef by moving up a step (or letter name) to find that it is C. 
+    - You would then need to find the visual relationships for each clef, because each will have a different visual distance and direction compared to your primary clef.
+    - Like the relative note identification method above, this could be slow and inconsistent, but if one regularly transposes, this could be used effectively.
