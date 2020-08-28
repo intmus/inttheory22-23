@@ -28,7 +28,7 @@ In the examples below:
 - the treble and alto clefs are in unison
 - the tenor and bass clefs are in unison 
 - the treble/alto clefs are separated from the the tenor/bass clefs by one octave
-- middle C rests on the first ledgeer line below the treble clef staff
+- middle C rests on the first ledger line below the treble clef staff
 
 Knowing this, use these examples to find:
 - the order of pitch names for each clef's lines and spaces.
