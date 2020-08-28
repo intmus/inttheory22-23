@@ -6,13 +6,7 @@ abc: true
 
 ## Class Discussion
 
-**Why are there only seven letters?**
-
-Like most systems of Western music, this was established by the Catholic church. The church liked modes, which were made up of 7 notes (plus the octave). This later became the system we use today.
-
-**What do the various C4 locations tell us about clefs?**
-
-Clefs are based on range, and a change in clef eliminates ledger lines.
+TBD
 
 ## Further Reading
 
