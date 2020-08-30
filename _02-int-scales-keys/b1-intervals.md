@@ -25,9 +25,9 @@ In the example below, each interval represents the concept stated at the beginni
 
 - _**Qualities**_: P = perfect, M = major, m = minor, A = augmented, d = diminished
 - _**Diatonic** intervals in the examples below_
-  - Major 3rd from the harmonic intervals
+  - Perfect unison(1) and major 3rd from the harmonic intervals
   - Major 2nd from the melodic intervals
-  - Major 6th from simple intervals
+  - Perfect unison(1) and major 6th from simple intervals
   - Perfect 15th and major 10th from the compound intervals
   - Minor 6th from the inversion pairs
 - _**Chromatic** intervals in the examples below_
@@ -39,25 +39,25 @@ M:1/4
 L:1/4
 K:C
 V:1 name=Harmonic
-[_BA]| [ce]| [_e_B]| [D_A]| [^dF]| [CB]| [^f^F]||
-w: m2 M3 P4 d5 A6 M7 P8
+[AA]| [_BA]| [ce]| [_e_B]| [D_A]| [^dF]| [CB]| [^f^F]||
+w: P1 m2 M3 P4 d5 A6 M7 P8
 V:2 name=Melodic
-B/2A/2| c/2^e/2| e/2_B/2| _D/2_A/2| F/2_d/2| ^C/2B/2| f/2^F/2||
-w:M2 _ A3 _ A4 _ P5 _ m6 _ m7 _ d8 
+B/2_B/2| B/2A/2| c/2^e/2| e/2_B/2| _D/2_A/2| F/2_d/2| ^C/2B/2| f/2^F/2||
+w:A1 _ M2 _ A3 _ A4 _ P5 _ m6 _ m7 _ d8 
 V:3 name=Simple
-[_B^A]| [^c_e]| [_eB]| D/2^A/2| d/2F/2| [C__B]| [^fF]||
-w: d2 d3 d4 A5 _ M6 _ d7 A8
+[CC]| [_B^A]| [^c_e]| [_eB]| D/2^A/2| d/2F/2| [C__B]| [^fF]||
+w: P1 d2 d3 d4 A5 _ M6 _ d7 A8
 V:4 name=Compound clef=bass
-[^B,A,,]| [C,_E]| [_E_B,,]| _A,/2_D,,/2| F,,/2_D/2| ^B,/2C,,/2| [FF,,]||
-w:A9 m10 P11 P12 _ m13 _ A14 _ P15||
+[D,_D]| [^B,A,,]| [C,_E]| [_E_B,,]| _A,/2_D,,/2| F,,/2_D/2| ^B,/2C,,/2| [FF,,]||
+w:d8 A9 m10 P11 P12 _ m13 _ A14 _ P15||
 V:5 name=Inversions
-[_B,A]| [cE]| [_E_B]| [d_A]| [_df]| [Bc]| [^f^F]||
-w: M7 m6 P5 A4 M3 m2 P8{% endcapture %}
+[F^f]| [_B,A]| [cE]| [_E_B]| [d_A]| [_df]| [Bc]| [^f^f]||
+w: A8 M7 m6 P5 A4 M3 m2 P1{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 ## Conclusions
 
-Our goal when measuring intervals is intrinsically tied to the tonal system that we use, diatonic harmony. The simplest way to measure the distance between two intervals would be to measure the distance by the shortest possible interval--in this case, a half-step (minor second). While easily understandable, this method does not relate to our concept of tonality. Instead, counting half-steps creates *interval-classes* in which intervals are considered equal regardless of the pitches. For example, the interval of `G` to `D-flat` has six half-steps which is identical to the interval from `G` to `C-sharp`. Both even use the same pitch-classes, however, any person familiar with diatonic harmony will immediately associate these two intervals with different key centers. (`G` to `D-flat` is strongly associated with the key of A-flat major/minor, whereas `C-sharp` to `G` likely implies D major/minor.) The context of these two intervals is critical in determining their function in tonal harmony, so we must use a system that differentiates between the two.
+Our goal when measuring intervals is intrinsically tied to the tonal system that we use, diatonic harmony. The simplest way to measure the distance between two intervals would be to measure the distance by the shortest possible interval--in this case, a half-step (minor second). While easily understandable, this method does not relate to our concept of tonality. Instead, counting half-steps creates *interval-classes* in which intervals are considered equal regardless of the pitches. For example, the interval of `G` to `D-flat` has six half-steps which is identical to the interval from `G` to `C-sharp`. Both even use the same pitch-classes, however, if you put those into the context of the scales from the previous unit, you will hopefully associate these two intervals with different key centers. (`G` to `D-flat` is strongly associated with the key of A-flat major/minor, whereas `C-sharp` to `G` likely implies D major/minor.) The context of these two intervals is critical in determining their function in tonal harmony, so we use a system that differentiates between the two.
 
 In a diatonic labeling system, every interval has a *size* and a *quality*. 
 

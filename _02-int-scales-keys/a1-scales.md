@@ -8,13 +8,13 @@ In this course, we will be studying many styles of music, but all of these will 
 
 ## Scales
 
-In unit 1, we defined moveable-do solfege as a way for us to look at the relationships between a group of pitches as organized around a central pitch. In doing so, we created a *scale*, even though we didn't define it as such. Whenever you group any number of pitches, you create a *collection*. However, when you order a collection by the frequency of each pitch, you create a scale. So a scale is a collection of pitches that create a fixed intervallic pattern when organized in an ascending or descending form. A scale can encompass any tuning system or style of composition.
+In unit 1, we defined moveable-do solfege as a way for us to look at the relationships between a group of pitches that are organized around a central pitch. In doing so, we created a *scale*, even though we didn't define it as such. Whenever you group any number of pitches, you create a *collection*. However, when you order a collection by the frequency of each pitch--more simply put, how high or low the pitches are--you create a scale. So a scale is a collection of pitches that are organized in an ascending or descending form, thereby creating a fixed intervallic pattern. A scale can encompass any tuning system or style of composition.
 
-We will explore some extended scales later in this course, but certain scales are at the core of all common practice harmony, and as a music student, you are likely already familiar with these: *major, minor, modes, pentatonic, and chromatic*.
+We will explore some extended scales later in this course, but certain scales are at the core of all common practice harmony, and as a music student, you are likely already familiar with these: *major, minor, modal, pentatonic, and chromatic*.
 
 ### Goals for this topic:
 
-Using the examples below, create definitions and/or simple explanations for:
+As you look through all of the examples below, create definitions and/or simple explanations for:
 - the intervallic pattern of the *major* scale and all forms of *minor* scales
     - why *natural, melodic,* and *harmonic* minors are named as they are
 - how *modes* relate to the major and minor scales
