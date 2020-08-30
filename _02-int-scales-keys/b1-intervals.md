@@ -1,10 +1,10 @@
 ---
 layout: chapter
-title: Lesson 2a - Identifying and Labeling Intervals
+title: Lesson 2b - Identifying and Labeling Intervals
 abc: true
 ---
 
-Now that we have formalized our notation at the fundamental level of music notation--a single pitch--we need a method to measure the distance between two pitches. 
+To this point, we have discussed formal labeling systems for a single pitch, as well as how we can combine these pitches to create scales. Our next step up the ladder of complexity will be develop a method to measure the distance between any two pitches, and we do this in Western music notation by looking at the distance between two pitches changes in function when in a scale. 
 
 ## **Intervals**
 
@@ -14,7 +14,7 @@ Any two-note combination is called a *dyad*, and the distance between the two pi
 
 In the example below, each interval represents the concept stated at the beginning of its staff, but each measure *also* has an important intervallic relationship to the measures above and below it. Using these, develop explanations for how we find each of the following:
 - the *size* of the interval between two pitches as represented by an Arabic numeral
-- the *quality* of the interval as represented by the labels *perfect, major, minor, diminshed, and augmented*
+- the *quality* of the interval as represented by the labels *perfect, major, minor, diminished, and augmented*
 - which *sizes* can use which *qualities* as well as the hierarchy of *qualities* for each *size*
 - *chromatic* versus *diatonic* intervals
 - *simple* versus *compound* intervals and how this affects classifying of *quality* and *size*

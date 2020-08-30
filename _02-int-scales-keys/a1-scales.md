@@ -1,32 +1,31 @@
 ---
 layout: chapter
-title: Lesson 2b - Scales and Scale Degrees - Diatonic, Pentatonic, and Chromatic
+title: Lesson 2a - Scales and Scale Degrees - Diatonic, Pentatonic, and Chromatic
 abc: true
 ---
-
-<!--  MUST ADD MODES BEFORE NEXT YEAR IN ORDER TO PREPARE MODE MIXTURE -->
 
 In this course, we will be studying many styles of music, but all of these will have roots in the harmonic and melodic practices of the common practice period. The common practice period is generally considered to include Western art music from the Renaissance through the Romantic eras, but any music that that grew out of this tradition--including almost all popular music today--can be analyzed using the tools we will study for common practice harmony.
 
 ## Scales
 
-Whereas intervals are the basic building blocks of all music, *scales* represent the next step up the complexity ladder. Whenever you group any number of pitches, you create a *collection*. However, when you order a collection from top to bottom, you create a scale. A scale is a collection of pitches with a defined intervallic pattern when organized in a ascending or descending form--in short, a series of intervals--and can encompass any tuning system or style of composition.
+In unit 1, we defined moveable-do solfege as a way for us to look at the relationships between a group of pitches as organized around a central pitch. In doing so, we created a *scale*, even though we didn't define it as such. Whenever you group any number of pitches, you create a *collection*. However, when you order a collection by the frequency of each pitch, you create a scale. So a scale is a collection of pitches that create a fixed intervallic pattern when organized in an ascending or descending form. A scale can encompass any tuning system or style of composition.
 
-We will explore some extended scales later in this course, but certain scales are at the core of all common practice harmony, and as a music student, you are likely already familiar with these: *major, minor, pentatonic, and chromatic*.
+We will explore some extended scales later in this course, but certain scales are at the core of all common practice harmony, and as a music student, you are likely already familiar with these: *major, minor, modes, pentatonic, and chromatic*.
 
 ### Goals for this topic:
 
 Using the examples below, create definitions and/or simple explanations for:
 - the intervallic pattern of the *major* scale and all forms of *minor* scales
+    - why *natural, melodic,* and *harmonic* minors are named as they are
+- how *modes* relate to the major and minor scales
 - how major and minor *pentatonic* scales relate to the major and minor scales
-- why *natural, melodic,* and *harmonic* minors are named as they are
 - the names for each scale degree (i.e. tonic) as well as the corresponding numeral notation
     - how the names for each scale degree are derived (e.g. How are dominant and subdominant scale degrees related?)
 - the Latin spelling for every solfege
 
 ### Important notes
 
-The following examples demonstrate how the tune of *Happy Birthday* would be written if only using the notes from a particular scale. In all examples, scale degrees are numbered below each pitch as well as solfege using movable "do". Additionally,scale degrees are named above the pitches for the examples in major and melodic minor. When determining your pitch collections, pay particular attention to the differences of the sixth and seventh scale degrees.
+The following examples demonstrate how the tune of *Happy Birthday* would be written if only using the notes from a particular scale. In most examples, scale degrees are numbered below each pitch as well as solfege using movable "do". Additionally, scale degrees are named above the pitches for the examples in major and melodic minor. When determining your pitch collections, pay particular attention to the differences of the sixth and seventh scale degrees.
 
 ### Major
 
@@ -107,9 +106,135 @@ w:^5 ^3 ^1 ^7 ^6 ^4 ^4 ^3 ^1 ^2 ^5 ^#6 ^#7 ^1
 w:sol me do te le fa fa me do re sol la ti do{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-### Major pentatonic
+## Modes
+
+Even though you are likely to be more familiar with the major and minor scales, modal music is a prominent feature of much music, both old and new. As you look through the modes below, compare the intervallic patterns you find to that of the major and minor scales above. Can 
+
+{% capture ex1 %}X: 1
+T:Happy Birthday in G Dorian
+M:3/4
+L:1/4
+Q:1/4=90
+K:F
+D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2|
+d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
+
+{% capture ex2 %}X: 2
+T:Happy Birthday in G Phrygian
+M:3/4
+L:1/4
+Q:1/4=90
+K:Eb
+D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2|
+d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
+
+{% capture ex3 %}X: 3
+T:Happy Birthday in G Lydian
+M:3/4
+L:1/4
+Q:1/4=90
+K:D
+D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2|
+d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
+{% include abc-example.html number="3" abc=ex3 %}
+
+{% capture ex5 %}X: 5
+T:Happy Birthday in G Mixolydian
+M:3/4
+L:1/4
+Q:1/4=90
+K:C
+D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2|
+d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
+{% include abc-example.html number="5" abc=ex5 %}
+
+{% capture ex6 %}X: 6
+T:Happy Birthday in G Aeolian
+M:3/4
+L:1/4
+Q:1/4=90
+K:Bb
+D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2|
+d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
+{% include abc-example.html number="6" abc=ex6 %}
+
+{% capture ex7 %}X: 7
+T:Happy Birthday in G Locrian
+M:3/4
+L:1/4
+Q:1/4=90
+K:Ab
+D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2|
+d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
+{% include abc-example.html number="7" abc=ex7 %}
+
+The next "mode" is not a strict mode in the traditional sense but is used often enough in jazz and commercial music that you should at least be familiar with its construction.  
+
+{% capture ex4 %}X: 4
+T:Happy Birthday in G Lydian Dominant
+M:3/4
+L:1/4
+Q:1/4=90
+K:D
+D/2>D/2| E D G| =F2 D/2>D/2| E D A| G2 D/2>D/2|
+d B G| =F E c/2>c/2| B G A| G2|]{% endcapture %}
+{% include abc-example.html number="4" abc=ex4 %}
+
+
+### Conclusion
+
+Most students consider modes a simple extension of their major scale; i.e. "Phrygian mode is a major scale starting on the third scale degree." This can be a good way to memorize their construction, because each one has the same intervallic pattern and number of pitches. If you can remember the intervals of one scale, you can then use this to construct every related mode. 
+
+Modes from C Ionian | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
+ --- | --- | --- | --- | --- | --- | --- | ---
+ Ionian | C | D | E | F | G | A | B
+ Dorian | D | E | F | G | A | B | C
+ Phyrgian | E | F | G | A | B | C | D
+ Lydian | F | G | A | B | C | D | E
+ Mixolydian | G | A | B | C | D | E | F
+ Aeolian | A | B | C | D | E | F | G
+ Locrian | B | C | D | E | F | G | A
+ Lydian Dominant | F | G | A | B | C | D | Eb
+
+Of course, there are other ways to memorize these. The most obvious is to memorize the intervallic pattern from the tonic note. The table below shows the intervals necessary to reach the next scale degree of each mode.
+
+Intervallic patterns of modes | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
+ --- | --- | --- | --- | --- | --- | --- | ---
+ Ionian | W | W | H | W | W | W | H
+ Dorian | W | H | W | W | W | H | W
+ Phyrgian | H | W | W | W | H | W | W
+ Lydian | W | W | W | H | W | W | H
+ Mixolydian | W | W | H | W | W | H | W
+ Aeolian | W | H | W | W | H | W | W
+ Locrian | H | W | W | H | W | W | W
+ Lydian Dominant | W | W | W | H | W | H | W
+
+And finally, some prefer to remember the scale degrees as how they relate to a major scale:
+
+Modes as related to Ionian (major) scale degrees | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
+ --- | --- | --- | --- | --- | --- | --- | ---
+ Ionian | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
+ Dorian | ^1 | ^2 | ^b3 | ^4 | ^5 | ^6 | ^b7
+ Phyrgian | ^1 | ^b2 | ^b3 | ^4 | ^5 | ^b6 | ^b7
+ Lydian | ^1 | ^2 | ^3 | ^#4 | ^5 | ^6 | ^7
+ Mixolydian | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^b7
+ Aeolian | ^1 | ^2 | ^b3 | ^4 | ^5 | ^b6 | ^b7
+ Locrian | ^1 | ^b2 | ^b3 | ^4 | ^b5 | ^b6 | ^b7
+ Lydian Dominant | ^1 | ^2 | ^3 | ^#4 | ^5 | ^6 | ^b7
+
+Yet understanding construction does nothing to further your understanding of their function. We often associate modes with early music, but modal music is still common in many types of modern music, including jazz, classical, and pop. Using modes allows composers to create a range of colors, through a variety of techniques. For example, one popular theory ranks the modes from "bright" to "dark" based on the number of raised or lowered pitches in the mode. If you apply this logic to the previous table, you can see that Lydian and Ionian would be the "brightest" modes because they have the most raised pitches, whereas Phrygian and Locrian would be the darkest modes because they have the most lowered pitches respectively.
+
+Our "non-mode"--the Lydian Dominant scale--shares the altered pitches from both the Lydian and Mixolydian modes, so it cannot be derived in the same manner as the other modes. It is, however, useful in improvising over dominant seventh chords and has the unusual characteristic of acting as a hybrid of the whole tone and octatonic scales. After you read more about these two new scales below, return to the Lydian Dominant scale to see if you can determine *why* we consider it a hybrid of a whole tone and octatonic collections.
+
+You should spend time exploring each of these modes to learn why one pitch can sound "tonicized" without a traditional dominant to tonic relationship. With very few exceptions, every piece of music contains a harmonic method for creating tension and release, and music written in these modes is no different. When listening to all of the versions of *Happy Birthday* above, you probably disliked the first time a mode landed on `te`, but after listening to multiple examples using `te`, it becomes normalized and can be heard as a weaker--but still functional--counterpart to `do`. Discovering how each mode creates tension and release is paramount to understanding modal usage, and will help you create a framework for any scale--including those below.
+
+## Basic pentatonic scales
 
 This is more of a teaching example rather than an actual modal shift, because the major scale and major pentatonic scales do not share the same type of relationship that the major and minor scales have. Certain scale degrees do not exist in the pentatonic scale, so it requires some "artistic license" to translate any tune that utilizes all seven scale degrees.
+
+### Major pentatonic
 
 {% capture ex5 %}X:5
 %%staffsep 75%
@@ -145,7 +270,7 @@ w:^5 ^4 ^3 ^1 ^7 ^4 ^4 ^3 ^1 ^7 ^1
 w:sol fa me do te fa fa me do te do{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
-### Chromatic scale
+## Chromatic scale
 
 This final example is a heavily ornamented version of *Happy Birthday* that demonstrates every possible solfege as well as the correct resolution for all chromatic tones. This arrangement is still technically in G major, because strictly speaking, the chromatic scale is a collection of pitches and does not necessarily center around one tone. (Note that because ABC notation has no way to represent scale degrees, I was forced to omit the `^` that would normally appear above each scale degree and to use a `b` to represent a flat and a `#` to represent a sharp. Please forgive the misuses.)
 
