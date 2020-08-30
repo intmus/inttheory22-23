@@ -3,7 +3,6 @@ layout: chapter
 title: Lesson 2b - Scales and Scale Degrees - Diatonic, Pentatonic, and Chromatic
 abc: true
 ---
-Hello everyone. This is great.
 
 <!--  MUST ADD MODES BEFORE NEXT YEAR IN ORDER TO PREPARE MODE MIXTURE -->
 
