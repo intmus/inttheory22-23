@@ -201,7 +201,7 @@ d B G| =F E c/2>c/2| B G A| G2|]{% endcapture %}
 
 ### Conclusion
 
-Most students consider modes a simple extension of their major scale; i.e. "Phrygian mode is a major scale starting on the third scale degree." This can be a good way to memorize their construction, because each one has the same intervallic pattern and number of pitches. If you can remember the intervals of one scale, you can then use this to construct every related mode. 
+Most students consider modes a simple extension of their major scale--i.e. "Phrygian mode is a major scale starting on the third scale degree"--even though the primary six modes (Ionian through Aeolian) predate the major scale. Relating the modes to the major scale is a good way to memorize their construction, because most students are already familiar with their major scales. Eventually, you should strive to be able to recall each mode as its own entity, so that you can begin hearing the intracacies of how the mode functions musically, rather than hearing it as an offshoot of the major scale. 
 
 Modes from C Ionian | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
  --- | --- | --- | --- | --- | --- | --- | ---
@@ -227,7 +227,7 @@ Intervallic patterns of modes | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
  Locrian | H | W | W | H | W | W | W
  Lydian Dominant | W | W | W | H | W | H | W
 
-And finally, some prefer to remember the scale degrees as how they relate to a major scale:
+You may prefer to remember the relationship of *scale degrees* to the Ionian mode--much as you derive the minor scale through raising and lowering pitches--rather than relating the entirety of the scale to its Ionian mode.
 
 Modes as related to Ionian (major) scale degrees | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
  --- | --- | --- | --- | --- | --- | --- | ---
@@ -240,9 +240,9 @@ Modes as related to Ionian (major) scale degrees | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 |
  Locrian | ^1 | ^b2 | ^b3 | ^4 | ^b5 | ^b6 | ^b7
  Lydian Dominant | ^1 | ^2 | ^3 | ^#4 | ^5 | ^6 | ^b7
 
-Yet understanding construction does nothing to further your understanding of their function. We often associate modes with early music, but modal music is still common in many types of modern music, including jazz, classical, and pop. Using modes allows composers to create a range of colors, through a variety of techniques. For example, one popular theory ranks the modes from "bright" to "dark" based on the number of raised or lowered pitches in the mode. If you apply this logic to the previous table, you can see that Lydian and Ionian would be the "brightest" modes because they have the most raised pitches, whereas Phrygian and Locrian would be the darkest modes because they have the most lowered pitches respectively.
+Yet understanding construction does nothing to further your understanding of their function. We often associate modes with early music, but as mentioned above, modal music is still common in many types of modern music. Using modes allows composers to create a range of colors, through a variety of techniques. For example, one popular theory ranks the modes from "light" to "dark" based on the number of raised or lowered pitches in the mode. If you apply this logic to the previous table, you can see that Lydian and Ionian would be the "brightest" modes because they have the most raised pitches, whereas Phrygian and Locrian would be the darkest modes because they have the most lowered pitches respectively.
 
-Our "non-mode"--the Lydian Dominant scale--shares the altered pitches from both the Lydian and Mixolydian modes, so it cannot be derived in the same manner as the other modes. It is, however, useful in improvising over dominant seventh chords and has the unusual characteristic of acting as a hybrid of the whole tone and octatonic scales. After you read more about these two new scales below, return to the Lydian Dominant scale to see if you can determine *why* we consider it a hybrid of a whole tone and octatonic collections.
+Our "non-mode"--the Lydian Dominant scale--shares the altered pitches from both the Lydian and Mixolydian modes, so it cannot be derived in the same manner as the other modes. It is, however, useful in improvising over dominant seventh chords and has the unusual characteristic of acting as a hybrid of the whole tone and octatonic scales, two non-diatonic scales that we will discuss in Unit 22. After you read more about those two scales at a later date, return to the Lydian Dominant scale to see if you can determine *why* we consider it a hybrid of a whole tone and octatonic collections.
 
 You should spend time exploring each of these modes to learn why one pitch can sound "tonicized" without a traditional dominant to tonic relationship. With very few exceptions, every piece of music contains a harmonic method for creating tension and release, and music written in these modes is no different. When listening to all of the versions of *Happy Birthday* above, you probably disliked the first time a mode landed on `te`, but after listening to multiple examples using `te`, it becomes normalized and can be heard as a weaker--but still functional--counterpart to `do`. Discovering how each mode creates tension and release is paramount to understanding modal usage, and will help you create a framework for any scale--including those below.
 
