@@ -8,20 +8,22 @@ In this course, we will be studying many styles of music, but all of these will 
 
 ## Scales
 
-In unit 1, we defined moveable-do solfege as a way for us to look at the relationships between a group of pitches that are organized around a central pitch. In doing so, we created a *scale*, even though we didn't define it as such. Whenever you group any number of pitches, you create a *collection*. However, when you order a collection by the frequency of each pitch--more simply put, how high or low the pitches are--you create a scale. So a scale is a collection of pitches that are organized in an ascending or descending form, thereby creating a fixed intervallic pattern. A scale can encompass any tuning system or style of composition.
+In unit 1, we defined moveable-do solfege as a way for us to look at the relationships between a group of pitches that are organized around a central pitch. In doing so, we created a *scale*, even though we didn't define it as such. Whenever you group any number of pitches, you create a *collection*. However, when you order a collection by the frequency of each pitch--or simply put, how high or low the pitches are--you create a scale. So a scale is a collection of pitches that are organized in an ascending or descending form, thereby creating a fixed intervallic pattern. A scale can encompass any tuning system or style of composition.
 
 We will explore some extended scales later in this course, but certain scales are at the core of all common practice harmony, and as a music student, you are likely already familiar with these: *major, minor, modal, pentatonic, and chromatic*.
 
 ### Goals for this topic:
 
-As you look through all of the examples below, create definitions and/or simple explanations for:
-- the intervallic pattern of the *major* scale and all forms of *minor* scales
-    - why *natural, melodic,* and *harmonic* minors are named as they are
-- how *modes* relate to the major and minor scales
-- how major and minor *pentatonic* scales relate to the major and minor scales
-- the names for each scale degree (i.e. tonic) as well as the corresponding numeral notation
+As you listen through all of the examples below, you should:
+- describe the pattern that determines the pitches in the *major* scale and all forms of *minor* scales regardless of starting pitch
+    - You can think of this question as how to describe the scale without using note names or solfege.
+- figure out why *natural, melodic,* and *harmonic* minors are named as they are
+- be able to describe how *modes* relate to the major and minor scales (or vice versa)
+- describe which modes seem "light" and "dark" and what seems to create this phenomenon
+- discuss how major and minor *pentatonic* scales relate to the major and minor scales
+- memorize the names for each scale degree (i.e. tonic) as well as the corresponding numeral notation
     - how the names for each scale degree are derived (e.g. How are dominant and subdominant scale degrees related?)
-- the Latin spelling for every solfege
+- incorporate the Latin spelling for every solfege
 
 ### Important notes
 
@@ -108,7 +110,21 @@ w:sol me do te le fa fa me do re sol la ti do{% endcapture %}
 
 ## Modes
 
-Even though you are likely to be more familiar with the major and minor scales, modal music is widely used, in music both old and new. Because we have yet to discuss tonality as a concept, you do not need to worry too much about the difference between modal and diatonic (i.e. major and minor) music yet. So as you look through the modes below, simply compare the intervallic patterns you find to that of the major and minor scales above. We will discuss their usage more as we begin to explore musical function and harmony in later chapters. 
+The next eight scales are all modal scales, and the first six of these modes actually pre-date the major and minor scales. Even though you are likely more familiar with major and minor scales to this point in your musical education, modes are commonly used in all types of Western music, including classical, jazz, pop, movie soundtracks, and folk music. 
+
+As you listen to Happy Birthday played in each mode, take note of the basic structure of each mode and compare how they are related to the major and minor scales. Each mode can be "ranked" on a scale from the darkest to lightest sound, so on your first listen, take note of which sound dark and light to you. (Remember that this describing a scale as light or dark is a somewhat subjective concept, so take your ranking with a grain of salt.) Once you have them grouped in to dark and light modes, see if you can figure out what each group has in common. Does their seem to be a pattern of notes that pushes a mode toward the extremes of your rankings?
+
+Because we have yet to discuss tonality as a concept, you do not need to worry too much about the difference between modal and diatonic (i.e. major and minor) music yet. So as you listen to the modes below, simply compare the intervallic patterns and solfege to that of the major and minor scales above. We will discuss their usage more as we begin to explore musical function and harmony in later chapters. 
+
+{% capture ex19 %}X: 19
+T:Happy Birthday in G Ionian
+M:3/4
+L:1/4
+Q:1/4=90
+K:G
+D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2|
+d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
+{% include abc-example.html number="19" abc=ex19 %}
 
 {% capture ex11 %}X: 11
 T:Happy Birthday in G Dorian
