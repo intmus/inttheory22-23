@@ -108,7 +108,7 @@ w:sol me do te le fa fa me do re sol la ti do{% endcapture %}
 
 ## Modes
 
-Even though you are likely to be more familiar with the major and minor scales, modal music is a prominent feature of much music, both old and new. As you look through the modes below, compare the intervallic patterns you find to that of the major and minor scales above. Can 
+Even though you are likely to be more familiar with the major and minor scales, modal music is widely used, in music both old and new. Because we have yet to discuss tonality as a concept, you do not need to worry too much about the difference between modal and diatonic (i.e. major and minor) music yet. So as you look through the modes below, simply compare the intervallic patterns you find to that of the major and minor scales above. We will discuss their usage more as we begin to explore musical function and harmony in later chapters. 
 
 {% capture ex11 %}X: 11
 T:Happy Birthday in G Dorian
