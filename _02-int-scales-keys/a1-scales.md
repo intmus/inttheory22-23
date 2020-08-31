@@ -110,7 +110,7 @@ w:sol me do te le fa fa me do re sol la ti do{% endcapture %}
 
 Even though you are likely to be more familiar with the major and minor scales, modal music is a prominent feature of much music, both old and new. As you look through the modes below, compare the intervallic patterns you find to that of the major and minor scales above. Can 
 
-{% capture ex1 %}X: 1
+{% capture ex11 %}X: 11
 T:Happy Birthday in G Dorian
 M:3/4
 L:1/4
@@ -118,9 +118,9 @@ Q:1/4=90
 K:F
 D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2|
 d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
-{% include abc-example.html number="1" abc=ex1 %}
+{% include abc-example.html number="11" abc=ex11 %}
 
-{% capture ex2 %}X: 2
+{% capture ex12 %}X: 12
 T:Happy Birthday in G Phrygian
 M:3/4
 L:1/4
@@ -128,9 +128,9 @@ Q:1/4=90
 K:Eb
 D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2|
 d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
-{% include abc-example.html number="2" abc=ex2 %}
+{% include abc-example.html number="12" abc=ex12 %}
 
-{% capture ex3 %}X: 3
+{% capture ex13 %}X: 13
 T:Happy Birthday in G Lydian
 M:3/4
 L:1/4
@@ -138,9 +138,9 @@ Q:1/4=90
 K:D
 D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2|
 d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
-{% include abc-example.html number="3" abc=ex3 %}
+{% include abc-example.html number="13" abc=ex13 %}
 
-{% capture ex5 %}X: 5
+{% capture ex15 %}X: 15
 T:Happy Birthday in G Mixolydian
 M:3/4
 L:1/4
@@ -148,9 +148,9 @@ Q:1/4=90
 K:C
 D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2|
 d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
-{% include abc-example.html number="5" abc=ex5 %}
+{% include abc-example.html number="15" abc=ex15 %}
 
-{% capture ex6 %}X: 6
+{% capture ex16 %}X: 16
 T:Happy Birthday in G Aeolian
 M:3/4
 L:1/4
@@ -158,9 +158,9 @@ Q:1/4=90
 K:Bb
 D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2|
 d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
-{% include abc-example.html number="6" abc=ex6 %}
+{% include abc-example.html number="16" abc=ex16 %}
 
-{% capture ex7 %}X: 7
+{% capture ex17 %}X: 17
 T:Happy Birthday in G Locrian
 M:3/4
 L:1/4
@@ -168,11 +168,11 @@ Q:1/4=90
 K:Ab
 D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2|
 d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
-{% include abc-example.html number="7" abc=ex7 %}
+{% include abc-example.html number="17" abc=ex17 %}
 
 The next "mode" is not a strict mode in the traditional sense but is used often enough in jazz and commercial music that you should at least be familiar with its construction.  
 
-{% capture ex4 %}X: 4
+{% capture ex18 %}X: 18
 T:Happy Birthday in G Lydian Dominant
 M:3/4
 L:1/4
@@ -180,7 +180,7 @@ Q:1/4=90
 K:D
 D/2>D/2| E D G| =F2 D/2>D/2| E D A| G2 D/2>D/2|
 d B G| =F E c/2>c/2| B G A| G2|]{% endcapture %}
-{% include abc-example.html number="4" abc=ex4 %}
+{% include abc-example.html number="18" abc=ex18 %}
 
 
 ### Conclusion
