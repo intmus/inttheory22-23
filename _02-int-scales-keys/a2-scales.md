@@ -6,7 +6,20 @@ abc: true
 
 ## Class discussion
 
-TBD
+**Pentatonic Scales Tricks**
+
+-Take out the tri-tone notes (Degree 4 and 7) from the major scale for major pentatonic.
+
+-Minor pentatonic can be remembered as taking out scale degree 2 and 6.
+
+-Major and Minor are the same pitches, but just organized in a different order (different starting point). They are modes of each other.
+
+**Bobby McFerrin Video**
+
+He could demonstrate that the pentatonic scale can be used independently and easily taught. 
+
+Even though it is missing the two notes that we considered important scale degrees, if can still be expressive and interesting (and it is in our bones). 
+
 
 ##Further Reading
 
