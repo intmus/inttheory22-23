@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Discussion 2a - Scales and Scale Degrees - Diatonic, Pentatonic, and Chromatic
+title: Discussion 2a - Diatonic Scales and Scale Degrees
 abc: true
 ---
 
