@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Discussion 2b - Identifying and Labeling Intervals
+title: Discussion 2c - Identifying and Labeling Intervals
 ---
 
 ## Class Discussion

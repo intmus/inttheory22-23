@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Discussion 2c - Key Signatures
+title: Discussion 2d - Key Signatures
 abc: true
 ---
 

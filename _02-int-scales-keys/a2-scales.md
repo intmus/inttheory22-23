@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Discussion 2a - Diatonic Scales and Scale Degrees
+title: Discussion 2a - Diatonic Scales
 abc: true
 ---
 
@@ -21,17 +21,11 @@ He could demonstrate that the pentatonic scale can be used independently and eas
 Even though it is missing the two notes that we considered important scale degrees, if can still be expressive and interesting (and it is in our bones). 
 
 
-##Further Reading
+# Further Reading
 
 ## From *Open Music Theory*
 
 A scale is a succession of pitches ascending or descending in steps. There are two types of steps: *half steps* and *whole steps*. A half step (H) consists of two adjacent pitches on the keyboard. A whole step (W) consists of two half steps. Usually, the pitches in a scale are each notated with different letter names, though this isn't always possible or desirable. 
-
-### The Chromatic Scale ###
-
-The chromatic scale consists entirely of half steps, and uses every pitch on the keyboard within a single octave. Here is the chromatic scale that spans the pitches C4 through C5.
-
-![The chromatic scale][chromaticscale]
 
 ### The major scale ###
 
@@ -73,6 +67,5 @@ When descending, the *melodic minor* scale uses the "natural" *te* and *le*.
 
 Truth be told, most composers don't really think about three different "forms" of the minor scale. The *harmonic minor* scale simply represents composers' tendency to use *ti* when building harmonies that include the seventh scale degree in the minor mode. Likewise, the *melodic minor* scale is derived from composers' desire to avoid the melodic augmented second interval (more on this in the [intervals](intervals.html) section) between *le* and *ti* (and some chose not to avoid this!). In reality, there is only one "version" of the minor scale. Context determines when a composer might use *la* and *ti* when writing music in a minor key. 
 
-[chromaticscale]: {{ site.baseurl }}/images/chromaticscale.png
 [majorscale]: {{ site.baseurl }}/images/majorscale.png
 [minorscale]: {{ site.baseurl }}/images/minorscale.png

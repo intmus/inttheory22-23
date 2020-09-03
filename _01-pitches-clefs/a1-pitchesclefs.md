@@ -12,12 +12,13 @@ You're welcome! And if it doesn't work, just have Evan fix it like you always do
 
 ### A Starting Place
 
-By the time musicians begin formally exploring music theory, they likely are familiar with basic music notation--treble and bass clefs, staves, ledger lines, and accidentals--due to time spent performing. If you are uncomfortable with any of aspect of these concepts, you can review by reading the explanations under the *Further Reading* section of [Discussion 1a]({{ site.baseurl }}/01-pitches-clefs/a2-pitchesclefs.html). 
+In this course, we will be studying many styles of music, but all of these will have roots in the harmonic and melodic practices of the common practice period. The common practice period is generally considered to include Western art music from the Renaissance through the Romantic eras, but any music that that grew out of this tradition--including almost all popular music today--can be analyzed using the tools we will study for common practice harmony.
+
+By the time musicians begin formally exploring music theory, they likely are familiar with basic music notation--treble and bass clefs, staves, ledger lines, and accidentals--due to time spent performing. If you are uncomfortable with any of aspect of these concepts, you can review by reading the explanations under the *Further Reading* section of [Discussion 1a]({{ site.baseurl }}/01-pitches-clefs/a2-pitchesclefs.html).
 
 ## Clefs
 
 Even though most college music students are familiar with reading music, most are partial to the clef associated with their primary instrument or voice-part. It is vital that musicians be fluent in not only the two most common clefs--treble and bass--but also with two additional clefs: alto clef and tenor clef. Alto and tenor clefs are often used by instruments such as viola, cello, trombone, and bassoon. They alleviate the use of ledger lines in the extreme registers of an instrument and appear regularly in even the most elementary music.
-
 
 ### Exploring clefs
 

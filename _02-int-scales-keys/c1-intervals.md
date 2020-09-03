@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 2b - Identifying and Labeling Intervals
+title: Lesson 2c - Identifying and Labeling Intervals
 abc: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 2c - Key Signatures
+title: Lesson 2d - Key Signatures
 abc: true
 ---
 
