@@ -4,11 +4,11 @@ title: Lesson 2d - Key Signatures
 abc: true
 ---
 
-As discussed in the previous topic, scales represent a pitch collection, centered around a tonic pitch. Because we can transpose these pitch collections to center around any pitch-class, we create twelve unique pitch centers--called *keys*--and even more if we include enharmonic equivalents. Because writing accidentals for many of these keys would be clunky and difficult to read, we use a system of key signatures to give the performer a simple way of knowing which pitches in the key are raised and lowered.
+As discussed in the previous topics, scales represent a pitch collection, centered around a tonic pitch. Because we can transpose these pitch collections to center around any pitch-class, we create twelve unique pitch centers--called *keys*--and even more if we include enharmonic equivalents. Because writing accidentals for many of these keys would be clunky and difficult to read, we use a system of key signatures to give the performer a simple way of knowing which pitches in the key are raised and lowered.
 
 ## Key signatures
 
-The structure of key signatures relates to the very nature of diatonic harmony. This music is built around perfect intervals, although as we will see below, introducing one non-perfect interval to a series of perfect intervals can create the major scale and consequently diatonic tonality. Because of this non-perfect interval, key signatures follow a very simple pattern that can be reversed whether you are raising or lowering pitches.
+Diatonic music is built around perfect intervals, although as we will see below, introducing one non-perfect interval to a series of perfect intervals creates the major scale and consequently diatonic tonality. Because of this non-perfect interval, key signatures follow a very simple pattern that can be reversed whether you are raising or lowering pitches.
 
 ### Goals for this topic
 

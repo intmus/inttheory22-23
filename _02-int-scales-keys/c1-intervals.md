@@ -6,7 +6,7 @@ abc: true
 
 To this point, we have discussed formal labeling systems for a single pitch, as well as how we can combine these pitches to create scales. Our next step up the ladder of complexity will be develop a method to measure the distance between any two pitches, and we do this in Western music notation by looking at the distance between two pitches changes in function when in a scale. 
 
-## **Intervals**
+## Intervals
 
 Any two-note combination is called a *dyad*, and the distance between the two pitches of a dyad is an *interval*. Intervals are the fundamental building blocks of melody and harmony. At their simplest, intervals need only measure the distance between two pitches, but there are many variables in music for which we must account.
 
@@ -20,7 +20,6 @@ In the example below, each interval represents the concept stated at the beginni
 - *simple* versus *compound* intervals and how this affects classifying of *quality* and *size*
 - how the *size* and *quality* change when the upper and lower pitches of an interval are inverted
 
-<!-- Alter the musical examples below to consider the boundary of whether a unison is the simple interval and an octave a compound interval. Also, inversion of P8 is not a P8 in the inversion line. -->
 ### Important concepts
 
 - _**Qualities**_: P = perfect, M = major, m = minor, A = augmented, d = diminished
@@ -59,9 +58,7 @@ w: A8 M7 m6 P5 A4 M3 m2 P1{% endcapture %}
 
 Our goal when measuring intervals is intrinsically tied to the tonal system that we use, diatonic harmony. The simplest way to measure the distance between two intervals would be to measure the distance by the shortest possible interval--in this case, a half-step (minor second). While easily understandable, this method does not relate to our concept of tonality. Instead, counting half-steps creates *interval-classes* in which intervals are considered equal regardless of the pitches. For example, the interval of `G` to `D-flat` has six half-steps which is identical to the interval from `G` to `C-sharp`. Both even use the same pitch-classes, however, if you put those into the context of the scales from the previous unit, you will hopefully associate these two intervals with different key centers. (`G` to `D-flat` is strongly associated with the key of A-flat major/minor, whereas `C-sharp` to `G` likely implies D major/minor.) The context of these two intervals is critical in determining their function in tonal harmony, so we use a system that differentiates between the two.
 
-In a diatonic labeling system, every interval has a *size* and a *quality*. 
-
-For example, in a minor second, labeled `m2`, the **m** indicates the *quality* of the interval and the **2** indicates the *size* of the interval.
+In a diatonic labeling system, every interval has a *size* and a *quality*. For example, in a minor second, labeled `m2`, the **m** indicates the *quality* of the interval and the **2** indicates the *size* of the interval. Let's look at how we find *size* first.
 
 ### Interval size
 
@@ -75,11 +72,9 @@ This means that any interval that has the same two letters, regardless of accide
 
 ### Interval quality
 
-- It is easiest to understand *qualities* of intervals by comparing them to the major scale. If you are completely unfamiliar with scales, you may want to skip one topic ahead to [scales]({{ site.baseurl }}/02-int-scales-keys/b1-scales.html), and then return to this after beginning to understand the construction of the major scale. Or, for a method that does not rely on knowledge of major scales, you can also go to the [Further Reading]({{ site.baseurl }}/02-int-scales-keys/a2-intervals.html) of this topic to find a useful method from the writers of *Open Music Theory*.
+In the Western music notation system, interval *quality* is difficult to examine without beginning to think about our concept of tonality and keys, because it is designed to describe tonal intervals. It is easiest to understand *qualities* of intervals by comparing them to the major scale, so we will look at that below. If you do not yet feel comfortable with scales, however, you may look at the [Further Reading]({{ site.baseurl }}/02-int-scales-keys/a2-intervals.html) of this topic to find a useful method from the writers of *Open Music Theory*.
 
-Interval *quality* is difficult to examine without beginning to think about our concept of tonality and keys, because it is designed to describe tonal intervals. One of the most common and straightforward methods for finding interval *quality* requires a strong familiarity with the twelve major scales:
-
-### Finding an interval
+The most common and straightforward method for learning interval *quality* compares the interval to a major scale:
 
 1. Find the size of the interval by counting through the letter between the two pitches. 
   - Remember that you must include the starting and ending pitches in your counting.
@@ -99,7 +94,7 @@ Interval *quality* is difficult to examine without beginning to think about our 
 
 #### Quality hierarchies
 
-From this, our interval hierarchies can be grouped into two distinct hierarchies:
+From this, our interval can be grouped into two distinct hierarchies:
 - The "Perfect" intervals - Interval *sizes* of 1, 4, 5, and 8 can only have the *qualities* of perfect (P), augmented (A), or diminished (d).
 - The "Major/minor" intervals - Interval *sizes* of 2, 3, 6, and 7 can only have the *qualities* of major (M), minor (m), augmented (A), or diminished (d).
 
