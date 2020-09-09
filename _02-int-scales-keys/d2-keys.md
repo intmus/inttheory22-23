@@ -6,6 +6,16 @@ abc: true
 
 ## Class Discussion
 
+**Frequency Ratio**
+-1:2 is the most basic ratio we can create with two frequencies. 1:2 creates an octave difference. 
+
+-When we have two waves (frequencies) that line up evey two waves (in the crest), our ear hears that repetition as a pitch but one is higher than the other. 
+
+-The next simplist ratio is 2:3. This creates a P5 sound.
+
+**P5**
+When we stack the first five P5 around the circle, we get a major pentatonic scale. When F# is changed is changed after B (instead of F), the cycle only repeats after seven pitches instead of all twelve.
+
 **What is a key signature?**
 - A set of sharps or flats defining the scale that you're playing in?
   - Close: the wording implies a key signature where sharps and flats occur together, which isn't the standard key signature we're trying to come up with a definition for
