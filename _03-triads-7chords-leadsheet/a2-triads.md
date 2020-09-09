@@ -5,7 +5,7 @@ title: Discussion 3a - Triads
 
 # Class Discussion
 
-Using all the terminology we've learned so far, tell us how to...
+Tertian Harmnoy: Harmony based on stacked thirds.
 
 **ID Triads?**
 - M: M3 + m3 (P5 outside)
