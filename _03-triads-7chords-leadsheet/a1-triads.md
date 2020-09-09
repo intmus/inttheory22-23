@@ -39,7 +39,7 @@ All diatonic triads have exactly three pitches, although chordal members may be 
 - the pitch that is a 3rd above the root is called the *chordal third*
 - the pitch that is a 5th above the root is called the *chordal fifth*
 
-This can be confusing to beginning theory students, because we refer to intervals, scale degrees, and chordal members using the same ordinal numbers -- thirds, fifths, etc. -- and most often do not use the word "chordal". As you become more experienced in describing these things, you will be able to discern the meaning from context, but if you would like to avoid confusion for now, you can preface the ordinal number with the word "chordal" until you are comfortable. 
+This can be confusing to beginning theory students, because we refer to intervals, scale degrees, and chordal members using the same ordinal numbers--thirds, fifths, etc.--and most often do not use the word "chordal". As you become more experienced in describing these things, you will be able to discern the meaning from context, but if you would like to avoid confusion for now, you can preface the ordinal number with the word "chordal" until you are comfortable. 
 
 ### Triad inversions
 
@@ -49,21 +49,11 @@ Because triads have three pitches, there are three possible configurations that 
 
 As dyads have two pitches, the word "triad" implies *any* collection of three pitches. In diatonic music, however, we use this word to refer to a certain intervallic structure, so until we reach the unit on post-tonal harmony, you may assume that the word "triad" refers to the stacked thirds of diatonic harmony. 
 
-## Goals for this topic
+## Triad qualities
 
-Using the examples below:
+Using the next example:
 - determine what role each chord member -- root, third, and fifth -- plays in determining the quality of a triad
 - find all three intervals contained in a *root-position* triad for each chord quality
-- find the rest of the interval *sizes* between chord members of a triad (Hint: This may involve moving some chord members up or down an octave)
-    - thirds (2)
-    - fourth (1)
-    - fifth (1)
-    - sixths (2)
-- relate these interval sizes to our system for labeling triad inversions
-    - provide inversion figures for root position, first-inversion, and second-inversion triads
-- be able to explain how to turn any inverted and/or open-voiced triad into a root-position triad in a closed voicing
-
-### Triad qualities
 
 {% capture ex3 %}X:3
 T:Triad qualities
@@ -73,36 +63,7 @@ K:C clef=bass
 "Augmented (A)"[_B,,D,^F,]| "Major (M)"[_B,,D,F,]| "Minor (m)"[_B,,_D,F,]| "diminished (d)"[_B,,_D,_F,]||{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-### Triad inversions
-
-Because ABC notation is not capable of using superscript, the inversion figures in the next example are notated as fractions. If you were to write these by hand or use custom notation software, you would notate all inversion figures using superscript. For example, a major chord in first inversion would be written as M<sup>6</sup>
-
-{% capture ex4 %}X:4
-T:Triad inversions
-T:1) Inversion names are listed above the staff
-T:2) Inversion figures are listed below the staff
-T:---------
-M:2/4
-L:1/2
-K:C
-"Root-position"[_Bdf]| "First-inversion"[_BDF]| "Second-inversion"[_BdF]||
-w:5/3 6~(6/3) 6/4{% endcapture %}
-{% include abc-example.html number="4" abc=ex4 %}
-
-### Triad voicings
-
-{% capture ex5 %}X:5
-T:Triad voicings
-M:2/4
-L:1/2
-K:C
-V:1
-"Closed"z| "Closed"[_BF]| "Open"[_Bf]| "Open"[fdF]|
-V:2 clef=bass
-[_B,,D,F,_B,]| [D]| [_B,,D]| [F,_B,]|{% endcapture %}
-{% include abc-example.html number="5" abc=ex5 %}
-
-## Conclusions
+### Conclusions
 
 Your first goal should be to come up with a way to define each triad's *quality*. To begin, you may classify triadic qualities by dividing them into two groups based on the defining chord members of the triads.
 
@@ -130,7 +91,32 @@ Therefore, if a triad is in root position, you can determine triad qualities by 
 - Diminished: m3 + m3
 - Augmented: M3 + M3
 
-### Inversions and their labels
+## Triad inversions and their labels
+
+Using the next example:
+- find the rest of the interval *sizes* between chord members of a triad (Hint: This may involve moving some chord members up or down an octave)
+    - thirds (2)
+    - fourth (1)
+    - fifth (1)
+    - sixths (2)
+- relate these interval sizes to our system for labeling triad inversions
+    - provide inversion figures for root position, first-inversion, and second-inversion triads
+
+NOTE: Because ABC notation is not capable of using superscript, the inversion figures in the next example are notated as fractions. If you were to write these by hand or use custom notation software, you would notate all inversion figures using superscript. For example, a major chord in first inversion would be written as M<sup>6</sup>
+
+{% capture ex4 %}X:4
+T:Triad inversions
+T:1) Inversion names are listed above the staff
+T:2) Inversion figures are listed below the staff
+T:---------
+M:2/4
+L:1/2
+K:C
+"Root-position"[_Bdf]| "First-inversion"[_BDF]| "Second-inversion"[_BdF]||
+w:5/3 6~(6/3) 6/4{% endcapture %}
+{% include abc-example.html number="4" abc=ex4 %}
+
+### Conclusions
 
 Having identified the intervallic structures of each triad, we can look at the various *inversions* of these triad. This entails knowing:
 - the naming conventions of inversions
@@ -156,11 +142,27 @@ Of note, there are six different possible intervals in a triad, depending on the
 - The fifth always exists between root/fifth
 - The fourth is the inversion of the fifth, so between fifth/root
 
-### Chordal voicings
+### Triad voicings
 
-This information is all important, but it assumes that you already know which chordal member of an inverted triad is the root. To develop a method for finding the root of an unnamed chord, we must first understand how the *inversion* interacts with the chord's *voicing*. 
+Using the next example, you should:
+- be able to explain how to turn any inverted and/or open-voiced triad into a root-position triad in a closed voicing
 
-Using the examples of open and closed voicings, students often work through a process that includes the following ideas:
+{% capture ex5 %}X:5
+T:Triad voicings
+M:2/4
+L:1/2
+K:C
+V:1
+"Closed"z| "Closed"[_BF]| "Open"[_Bf]| "Open"[fdF]|
+V:2 clef=bass
+[_B,,D,F,_B,]| [D]| [_B,,D]| [F,_B,]|{% endcapture %}
+{% include abc-example.html number="5" abc=ex5 %}
+
+### Conclusions
+
+Understanding the concept of "inversion" is important, but it assumes that you already know which chordal member of an inverted triad is the root. To develop a method for finding the root of an unnamed chord, we must first understand how the *inversion* interacts with the chord's *voicing*. 
+
+As students develop the process for finding any inversion, they ususally work through the following ideas:
 - Attempt #1: Open voicing is spread out.
   - True, but this is a subjective measure. What constitutes "spread out"?
 - Attempt #2: Closed voicings use only simple intervals and open positions have compound intervals.
@@ -171,7 +173,7 @@ Using the examples of open and closed voicings, students often work through a pr
   - This definition is almost there, but the term "voices" is problematic because "voices" does not relate directly to a chord.
 
 A complete definition combines these ideas.
-- Closed voicing stacks all pitches of a chord in an ascending order that does not skip a chordal member.
+- Closed voicing stacks all pitches of a chord in an ascending order and does not skip a chordal member.
 - Open voicings can have chord members stacked in any order and skip chord members. 
     - All open voicings will cover more than one octave because of this.
 

@@ -23,14 +23,18 @@ In the example below, each interval represents the concept stated at the beginni
 ### Important concepts
 
 - _**Qualities**_: P = perfect, M = major, m = minor, A = augmented, d = diminished
-- _**Diatonic** intervals in the examples below_
-  - Perfect unison(1) and major 3rd from the harmonic intervals
-  - Major 2nd from the melodic intervals
-  - Perfect unison(1) and major 6th from simple intervals
-  - Perfect 15th and major 10th from the compound intervals
-  - Minor 6th from the inversion pairs
-- _**Chromatic** intervals in the examples below_
-  - All other intervals
+- _**Diatonic vs Chromatic** intervals in the examples below_
+  - Diatonic intervals in the examples below
+    - Perfect unison(1), major 3rd, and major 7th from the harmonic intervals
+    - Major 2nd from the melodic intervals
+    - Perfect unison(1) and major 6th from simple intervals
+    - Perfect 15th and major 10th from the compound intervals
+    - Minor 6th from the inversion pairs
+  - _**Chromatic** intervals in the examples below_
+    - All other intervals
+- **Inversions**
+  - The bottom row of intervals are the inversions of each interval in the top row. For example, the M7 in the bottom row is the inversion of the m2 directly above it in the first row. 
+
 
 {% capture ex1 %}X:1
 T:Intervals
@@ -50,8 +54,8 @@ V:4 name=Compound clef=bass
 [D,_D]| [^B,A,,]| [C,_E]| [_E_B,,]| _A,/2_D,,/2| F,,/2_D/2| ^B,/2C,,/2| [FF,,]||
 w:d8 A9 m10 P11 P12 _ m13 _ A14 _ P15||
 V:5 name=Inversions
-[F^f]| [_B,A]| [cE]| [_E_B]| [d_A]| [_df]| [Bc]| [^f^f]||
-w: A8 M7 m6 P5 A4 M3 m2 P1{% endcapture %}
+[Aa]| [_B,A]| [cE]| [_E_B]| [d_A]| [^df]| [Bc]| [^f^f]||
+w: P8 M7 m6 P5 A4 d3 m2 P1{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 ## Conclusions
