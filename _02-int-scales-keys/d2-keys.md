@@ -7,6 +7,7 @@ abc: true
 ## Class Discussion
 
 **Frequency Ratio**
+
 -1:2 is the most basic ratio we can create with two frequencies. 1:2 creates an octave difference. 
 
 -When we have two waves (frequencies) that line up evey two waves (in the crest), our ear hears that repetition as a pitch but one is higher than the other. 
