@@ -5,7 +5,53 @@ title: Discussion 2c - Identifying and Labeling Intervals
 
 ## Class Discussion
 
-TBD
+*(Only 8 diatonic intervals. The rest are chromatic)*
+
+**How do you explain size?**
+
+-How many lines and spaces are there? (Include the bottom and top; space, line, space; 3rd)
+
+-Letter names (C, D, E; 3rd) 
+
+
+**How do you explain interval quality?**
+
+-The way it sounds and fits in the major scale. 
+
+-You can find any interval starting on "Do" going up (ascending). These can be major, minor, or perfect in quality. 
+
+-You can group Perfect, Augmented, and Diminished together (Perfect heiarchy). Also, major and minor can be grouped together (major/minor heiarchy). 
+
+**How do inversions work?**
+
+-You move one note an octave towards the other note. This is its inversion. 
+
+-Subtract the original interval from 9 (gives you size) and alter the quality (minor/major, augmented/diminished, perfect/perfect) 
+
+**Harmonic vs Melodic**
+
+-Harmonic are played together. 
+
+-Melodic are played separate. 
+
+**What is the difference between a simple and compound interval?**
+
+-Simple are 1-7
+
+-Compound is adding an octave+ to a simple interval. 
+
+-Add 7 to the original interval to get the compound size. 
+
+**Diatonic vs Chromatic**
+
+-Diatonic intervals occur within the key signature. 
+
+-Chromatic intervals have altered notes. 
+
+
+
+
+*(Add a note in "Important Concepts" about 7ths (?))* 
 
 ## Further Reading
 
