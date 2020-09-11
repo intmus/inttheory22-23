@@ -4,9 +4,9 @@ title: Lesson 3a - Triads
 abc: true
 ---
 
-In discussing key signatures, we found that repeated ascending P5 intervals cycles through all twelve pitch classes before repeating. And if we alter a particular one of those perfect 5ths by a half step--creating a diminished 5th after moving through the first seven letter names--the cycle repeats back on itself and creates the diatonic collection of seven pitches that we associate with Western diatonic tonality. 
+In discussing key signatures, we found that, if we repeatedly ascend via the the interval of the P5, we eventually cycle through all twelve pitch classes before repeating. And if we alter a particular one of those perfect 5ths by a half step--creating a diminished 5th after moving through the first seven letter names--the cycle repeats back on itself and creates the diatonic collection of seven pitches that we associate with Western diatonic tonality. 
 
-This effect can be further demonstrated by stacking intervals of a diatonic 5th on the major scale.
+We can also apply this effect to pitches by stacking them on top of each other to create basic harmonies. Listen to the next example which stacks diatonic 5ths--meaning 5ths that reflect the key signature used for this tonal center--to create a series of perfect 5ths. As you listen, you will probably hear each of these dyads as having an "open" or "undefined" sound. Feel free to experiment using the text entry box below the example to see if you can insert a note into those open 5ths that creates a pleasing sound. 
 
 {% capture ex1 %}X:1
 %%staffsep 100%
@@ -17,6 +17,23 @@ K:C
 [CG] [DA]| [EB] [Fc]| [Gd] [Ae]| [Bf] [cg]||
 w:P5 P5 P5 P5 P5 P5 d5 P5{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
+
+As you probably noticed, you can create a variety of interesting harmonies, but the ones that felt the most familiar occurred when placed a pitch in each 5th that divided them equally. And in doing so, you created the basic harmonic structure for all diatonic music: *the triad*.
+
+## Building diatonic triads
+
+All diatonic triads have exactly three pitches, although chordal members may be doubled and certain chord members can occasionally be omitted (and therefore implied) depending on the context. We name the chord members by the distance above the bottom pitch **when the chord is stacked in thirds**:
+- the lowest pitch is called the *root* of the chord
+- the pitch that is a 3rd above the root is called the *chordal third*
+- the pitch that is a 5th above the root is called the *chordal fifth*
+
+This can be confusing to beginning theory students, because we refer to intervals, scale degrees, and chordal members using the same ordinal numbers--thirds, fifths, etc.--and most often do not use the word "chordal". As you become more experienced in describing these things, you will be able to discern the meaning from context, but if you would like to avoid confusion for now, you can preface the ordinal number with the word "chordal" until you are comfortable. 
+
+### A note on terminology
+
+As dyads have two pitches, the word "triad" implies *any* collection of three pitches. In diatonic music, however, we use this word to refer to a certain intervallic structure, so until we reach the unit on post-tonal harmony, you may assume that the word "triad" refers to the stacked thirds of diatonic harmony.
+
+## Triad qualities
 
 If the study of the evolution of music, you will find that early harmony focused on perfect intervals similar to this example, but diatonic harmony as we know did not truly begin until music began regularly featuring a third chordal member. By stacking two intervals of a third, we create a *triad*, which contains not only the two thirds, but also the interval of a fifth between the outer pitches. Any harmonic system which relies on stacking thirds is called *tertian harmony*.
 
@@ -31,25 +48,6 @@ w:M m m M M m d{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 Triads are important to almost all of Western music and form the basic unit in diatonic (key-based) harmony. While our ultimate goal is to describe how triads *function* harmonically, it is important that we are able to identify the structure of triads themselves independent of their diatonic functions, so we will begin by studying their intervallic structure.
-
-## Building diatonic triads
-
-All diatonic triads have exactly three pitches, although chordal members may be doubled and certain chord members can occasionally be omitted (and therefore implied) depending on the context. We name the chord members by the distance above the bottom pitch **when the chord is stacked in thirds**:
-- the lowest pitch is called the *root* of the chord
-- the pitch that is a 3rd above the root is called the *chordal third*
-- the pitch that is a 5th above the root is called the *chordal fifth*
-
-This can be confusing to beginning theory students, because we refer to intervals, scale degrees, and chordal members using the same ordinal numbers--thirds, fifths, etc.--and most often do not use the word "chordal". As you become more experienced in describing these things, you will be able to discern the meaning from context, but if you would like to avoid confusion for now, you can preface the ordinal number with the word "chordal" until you are comfortable. 
-
-### Triad inversions
-
-Because triads have three pitches, there are three possible configurations that depend on which note of the triad is in the lowest voice. We will call these *inversions*, but they are sometimes referred to as *positions*. The system that we use to label inversions relies on the intervals within the triad.
-
-### A note on terminology
-
-As dyads have two pitches, the word "triad" implies *any* collection of three pitches. In diatonic music, however, we use this word to refer to a certain intervallic structure, so until we reach the unit on post-tonal harmony, you may assume that the word "triad" refers to the stacked thirds of diatonic harmony. 
-
-## Triad qualities
 
 Using the next example:
 - determine what role each chord member -- root, third, and fifth -- plays in determining the quality of a triad
@@ -93,7 +91,12 @@ Therefore, if a triad is in root position, you can determine triad qualities by 
 
 ## Triad inversions and their labels
 
-Using the next example:
+Because triads have three pitches, there are three possible configurations that depend on which note of the triad is in the lowest voice. We will call these *inversions*, but they are sometimes referred to as *positions*. The system that we use to label inversions relies on the intervals within the triad.
+
+Using the next example, you should:
+- determine the naming conventions of inversions
+- know the shorthand method for labeling inversions
+- develop a method for determining the chord quality of a triad that is not presented in root position (stacked as two thirds on top of each other.)
 - find the rest of the interval *sizes* between chord members of a triad (Hint: This may involve moving some chord members up or down an octave)
     - thirds (2)
     - fourth (1)
@@ -102,7 +105,7 @@ Using the next example:
 - relate these interval sizes to our system for labeling triad inversions
     - provide inversion figures for root position, first-inversion, and second-inversion triads
 
-NOTE: Because ABC notation is not capable of using superscript, the inversion figures in the next example are notated as fractions. If you were to write these by hand or use custom notation software, you would notate all inversion figures using superscript. For example, a major chord in first inversion would be written as M<sup>6</sup>
+NOTE: Because ABC notation is not capable of using superscript, the inversion figures in the next example are notated as fractions. If you were to write these by hand or use music notation software, you would notate all inversion figures in superscript as stacked numbers without a dividing line. For example, a major chord in first inversion would be written as M<sup>6</sup>
 
 {% capture ex4 %}X:4
 T:Triad inversions
@@ -118,11 +121,6 @@ w:5/3 6~(6/3) 6/4{% endcapture %}
 
 ### Conclusions
 
-Having identified the intervallic structures of each triad, we can look at the various *inversions* of these triad. This entails knowing:
-- the naming conventions of inversions
-- the shorthand method for labeling inversions
-- a method for determining the chord quality of a triad that is not presented in root position (stacked as two thirds on top of each other.) 
-
 From the simple presentation of the above example, you should have realized that you cannot identify the inversion of the chord until you know the root. The simplest method for finding the root for any triad is to re-arrange the pitches until you have a triad that is stacked using only thirds. To be clear, this means no fourths, no sixths, and everything within a octave. You can even eliminate any duplicate pitches. Once you have this simplified arrangement of pitches, you can easily determine the root and quality of the chord using the method above. 
 
 For inversions, it is not necessary to know each interval within a triad, but instead, you only need to identify the chordal member in the bass.
@@ -136,16 +134,21 @@ For inversions, it is not necessary to know each interval within a triad, but in
 - Second inversion: 6/4
   - the 5th of the chord is in the bass- The `6` and `4` refer to the simple intervals above the bass
 
-Of note, there are six different possible intervals in a triad, depending on the inversion: two 3rds, two sixths, one fourth, and one fifth. These intervals always exist between the same two chord members.
-- The thirds exist between the root/third and third/fifth
-- The sixths come when you invert these either of the thirds, so between the third/root and fifth/third
-- The fifth always exists between root/fifth
-- The fourth is the inversion of the fifth, so between fifth/root
+Of note, there are six different possible intervals in a triad, depending on the inversion: two thirds, two sixths, one fourth, and one fifth. These intervals always exist between the same two chord members.
+- The thirds exist between the root/third and third/fifth.
+- The sixths appear when you invert either of the thirds, so between the third/root and fifth/third.
+- The fifth always exists between root/fifth.
+- The fourth is the inversion of the fifth, so between fifth/root.
 
 ### Triad voicings
 
-Using the next example, you should:
-- be able to explain how to turn any inverted and/or open-voiced triad into a root-position triad in a closed voicing
+Now that you understand the basic of triads and their inversions, we have to account for the variety of ways that they appear in music. When analyzing music, you must account for doubled pitches, implied harmonies, and a variety of spacings across the range of the performers; all of which can make it difficult to find the basic structure of the triad when looking at a musical score. 
+
+We will start by dealing with the issue of spacing, and to do so we must understand how the *inversion* interacts with the chord's *voicing*. 
+
+Look at the following example, and compare the closed and open voicings listed there. You should:
+- be able to succinctly describe the differences
+- create a process to convert any inverted and/or open-voiced triad into a root-position triad in closed voicing
 
 {% capture ex5 %}X:5
 T:Triad voicings
@@ -160,9 +163,7 @@ V:2 clef=bass
 
 ### Conclusions
 
-Understanding the concept of "inversion" is important, but it assumes that you already know which chordal member of an inverted triad is the root. To develop a method for finding the root of an unnamed chord, we must first understand how the *inversion* interacts with the chord's *voicing*. 
-
-As students develop the process for finding any inversion, they ususally work through the following ideas:
+As students develop the process for finding any inversion, they usually work through the following ideas:
 - Attempt #1: Open voicing is spread out.
   - True, but this is a subjective measure. What constitutes "spread out"?
 - Attempt #2: Closed voicings use only simple intervals and open positions have compound intervals.
