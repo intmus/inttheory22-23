@@ -6,6 +6,7 @@ title: Discussion 3a - Triads
 # Class Discussion
 
 Tertian Harmnoy: Harmony based on stacked thirds.
+*(diatonic triad, stacked thirds, is not necessarily the same as a "triad"-implies any collection of three pitches)*
 
 **ID Triads?**
 - M: M3 + m3 (P5 outside)
@@ -22,9 +23,13 @@ Additional tips:
   - M and m are more familiar whereas A and d are newer and "weirder," have altered 5ths
 
 **ID inversions?**
-- Root position = "a stack of thirds"
-- Labeled using the intervals between the notes (not specific enough: what really matters?)
-  - Eliminating duplicates, extra octaves--what matters most is the bass/bottom note of the triad
+- Root position: starting point (stacked thirds)
+  - Determine the quality of the third and the quality of the fifth to find the quality of the chord.
+- 1st inversion: take the root and move it to the top (3rd is on the bottom)
+- 2nd inversion: take the third and move it to the top (5th is on the bottom)
+
+- The only thing that determines your inversion is the lowest/bass pitched note.
+*(note that when actually labeling inversions, the numbers will be superscript and stacked)*  
 
 **ID closed vs open voicing?**
 - Closed voicing = closest notes can be notated together on a staff, open = spread out? (No: "spread out" is not specific enough)
@@ -32,6 +37,11 @@ Additional tips:
 - Closed voicing = within an octave, open voicing = greater than an octave?
 
 These are all good guesses, but closed voicing means stacking all chord members in ascending order without skipping over any of them. Open voicing is anything *but* that.
+
+- Open voicing = does not have the first/third/fifth in the same octave. 
+- Closed is in the same octave and stacked as closely to the bottom as possible. There are no skipped pitches. 
+
+Voicing is important because it changes how the listener hears something. Open has a more broad and expansive sound while closed is more final.
 
 # Further Reading
 
