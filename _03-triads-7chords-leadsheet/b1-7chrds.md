@@ -4,7 +4,7 @@ title: Lesson 3b - Seventh Chords
 abc: true
 ---
 
-Seventh chords are most easily thought of as an extension of triads, and our labeling system reflects this. In the same that we create a triad by inserting a 3rd into a 5th, we create a seventh chord by adding a 3rd on *top* of a triad. They are called seventh chords becuase this new note creates an interval of a 7th between the chordal root and the new pitch.
+Seventh chords are most easily thought of as an extension of triads, and our labeling system reflects this. In the same that we create a triad by stacking two 3rds, we create a seventh chord by adding another 3rd on *top* of a triad. They are called seventh chords because this new pitch creates an interval of a 7th between the chordal root and the new pitch.
 
 {% capture ex1 %}X:1
 %%staffsep 100%
@@ -33,8 +33,8 @@ Using the examples below:
     - How does this relate to triads?
 - find all six intervals between the chordal members of a root-position seventh chord for each of the following chord qualities:
     - *major seventh, minor seventh, dominant seventh, half-diminished, fully-diminished*
-- explain what each part of the the alternate names for each seventh chord
-    - *Major major* (MM), *major minor* (Mm), *minor minor* (mm), *diminished minor* (dm), and *diminished diminshed* (dd)
+- explain how we determine both words of each of the alternate names for seventh chords
+    - *Major major* (MM), *major minor* (Mm), *minor minor* (mm), *diminished minor* (dm), and *diminished diminished* (dd)
 - find the following interval sizes between chordal members of a seventh chord (Hint: This may involve moving some chord members up or down an octave)
     - seconds (1)
     - thirds (3)
@@ -87,9 +87,9 @@ z| [DF]| [A,,C]| [D,,D,]|{% endcapture %}
 
 ## Conclusions
 
-A seventh chord is a diatonic chord containing four pitches, each separated by a 3rd. 
+A seventh chord is a diatonic chord containing four pitches stacked in thirds. 
 
-There are 5 types of seventh chords, and we will be using both of the common terms for them:
+There are 5 types of seventh chords, and we will be using both of the commonly used terms for them:
 - *Major major* (abbreviated `MM`) or *major seventh chord*
 - *Major minor* (abbreviated `Mm`) or *dominant seventh chord*
 - *Minor minor* (abbreviated `mm`) or *minor seventh chord*
@@ -98,7 +98,7 @@ There are 5 types of seventh chords, and we will be using both of the common ter
 
 These terms are interchangeable but they are typically used in different circles. We will refer to them as the pedagogical name (e.g. major major, etc.) and common name (e.g. major seventh chord, etc.).
 
-The pedagogical names are useful in illustrating the structure of a seventh chord and is unsurprisingly often used by theory teachers. As a student explained, "The first word is the triad quality (e.g. major triad on bottom), and the second word describes the interval between the root and the 7th." This explanation highlights the mixed nature of this pedagogical categorization--it mixes a chord quality with an interval quality. The first word always describes the triad (the bottom three pitches) while the second word describes the *interval quality* between the root and the seventh chordal member. This interval is always a 7th.
+The pedagogical names are useful in illustrating the structure of a seventh chord and is unsurprisingly often used by theory teachers. The first word represents the quality of the base triad on which the seventh chord is built (e.g. major triad on bottom), and the second word describes the interval between the root and the chordal seventh. This description explains the nature of the pedagogical categorization--it mixes a chord quality with an interval quality. The first word always describes the triad (the bottom three pitches) while the second word describes the *interval quality* between the root and the seventh chordal member. This interval is always assumed to be a 7th.
 
 - Major major (major seventh chord): major triad + M7
 - Major minor (dominant seventh chord): major triad + m7
@@ -106,11 +106,15 @@ The pedagogical names are useful in illustrating the structure of a seventh chor
 - Diminished minor (half-diminished seventh chord): diminished triad + m7
 - Diminished diminished (fully-diminished seventh chord): diminished triad + d7
 
-Building on your knowledge of inversion figures from triads, it should be simple to derive the seventh chord system; it also uses the intervals above the *bass*, not the *root* of the chord.
+Building on your knowledge of inversion figures from triads, it should be possible to derive the seventh chord system. Like triad inversions, they:
+- use the intervals above the *bass*, not the *root* of the chord. 
+- are written in superscript next to your chord quality (or Roman numeral when we get there).
+- have abbreviated versions that will be used rather than writing out every interval
 
+There are four possible inversions for seventh chords. Below, you will find their abbreviated forms (most commonly used) and their full interval forms in parentheses. Remember that when written by hand or in music notation software, you will stack the numbers and *not* include a slash between them. 
 - Root position: 7 (7/5/3)
 - First Inversion: 6/5 (6/5/3)
 - Second Inversion: 4/3 (6/4/3)
 - Third Inversion: 4/2 (6/4/2)
 
-As a reminder, we will be using the term *inversion figure* to discuss this shorthand method of identifying inversions. Other systems refer to these same superscript numbers as figured bass, bass position Symbols, or figures, but we need not argue about which name is better. As long as the student understands the difference between *inversion figures*, true *figured bass* (i.e. Baroque system for writing keyboard harmonies), and the shorthand used in *leadsheet notation*, it does not actually matter which term is used. 
+As a reminder, we will be using the term *inversion figure* to discuss this shorthand method of identifying inversions. Other systems refer to these same superscript numbers as figured bass, bass position Symbols, or figures, but we need not argue about which name is better. As long as the student understands the difference between *inversion figures*, true *figured bass* (i.e. Baroque system for writing keyboard harmonies), and the shorthand used in *leadsheet notation*, it will make no difference in your effectiveness. 
