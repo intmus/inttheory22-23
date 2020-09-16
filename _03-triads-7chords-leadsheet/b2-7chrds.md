@@ -6,9 +6,15 @@ abc: true
 
 ## Class Discussion
 
+Lowest pitch=bass. Root is the chord that be build the thirds around.
+
 **How do we determine seventh chord quality?**
 
 The first letter gives the quality of the triad, while the second letter gives the quality of the seventh. For example, Mm7 = a major triad + a minor seventh.
+
+Looking at both the triads in the seventh chord and be aware of the different qualities they have.
+
+Dominant and Dimished relationship: They both have diminished 5ths. Dominant is between 3rd and 7th, while diminished is 1st and 5th (all chordal pitches). 
 
 **How do we determine and label seventh chord inversions?**
 
@@ -17,6 +23,10 @@ Seventh chords add third inversion because they have an additional note compared
 - First inversion: 6/5
 - Second inversion: 4/3
 - Third inversion: 4/2
+
+Remember to not add the slash when handwriting. Stacked things are just impossible to notate online.
+
+The inversions figures do not tell you the exact intervals and their qualities above the bass. These are made to work with roman numberals. 
 
 # Further Reading
 
