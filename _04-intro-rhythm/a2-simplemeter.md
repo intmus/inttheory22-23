@@ -5,6 +5,8 @@ title: Discussion 4a - Simple Meters
 
 ## Class Discussion
 
+#### Fix mm. 5 in Common Examples of simple quadruple meters with correct beaming (4 la li).
+
 **What is rhythm?**
 - A division of the beat. (What's a beat? A division of time...etc etc forever and ever)
 - *Rhythm is the temporal aspect of music*
@@ -48,6 +50,7 @@ title: Discussion 4a - Simple Meters
 - Ideal: show where the beats are, common: easier to sight read? (Yes...though the second part's subjective)
 - Why is this helpful in a theory class with a lot of analysis?
   - Can clearly see every beat, makes it easier to discuss
+  - Being able to see every beat can make it easier to stack chords when analyzing. You can see all the notes in each beat, so you are less likely to miss a sustained note from a previous beat.
   
 **A list of common meters in simple duple, triple, and quadruple:**
 - Quadruple: 4/32, 4/1
