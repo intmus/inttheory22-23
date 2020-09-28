@@ -5,6 +5,8 @@ title: Discussion 6a - Roman Numerals in Harmonic Analysis
 
 # Class discussion
 
+*Note that the seventh dimnished chord and major V in **minor** needs the leading tone (ti) in diatonic harmony.*
+
 **What does Cmin7/E-flat tell us?**
 - First inversion, E-flat is in the bass
 - All 4 chord members (C Eb G Bb)
@@ -12,7 +14,7 @@ title: Discussion 6a - Roman Numerals in Harmonic Analysis
 
 **Roman numerals**
 - The roman numeral itself identifies the root. You can tell what note the root is because its number correlates directly to its scale degree. For example, in C major vi indicates an A minor chord because A is the sixth scale degree in that key. As we'll see in a second, the root can be altered just like the other chord members
-- Uppercase/lowercase identifies the third (major/minor)
+- Uppercase/lowercase identifies the third in relation to the root (major/minor)
 - 5ths are assumed perfect unless there's a +, a half-diminished, or a diminished sign in the superscript
   - The diminished sign is special because it indicates that both the fifth and seventh are lowered. You can tell the difference from the half-diminished sign because the latter has a slash through it (it's cut in "half")
 - 7 by itself = dominant 7th. Can be altered with M, a half-diminished, or a diminished sign
