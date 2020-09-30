@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 7d - The Phrase, Sub-phrase, and Motive
+title: Lesson 8b - The Phrase, Sub-phrase, and Motive
 abc: true
 ---
 

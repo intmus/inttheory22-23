@@ -1,8 +1,10 @@
 ---
 layout: chapter
-title: Lesson 8a - The Overtone Series
+title: Lesson 2e - The Overtone Series
 abc: true
 ---
+
+<!-- Needs HUGE OVERHAUL. Overtone Series used to be in Unit 8 while discussing harmonic function, but it makes more sense to have it here immediately following key signatures. Will also require alteration of assignments to include overtone series. All material that used to introduce these ideas from 2d Key Signature topic have been copied at the bottom of this page and need to be incorporated into this topic.-->
 
 You have likely heard the terms *overtone series* and *harmonic series* while discussing music, but unless you have studied them previously, you may not realize the importance of this concept in creating tonality. The overtone series occurs naturally in all non-synthetic tone production. When a person sings, a harmonic series is present above every pitch. When any woodwind, string, or brass instrument creates a pitch, a harmonic series is present above any pitch. Perhaps even more importantly for our discussions, we can study the acoustics--or the math--behind this overtone series to explain the fundamentals of Western harmony.
 
@@ -158,3 +160,45 @@ When looking at this final method for remembering the first 12 pitches of the ov
 - The first four pitches strongly imply a key that uses the fundamental as tonic.
 - The next 4 partials imply a key with a tonic based on the *subdominant* of the fundamental, because the dominant seventh chord would be a V chord in the key of the subdominant.
 - The third set of four paritals imply a key with a tonic based on the *dominant* of the fundamental as demonstrated by thinking of this pattern as `sol-la-ti-do` in the key of the dominant.
+
+### FROM END OF KEY SIGNATURE TOPIC
+
+**INCORPORATE INTO MATERIAL ABOVE now that we've moved this out of its own unit**
+
+<!-- FIX THIS BELOW -->
+
+The division of the octave into twelve parts is our brains' interpretations of a simple mathematical phenomenon. When the frequency of a soundwave doubles, our brains hear those two frequencies as sharing some fundamental commonality, so it interprets those two pitches as the "same" but separated by an octave. Therefore, octaves always have a 2:1 ratio. (A110, A220, A440, and A880 are all `A` separated by octaves.) The next two simplest ratios are a 3:2 ratio and a 4:3 ratio, which create a perfect 5th and a perfect 4th respectively. 
+
+Not only does your brain's interpretation of these ratios create the ideas of consonance and dissonance, it is also the reason we divide the octave into twelve instead of a "simpler" number such as ten. You can observe this effect most easily in the circle of fifths. If you begin on any pitch-class and begin moving by ascending perfect 5ths (or 4ths), you will find yourself back at the beginning after cycling through all twelve pitch-classes. We call this the circle of fifths.
+
+C - G - D - A - E - B - F-sharp - C-sharp - G-sharp - D-sharp/E-flat - B-flat - F - *C*
+
+Perhaps more important for our discussion, though, is what happens when we introduce a non-perfect 5th into the pattern. If we begin on a pitch-class and begin moving through ascending perfect 5ths, each new perfect 5th will move us to a *new letter*. After the first six letters, we begin adding accidentals and then repeating letters as seen in the circle of fifths above. If, however, we alter the last perfect 5th by a half-step to create a diminished 5th, we can break the pattern and shortcut to the end with one final perfect 5th. 
+
+C (P5) G (P5) D (P5) A (P5) E (P5) B (d5) *F* (P5) C
+
+This slight change creates the necessary tension for keys to function diatonically, so diatonic function could be described as a slight imperfection on an otherwise perfect series of intervals. 
+
+This can be further shown by looking at the naturally occurring intervals when we write diatonic 5ths above the notes of a major scale.
+
+{% capture ex7 %}X:7
+%%staffsep 100%
+T:Diatonic 5ths in the Major Scale
+M:C
+L:1/2
+K:C
+[CG] [DA]| [EB] [Fc]| [Gd] [Ae]| [Bf] [cg]||
+w:P5 P5 P5 P5 P5 P5 d5 P5{% endcapture %}
+{% include abc-example.html number="7" abc=ex7 %}
+
+When we begin exploring harmonic function in Unit 6, the tension provided by the one non-perfect 5th and its subsequent release will become obvious.
+
+Key signatures reflect the importance of the one non-perfect interval. When studying the consecutive key signatures, you should focus on *which scale degree* is changed between consecutive keys. This will likely lead to two basic principles:
+- When a sharp is added to a key, it always raises the 7th scale degree in the new key, thereby creating the new `ti`.
+    - You can find the new `do` by going up a half-step from the new `ti`.
+- When a flat is added to a key, it always lowers the 4th scale degree in the new key, thereby creating the new `fa`.
+    - You can find the new `do` by going down a P4 (or up a P5) from the new `fa`.
+
+### Order of sharps and flats
+
+This directly reflects how diatonic function works; if we change *where* the one non-perfect 5th occurs, we change the key. From this we can determine a permanent order of flats or sharps, which cycles to the beginning if you need to continue raising or lowering pitches. 

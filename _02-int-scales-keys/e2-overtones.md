@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Discussion 8a - The Overtone Series
+title: Discussion 2e - The Overtone Series
 abc: true
 ---
 

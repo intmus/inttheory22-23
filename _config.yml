@@ -43,15 +43,15 @@ collections:
   07-harmonic-functions:
     output: true
     name: 7) Harmonic Function
-  08-overtones:
+  08-cadences-phrasing:
     output: true
-    name: 8) The Overtone Series
+    name: 8) Cadences and the Phrase
   09-non-chord-tones:
     output: true
     name: 9) Non-Chord Tones
   10-intro-part-writing:
     output: true
-    name: 10) An Introduction to Part-writing
+    name: 10) Introduction to Part-writing
   11-further-part-writing:
     output: true
     name: 11) Practical Part-writing 

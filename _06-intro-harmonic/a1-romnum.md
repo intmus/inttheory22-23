@@ -76,7 +76,7 @@ You may already be familiar with the basics of using Roman numerals for labeling
 
 - *Root* - The number (e.g. one, two, three, etc.) associated with a Roman numeral denotes the scale degree on which the chord is built.
   - If there is no accidental in front of the Roman numeral, the chord is built off the diatonic scale degree.
-    - The only exception to this rule is the vii<sup>&oslash;</sup> chord in minor; this chord is built off of `ti` (raised seventh scale degree), and this is considered the diatonic function. The naturally-occurring VII chord serves little diatonic purpose.
+    - The only exception to this rule is the vii<sup>&oslash;</sup> chord in minor; this chord is built off of `ti` (raised seventh scale degree), and this is considered the diatonic function. The naturally-occurring VII chord is used *much* less and has a more limited scope in common practice.
   - If there is an accidental in front of the Roman numeral, this affects only the root of the chord by raising or lowering it.
     - The vii<sup>&oslash;</sup> chord in minor does not require an accidental because it is assumed because of its diatonic function.
 - *Chordal third* - The case (i.e. upper-case versus lower-case) of the Roman numeral denotes the quality of the chordal third.

@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 7c - Cadences
+title: Lesson 8a - Cadences
 abc: true
 ---
 

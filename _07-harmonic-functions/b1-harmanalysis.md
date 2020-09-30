@@ -86,29 +86,6 @@ With nothing more than this, the students attempted a basic harmonic analysis of
 
 The first question was obvious to most, but difficult to tackle. How often does the harmony change? The rate at which harmonies change is called *harmonic rhythm*. This is often a chicken-or-the-egg question: you need to know how often the chord changes to determine which pitches to include in the chord, but you also need to look at which pitches create chords to figure out how often the chord changes. Chorales are an easy place to start, because most often, they change chords every quarter note; this creates an easy-to-see visual cue as each chord is stacked vertically and mostly homorhythmic. For more complicated textures, studying melodic patterns and bass-lines is often enough to provide enough context for an educated guess. Bass-lines in particular will often sustain pitches and/or outline chords until the harmony changes, and this gives a clear indicator of probable harmonic rhythm. This becomes much easier as the student gains experience.
 
-## Chord tones versus non-chord tones (NCTs)
-
-<!-- It would make sense to move this entirely or at least create an exercise in which the students have to add NCTs into the Old 100th. As it stands, it is information without an example. If you remove all mention of NCTs from unit 5, you will need to alter this section to better describe these current NCTs-->
-
-Even though the Old Hundreth Psalm has no non-chord tones, it is important for us to discuss them in this context, because understanding the question of "Which pitches are functional?" means determining which pitches belong to the chord (chord tones) and which pitches are decoration for these chord tones.
-
-Much like determining the harmonic rhythm, finding NCTs can be difficult because it requires working through all possible combinations of the pitches within a given harmony and then choosing the most likely combination. Even if you know that the harmony includes only two beats, if there are many pitches within those two beats, it can be difficult to sort through all the possible combinations. Fortunately, the same strategies that work for determining the harmonic rhythm work just as well for determining NCTs. Looking at melodic patterns and bass-lines is a great start, but it is also helpful to be aware of whether a note occurs in a strong or weak position. It is unusual for the functional tones to occur only on offbeats, as the ear is drawn to pitches when they occur on the beat. 
-
-Even for one experienced in finding patterns within the music, this still sometimes requires trial-and-error. For beginning students, they should try copying the pitches to another staff (or lightly next to the chord if there is room,) and begin rearranging the pitches to see what triads and seventh chords are even possible. Usually this is enough to limit the possibilities to one or two chords. When it is not, they should refer to their harmonic flowchart to see if there is some context that could provide a probable chord.
-
-### Notating non-chord tones
-
-To nontate non-chord tones, you should place parentheses around the note head of each non-chord tone. You must also label the NCT with its abbreviation. Currently, we only have three possible NCTs:
-- pt (passing tone)
-- nt (neighbor tone)
-- sus (suspension)
-
-The students had an excellent question regarding non-chord tones.
-- If there is a V chord with a chordal seventh in a moving line, should that be considered a V<sup>7</sup>?
-    - The most common answer is yes, but make sure that it functions as a chordal seventh. If it resolves down by step to the third of the following chord, it is best to include this as a functional chordal 7th. If it resolves another way (e.g. up by step), it might be a melodic passing tone and is therefore not functional.
-
-Regardless of whether you include the pitch as functional, the NCTs must always match the Roman numeral. In this scenario, if you choose to include the chordal seventh in your harmony, you only need to write the proper Roman numeral and inversion figure. If, however, you decide that the chordal seventh is just a passing tone, you must label it as a non-chord tone and write only `V` for the Roman numeral.
-
 ## Omitted tones
 
 The Old Hundreth Psalms has a number of incomplete chords, and each one follows the rules and guidelines from Unit 6c. Please review the doubling and spacing rules there.
