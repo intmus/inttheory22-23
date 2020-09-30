@@ -5,11 +5,17 @@ title: Discussion 5a - Introduction to Counterpoint
 
 # Class discussion
 
+**Homophony vs Polyphony**
+- Homophonic textures is created when one or multiple voices are all singing around the same central idea.
+- Polyphony is present when inner voices other than the melody are present and have rhythms and pitches that are more contrasting from the main melody.
+
 **Define counterpoint:**
 - Strict voice leading; lots of rules to follow? (On the right track: it's definitely a very strict system)
 - *Studying melody*, specifically studying melody that is *two melodies happening at the same time*
 
-**Consonant and dissonant intervals**
+**Intervals**
+- Harmonic Interval: An interval created from two notes that are vertically stacked
+- Melodic Interval: An interval created from two notes that are adjacent (one note after the other)
 - Perfect consonances: P1, P5, P8
 - Imperfect consonances: M3, m3, M6, m6
 - A note: "consonant" and "dissonant" in this style = "allowed" and "not allowed." P5s, P8s, M3s, etc. are allowed, whereas P4s are not.

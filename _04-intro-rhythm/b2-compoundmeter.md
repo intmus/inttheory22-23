@@ -6,14 +6,17 @@ title: Discussion 4b - Compound Meters
 ## Class discussion
 
 **What is a compound meter?**
-- Beats divided into 3
+- Any regular meter where beats are divisible by 3. 
 
 **Duple triple, and quadruple all mean the same thing they do in simple meters. As for examples:**
 - Duple: 6/8, 6/4, 6/2
+-Triple: 9/8, 9/16
+-Quadruple: 12/8, 12/4
 
 **What do the top and bottom numbers of compound time signatures mean?**
-- Top = if you divide by 3, that's how many beats there are? (Yes, but this doesn't tell us what the numbers mean)
+- Top = if you divide by 3, that's how many beats there are? (Yes, but this doesn't tell us what the numbers mean) 
 - *Top = how many of the note in the bottom there are, bottom = the note value of the division*
+
 
 # Further reading
 
