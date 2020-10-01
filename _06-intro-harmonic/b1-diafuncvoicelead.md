@@ -4,27 +4,14 @@ title: Lesson 6b - Establishing Diatonic Function through Voice Leading
 abc: true
 ---
 
-If we think back on our progression through the course thus far, we began by studying individual pitches, then combined those pitches into intervals, and then assembled those intervals sequentially and simultaneously to create melodies and chords respectively. Next, we studied a simplified version of counterpoint in order to examine how the combined vertical and horizontal aspects of music interact to create basic tonality. While counterpoint provides a framework for understanding harmony, it is primarily a study of how the horizontal aspect of music, melody, combines and *implies* harmony; it does not establish the vertical aspect of music, harmony, as a standalone concept.
+If we think back on our progression through the course thus far, we began by studying individual pitches, then combined those pitches into intervals, and then assembled those intervals sequentially and simultaneously to create melodies and chords respectively. Next, we studied a simplified version of counterpoint in order to examine how the combined vertical and horizontal aspects of music interact to create basic tonality. While counterpoint provides a framework for understanding harmony, it is primarily a study of how the horizontal aspect of music, melody, combines and *implies* harmony; it does not establish the vertical aspect of music, harmony, as a standalone concept. 
 
-Because the Roman numeral system allows us to classify and label *context and function*, we can use it explore how harmonies function within a diatonic style, independent of melody.
-
-## Harmonic functions in diatonic music
-
-In diatonic music, there are three basic categories of harmonic function: *tonic*, *dominant*, and *pre-dominant*. 
-- *Tonic* (**T**) harmonies feel stable and final.
-  - This is primarily the I chord, but in some circumstances, this can include the vi chord.
-- *Dominant* (**D**) harmonies have a strong tonal gravity to resolve to the *tonic* harmony*
-  - This includes the V and vii<sup>o</sup> chords.
-- *Pre-dominant* (**P**) harmonies are unstable and have a tonal gravity to resolve to *dominant* harmonies.
-  - This includes the ii and IV chords, but can occasionally include the vi chord.
-  - Note that there is a difference between the words "pre-dominant" and "predominant".
-
-Two-voice counterpoint provides a clear starting point for exploring these diatonic functions. If we look at the basic interactions between two voices we can begin to understand how voice-leading creates harmonic function and how certain chords fit into their roles as tonic, dominant, and pre-dominant chords. Finally, by adding two more voices to this soprano/bass framework, we can then begin looking at fully functional harmony in one of its most basic forms--the four-part chorale.
+Therefore, we can use a simple counterpoint exercise to begin determining how harmony functions, because harmony is defined by the melodic tendencies of certain pitches within a diatonic scale.
 
 ## Implied harmony in two parts
 <!-- When doing the following example, make sure that the class understands that each measure has the same two harmonies. It won't make sense to them otherwise. -->
 
-**Each measure of this first example is a two-voice version that implies the same two harmonies repeatedly.**
+**Each measure of the next example implies the same two harmonies repeatedly--one on the first half note and the second on the second half note.**
 - Which two harmonies do you think these measures imply? 
   - What are the Roman numerals and inversion figures for each measure?
   - Is there more than one option for any of the harmonies?
@@ -47,9 +34,28 @@ V:2 clef=bass
 
 ## Conclusion
 
-All of the two-voice counterpoints in the first example implied harmonies of V moving to I in the key of C major. The bass movement of the first three measures highlights this, but even when the bass movement changes, you should still hear the same progression of V to I. From this, you may conclude that two lines--in this case the soprano and bass lines--are enough to imply tonality. You may also notice that the chordal fifth is the least common chordal member in these examples, and as we will see when we begin voicing four-part harmony, the chordal fifth is indeed expendable. The root and third are best at implying a triad, and the seventh is obviously necessary to create a seventh chord.
+All of the two-voice progressions in the example imply harmonies of V moving to I in the key of C major, although you could make the argument that some of the implied harmonies are actually vii<sup>o</sup> instead of V<sup>7</sup>. The bass movement of the first three measures highlights V moving to I, but even once the bass movement changes, you should still hear the same progression of tension and release. 
 
-You can also draw some simple conclusions about voice-leading from looking at these examples--such as `ti` resolving to `do`, or `fa` resolving to `mi`--but be careful not to over-generalize with these ideas; the "rule" of `ti` resolving to `do` is almost always used when resolving V<sup>7</sup> to I as they are in these examples, but these are only *contextual* rules for those scale degrees. We will explore the true nature of tendency tones and their resolution in the next unit. 
+From this, we may conclude that two voices--in this case a soprano line and a bass line--are enough to imply tonality. Furthermore, we can observe that the pitches within a V<sup>7</sup> chord pull toward resolving to the pitches of the I chord. One chord is stable and final, while the other wants to resolve to the stable and final chord.
+
+This is *harmonic function*. A chord's function is a way of describing how it works within the context of tonal music.
+
+## Harmonic functions in diatonic music
+
+In diatonic music, there are three basic categories of harmonic function: *tonic*, *dominant*, and *pre-dominant*. 
+- *Tonic* (**T**) harmonies feel stable and final.
+  - This is primarily the I chord, but in some circumstances, this can include the vi chord.
+- *Dominant* (**D**) harmonies have a strong tonal gravity to resolve to a *tonic* harmony
+  - This includes the V and vii<sup>o</sup> chords.
+- *Pre-dominant* (**P**) harmonies are unstable and have a tonal gravity to resolve to *dominant* harmonies.
+  - This includes the ii and IV chords, but can occasionally include the vi chord.
+  - Note that there is a difference between the words "pre-dominant" and "predominant".
+
+## Some caveats on making assumptions based on this exercise
+
+You may be tempted to make some definitive conclusions about voice-leading from looking at these examples--such as `ti` resolving to `do`, or `fa` resolving to `mi`--but be careful not to over-generalize with these ideas; the "rule" of `ti` resolving to `do` is almost always used when resolving V<sup>7</sup> to I as they are in these examples, but these are only *contextual* rules for those scale degrees. We will explore the true nature of tendency tones and their resolution in the next unit.
+
+You may also notice that the chordal fifth is the least common chordal member in these examples, and as we will see when we begin voicing four-part harmony, the chordal fifth is indeed expendable. The root and third are best at implying a harmony, and the chordal seventh adds a strong resolution, whereas the fifth only provides a "fullness" to the chord. Be careful, though, to make too many assumptions based on this observation. Not all chordal fifths are easily expendable, and sometimes composers will choose to imply/omit a chordal third (or even root!) given a particularly context. We will explore all of these ideas further in our part-writing studies.
 
 ### Cadences
 
