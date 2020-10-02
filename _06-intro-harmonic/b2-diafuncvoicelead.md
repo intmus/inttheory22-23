@@ -5,25 +5,26 @@ title: Discussion 6b - Establishing Diatonic Function through Voice Leading
 
 ## Class discussion
 
-**How are leadsheet and Roman numerals different?**
-- Leadsheet tells you what notes are in the chord at a glance, but Roman numerals require you to know what key you're in to ID the chord
-  - Again, Roman numerals show *function*. What that means will become clearer in the coming weeks.
+**Implied Harmony in Two Parts**
+- You hear a V7 chord but only have the root. Why?
+  - We are conditioned to hear that V chord (and you just listened to a ton of them before this).
 
-**What is a chordal skip?**
-- Not a step or a leap--a third? (not necessarily a third, see below)
-  - *Consonant skip,* aka *moving between two chord tones.* We're outlining the arpeggio
+- Dissonance wants to resolve to consonance.
 
-**How would you define a suspension? What are the three parts?**
-- A chord tone that is sustained into another chord and "becomes" a NCT, then resolves into a CT of the new chord? (Yes, but start your definition with it being a NCT)
-  - You can always assume that a NCT is between two CTs
-- *Approached by static motion, resolves downward by step.* The downward part is *very* important. Suspensions do not resolve upward ever.
-  - Suspensions can also appear as two separate notes, rather than notes tied together
+- Why is the first measure "stronger" than the second?
+  - The two do's in bass and soprano voices. 
+  
+- Factors that affect how "strong" something is 
+  - People are generally better at hearing higher voices
+  - Inverted chords
+  - Intervals between voices
+  
+**Harmonic functions in diatonic music**
+- The vi chord can be considered tonic because of shared tones with the I chord, but it has to be set   up with that intention. In this class, it will not function in that way.
 
-**How do we determine the labels (the numbers after the word *sus*)?**
-- The numbers correlate to the scale degrees? (Yes, but that isn't what we're looking for. We need labels that also indicate function)
-- Shows which NCT it's moving from and which one it's moving to?
-- *The labels are determined by interval size.* The labels are always measured against the bass. Ex: a sus 4-3 is resolving from a fourth to a third against the bass, but 4 and 3 do not necessarily indicate the third and fourth scale degrees
-  - Resolutions in the bass are always 2-3 because rather than being measured to the bass, this suspension is measured against the most dissonant voice. The most dissonant voice will always be a second moving to a third
+**Cadence**
+- "The end of our musical sentence when it feels like a musical ending; the harmonic progression at     the end of the phrase."
+  
 
 # Further reading
 
