@@ -45,18 +45,18 @@ This is *harmonic function*. A chord's function is a way of describing how it wo
 In diatonic music, there are three basic categories of harmonic function: *tonic*, *dominant*, and *pre-dominant*. 
 - *Tonic* (**T**) harmonies feel stable and final.
   - This is primarily the I chord, but in some circumstances, this can include the vi chord.
-- *Dominant* (**D**) harmonies have a strong tonal gravity to resolve to a *tonic* harmony
+- *Dominant* (**D**) harmonies are strong but unstable. They have a strong tonal gravity pulling toward a *tonic* harmony
   - This includes the V and vii<sup>o</sup> chords.
-- *Pre-dominant* (**P**) harmonies are unstable and have a tonal gravity to resolve to *dominant* harmonies.
+- *Pre-dominant* (**P**) harmonies are weak and unstable. Their tonal gravity pulls them toward *dominant* harmonies.
   - This includes the ii and IV chords, but can occasionally include the vi chord.
   - Note that there is a difference between the words "pre-dominant" and "predominant".
 
-## Some caveats on making assumptions based on this exercise
+### Some caveats on making assumptions based on this exercise
 
-You may be tempted to make some definitive conclusions about voice-leading from looking at these examples--such as `ti` resolving to `do`, or `fa` resolving to `mi`--but be careful not to over-generalize with these ideas; the "rule" of `ti` resolving to `do` is almost always used when resolving V<sup>7</sup> to I as they are in these examples, but these are only *contextual* rules for those scale degrees. We will explore the true nature of tendency tones and their resolution in the next unit.
+You may be tempted to make some definitive conclusions about voice-leading from looking at these examples--such as `ti` resolving to `do`, or `fa` resolving to `mi`--but be careful not to over-generalize with these ideas. If you make the assumption that `ti` always resolves to `do` without considering the context, you will make errors in situations where `ti` is not part of a dominant function. We will explore the true nature of tendency tones and their resolution in the next unit.
 
-You may also notice that the chordal fifth is the least common chordal member in these examples, and as we will see when we begin voicing four-part harmony, the chordal fifth is indeed expendable. The root and third are best at implying a harmony, and the chordal seventh adds a strong resolution, whereas the fifth only provides a "fullness" to the chord. Be careful, though, to make too many assumptions based on this observation. Not all chordal fifths are easily expendable, and sometimes composers will choose to imply/omit a chordal third (or even root!) given a particularly context. We will explore all of these ideas further in our part-writing studies.
+You may also notice that the chordal fifth is the least common chordal member in these examples, and as we will see when we begin voicing four-part harmony, the chordal fifth is indeed expendable. The root and third are best at implying a harmony, and the chordal seventh adds a strong resolution, whereas the fifth only provides a "fullness" to the chord. But not *all* chordal fifths are easily expendable, and sometimes composers will choose to imply/omit a chordal third (or even root!) given a particularly context. We will explore all of these ideas further in our part-writing studies.
 
-### Cadences
+## Cadences
 
 Because of the importance of the V-I progression, we will introduce an important term in understanding harmony: the *cadence*. We will explore cadences further in the Unit 8, but for now, you may think of a cadence as a harmonic progression used to conclude a musical phrase. There are many types of cadences, but all of the progressions above are *authentic cadences*--cadences that have a V chord moving to a I chord. Bass movement is a key factor in determining the strength of a cadence. For example, measures 1 and 3 in the examples likely sound stronger to you than the last measure. The last measure not only lacks `sol` to `do` in the bass, it also does not have a tonic in the final chord. We will return to this idea when discussing cadences in detail in Unit 7c.
