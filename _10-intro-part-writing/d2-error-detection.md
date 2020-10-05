@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Discussion 10b - Error detection
+title: Discussion 10d - Error detection
 abc: true
 ---
 

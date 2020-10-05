@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 6c - Basic Voice Leading Errors
+title: Lesson 10a - Basic Voice Leading Errors
 abc: true
 ---
 

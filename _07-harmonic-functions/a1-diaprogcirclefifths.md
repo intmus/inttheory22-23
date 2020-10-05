@@ -1,12 +1,12 @@
 ---
 layout: chapter
-title: Lesson 7a - Diatonic Progressions Derived from Circle-of-fifths Voice-leading
+title: Lesson 7a - Using Voice-leading to Create a Harmonic Progression
 abc: true
 ---
 <!-- Before teaching this lesson, make sure that they have attempted to resolve V7 to I in two voices in their previous homework as part of 6b. You can then use their findings from how the members of the V7 chord resolve to the I chord to move through this discussion more quickly. -->
 
 We now have the analytical foundation and tools to begin studying harmonic *function*--how and why a chord works with other chords to build tonality. In this lesson, we will derive the basic aspects of function by combining two major concepts from previous units:
-1. As shown in the two-part examples in [Unit 6b]({{ site.baseurl }}/06-intro-harmonic/b1-diafuncvoicelead.html), the progression from V to I creates a strong and natural sense of resolution. There are many reasons we hear this progression as a strong cadence, but perhaps the strongest reason is the voice-leading between the V<sup>7</sup> and I chords--meaning the way in which individual pitches naturally pull toward each other. 
+1. As shown in the two-part examples in [Unit 6b]({{ site.baseurl }}/06-intro-harmonic/b1-diafuncvoicelead.html), the progression from V<sup>7</sup> to I creates a strong and natural sense of resolution. There are many reasons we hear this progression as a strong cadence, but perhaps the strongest reason is the voice-leading between the V<sup>7</sup> and I chords--meaning the way in which individual pitches naturally pull toward each other. 
 2. When written as a scale, diatonic collections are simply a sequence of five whole steps and two half-steps--the major scale, for example, is W-W-H-W-W-W-H--but as we determined in [Unit 2c]({{ site.baseurl }}/02-int-scales-keys/d1-keys.html), you can find all seven pitches in the diatonic collection by altering a a single half-step in a circle-of-fifths. This alteration changes one of the P5 intervals to a d5, and it is these two pitches within the diatonic collection, `ti` and `fa`, that establish the voice leading that pulls V<sup>7</sup> to I and therefore around which tonal harmony is constructed.
 
 As a side note, the significance of cultural conditioning cannot be overlooked. A person who grows up listening to *any* style of music will be conditioned to hear the tendencies used in that music as a natural progression, and this holds true for those raised around music descended from the diatonic tradition. This does not change the importance of voice-leading in forming these progressions, but it is worth remembering the difference between laws, rules, and strategies discussed in the first reading from Unit 6.
@@ -15,7 +15,7 @@ The examples below demonstrate how these half-steps create this the foundation o
 
 ## Goals for this topic
 
-The next five examples are meant to show you the logic behind the voice-leading of standard diatonic harmonies. To use these, study each example before moving on to the next and form a hypothesis regarding the voice leading (which chord tones resolve or pull to other chord tones). Once you have developed a theory as to how and why the progression works, move to the next example to see if your hypothesis can be applied. If it cannot, alter your hypothesis to account for both examples. Continue this way until you have found voice-leading rules that apply to all of the examples.
+The next five examples are meant to expose the logic behind the voice-leading of standard diatonic harmonies. To use these, study each example before moving on to the next and form a hypothesis regarding the voice leading (which chord tones resolve or pull to other chord tones). Once you have developed a theory as to how and why the progression works, move to the next example to see if your hypothesis can be applied. If it cannot, alter your hypothesis to account for both examples. Continue this way until you have found voice-leading rules that apply to all of the examples.
 
 **This example has two idealized progressions of a V chord resolving to a I chord: one as triads and the other with a seventh chord.** 
 - Study how each voice resolves. It is tempting to focus on which scale degree resolves to which scale degree, but this does not provide a complete explanation. 
@@ -35,7 +35,7 @@ V:2 clef=bass
 w:C:V I V7 I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-**The next example focuses on a simple triadic progression and follows the circle-of-fifths backwards to add a ii chord. Does this follow the voice-leading explanation that you created after looking at the first examples? If not, how does it differ? After you have studied this, try creating a voicing for a vi chord.**
+**The next example focuses on a simple triadic progression and follows the circle-of-fifths backwards to add a ii chord. Does this follow the voice-leading explanation that you created after looking at the first examples? If not, how does it differ? After you have studied this, try creating a voicing for a vi chord that would precede the ii chord.**
 
 {% capture ex2 %}X:2
 T:Adding the ii chord
@@ -50,7 +50,7 @@ V:2 clef=bass
 w:C:ii V I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-**The next example adds the vi chord. Were you able to correctly construct this using your voice-leading rules? Is it correct to explain the voice-leading of the progression using chordal members or scale degrees? If you continue around the circle-of-fifths, what would the voicing for the next chord be?**
+**The next example adds the vi chord. Were you able to correctly construct this using your voice-leading rules? Is it more accurate to explain the voice-leading of the progression using chordal members or scale degrees? If you continue around the circle-of-fifths, what would the voicing for the next chord be?**
 
 {% capture ex3 %}X:3
 T:Adding the vi chord
@@ -65,7 +65,7 @@ V:2 clef=bass
 w:C:vi ii V I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-**Again, we ask the same questions. Were you able to correctly add the iii chord using your voice-leading rules? Is it correct to explain the voice-leading of the progression using chordal members or scale degrees?**
+**Again, we ask the same questions. Were you able to correctly add the iii chord using your voice-leading rules? Is it more accurate to explain the voice-leading of the progression using chordal members or scale degrees?**
 
 {% capture ex4 %}X:4
 T:Adding the iii chord
@@ -82,7 +82,7 @@ w:C:iii vi ii V I{% endcapture %}
 
 **Beyond the iii chord, the voice-leading runs into an issue with harmonic function. While it is possible to continue this pattern through these two chords, in tonal harmony, the IV and vii<sup>o</sup> chords actually function most often as if they are extensions of the ii<sup>7</sup> and V<sup>7</sup> chords respectively. Look at the following example to see voice-leading using both of these chords. The first measure uses the ii<sup>7</sup> and V<sup>7</sup> chords as part of a diatonic progression, but the second progression substitutes the IV for the ii<sup>7</sup> chord and the vii<sup>o</sup> chord for the V<sup>7</sup> chord. After looking at this example, explain why IV and vii<sup>o</sup> function similarly to ii<sup>7</sup> and V<sup>7</sup>.**
 
-*Please note that to demonstrate how closely related these chords are, many voice-leading rules of common practice harmony are broken in this example--most notably the parallel octaves between the soprano and bass between vii<sup>o</sup> and I. This is for demonstration purposes only, do not assume that this good voice-leading for IV or vii<sup>o</sup>. We will discuss the rules of voice-leading in this style when we study part-writing in Units 10 and 11.*
+*Please note that to demonstrate how closely related these chords are, many voice-leading rules of common practice harmony are broken in this example--most notably the parallel octaves between the soprano and bass between vii<sup>o</sup> and I. This is for demonstration purposes only, do not assume that this is good voice-leading for IV or vii<sup>o</sup>. We will discuss the rules of voice-leading in this style when we study part-writing in Units 10 and 11.*
 
 {% capture ex5 %}X:5
 T:Adding the IV and viio chords
@@ -105,7 +105,7 @@ Beginning theory students often learn two general rules of thumb for voice-leadi
 - `ti` resolves to `do`
 - `fa` resolves to `mi`
 
-This is helpful to begin thinking about voice-leading in the most basic of ways, but it only applies to a specific, albeit common, set of circumstances that may arise in common practice harmony. For example, look at the following two-voice outline of one of the most common progressions in tonal music.
+This is helpful to begin thinking about voice-leading in the most basic of ways, but it only applies to a specific, albeit common, set of circumstances that arise in common practice harmony--the V<sup>7</sup> to I progression. In contrast to those rules, look at the following two-voice outline of one of the most common progressions in tonal music.
 
 {% capture ex6 %}X:6
 T:Implied harmonies from two voices
@@ -120,62 +120,30 @@ E,F,| G,C,|]
 w:C:I6 IV V I{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
-In this common progression, the bass voice moves `fa` to `sol`, and it should sound acceptable to almost anyone's ear. From this alone, you should infer that there is far more detail necessary to understand voice-leading.
+In this common progression, the bass voice moves `fa` to `sol`, and it sounds acceptable to almost anyone's ear. From this alone, you should infer that there is far more detail necessary to understand voice-leading.
 
-## Developing Progressions Based on Voice-leading
-
-By studying the voice-leading of a simple V (or V<sup>7</sup>) to I progression, you can propose rules that *do not* rely on scale degrees, and yet explain the voice-leading between the two chords.
+So instead, you must base your general rules around *chordal members* and their resolutions, rather than scale degrees and their resolutions. Specifically:
 - For chords that have roots separated by a P5:
     - The *seventh* of the first chord resolves to the *third* of the second chord.
     - the *third* of the first chord resolves to the *root* of the second chord.
     - If both chords are in root position, the bass voice moves from the *root* of the first chord to the *root* of the next chord.
 
-This is the beginning of a *circle-of-fifths progression*: a progression in which each chord root follows the circle of fifths. Using these new voice-leading rules in combination with a few simple voicing rules, you should be able to create a simple four-part harmony in a circle-of-fifths progression. 
+Before moving on, take a moment to check these rules against the finished example from above, copied below for your convenience.
 
-### Brief introduction to voicing a four-part progression
-
-A basic four-part texture has four voices: the soprano (highest), alto (second highest), tenor (third highest), and bass (lowest). The soprano and alto voices are best notated in treble clef, and the the tenor and bass voices are written in the bass clef. 
-
-For now, we will use the following voicing guidelines, although we will study voicing in detail in [Unit 10a]({{ site.baseurl }}/10-part-writing/a1-voiceleadingerrors.html).
-- Range
-    - Use the treble and bass staves as your guide. 
-        - Your soprano should sit between the bottom line of the treble clef staff to a ledger line above the treble clef staff.
-        - The alto voice can go as low two ledger lines below the treble clef staff and up to the top of the treble clef.
-        - The tenor voice 
-
-A P5 above `G` is `D`, and the chord built off of that pitch is the ii chord. 
-
-There are two likely voicings for creating this next chord in the progression:
 {% capture ex7 %}X:7
-T:Two possible voicings for a ii chord
-M:4/4
-L:1/2
-Q:1/4=100
-K:C
-V:1
-[Fd]| [BG]| [c2G2]|| [FA]| [BG]| [c2G2]|]
-V:2 clef=bass
-[D,A,]| [G,D]| [C,2E2]|| [D,D]| [G,D]| [C,2E2]|]
-w:C:ii V I ii V I{% endcapture %}
-{% include abc-example.html number="7" abc=ex7 %}
-
-Some will prefer the sound of the first voicing, probably because they find the melodic shape in the soprano more interesting. Unfortunately, this voicing creates multiple issues. Not only are the parts more difficult to sing, particularly for the tenor voice, but the parallel perfect 5ths between the tenor and bass voices means that the tenor voice will meld into the bass voice and lose its independence. This doesn't sound too odd in a short excerpt like this, but in a longer passage, having parallel perfect 5ths will change the texture for brief moments in a noticeable way.
-
-The second progression has less melodic variety, but it provides the smoothest, easiest voice-leading for each part with no voice-leading errors. If you add two more chords to the progression by following the circle-of-fifths progression we are creating, you should be able to add vi and then iii without much issue by following the pattern.
-
-From this, we can demonstrate the process by which voice-leading creates one of the most fundamental progressions of all diatonic harmony, the circle-of-fifths progression.
-  
-{% capture ex8 %}X:8
-T:A standard circle-of-fifths progression
+T:Adding the iii chord
 M:4/4
 L:1
+Q:1/4=100
 K:C
 V:1
 [EG]| [EA]| [FA]| [BG]| [cG]|]
 V:2 clef=bass
 [E,B,]| [A,,C]| [D,D]| [G,,D]| [C,E]|]
 w:C:iii vi ii V I{% endcapture %}
-{% include abc-example.html number="8" abc=ex8 %}
+{% include abc-example.html number="7" abc=ex7 %}
+
+You can also alter this example to include seventh chords in order to apply the chordal seventh resolutions, but we will do that in the next topic.
 
 ## Adding IV and vii<sup>o</sup>
 

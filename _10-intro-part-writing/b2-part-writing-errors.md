@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Discussion 10a - Part-writing Errors
+title: Discussion 10b - Part-writing Errors
 abc: true
 ---
 

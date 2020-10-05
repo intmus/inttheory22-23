@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Discussion 7a - Diatonic Progressions Derived from Circle-of-fifths Voice-leading
+title: Discussion 7a - Using Voice-leading to Create a Harmonic Progression
 abc: true
 ---
 
