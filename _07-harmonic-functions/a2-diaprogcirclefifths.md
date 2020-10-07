@@ -18,11 +18,15 @@ abc: true
 
 Here's our nifty progressions flowchart, both in major:
 
-iii7 -> vi7 -> ii7 or IVM7 -> V7 or vii%7 -> I -> (any)
+iii7 -> vi7 -> [ii7 or IVM7] -> [V7 or vii%7] -> I -> (any)
+
+IVM7 goes to I (plagal cadence); V7 goes to vi7; iii7 sometimes goes to IVM7; vi7 sometimes goes to V7.
 
 And minor:
 
 IIIM7 -> VIM7 -> ii%7 or iv7 -> V7 or viio7 -> I -> (any)
+
+Everything that happens in major, just change the chord quality and it works in minor.
 
 **Notes**
 - Notice that the dominant chords are almost the same in both qualities. The only difference is the seventh of the seven chord.
@@ -31,7 +35,8 @@ IIIM7 -> VIM7 -> ii%7 or iv7 -> V7 or viio7 -> I -> (any)
 - Exceptions (notated in major for simplicity, but these happen in minor too)
   - V -> vi: not always as a cadence, but don't use this if you don't have to
   - IV -> I: almost always appears a cadence
-  - iii -> IV: part of the Pachelbel's Canon progression. Don't use it.
+  - vi -> V: this can happen, but the vi should usually be thought of as a tonic function. Avoid using this. (uncommon)
+  - iii -> IV: part of the Pachelbel's Canon progression. It is dificult to use without creating voice leading issues. Don't use it. (rare)
 
 
 # Further reading
