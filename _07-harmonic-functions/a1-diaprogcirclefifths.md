@@ -82,24 +82,7 @@ V:2 clef=bass
 w:C:iii vi ii V I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-**Beyond the iii chord, the voice-leading runs into an issue with harmonic function. While it is possible to continue this pattern through these two chords, in tonal harmony, the IV and vii<sup>o</sup> chords actually function most often as if they are extensions of the ii<sup>7</sup> and V<sup>7</sup> chords respectively. Look at the following example to see voice-leading using both of these chords. The first measure uses the ii<sup>7</sup> and V<sup>7</sup> chords as part of a diatonic progression, but the second progression substitutes the IV for the ii<sup>7</sup> chord and the vii<sup>o</sup> chord for the V<sup>7</sup> chord. After looking at this example, explain why IV and vii<sup>o</sup> function similarly to ii<sup>7</sup> and V<sup>7</sup>.**
-
-*Please note that to demonstrate how closely related these chords are, many voice-leading rules of common practice harmony are broken in this example--most notably the parallel octaves between the soprano and bass between vii<sup>o</sup> and I. This is for demonstration purposes only, do not assume that this is good voice-leading for IV or vii<sup>o</sup>. We will discuss the rules of voice-leading in this style when we study part-writing in Units 10 and 11.*
-
-{% capture ex5 %}X:5
-T:Adding the IV and viio chords
-M:4/4
-L:1
-Q:1/4=100
-K:C
-V:1
-[Fc]| [BF]| [cE]|| [Fc]| [BF]| [cE]|]
-V:2 clef=bass
-[D,D]| [G,,D]| [C,C]|| [A,,C]| [B,,D]| [C,C]|]
-w:C:ii7 V7 I IV6 viio I{% endcapture %}
-{% include abc-example.html number="5" abc=ex5 %}
-
-## Conclusions
+### Conclusions
 
 As we look at implied harmony in two-voice counterpoint, we can demonstrate that simple voice-leading is all that is necessary to *imply* diatonic function. If we take that further, we should be able to create the fundamentals of harmonic progression using the voice-leading inherent in diatonic systems.
 
@@ -149,7 +132,26 @@ You can also alter this example to include seventh chords in order to apply the 
 
 ## Adding IV and vii<sup>o</sup>
 
-It is possible to continue this pattern backwards to add the last two diatonic chords, IV and vii<sup>o</sup>, but these chords actually function differently. Instead, the IV and vii<sup>o</sup> chords function similarly to their two functional counterparts, ii<sup>7</sup> and V<sup>7</sup>. The logic is fairly simple, if you remove the root from a ii<sup>7</sup> chord, `D-F-A-C` in C major, you are left with a IV chord, `F-A-C`. Likewise, if you remove the root from a V<sup>7</sup> chord, you are left with a vii<sup>o</sup> chord. By this logic, the IV and vii<sup>o</sup> chords often use alternative voice leading, because their tendency tones are not necessarily tied to the chordal thirds and sevenths. 
+**Beyond the iii chord, the voice-leading runs into an issue with harmonic function. While it is possible to continue this pattern through these two chords, in tonal harmony, the IV and vii<sup>o</sup> chords actually function most often as if they are extensions of the ii<sup>7</sup> and V<sup>7</sup> chords respectively. Look at the following example to see voice-leading using both of these chords. The first measure uses the ii<sup>7</sup> and V<sup>7</sup> chords as part of a diatonic progression, but the second progression substitutes the IV for the ii<sup>7</sup> chord and the vii<sup>o</sup> chord for the V<sup>7</sup> chord. After looking at this example, explain why IV and vii<sup>o</sup> function similarly to ii<sup>7</sup> and V<sup>7</sup>.**
+
+*Please note that to demonstrate how closely related these chords are, many voice-leading rules of common practice harmony are broken in this example--most notably the parallel octaves between the soprano and bass between vii<sup>o</sup> and I. This is for demonstration purposes only, do not assume that this is good voice-leading for IV or vii<sup>o</sup>. We will discuss the rules of voice-leading in this style when we study part-writing in Units 10 and 11.*
+
+{% capture ex5 %}X:5
+T:Adding the IV and viio chords
+M:4/4
+L:1
+Q:1/4=100
+K:C
+V:1
+[Fc]| [BF]| [cE]|| [Fc]| [BF]| [cE]|]
+V:2 clef=bass
+[D,D]| [G,,D]| [C,C]|| [A,,C]| [B,,D]| [C,C]|]
+w:C:ii7 V7 I IV6 viio I{% endcapture %}
+{% include abc-example.html number="5" abc=ex5 %}
+
+### Conclusions
+
+It is possible to continue our voice-leading pattern backwards to add the last two diatonic chords, IV and vii<sup>o</sup>, but these chords actually function differently. Instead, the IV and vii<sup>o</sup> chords function similarly to their two functional counterparts, ii<sup>7</sup> and V<sup>7</sup>. The logic is fairly simple, if you remove the root from a ii<sup>7</sup> chord, `D-F-A-C` in C major, you are left with a IV chord, `F-A-C`. Likewise, if you remove the root from a V<sup>7</sup> chord, you are left with a vii<sup>o</sup> chord. By this logic, the IV and vii<sup>o</sup> chords often use alternative voice leading, because their tendency tones are not necessarily tied to the chordal thirds and sevenths. 
 
 When we add these to our harmonic progression flowchart, we get our basic outline for harmonic progressions.
 
