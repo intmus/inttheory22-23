@@ -18,8 +18,10 @@ The examples below demonstrate how these half-steps create this the foundation o
 The next five examples are meant to expose the logic behind the voice-leading of standard diatonic harmonies. To use these, study each example before moving on to the next and form a hypothesis regarding the voice leading (which chord tones resolve or pull to other chord tones). Once you have developed a theory as to how and why the progression works, move to the next example to see if your hypothesis can be applied. If it cannot, alter your hypothesis to account for both examples. Continue this way until you have found voice-leading rules that apply to all of the examples.
 
 **This example has two idealized progressions of a V chord resolving to a I chord: one as triads and the other with a seventh chord.** 
-- Study how each voice resolves. It is tempting to focus on which scale degree resolves to which scale degree, but this does not provide a complete explanation. 
+- Study how each voice resolves. 
+    - It is tempting to focus on which scale degree resolves to which scale degree (e.g. `ti` to `do`), but this does not provide a complete explanation. 
     - Instead focus on the how each chordal member resolves in the progression. This should include the chordal member to which it resolves and the interval necessary to do so.
+        - Try to discern which chordal members have multiple options and which seem locked into a specific resolution.
 - What pitches are doubled? Are any omitted?
 
 {% capture ex1 %}X:1
@@ -29,9 +31,9 @@ L:1
 Q:1/4=100
 K:C
 V:1
-[BG]| [cE]|| [BF]| [cE]|]
+[BG]| [cG]|| [BF]| [cE]|]
 V:2 clef=bass
-[G,D]| [C,C]|| [G,D]| [C,C]|]
+[G,D]| [C,E]|| [G,D]| [C,C]|]
 w:C:V I V7 I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
@@ -158,15 +160,18 @@ When we add these to our harmonic progression flowchart, we get our basic outlin
 
 Using just this flowchart, you can build basic chordal progressions for a given melody by harmonizing the pitches with the correct progressions. Please note that the I chord can comfortably jump back to anywhere in the progressions.
 
-## Adding in the Common Exceptions
+## Adding in Exceptions
 
 There are a few common exceptions that should be added to this progression flowchart. We will discuss how these are used as we work through their appropriate topics (e.g. cadences, chordal substitutions), but for now, please add them to your list of possible progressions.
 - chords that have the same function can move to each other
+    - V can move to vii<sup>o</sup>, and vii<sup>o</sup> can move to V
     - ii can move to IV, and IV can move to ii.
 - V can move to vi 
     - This is most commonly used at the end of a phrase. In this case, vi is "replacing" a I chord and assuming a tonic function, so it must be used  and voice carefully. See [Unit 7c]({{ site.baseurl }}/07-harmonic-functions/c1-cadences.html) (later in this unit) for a full explanation of cadences.
 - IV can go to I
     - This is most commonly used at the end of a phrase, and in this case, IV is "replacing" the V chord. This is another cadence, so it must be prepared properly. It is better to avoid using this progression in the middle of a phrase, so in your early attempts at part-writing, do not attempt to use this.
+- UNCOMMON: vi can move to V
+    - There are instances where vi will move to V, but in these cases, it is best to think of the vi chord as taking on a tonic function. In your early part-writing, do not use this progression, because like V moving to vi--a much more common progression--this progression is likely to result in poor voice-leading.
 - RARE: iii can move to IV
     - It is difficult to use this without creating multiple voice-leading issues, so in your early attempts at part-writing, do not attempt to use this.
 

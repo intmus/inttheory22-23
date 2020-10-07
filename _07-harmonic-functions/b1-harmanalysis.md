@@ -43,7 +43,7 @@ Before you can even begin to analyze the chords within a piece, you need to figu
 - How often do chords occur?
     - This concept is called *harmonic rhythm*. It is different for every piece; sometimes it will be every beat as in the chorale above, but other pieces will have many measures before changing harmonies.
 - Does every note belong to a chord? 
-    - There are many factors that will play into these pitch-level decisions. Which pitches are on the strong beats? Are any pitches repeated? Is one pitch more dissonant against the other chord tones?Differentiating between chord tones and non-chord tones is the key to deciding a chord's function.
+    - There are many factors that will play into these pitch-level decisions. Which pitches are on the strong beats? Are any pitches repeated? Is one pitch more dissonant against the other chord tones? Differentiating between chord tones and non-chord tones is the key to deciding a chord's function.
 - Are there notes missing from any of the chords?
 
 As you answered each of these questions, you began understanding how harmony *functions*. Even without much guidance, you can use your knowledge of musical fundamentals -- intervals, chords, melodic lines, Roman numeral labeling, etc. -- to create a sketch of the harmonic underpinnings of this chorale.
@@ -66,7 +66,20 @@ V:2 clef=bass
 
 ## Conclusion
 
-Students often confuse harmonic analysis with identifying each of the harmonies. While finding chords is a part of harmonic analysis, the actual goal of harmonic analysis is to explain how the listener hears the music. To do this, we must figure out which pitches are functional and which pitches are embellishments. The essential pitches of any harmony are those that if removed, would noticeably alter the way the listener hears the harmony.
+Students often confuse harmonic analysis with identifying each of the harmonies. While finding chords is a part of harmonic analysis, the actual goal of harmonic analysis is to explain how the listener hears the music. To do this, there are three primary questions that must be answered in a harmonic analysis:
+- What is the harmonic rhythm? (i.e. How often does the harmony change?)
+- Which pitches are chord tones and non-chord tones?
+- Which pitches, if any, are omitted but implied by the context?
+
+### Harmonic rhythm
+
+Determining harmonic rhythm is intuitively obvious to most musicians while listening, but can be difficult to illustrate when looking only at the music. This is often a chicken-or-the-egg question: you need to know how often the chord changes to determine which pitches to include in the chord, but you also need to look at which pitches create chords to figure out how often the chord changes. Chorales are an easy place to start, because most often, they change chords in a consistent rhythm--in this case, every beat--and this creates an easy-to-see visual cue as each chord is stacked vertically and mostly homorhythmic. For more complicated textures, studying melodic patterns and bass-lines is often enough to provide enough context for an educated guess. Bass-lines in particular will often sustain pitches and/or outline chords until the harmony changes, and this gives a clear indicator of probable harmonic rhythm. This becomes much easier as the student gains experience.
+
+The essential pitches of any harmony are those that if removed, would noticeably alter the way the listener hears the harmony.
+
+### Non-chord tones and implied pitches
+
+The Old Hundreth Psalms has a number of incomplete chords, and each one follows the rules and guidelines from Unit 6c. Please review the doubling and spacing rules there.
 
 To move toward this goal, music theorists use a number of tools, most of which are designed to look at contextual clues and draw conclusions based on their general knowledge. We created one of these tools in Unit 7a with the diatonic harmonic flowchart.
 
@@ -75,17 +88,4 @@ To move toward this goal, music theorists use a number of tools, most of which a
 | iii | vi | ii | V | I |
 | | | IV | vii<sup>o</sup> | |
 
-By employing the progressions from this flowchart, a theorist can look at a given harmony and decide which pitches support a harmonic progression that is *likely* to be heard by a listener. For an example of how this would work, refer to the third example under Examples 7a.
-
-With nothing more than this, the students attempted a basic harmonic analysis of *The Old Hundredth*, a classic hymn with a standard SATB harmonization. I asked them to provide not only provide the chords in both leadsheet notation and Roman numerals, but also to take notes on questions that arose as they workeed through this process. They came up with three primary questions:
-- How often does the harmony change?
-- Which pitches are chord tones and non-chord tones?
-- Which pitches are omitted from the harmony?
-
-## Harmonic rhythm
-
-The first question was obvious to most, but difficult to tackle. How often does the harmony change? The rate at which harmonies change is called *harmonic rhythm*. This is often a chicken-or-the-egg question: you need to know how often the chord changes to determine which pitches to include in the chord, but you also need to look at which pitches create chords to figure out how often the chord changes. Chorales are an easy place to start, because most often, they change chords every quarter note; this creates an easy-to-see visual cue as each chord is stacked vertically and mostly homorhythmic. For more complicated textures, studying melodic patterns and bass-lines is often enough to provide enough context for an educated guess. Bass-lines in particular will often sustain pitches and/or outline chords until the harmony changes, and this gives a clear indicator of probable harmonic rhythm. This becomes much easier as the student gains experience.
-
-## Omitted tones
-
-The Old Hundreth Psalms has a number of incomplete chords, and each one follows the rules and guidelines from Unit 6c. Please review the doubling and spacing rules there.
+By employing the progressions from this flowchart, a theorist can look at a given harmony and decide which pitches support a harmonic progression that is *likely* to be heard by a listener.
