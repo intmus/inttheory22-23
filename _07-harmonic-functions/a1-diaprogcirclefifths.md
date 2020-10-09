@@ -179,7 +179,7 @@ There are a few common exceptions that should be added to this progression flowc
 
 ## Changes in Minor
 
-Minor follows all of the same progressions, but the chord qualities change to match the naturally occurring pitches in the key signature. Please remember that minor keys must have a major V chord and diminished vii chord to function diatonically. This means that both of these chords are built using the raised seventh scale degree, even though this isn't necessarily implied by the Roman numeral of the vii<sup>o</sup>.
+Minor follows all of the same progressions and exceptions, but the chord qualities change to match the naturally occurring pitches in the key signature. Please remember that minor keys must have a major V chord and diminished vii chord to function diatonically. This means that both of these chords are built using the raised seventh scale degree, even though this isn't necessarily implied by the Roman numeral of the vii<sup>o</sup>.
 
 | (*unnamed*) | (*unnamed*) | pre-dominant | dominant | tonic |
 --- | --- | --- | --- | --- |
