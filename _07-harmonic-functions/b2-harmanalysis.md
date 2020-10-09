@@ -9,8 +9,7 @@ Process of harmonic analysis
 - What you should try and do as early as possible is determine the *harmonic rhythm*, or how often the chord changes. This can happen every beat, every measure, or many other ways. The chorale we looked at in class is an example where the harmonic rhythm is every beat.
 - Key: try not to rely as much on the key signature to figure out what key you're in. Think of it as just one of many tools. There are other indicators of key--what chord does the section start on? What accidentals are repeatedly occurring in the section? Do these fit in with a major key or a minor one?
 - Leadsheet: doing this first will save time in writing out your Roman numerals, especially if you are still unsure of what key you're in. 
-
-TBD
+- *You do not need to repeat the Roman numerals for multiples of the same chord in a row.*
 
 # Further Reading
 
