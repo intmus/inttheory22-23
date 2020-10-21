@@ -4,7 +4,9 @@ title: Lesson 7b - Performing a Harmonic Analysis
 abc: true
 ---
 
-<!-- When you return to this section, you need to write in full answers for the conclusions section, because you never actually give them the answers to the questions as asked. Fine for in class, but someone who isn't in class will never have confirmation of whether they got it correct or not.-->
+<!-- When you return to this section, you have two MAJOR EDITS
+ 1 - You need to find a better example the Old 100th. It's first phrase is full of vi chords acting as tonic function, which is confusing and totally undermines what you said about vi to V being rare in the previous unit.
+ 2 - You need to write in full answers for the conclusions section, because you never actually give them the answers to the questions as asked. Fine for in class, but someone who isn't in class will never have confirmation of whether they got it correct or not.-->
 Now that we understand how circle-of-fifths progressions within a key create a basic harmonic "outline", we can use that pattern to begin analyzing harmony. The framework of these progressions can be used to organize any piece of music in this tradition and allows us to ask the two fundamental questions of all harmonic analysis: 
 - How are expectations created in the music?
 - Which pitches are functional in creating these expectations?

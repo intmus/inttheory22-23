@@ -12,7 +12,7 @@ After having developed voice-leading procedures in Unit 7a, you should now under
 
 These harmonic functions shape every musical phrase, and nowhere is that more obvious than in studying how phrases end. *Cadences* are the term that we use to describe the harmonic progression at the end of a musical phrase. If a musical phrase could be considered equivalent to a written sentence, then the *cadence* is the period at the end of that sentence. All cadences finish a phrase, but not all cadences provide closure and stability. In fact, some cadences are purposefully unsettled.
 
-We will study the chords associated with classifying cadences, but it takes far more than a particular harmonic progression to create a cadence. In addition to chord progressions, cadences are affected by melodic shapes, melodic rhythm, harmonic rhythm, contextual clues, meter, and many other elements of music.
+We will study the chords associated with classifying cadences, but it takes far more than a particular harmonic progression to create a cadence. In addition to chord progressions, cadences are affected by melodic shapes, melodic rhythm, harmonic rhythm, context, meter, and many other elements of music.
 
 For this course, we will study six types of cadences:
 - *perfect authentic cadence (PAC)*
@@ -55,7 +55,7 @@ V:2 clef=bass
 w: _ _ _ _ _ _ _ IAC
 [G,G,]| [G,G,] [G,D] [DD,] [E,B,]| [C,E] [G,,D] H[DD,]
 w:  _ _ _ _ _ _ _ HC
-[E,B,]| [D,D] [G,D] [D,D] [B,,G]| [C,G,] [D,A,] H[G,E,]
+[E,B,]| [D,D] [G,D] [D,D] [B,,G,]| [C,G,] [D,A,] H[G,E,]
 w: _ _ _ _ _ _ _ DC
 [G,B,]| [G,G,] [E,B,] [D,D] [A,,E]| [D/2B,,/2]-[D/2C,/2] [D/2D,/2]-[C/2D,/2] H[G,,B,]|| [C,4E,4]| [G,,4D,4]|]
 w: _ _ _ _ _ _ _ _ _ PAC _ plagal{% endcapture %}
@@ -76,17 +76,17 @@ V:2 clef=bass
 
 Cadences close each musical idea and phrase--they are the punctuation at the end of musical sentences. We classify each cadence by their harmonic progressions.
 
-- **Authentic Cadence** - any cadence in which a dominant function harmony (i.e. V or vii<sup>o</sup> resolves to I. There are two types of authentic cadences, so we always label any authentic cadence as one of these: 
+- **Authentic Cadence** - any cadence in which a dominant function harmony (i.e. V or vii<sup>o</sup>) resolves to I. There are two types of authentic cadences, so we always label any authentic cadence as one of these: 
     - **Perfect Authentic Cadence (PAC)**
-        - Must be a V chord resolve to a I chord.
-        - Both the V chord and I chord are in root position.
+        - Must have a V chord resolving to a I chord
+        - Both the V chord and I chord are in root position
         - `Do` is in the soprano voice of the I chord 
     - **Imperfect Authentic Cadence (IAC)**
         - Any authentic cadence that does not fulfill all of the requirements for a PAC.
 - **Half Cadence (HC)**
     - Any phrase that ends on a V chord.
     - **Phrygian Half Cadence (PHC)**
-        - This is a special type of half cadence that only occurs in minor and must have a iv<sup>6</sup> resolve to a root-position V chord
+        - This is a special type of half cadence that only occurs in minor and must have a iv<sup>6</sup> resolving to a root-position V chord
 - **Plagal Cadence (PC)**
     - Any phrase that ends in IV resolving to I
         - Commonly associated with "Amen" at the end of chorales
