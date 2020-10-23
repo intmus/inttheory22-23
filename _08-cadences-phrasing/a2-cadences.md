@@ -5,7 +5,19 @@ title: Discussion 8a - Cadences
 
 # Class discussion
 
-TBD
+- Cadences are like the many different endings to a scentence or speech puncuation. 
+- It's not about if we can lable chords, but can we lable function.
+- Tonic is stable, Dominant is less stable as it feels like it eventually needs to resolve to **I**. Pre-dominants want to resolve to **V**. 
+
+**Cadence Types** 
+- PAC: **V** to **I** with both chords in root position. Soprano has to have *do* on **I** chord. (Dominant function chords to I)
+- IAC: Just break one of the rules from PAC. ex: **vii** to **I**. Or *mi* in the soprano line on **I** chord. (Still must be a dominant function chord to I)
+- HC: Lands on the **V** chord and doesn't resolve any farther (in root position). Before the **V** any chord can preceed it. **V7** can still count as a half cadence. It is just very uncommon as the **V7** has a strong pull to **I**. Can never be **viiº** as there are tendency tones that need to resolve.
+- PC: **IV** to **I**. Both are in root position. There are no other variations of this. One of the voices will have the pedal *do* across both chords.  
+- DC: **V** to **vi**. The bass has *sol* and *la*. It you take away the *la* you end up with a PAC. Both chords have to be in root position. **V7** to **vi** is easier to voice. Here the **vi** is functioning as the **I** so we double the root (which is the third if still thinking of it as the **vi**).
+
+These cadences can be found in a progression, but if it is not at the end of the phrase, it isn't called a cadence.
+IAC is like a semi colon or comma. DC is like a question mark. PAC is very final so a period. 
 
 # Further reading
 
