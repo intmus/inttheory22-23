@@ -4,9 +4,11 @@ title: Lesson 2e - The Overtone Series
 abc: true
 ---
 
-<!-- Needs HUGE OVERHAUL. Overtone Series used to be in Unit 8 while discussing harmonic function, but it makes more sense to have it here immediately following key signatures. Will also require alteration of assignments to include overtone series. All material that used to introduce these ideas from 2d Key Signature topic have been copied at the bottom of this page and need to be incorporated into this topic.-->
+<!-- Needs HUGE OVERHAUL. Overtone Series used to be in Unit 8 while discussing harmonic function, but it makes more sense to have it here immediately following key signatures. Will also require alteration of assignments to include overtone series. All material that used to introduce these ideas from 2d Key Signature topic have been copied at the bottom of this page.
 
-You have likely heard the terms *overtone series* and *harmonic series* while discussing music, but unless you have studied them previously, you may not realize the importance of this concept in creating tonality. The overtone series occurs naturally in all non-synthetic tone production. When a person sings, a harmonic series is present above every pitch. When any woodwind, string, or brass instrument creates a pitch, a harmonic series is present above any pitch. Perhaps even more importantly for our discussions, we can study the acoustics--or the math--behind this overtone series to explain the fundamentals of Western harmony.
+It would be best to have a unit on keys, another unit on key signatures (that includes the "tricks" for finding key signature tonics), and then a third unit on the overtone series and its determining role in intonation. You will need to move all of this around, and create a new topic for just key signatures. Unless you decide to re-incorporate all of the key signature stuff back into keys, but that seems unlikley to be the best strat. For the overtone series, keep everything here until right after the Physics of Music section starts, and then bring in your material on how the ratio between waves creates intervals, and then use that to discuss just versus equal temperment-->
+
+You have likely heard the terms *overtone series* and *harmonic series* while discussing music, but unless you have studied them previously, you may not realize the importance of this concept in creating tonality. The overtone series occurs naturally in all non-synthetic tone production. When a person sings, a harmonic series is present above every pitch. When any woodwind, string, or brass instrument creates a pitch, a harmonic series is present above every pitch. Perhaps even more importantly for our discussions, we can study the acoustics--or the math--behind this overtone series to explain the fundamentals of Western harmony.
 
 The overtone series can help you to understand:
 - why we divide the octave into twelve parts.
@@ -40,8 +42,6 @@ Next, please watch this wonderful video of Leonard Bernstein explaining how the 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gt2zubHcER4" frameborder="0" allowfullscreen></iframe>
 
 ### The Physics of Music
-
-<!-- FROM PREVIOUS YEAR: WHAT DOES THIS MEAN? Because class time was running short and the students were already familiar with key signatures, we did not spend much time figuring out the basics of key signatures. Instead, we used the examples on the previous page to try to understand "how" key signatures effect keys. -->
 
 The division of the octave into twelve parts is our brains' interpretations of a simple mathematical phenomenon. When the frequency of a soundwave doubles, our brains hear those two frequencies as sharing some fundamental commonality, so it interprets those two pitches as the "same" but separated by an octave. Therefore, octaves always have a 2:1 ratio. (A110, A220, A440, and A880 are all `A` separated by octaves.) The next two simplest ratios ares a 3:2 ratio and a 4:3 ratio, which create a perfect 5th and a perfect 4th respectively. 
 
