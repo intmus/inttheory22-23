@@ -10,44 +10,7 @@ abc: true
 
 Understanding non-chord tones is critical for increasing the accuracy and speed of your tonal analysis. When looking at pieces of music, specifically those that have complicated textures, you will often face difficult decisions about which tones are functional to the harmonic progression and which tones are embellishing those functional tones. If you know the shapes that chord tones and their embellishments form, you can separate chord tones from embellishments by simply looking for common patterns.
 
-## Labeling non-chord tones
-
-When we analyze non-chord tones we *label* a single pitch that does not belong to the chord, however, we are actually *classifying* the motion between the non-chord tone and its surrounding pitches, and you can see this in how we defined the three non-chord tones (NCTs) that we studied in Units 5 and 6:
-- A *passing tone* (PT) is a non-chord tone which is approached by step and left by step in the same direction.
-- A *neighbor tone* (NT) is a non-chord tone which is approached by step and left by step in the opposite direction.
-- A *suspension* (SUS) is a non-chord tone which is approached by static motion and resolves downward by step.
-
-As you can see, each definition describes the motion to and from the NCT, so to facilitate discussions of NCTs, there are formal names for each pitch involved in the creating the "shape" of a non-chord tone:
-- the preparation
-    - The chord tone that directly precedes the NCT.
-    - Its relationship to the NCT will define the type of movement used to approach the NCT.
-- the non-chord tone
-    - The NCT must not be a member of the chord. 
-        - This should seem obvious given the name, but this is the most common mistake that students make when labeling NCTs.
-- the resolution
-    - The chord tone that immediately follows the NCT.
-    - Its relationship to the NCT will define the type of movement used to leave the NCT.
-
-## Further non-chord tone terminology
-
-This information provides a methodology and framework through which we can look at all non-chord tones, but we need further language to describe the function and characteristics of any non-chord tone.
-- Accented vs unaccented
-    - An accented NCT occurs in a strong metric position ("on the beat"). 
-    - An unaccented NCT occurs in a weak metric position ("off the beat").
-- On-chord vs off-chord
-    - An on-chord NCT coincides with a change of harmony.
-    - An off-chord NCT does not coincide with a change of harmony.
-- Chromatic vs diatonic
-    - Diatonic NCTs use only the notes present in the key-signature whereas chromatic NCTs have an accidental.
-    - All types of NCTs can be either chromatic or diatonic, although some are extremely rare (such as a chromatic suspension).
-- Ascending vs descending (*passing tones only*)
-    - This describes the direction created by the passing tone when combined with the chord tones on either side.
-- Upper vs lower (*neighbor tones only*)
-    - Neighbor tones can be divided into two categories based on whether they are above or below the chord tone that they are embellishing.
-
-One note on these labels: Because some methods for musical analysis only focus on music of certain periods (e.g. the Classical era), they may be overly specific in describing certain non-chord tones in a way that does not fully address the nature of the non-chord tone. For example, some texts say that suspensions must be accented, but because accented refers to a metric position ('on' or 'off' the beat) rather than a harmonic position, this is not always true in later styles. This is likely always true in the music of Mozart or even Beethoven, but it is not always true for the music of Gustav Mahler or John Lennon. It would be better to say that suspensions are always *on-chord*, because this allows for a suspension to happen in a weaker metric position. Harmony and rhythm exist independently, so we should use labels that allow us to approach all types of music.
-
-**We will use the following simple progression as a template for demonstrating non-chord tones. Start by creating a Roman numeral analysis with leadsheet symbols.**
+**We will use the same simple progression that we used in the previous topic as a template for demonstrating non-chord tones. If you do not still have this analyzed, you may wish to do so again before proceeding.**
 
 {% capture ex1 %}X:1
 T:A simple phrase
@@ -61,65 +24,9 @@ V:2 clef=bass
 [F,C]| [B,,D] [CC,]| [CF,] [D,B,]| [B,,G,] [G,C,]| H[A,2F,,2]|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-**Using this framework we can add some of the NCTs that we have already studied. The following exercise incorporates multiple examples of each type of NCT to create an (overly) embellished example. Identify each of the non-chord tones.**
-
-{% capture ex2 %}X:2
-T:With added suspensions, passing tones, and neighbor tones
-M:4/4
-L:1/2
-Q:1/4=80
-K:F
-V:1
-[FA]| [D/2G/2][D/2A/2] [EB]| [F/2A/2][F/2G/2] [F/2D/2][E/2D/2]| [DD] [CE]| H[C2F2]|]
-V:2 clef=bass
-[F,C]| [B,,D] [D/2C,/2][C/2C,/2]| [CF,] [D,B,]| [B,,/2G,/2][B,,/2A,/2] [G,C,]| H[A,2F,,2]|]
-w:F:I ii6 V7 _ I IV6 ii6 _ V I{% endcapture %}
-{% include abc-example.html number="2" abc=ex2 %}
-
-### Conclusions
-
-![][passing]
-
-A passing tone is a melodic embellishment that occurs between two stable tones, creating stepwise motion. *It is approached by stepwise motion and left by stepwise motion in the same direction.* The typical figure is *chord tone – passing tone – chord tone*, filling in a third (see example), but two adjacent passing tones can also be used to fill in the space between two chord tones a fourth apart--a *double passing tone*. A passing tone can be either accented or unaccented as well as on-chord or off-chord.
-
-#### Neighbor Tone (NT)
-
-![][neighbor]
-
-Like the passing tone, a neighbor tone is a melodic embellishment that occurs between two stable tones; however, a neighbor tone occurs between two instances of the same stable tone. *It is approached by stepwise motion and left by stepwise motion in the opposite direction.* Also like the passing tone, movement from the stable tone to the neighbor tone and back will always be by step. A neighbor tone can be either accented or unaccented, but unaccented is more common. It can also be either on-chord or off-chord.
-
-#### Suspension (SUS)
-
-![][suspension]
-
-A suspension is formed of three critical parts: the *preparation* (accented or unaccented), the *suspension* itself (accented), and the *resolution* (unaccented). The preparation is a chord tone (consonance). The suspension is *the same note* as the preparation and *will always be on-chord*. The suspension then resolves downward by step to the resolution, which occurs over the same harmony as the suspension. The suspension is in many respects the opposite of an anticipation (see below); if the anticipation is an early arrival of a tone belonging to the following chord, a suspension is a lingering of a chord tone belonging to the previous chord that forces the late arrival of the new chord’s chord tone. However, in composition and improvisation, the suspension must be treated with a great deal more care than an anticipation. The most common suspensions (and their resolutions) in upper voices form the following intervallic patterns against the bass: 9–8, 7–6, 4–3. (With the exception of 9–8, the pitch class of the resolution tone should never sound in another voice simultaneous with the suspended tone.) You should label suspensions by adding the intervallic pattern against the bass to the abbreviation "sus"; if the suspension is in the bass, please label the intervals against the most dissonant voice. (In a four-part harmony, this will almost always result in a 2-3 suspension.)
-
 ## More non-chord tones
 
-There are many other types of NCTs, and we can use our simple progression to demonstrate examples of each of them. Compare the examples below to the original progression to determine what has changed; this change is the NCT. As you do this, use the the three characteristics discussed in the overview -- preparation, NCT, and resolution -- to create a definition for each NCT. Once you have a working definition, see if the other other descriptors (such as upper/lower, ascending/descending, chromatic/diatonic, on-chord/off-chord or accented/non-accented) can be applied to each NCT.
-
-### Retardations (RET)
-
-**Which other NCT does a retardation resemble?**
-
-{% capture ex3 %}X:3
-T:With added retardations
-M:4/4
-L:1/2
-Q:1/4=100
-K:F
-V:1
-[FA]| [DG] "ret"[D/2B/2][E/2B/2]| [FA] [FD]| [DD] [CE]| "ret"[C/2E/2]H[C/2F/2]|]
-V:2 clef=bass
-[F,C]| [B,,D] [CC,]| [CF,] [D,B,]| [B,,G,] [G,C,]| H[A,F,,]|]
-w:F:I ii6 V7 I IV6 ii6 V I{% endcapture %}
-{% include abc-example.html number="3" abc=ex3 %}
-
-#### Conclusion (RET)
-
-![][retardation]
-
-A retardation is essentially an upward-resolving suspension. It is almost always reserved for the final chord of a large formal division (or a movement), and it frequently appears simultaneously with a suspension (as seen in the example). Like suspensions, retardations must be accented and on-chord, yet unlike suspensions, it is not necessary to label the intervals against the bass, although you may if you wish.
+Compare the examples below to the original progression to determine what has changed knowing that any added pitches will be the NCTs of that type. As you do this, use the the three characteristics discussed in the previous topic--preparation, NCT, and resolution--to create a definition for each NCT. Once you have a working definition, see if the other other descriptors (e.g. upper/lower, ascending/descending, chromatic/diatonic, on-chord/off-chord, or accented/non-accented) can be applied to each NCT.
 
 ### Neighbor Groups (NG) - also called "double neighbor tones"
 
@@ -237,17 +144,14 @@ w:F:I ii6 V7 I IV6 ii6 V I IV6/4 I{% endcapture %}
 
 Pedals are *approached by static motion and left by static motion*; essentially, this is just a pitch that refuses to leave regardless of whether it belongs to the chord. Pedals are one of the most interesting non-chord tones because they have a dual nature--they create some of the strongest dissonances in tonal harmony, but their repetitive nature provides a sort of strange stability. As a pedal continues, it will often alternate between acting as a chord tone and non-chord tone, so it can be helpful to label the chord tones as "pedal figures" to show the continuation of the pedal.
 
-## Less common non-chord tones
+## A less common non-chord tone
 
 ### Incomplete Neighbor Tone (INT)
 
 It is uncommon, but you will occasionally encounter an unaccented non-chord tone that is approached by leap and left in the *same* direction; resembling an appoggiatura but not resolving in the opposite direction. For this course, we will label these as *incomplete neighbor tones*, although some theorists use this term to refer to appoggiaturas and escape tones as well. Broadly speaking, you should not resort to an incomplete neighbor tone NCT unless you have exhausted all other options, because it is far more likely for this shape is part of a chordal skip rather than an NCT.
 
-[passing]: {{ site.baseurl }}/images/embellishingTones/passingTone.png 
-[neighbor]: {{ site.baseurl }}/images/embellishingTones/neighborTone.png
+
 [INT]: {{ site.baseurl }}/images/embellishingTones/INT.png
 [appoggiatura]: {{ site.baseurl }}/images/embellishingTones/appoggiatura.png
 [escape]: {{ site.baseurl }}/images/embellishingTones/escapeTone.png
 [anticipation]: {{ site.baseurl }}/images/embellishingTones/anticipation.png
-[suspension]: {{ site.baseurl }}/images/embellishingTones/suspension.png
-[retardation]: {{ site.baseurl }}/images/embellishingTones/retardation.png
