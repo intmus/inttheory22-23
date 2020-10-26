@@ -8,9 +8,9 @@ abc: true
 
 ## Chord tones versus non-chord tones (NCTs)
 
-To this point in our harmonic analyses, we have looked at mostly simple textures that utilized steady, blocked chords. To make music varied and interesting, however, we need to be able to create a variety of melodic shapes and motives, and this requires using a mixture of pitches that are functional--meaning that they are part of the harmony--and non-functional *embellishments*. We call these embellishing pitches *non-chord tones (NCT)*, and understanding which pitches are functional is often the most difficult hurdle in harmonic analysis.
+To this point in our harmonic analyses, we have looked at mostly simple textures that utilized steady, blocked chords. To make music varied and interesting, however, we need to be able to create a variety of melodic shapes and motives, and this requires using a mixture of pitches that are functional--meaning that they are part of the harmony--and non-functional embellishments. We call these embellishing pitches *non-chord tones (NCT)*, and understanding which pitches are functional is often the most difficult hurdle in harmonic analysis.
 
-Much like determining the harmonic rhythm, finding NCTs can be difficult because it requires working through all possible combinations of the pitches within a given harmony and then choosing the most likely combination. Even if you know that the harmony spans only two beats, it can be difficult to sort through all the possible combinations if the texture is complicated. Fortunately, the same strategies that work for determining the harmonic rhythm provide a foundation for determining NCTs. You can begin by looking at melodic patterns and bass-lines, and it is helpful to consider whether a note occurs in a strong or weak metric position. It is unusual for the functional tones to occur *only* on offbeats, as the ear is drawn to pitches when they occur on the beat. 
+Much like determining the harmonic rhythm, finding NCTs can be difficult because it requires you to work through all possible combinations of the pitches within a given harmony and then choose the most likely combination. Even if you know that the harmony spans only two beats, it can be difficult to sort through all the possible combinations if the texture is complicated. Fortunately, the same strategies that work for determining the harmonic rhythm provide a foundation for determining NCTs. You can begin by looking at melodic patterns and bass-lines, and it is helpful to consider whether a note occurs in a strong or weak metric position. It is unusual for the functional tones to occur *only* on offbeats, as the ear is drawn to pitches when they occur on the beat. 
 
 Even for one experienced in finding patterns within the music, this still sometimes requires trial-and-error. When first learning how to identify non-chord tones, you may want to copy and rearrange the pitches on another staff (or lightly next to the chord if there is room,) to see what triads and seventh chords are even possible given the present notes. Usually this is enough to limit the possibilities to one or two chords. When it is not, you will then need to refer to your harmonic flowchart to see if there is some context that could provide a probable chord.
 
@@ -107,9 +107,16 @@ Like the passing tone, a neighbor tone is a melodic embellishment that occurs be
 
 ![][suspension]
 
-A suspension is formed of three critical parts: the *preparation* (accented or unaccented), the *suspension* itself (accented), and the *resolution* (unaccented). The preparation is a chord tone (consonance). The suspension is *the same note* as the preparation and *will always be on-chord*. The suspension then resolves downward by step to the resolution, which occurs over the same harmony as the suspension. The suspension is in many respects the opposite of an anticipation (see below); if the anticipation is an early arrival of a tone belonging to the following chord, a suspension is a lingering of a chord tone belonging to the previous chord that forces the late arrival of the new chord’s chord tone. However, in composition and improvisation, the suspension must be treated with a great deal more care than an anticipation. The most common suspensions (and their resolutions) in upper voices form the following intervallic patterns against the bass: 9–8, 7–6, 4–3. (With the exception of 9–8, the pitch class of the resolution tone should never sound in another voice simultaneous with the suspended tone.) You should label suspensions by adding the intervallic pattern against the bass to the abbreviation "sus"; if the suspension is in the bass, please label the intervals against the most dissonant voice. (In a four-part harmony, this will almost always result in a 2-3 suspension.)
+A suspension is formed of three critical parts: the *preparation* (accented or unaccented), the *suspension* itself (accented), and the *resolution* (unaccented). The preparation is a chord tone (consonance). The suspension is *the same note* as the preparation and *will always be on-chord*, **which means that all suspensions require two chords**, because the preparation will be on a different chord than the NCT itself. The suspension then resolves downward by step to the resolution, which occurs over the same harmony as the suspension. 
 
-Because suspensions can take many forms, we apply intervallic labels. When the suspension is in an upper voice, we always label the intervals of the suspension and its resolution against the *bass* meaning that the intervals will move from large to small (e.g. 4-3, 7-6, 9-8, etc.). When a suspended note is in the bass voice, however, we label the intervals against the most dissonant interval which means that the intervals will move from small to large (e.g. 2-3). This is because suspensions always resolve *down* by step. When you measure a downward resolution in an upper voice against a lower voice, the intervals get smaller as the upper voice moves *closer* to the bass. When you measure a downward resolution against a higher voice, the intervals get larger as the bass moves *away* from the upper voice.
+Of note, it is a common misconception among students that a suspension is only present if you see a *tied* note. This is not true; the tone can be re-articulated. It only needs to follow the pattern of 
+- chord tone -> 
+- non-chord tone approached by static motion on a new chord -> 
+- resolution within the same chord.
+
+The suspension is in many respects the opposite of an anticipation (see the next topic, Unit 9b); if the anticipation is an early arrival of a tone belonging to the following chord, a suspension is a lingering of a chord tone belonging to the previous chord that forces the late arrival of the new chord’s chord tone. However, in composition and improvisation, the suspension must be treated with a great deal more care than an anticipation. The most common suspensions (and their resolutions) in upper voices form the following intervallic patterns against the bass: 9–8, 7–6, 4–3. (With the exception of 9–8, the pitch class of the resolution tone should never sound in another voice simultaneous with the suspended tone.)
+
+Because suspensions can take many forms, we apply intervallic labels. When the suspension is in an upper voice, we always label the intervals of the suspension and its resolution against the *bass* meaning that the intervals will move from large to small (e.g. 4-3, 7-6, 9-8, etc.). When a suspended note is in the bass voice, however, we label the intervals against the most dissonant interval which means that the intervals will move from small to large (e.g. 2-3). When you measure a downward resolution in an upper voice against a lower voice, the intervals get smaller as the upper voice moves *closer* to the bass. When you measure a downward resolution against a higher voice, the intervals get larger as the bass moves *away* from the upper voice.
 
 Of note, because we use the most dissonant voice to label suspensions in the bass, you will use the "2-3" label in the vast majority of this type of suspension. These intervals will be present for suspensions resolving to either the root or chordal third as long as the chord is complete. You are unlikely to encounter a suspension above a chordal fifth in the bass because of the usage rules of second inversion chords, and a suspension above the chordal seventh would just be the root of the chord--meaning that it is not a non-chord tone.
 
@@ -136,93 +143,36 @@ w:F:I ii6 V7 I IV6 ii6 V I{% endcapture %}
 
 ![][retardation]
 
-A retardation is essentially an upward-resolving suspension. It is almost always reserved for the final chord of a large formal division (or a movement), and it frequently appears simultaneously with a suspension (as seen in the example). Like suspensions, retardations must be accented and on-chord, yet unlike suspensions, it is not necessary to label the intervals against the bass, although you may do so if you wish.
+A retardation is essentially an upward-resolving suspension. It is almost always reserved for the final chord of a large formal division (or a movement), and it frequently appears simultaneously with a suspension (as seen in the picture above). Like suspensions, retardations must be accented and on-chord, yet unlike suspensions, it is not necessary to label the intervals against the bass, although you may do so if you wish.
 
 ## A few last notes
 
-There are four other standard non-chord tones that we will discuss in the next unit, but we should clear up some common questions before moving on.
+There are four other standard non-chord tones that we will discuss in the next topic, but we should clear up some common questions before moving on.
 
-One of the most common questions about non-chord tones is whether a pitch should be written as a passing tone or a chordal seventh. For example, if there is a V chord that has one voice that moves from `sol` through `fa` and then resolves to `mi` on the following chord, should that be considered a V chord with a passing tone or a V<sup>7</sup>?
-- In this particular case, you should consider `fa` as part of the chord, because it is functioning as a chordal seventh. The chordal seventh is a tendency tone that wants to resolve downward, and it is doing so here. If it resolves another way (e.g. up by step), it might be a melodic passing tone and is therefore not functional. 
+1. First, some non-chord tones can occur within a single harmony *or* across two harmonies, meaning the preparation, NCT, and resolution are contained within one chord or spread across two. But other NCTs are restricted to one or the other. For example, a passing tone can be either within a single chord or spanning two chords, but suspensions and retardations can *only* happen across two chords; it is not possible to have suspension or retardation within a single chord. Any NCT with restrictions such as this will be noted in their descriptions, and it is imperative that you learn the context for each of the non-chord tones, so that you can quickly identify these issues.
+2. Once we have discussed all nine of the standard NCTs, you will be able to describe and analyze almost any combination of melodic intervals as they pertain to tonal harmony. Generally speaking, if you cannot come up with an analysis of a melody that accounts for each NCT into one of the nine categories, that means that you likely analyzed the harmonies incorrectly. As with even the most consistent of musical ideas, there will be occasional exceptions, but understanding your NCTs will be one of the easiest ways for you to make your analyses more effecient and effective.
+3. As we learn each of these non-chord tones, you will begin to notice these patterns in music, even when no NCT is present. If you would like to use a motion description for a chord tone, such as passing or neighbor, you can replace the word *tone* with the word *figure*. So a "passing figure" is a pitch that is approached by step and left by step in the same direction, but all three of the pitches that make up the preparation, passing tone, and resolution are chord tones.
+4. One of the most common questions about non-chord tones is whether a pitch should be written as a passing tone or a chordal seventh. For example, in the progression below, we have an imperfect authentic cadence, that starts as a simple triad, but then the alto voice moves to `fa` which could be analyzed as either a passing tone or a chordal seventh. So which would you choose? Is this a V chord with a passing tone or is this a V<sup>7</sup> chord with no non-chord tones?
+- In this particular case, I would consider `fa` as part of the chord, because it is functioning as a chordal seventh. The chordal seventh is a tendency tone that typically resolves downward by step, and it is doing so here. If it resolved in another way (e.g. up by step), it might be a melodic passing tone and would therefore be not functional.
+
+{% capture ex4 %}X:4
+T:V7 to I with ambiguous NCT
+M:4/4
+L:1/2
+Q:1/4=80
+K:C
+V:1
+[B/2G][B/2F][cE]|]
+V:2 clef=bass
+[G,,D][C,C]|]
+w:VorV7? I{% endcapture %}
+{% include abc-example.html number="4" abc=ex4 %}
 
 Regardless of whether you include the pitch as functional, the NCTs must always match the Roman numeral. In this scenario, if you choose to include the chordal seventh in your harmony, you only need to write the proper Roman numeral and inversion figure. If, however, you decide that the chordal seventh is just a passing tone, you must label it as a non-chord tone and write only `V` for the Roman numeral.
 
-## Embellishing Tones in Cadential Motion
+## A final reminder!
 
-**The next example contains the same harmonies from the first example, but it has an additional pitch in each measure.**
-- Are the new intervals consonant or dissonant?
-  - For each new pitch, do you feel it strengthens or weakens the cadence?
-- Which, if any, of these "new" notes belong to the chords that you assigned in the previous example? 
-  - From this, you can label what you consider to be *chord tones* and *non-chord tones*--chord tones are pitches that belong to the harmony, and non-chord tones do not.
-- What do intervals of the non-chord tones have in common? 
-- Finally, how would you describe the types of motion between the chord tones and non-chord tones?
-
-{% capture ex4 %}X:4
-T:Chord skips and passing/neighbor non-chord tones
-M:4/4
-L:1/2
-Q:1/4=80
-K:C
-V:1
-Bc|| F/2D/2E|| d/2f/2e|| Bc|| Bc|| G/2A/2G|]
-V:2 clef=bass
-"M3"G,/2"M6"D,/2"P8"C,|| "m7"G,/2"P5"G,/2"M3"C,|| "P5"G,/2"m7"G,/2"M3"C,|| "+4"F,/2"M6"D,/2"m6"E,|| "P8"B,/2"M2"A,/2"P4"G,|| "M2"F,/2"M3"F,/2"m3"E,|]{% endcapture %}
-{% include abc-example.html number="4" abc=ex4 %}
-
-### Conclusion
-
-As we first begin to study non-chord tones, the most important thing to remember is what the name "non-chord tone" emphasizes. **NCTs must not belong to the chord.** The first four measures added decorations that were simply part of the V or V<sup>7</sup> chords that were already implied. Of note, you will likely hear the added `F` in measures 3 and 4 as changing the harmony from V to V<sup>7</sup>, meaning that the embellishment was still part of the harmony. 
-
-In measure 5 however, the A on beat 2 is certainly not part of the implied V or V7 harmonies. An embellishment that does not belong to the harmony is called a *non-chord tone* (NCT), and there a variety of NCTs that can be classified by how they are approached and left. The measure 5 NCT is called a *passing tone*, because it has a passing motion, so we can define a passing tone as a non-chord tone that is *approached by step* and *left by step in the same direction*. 
-
-The final measure also clearly contains a non-chord tone, because the `A` can not be incorporated into a V or V<sup>7</sup> chord. This is an example of a *neighbor tone*--a non-chord tone that is *approached by step* and *left by step in the opposite direction*.
-
-A final reminder: always make sure that the pitch is not actually a chord tone! This is one of the most common mistakes for beginning analysts.
-
-## Suspensions
-
-**The suspension is another type of non-chord tone. Each of the measures in the next example are grouped in pairs to demonstrate how suspensions are formed. The first measure is a simple two-voice harmony from the examples above, but the next measure adds a suspension to that framework.**
-- How would you define a suspension? What are the three parts of any suspension? 
-- How do we determine the labels (i.e. numbers after the word *sus*)?
-
-{% capture ex5 %}X:5
-T:Suspensions
-M:4/4
-L:1/2
-Q:1/4=80
-K:C
-V:1
-FE| F-"sus4-3"F/2E/2|| dc|| d-"sus9-8"d/2c/2|| GE|| GE|]
-V:2 clef=bass
-G,C,| G,C,|| G,C,| G,C,|| D,C,|| D,-"sus2-3"D,/2C,/2|]{% endcapture %}
-{% include abc-example.html number="5" abc=ex5 %}
-
-### Conclusion
-
-After looking at the examples for suspensions, it may seem that a *suspension* is a pitch that is tied over from the previous chord. This is on the right track, but defining a suspension requires considerably more information. 
-
-With this in mind, a suspension must have all three of the following qualities to be considered a suspension:
-- It must start as a *chord tone* in the previous chord and then remain unchanged into the new chord.
-- It must create a *non-chord tone* at the beginning of the new chord.
-- It must then resolve down by step to a chord tone of the new chord.
-
-Of note, it is a common misconception among students that a suspension is only present if you see a *tied* note. This is not true; the tone can be re-articulated.
-
-These three rules directly relate to the terminology that we use to describe the three basic components of a suspension:
-- *Preparation* - A chord tone that occurs as part of a chord before the suspension.
-- *Suspension* - A non-chord tone that occurs at the moment that all other voices change to the new chord. This tone must be carried over from the previous chord, but it can be re-articulated.
-- *Resolution* - The non-chord tone then resolves downward by step to a chord tone.
-
-There are many common mistakes when creating or analyzing suspensions:
-- There must be two chords. You cannot have a suspension with only one chord.
-- It must resolve downward. If it resolves upward, it is a different kind of non-chord tone.
-- It must resolve by step.
-
-#### Labeling suspensions
-
-Once you have familiarized yourself with these three concepts, review the examples above to ensure that you understand the form of a suspension. While doing this, you will notice that each of the suspensions is labeled with a pair of numbers in addition to the word *sus*.
-
-
+As we first begin to study non-chord tones, the most important thing to remember is what the name "non-chord tone" emphasizes. **NCTs must not belong to the chord.** This is one of the most common mistakes for beginning analysts.
 
 [passing]: {{ site.baseurl }}/images/embellishingTones/passingTone.png 
 [neighbor]: {{ site.baseurl }}/images/embellishingTones/neighborTone.png
