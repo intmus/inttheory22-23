@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 9b Lesson - Using Non-Chord Tones to Inform Harmonic Analysis
+title: 9c Lesson - Using Non-Chord Tones to Inform Harmonic Analysis
 abc: true
 ---
 

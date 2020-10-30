@@ -49,7 +49,7 @@ w:F:I ii6 V7 _ _ _ I IV6 ii6 _ _ V I{% endcapture %}
 
 ![](/images/embellishingTones/doubleNeighbor.png)
 
-Like neighbor tones, a *neighbor group*, also known as a double neighbor figure, begins and ends on the *same* stable tone. Between those two instances of the stable tone are two embellishing tones — one a step above and the other a step below the stable tone being embellished. Though individually we may consider each of the two embellishing tones to be incomplete neighbor tones, working together in the double-neighbor figure, they balance each other and create a contiguous whole, with the overall stability of a complete neighbor. A double neighbor figure is typically unaccented and off-chord, although it could be either accented and on-chord.
+Like neighbor tones, a *neighbor group*, also known as a double neighbor figure, begins and ends on the *same* stable tone. Between those two instances of the stable tone are two embellishing tones — one a step above and the other a step below the stable tone being embellished. Though individually we may consider each of the two embellishing tones to be incomplete neighbor tones, working together in the double-neighbor figure, they balance each other and create a contiguous whole, with the overall stability of a complete neighbor. A double neighbor figure is typically unaccented and off-chord, although it could be both accented and on-chord.
 
 ### Appoggiaturas (APP)
 
@@ -67,7 +67,7 @@ K:F
 V:1
 [FA]| [D/2G/2]"app"[D/2c/2] [EB]| [FA] [FD]| [DD] [CE]| H[C2F2]|]
 V:2 clef=bass
-[C/2F,/2]"app"[E/2F,/2]| [B,,D] [C/2C,/2]"app fig"[C/2G,/2]| [CF,] "app"[D,/2A,/2][D,/2B,/2]| [B,,G,/2][G,C,]| H[A,2F,,2]|]
+[CF,]| [B,,D] [C/2C,/2]"app fig"[C/2G,/2]| [CF,] "app"[D,/2A,/2][D,/2B,/2]| [B,,G,/2][G,C,]| H[A,2F,,2]|]
 w:F:I _ ii6 V7 _ I IV6 _ ii6 V I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
@@ -119,9 +119,11 @@ w:F:I ii6 V7 I IV6 _ ii6 V I{% endcapture %}
 
 An anticipation is essentially an otherwise stable tone that comes too early. An anticipation is a non-chord tone that will occur immediately before a change of harmony, and it will be followed on that change of harmony by the same note, now a chord tone of the new harmony. Therefore, it is approached by stepwise motion and left by static motion. The static motion between the NCT and its resolution means that you may consider this related to both suspensions and retardations, although unlike suspensions and retardations, this is an unaccented, off-chord NCT with static motion occurring *after* the NCT rather than before. It is typically found at the ends of phrases and larger formal units.
 
+#### Syncopation versus anticipations
+
 ![](/images/embellishingTones/syncopatedNote.png)
 
-Some theorists classify syncopated rhythmic figures as separate from anticipations, but this is more a discussion of re-articulation. For those that classify these differently, [syncopation](http://openmusictheory.com/syncopation.html) occurs when a rhythmic pattern that typically occurs on strong beats or strong parts of the beat occurs instead on weak beats or weak parts of the beat. Like the anticipation, the syncopated note is an early arrival — it tends to belong to the chord on the following beat. Unlike the anticipation, the syncopation is tied into a note in that chord and is not rearticulated. Rather than anticipating a note in the chord that follows, a syncopation is simply an early arrival. Of course, you should consider context when making this decision as this difference is subtle, but if there is a pattern of syncopated rhythms in a passage, you could be more likely to label a syncopation.
+Some theorists classify syncopated rhythmic figures as separate from anticipations, but this is more a discussion of re-articulation. For those that classify these differently, [syncopation](http://openmusictheory.com/syncopation.html) occurs when a rhythmic pattern that typically occurs on strong beats or strong parts of the beat occurs instead on weak beats or weak parts of the beat. Like the anticipation, the syncopated note is an early arrival — it tends to belong to the chord on the following beat. Unlike the anticipation, the syncopation is tied into a note in that chord and is not rearticulated. Rather than anticipating a note in the chord that follows, a syncopation is simply a disjointed and repeated arrival of the chord itself. Of course, you should consider context when making this decision as this difference is subtle, but if there is a pattern of syncopated rhythms in a passage, you could be more likely to label syncopation for the passage as a whole, rather than many anticpations.
 
 ### Pedals (PED)
 
@@ -155,3 +157,4 @@ It is uncommon, but you will occasionally encounter an unaccented non-chord tone
 [appoggiatura]: {{ site.baseurl }}/images/embellishingTones/appoggiatura.png
 [escape]: {{ site.baseurl }}/images/embellishingTones/escapeTone.png
 [anticipation]: {{ site.baseurl }}/images/embellishingTones/anticipation.png
+[syncopation]: {{ site.baseurl }}/images/embellishingTones/syncopatedNote.png
