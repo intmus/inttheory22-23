@@ -4,7 +4,9 @@ title: Lesson 10a - Basic Voice Leading Errors
 abc: true
 ---
 
-Before we move on to analyzing harmonic function, we must define the stylistic rules of the music we will be studying. I hope that you remember from our discussion of laws, rules, and strategies that rules are necessary to create a style. They are the binding agents that create a genre, but they also provide enough flexibility for composers within a style to carve out a unique voice. For our beginning exploration of tonal harmony, we will be studying basic diatonic harmony in a chorale style, so we need to consider the stylistic issues that arise when adding inner voices to our soprano-bass counterpoint.
+Before we move on to fully analyzing harmonic function, we must define the stylistic rules of the music we will be studying. If you remember from our discussion of laws, rules, and strategies, rules are necessary to create a style. They are the binding agents that create a genre, but they also provide enough flexibility for composers within a style to carve out a unique voice. 
+
+For our beginning exploration of tonal harmony, we will be studying basic diatonic harmony in a chorale style. We will use this not because it is "superior" to any other style, but because it is relatively straightforward in its approach when compared to styles of music that came later. There are countless styles of tonal music that have evolved over the last four centuries, but a chorale style gives us the best starting place to study this evolution. So as we progress through rules that might seem outdated, do not lose sight of the *process* that we are creating. If you understand why each decision is made in this style, you will be able to intuit the next leap forward. And as we add complexity, you will eventually be able to apply these principles to *any* style of tonal music, even those that abandon the underpinnings of tonic-dominant relationships. 
 
 ## Voice-leading errors
 
@@ -36,17 +38,17 @@ w:tenor bass{% endcapture %}
 
 ### Conclusions 
 
-To this point, everything that we have discussed has been based on a two-voice model, but to move into full diatonic harmony, we need to add inner voices and fully flesh out the harmonies. When doing this, there are certain rules that create better voice-leading and voicings when followed, but as with all stylistic guidelines, please note that these rules are generally strong suggestions rather than hard and fast rules. Good composers constantly bend or break these rules if it better serves their ideas.
+To this point, everything that we have discussed has been based on a two-voice model, but to move into full diatonic harmony, we need to add inner voices and fully flesh out the harmonies. When doing this, there are certain rules that create better voice-leading and voicings when followed, but as with all stylistic guidelines, please note that these rules are generally strong suggestions rather than hard and fast rules. Good composers bend or break these rules if it better serves their ideas.
 
 #### Doubling
 
 When voicing triads in four-part harmony, at least one note must be doubled.
 
-1. Doubling the root is the ideal choice.
+1. Doubling the root is usually the ideal choice.
 2. Doubling the fifth is the second best option.
-3. Doubling the third is generally *unacceptable*, although there are certain corner cases in which this can be necessary. As a rule of thumb, try to never double the third. The reason for this will be clear after we talk about chordal resolutions in Unit 7a.
-4. If you need to omit a voice, the fifth is the only option, because the root and third are required to define the chord. Diminished triads are the only diatonic harmony that require a fifth as well.
-4. You can triple the root if necessary, but this creates a difficult voicing to continue writing afterwards. This is most commonly used as an ending chord of the piece (often after a V7).
+3. Doubling the third is generally *unacceptable*, although there are certain corner cases in which this can be necessary. As a rule of thumb, do not double the third unless you are working on a chord in which you've already been told that doubling the third is the best option.
+4. If you need to omit a voice, the fifth is the only option, because the root and third are required to define the chord. Diminished triads are the only diatonic harmony which functionally benefit from a fifth, but even in these situations, the fifth might be the best omission if necessary.
+4. You can triple the root if necessary, but this voicing lacks the depth of a chord with a fifth and can create a difficult voicing to continue writing afterwards. This is most commonly used as an ending chord of the piece (often after a V7).
 
 Doubling in a seventh chord is similar, but because you have four notes for four voices, there is less freedom.
 1. There must always be a root, third, and seventh in the chord, because without any of them, the chord is no longer a functional seventh chord.
@@ -55,15 +57,16 @@ Doubling in a seventh chord is similar, but because you have four notes for four
 
 #### Spacing
 
-Spacing is a relatively straightfoward idea, but it took the class quite a few tries to come up with working definitions based on the examples. The final conclusions were:
+Spacing is a relatively straightfoward idea, but it can be difficult to create the working definitions based on the examples. Your final conclusions should be:
 - The bass *can* be as far from the tenor as needed.
-- Tenor and alto *cannot* have more than an octave between them.
-- Soprano and alto *cannot* have more than an octave between them.
+- Between the soprano, alto, and tenor voices, adjacent voices cannot be more than an octave apart. Meaning that the:
+  - Tenor and alto *cannot* have more than an octave between them.
+  - Soprano and alto *cannot* have more than an octave between them.
 - Tenor and soprano *can* have more than an octave between them.
   - When the tenor and soprano are within an octave of each other, we call this a *closed voicing*.
   - When the tenor and soprano are more than an octave apart, we call this an *open voicing*.
 
-In general, a good voicing will mimic the overtone series on which our harmony is created. This details of this concept are discussed in Unit 8, but a general rule of good voicing is to allow wider intervals between lower voices and narrower intervals between high voices.
+In general, a good voicing will mimic the overtone series on which our harmony is created. This details of this concept are discussed in Unit 11, but a general rule of good voicing is to use wider intervals between lower voices and narrower intervals between high voices.
 
 #### Range
 
@@ -71,4 +74,7 @@ The ranges for each voice in the examples are conservative, but will serve us we
 
 #### Voice-crossing
 
-There was no easy way to notate this in the examples, but voice-crossing should be avoided unless absolutely necessary. It is almost never absolutely necessary.
+There was no easy way to notate this in the examples, but you should avoid crossing your voices unless absolutely necessary. It is almost never absolutely necessary and often creates voice-leading and range issues. As you grow in your part-writing, you may find an occasional reason to cross voices, but do not unnecessarily complicate your first attempts.
+
+Egon explained this best in one of the greatest 80's movies, so bonus points for anyone that understands this reference.
+![Never cross the streams](https://64.media.tumblr.com/4ac0c9272c14cddd23e64831c6f7ae1e/tumblr_n2snvjtemt1r9a32bo1_400.gifv)
