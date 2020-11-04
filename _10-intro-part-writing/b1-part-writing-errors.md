@@ -79,7 +79,7 @@ V:2 clef=bass
 w:C:I ii6 V7 I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-Parallel perfect octaves and perfect fifths undermine the independence of lines, so you should always avoid them in this style. Listen to the following example, and try to locate the parallel perfect fifths aurally before you look through the parts. Once you have identified the voices that contain the PP5, try singing the upper of the two voices, and then listen to the example again. Do you have a difficult time differentiating the upper voice from the lower of these two voices?
+The parallel perfect octaves in this example occur between the soprano and tenor voices over the last two chords. The underlying issue, however, because a doubling rule was broken on the V<sup>7</sup> chord in which the third was double, you are forced to choose between incorrectly resolving one of the leading tones or undermining the independence of the two voices by locking them into consecutive perfect octaves.
 
 {% capture ex2 %}X:2
 T:Parallel perfect fifths (PP5)
@@ -93,6 +93,9 @@ V:2 clef=bass
 [C,G,] [D,A,] | [DG,] [C,C]|]
 w:C:I ii V7 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
+
+
+PP8 and PP5 undermine the independence of lines, so you should always avoid them in this style. Listen to the following example, and try to locate the parallel perfect fifths aurally before you look through the parts. Once you have identified the voices that contain the PP5, try singing the upper of the two voices, and then listen to the example again. Do you have a difficult time differentiating the upper voice from the lower of these two voices?
 
 In summary, you may never have parallel perfect octaves or parallel perfect fifths in this style of music. Please note that for an interval to be considered *parallel*, the interval must occur consecutively in the *same* two voices. For example, if your first P8 is between the bass and alto, the second P8 must also be in the bass and alto. If you find a P8 between the bass and tenor on the second chord, this is acceptable because it does not undermine the independence of the voices.
 
