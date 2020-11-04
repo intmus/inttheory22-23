@@ -95,7 +95,9 @@ Let's look at each of these in more detail. The following descriptions are light
 
 ![][passing]
 
-A passing tone is a melodic embellishment that occurs between two stable tones, creating stepwise motion. *It is approached by stepwise motion and left by stepwise motion in the same direction.* The typical figure is *chord tone – passing tone – chord tone*, filling in a third (see example), but two adjacent passing tones can also be used to fill in the space between two chord tones a fourth apart--a *double passing tone*. A passing tone can be either accented or unaccented as well as on-chord or off-chord.
+A passing tone is a melodic embellishment that occurs between two stable tones, creating stepwise motion. *It is approached by stepwise motion and left by stepwise motion in the same direction.* A passing tone can be either accented or unaccented as well as on-chord or off-chord.
+
+The typical figure is *chord tone – passing tone – chord tone*, filling in a third (see example), but multiple adjacent passing tones can also be used to fill in the space between two chord tones, and these would be labeled by their number as appropriate--*double passing tone (dpt), triple passing tone (tpt), or quadruple passing tone (qpt)*. The only time you can have a *diatonic* double passing tone is between the chordal fifth and root of a triad (e.g. sol-(la-ti)-do within a I chord). You can have a double passing tone to fill in a third if there are chromatic tones, and all triple and quadruple passing tones require chromatic pitches.
 
 #### Neighbor tone (nt)
 

@@ -6,7 +6,7 @@ abc: true
 
 Before we move on to fully analyzing harmonic function, we must define the stylistic rules of the music we will be studying. If you remember from our discussion of laws, rules, and strategies, rules are necessary to create a style. They are the binding agents that create a genre, but they also provide enough flexibility for composers within a style to carve out a unique voice. 
 
-For our beginning exploration of tonal harmony, we will be studying basic diatonic harmony in a chorale style. We will use this not because it is "superior" to any other style, but because it is relatively straightforward in its approach when compared to styles of music that came later. There are countless styles of tonal music that have evolved over the last four centuries, but a chorale style gives us the best starting place to study this evolution. So as we progress through rules that might seem outdated, do not lose sight of the *process* that we are creating. If you understand why each decision is made in this style, you will be able to intuit the next leap forward. And as we add complexity, you will eventually be able to apply these principles to *any* style of tonal music, even those that abandon the underpinnings of tonic-dominant relationships. 
+For our beginning exploration of tonal harmony, we will be studying basic diatonic harmony in a chorale style. We will use this not because it is "superior" to any other style, but because it is relatively straightforward in its approach when compared to styles of music that came later. There are countless styles of tonal music that have evolved over the last four centuries, but a chorale style gives us the best starting place to study this evolution. So as we progress through rules that might seem outdated, do not lose sight of the *process* that we are creating. If you understand why each decision is made in this style, you will be able to intuit the next leap forward. And as we add complexity, you will eventually be able to apply these principles to *any* style of tonal music, even those that do not employ the underpinnings of tonic-dominant relationships. 
 
 ## Voice-leading errors
 
@@ -57,7 +57,7 @@ Doubling in a seventh chord is similar, but because you have four notes for four
 
 #### Spacing
 
-Spacing is a relatively straightfoward idea, but it can be difficult to create the working definitions based on the examples. Your final conclusions should be:
+Spacing is relatively straightfoward, but it can be difficult to create consistent rules based on the examples. Your final conclusions should be:
 - The bass *can* be as far from the tenor as needed.
 - Between the soprano, alto, and tenor voices, adjacent voices cannot be more than an octave apart. Meaning that the:
   - Tenor and alto *cannot* have more than an octave between them.

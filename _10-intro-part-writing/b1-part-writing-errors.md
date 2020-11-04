@@ -14,25 +14,25 @@ By applying the various rules and techniques that we have studied thus far, we c
 - Fully voice four-part harmonies
 - Create independent melodic lines that function harmonically together
 
-Units 10 and 11 will help you solidify this process. First, we will establish a reference model by looking at classic errors that occur when writing in a general four-part chorale style. We will then apply these guidelines to our own attempts to compose basic four-part chorales in order to better understand the voice-leading principles of all tonal music.
+Units 10 and 11 will help you solidify this process. First, we will establish a reference model by looking at classic errors that occur when writing in a four-part chorale style. We will then apply these guidelines to our own attempts to compose basic four-part chorales in order to better understand the voice-leading principles of diatonic music.
 
 We will be referring to this handout, [Part-Writing Error Checklist and Guide](https://docs.google.com/document/d/1s9Xd3LPqoaEevshTopxHzLX9jCzxVCZocOBLD_dceMU/edit?usp=sharing), for the next two units, so you may want to print this out or open it in a separate window.
 
 ## Why part-writing?
 
-Before we begin, I would like to address a question that I have received many times from students. Why do we study part-writing, particularly in a strict style that is not performed regularly by modern musicians?
+Before we begin, I would like to address a question that I have received many times from students. Why do we study part-writing rather than just analysis, particularly in a strict style that is not performed regularly by modern musicians?
 
-There are many answers for this, but there is one in particular that I think justifies the study of this in this course. Part-writing is the simplest way to study how voice-leading creates harmony. Even though most of its rules are archaic, and a modern student's ear is not nearly as offended by certain style characteristics (e.g. parallel perfect fifths), this is the most straightforward way to study every aspect of how music functions: voice-leading, chord progressions, voicing chords, chordal structure, tendency tones, melodic construction, and so on.
+There are many answers for this, but there is one in particular that I think justifies the study of this in this course. Part-writing is the simplest way to study *how* voice-leading creates harmony. Even though most of its rules are archaic, and a modern student's ear is not nearly as offended by certain style characteristics (e.g. parallel perfect fifths), this is the most direct way to study every aspect of how music functions: voice-leading, chord progressions, voicing chords, chordal structure, tendency tones, melodic construction, and so on.
 
-We could attempt to focus on only one style of modern music--whether pop, jazz, classical, or otherwise--but because each is a fully developed, complex language, you would still need to learn basic harmonic movement before beginning to write in that style. And because each of these musics has its roots in diatonic harmony, an understanding of basic chorale style part-writing will allow you to study and analyze *all* of these styles, rather than focusing your studies into only one area and being ignorant of the others.
+We could attempt to focus on only one style of modern music--whether pop, jazz, classical, or otherwise--but because each is a fully developed, complex language, you would still need to learn basic harmonic movement before beginning to write in that style. And because each of these musics has its roots in diatonic harmony, an understanding of basic chorale style part-writing will allow you to study and develop a process to analyze *all* of these styles, rather than focusing your studies into only one area and being ignorant of the others.
 
-In short, you may never use this directly, but a knowledge and understanding of these basic tenets will greatly enhance your ability to function as a musician, regardless of your career path.
+In short, focus on the *process* of the part-writing rather than trying to memorize every rule as if it is unbreakable. Even within a style, rules are guidelines, so an inflexible mindset will lead to nothing but frustration. Once you have grasped the basics of part-writing, you will have advanced another step toward the goal of improving your musicianship.
 
 ## Traditional errors
 
-In [Unit 6c]({{ site.baseurl }}/06-intro-harmonic/c1-voiceleadingerrors.html), we first looked at some basic rules for voicing a chord in a four-part chorale style. These rules included:
+In the last [topic]({{ site.baseurl }}/10-intro-harmonic/a1-voiceleadingerrors.html), we first looked at some basic rules for voicing a chord in a four-part chorale style. These rules included:
 - Voice-crossing
-    - In this style, voices should generally not cross
+    - In this style, voices generally should not cross
     - Exception: alto and tenor may cross briefly if musically necessary
 - Spacing
     - In this style, the top three voices--soprano, alto, and tenor--should always be within an octave of the adjacent voices. To be more specific, there can never be more than an octave between *soprano* and *alto*, and there can never be more than an octave bteween *alto* and *tenor*. 
@@ -58,7 +58,7 @@ In addition to the voicing rules, there are a number of standard part-writing er
 3. Unacceptable unequal fifths
 4. Contrary perfect octaves or perfect fifths
 
-Please note that these errors *must be within the same two voices* across both chords. Due to the effects of consistently doubling roots, there will almost always be consecutive perfect octaves and perfect fifths between two triads, but this is not *parallel*. For example, a root position C major triad moving to a root position G triad will have two voices on C in the first chord and two voices on G in the second chord, if standard doubling practices are observed. This is fine as long as its not in the *same* two voices in both chords (e.g. soprano and bass both have C and then both have a G).
+Please note that these errors *must be within the same two voices* across both chords. Due to the effects of consistently doubling roots, there will almost always be consecutive perfect octaves and perfect fifths between two triads, but this is not *parallel*. For example, a root position C major triad moving to a root position G triad likely will have two voices on C in the first chord and two voices on G in the second chord, if standard doubling practices are observed. This is fine as long as its not in the *same* two voices in both chords (e.g. soprano and bass both have C and then both have a G).
 
 Each of the four primary categories of part-writing errors are *symptoms* of voice-leading issues. If you understand the underlying voice-leading issues of each of these errors, you can find them more easily and avoid them in your own part-writing.
 
