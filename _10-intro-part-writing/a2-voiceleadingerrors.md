@@ -8,15 +8,15 @@ abc: true
 
 **Doubling**
 - No doubling thirds
-- The fifth can be omitted and the root tripled, but you *must* have the third to indicate the quality of the chord
+- The fifth can be omitted and the root tripled, but you *must* have the third to indicate the quality of the chord.
 - Seventh chords
-  - The fifth can also be omitted in a seventh chord, but you have to have the third and the seventh
-  - No doubling thirds or sevenths
+  - The fifth can also be omitted in a seventh chord, but you have to have the root, third, and the seventh.
+  - No doubling thirds or sevenths (because the further you are into the overtone series, the worse it will sound as they are tendency tones). You will also have to resolve those tones and if they resolve the same way, those voices are now locked together/pattern. 
   
 **Spacing** (SATB = Soprano, Alto, Tenor, Bass)
 - SAT need to be within an octave of their adjacent voices. There can be more than an octave between S and T, but not S and A or A and T
   - Closed position: less than an octave between S and T. Open position: more than an octave between S and T
-- B can be as far away or as close to T as you want. It doesn't matter
+- B can be as far away or as close to T as you want. It doesn't matter, but it sounds nice when you have bigger intervals on the bottom.
 
 **Range**
 - "A little above the staff to a little below the staff in all the named clefs"
@@ -24,10 +24,10 @@ abc: true
 - A: G below middle C to D in the treble clef staff
 - T: C3 to G above the bass clef staff
 - B: E below the bass clef staff to D above the bass clef staff
-  - S and T are an octave apart. The top of A and B are an octave apart. Be mindful that the bottom of A and B are *not* an octave apart.
+  - S and T ranges are the same, just an octave apart. The top of A and B ranges are an octave apart. Be mindful that the bottom of A and B are *not* an octave apart.
 
 **Voice crossing**
-- Voice crossing is when one voice moves to be above or below another
+- Voice crossing is when one voice moves to be above or below another.
 - Don't do it. Never ever. Do not do voice crossing ever.
 
 # Further reading
