@@ -60,7 +60,9 @@ In addition to the voicing rules, there are a number of standard part-writing er
 
 Please note that these errors *must be within the same two voices* across both chords. Due to the effects of consistently doubling roots, there will almost always be consecutive perfect octaves and perfect fifths between two triads, but this is not *parallel*. For example, a root position C major triad moving to a root position G triad likely will have two voices on C in the first chord and two voices on G in the second chord, if standard doubling practices are observed. This is fine as long as its not in the *same* two voices in both chords (e.g. soprano and bass both have C and then both have a G).
 
-Each of the four primary categories of part-writing errors are *symptoms* of voice-leading issues. If you understand the underlying voice-leading issues of each of these errors, you can find them more easily and avoid them in your own part-writing.
+Each of the four primary categories of part-writing errors are *symptoms* of voice-leading issues. If you understand the underlying voice-leading issues of each of these errors, you can find them more easily and avoid them in your own part-writing. 
+
+**Once you are comfortable with the descriptions of each of the errors below, try to fix each of the errors using the interface. What do you have to change? Do you have to alter the harmony? Voice-leading? Voicing? In trying to fix it, do you just create further errors?**
 
 ## Parallel perfect fifths and perfect octaves (PP5, PP8)
 
@@ -79,7 +81,7 @@ V:2 clef=bass
 w:C:I ii6 V7 I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-The parallel perfect octaves in this example occur between the soprano and tenor voices over the last two chords. The underlying issue, however, because a doubling rule was broken on the V<sup>7</sup> chord in which the third was double, you are forced to choose between incorrectly resolving one of the leading tones or undermining the independence of the two voices by locking them into consecutive perfect octaves.
+Listen to the following example, and try to locate the parallel perfect fifths aurally before you look through the parts. Once you have identified the voices that contain the PP5, try singing the upper of the two voices, and then listen to the example again. Do you have a difficult time differentiating the upper voice from the lower of these two voices?
 
 {% capture ex2 %}X:2
 T:Parallel perfect fifths (PP5)
@@ -94,8 +96,45 @@ V:2 clef=bass
 w:C:I ii V7 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
+### Conclusions
 
-PP8 and PP5 undermine the independence of lines, so you should always avoid them in this style. Listen to the following example, and try to locate the parallel perfect fifths aurally before you look through the parts. Once you have identified the voices that contain the PP5, try singing the upper of the two voices, and then listen to the example again. Do you have a difficult time differentiating the upper voice from the lower of these two voices?
+PP8 and PP5 undermine the independence of lines, so you should always avoid them in this style. Unacceptable parallel fifths and octaves occur when two voices have consecutive perfect fifths/octaves and move in parallel motion. It is not parallel perfect fifths/octaves if the intervals change voices. (e.g. The first P8/P5 is between the soprano and tenor, but the second P8/P5 is between the soprano and alto.)
+
+In the first example, there are two examples of parallel perfect octaves:
+- between the soprano and tenor moving from ii<sup>6</sup> to V<sup>7</sup>
+- between the soprano and tenor moving from V<sup>7</sup> to I
+
+There is a larger underlying issue, however, because a doubling rule was broken on the V<sup>7</sup>. Because the third was doubled, you are forced to choose between incorrectly resolving one of the leading tones or undermining the independence of the two voices by locking them into consecutive perfect octaves.
+
+{% capture ex7 %}X:7
+T:Parallel perfect octaves (PP8)
+M:4/4
+L:1/2
+K:C
+V:1
+[cE] [AD]| [BF] [cE]|]
+V:2 clef=bass
+[C,G,] [F,A,] | [B,G,] [C,C]|]
+w:C:I ii6 V7 I{% endcapture %}
+{% include abc-example.html number="7" abc=ex7 %}
+
+In the second example, there are two examples of parallel perfect fifths:
+- between the bass and tenor from I to ii
+- between the bass and tenor moving from ii to V<sup>7</sup>
+
+{% capture ex8 %}X:8
+T:Parallel perfect fifths (PP5)
+M:4/4
+L:1/2
+K:C
+V:1
+[cE] [AF]| [BF] [cE]|]
+V:2 clef=bass
+[C,G,] [D,A,] | [DG,] [C,C]|]
+w:C:I ii V7 I{% endcapture %}
+{% include abc-example.html number="8" abc=ex8 %}
+
+Parallel perfect fifths and octaves undermine the independence of the individual voices. If you repeatedly listen to the the PP5 example repeatedly, you will find it difficult to distinguish the tenor voice from the bass voice. This effect would be even more pronounced if the chords were tuned using just intonation, because the upper note will blend into the overtone series of the lower note.
 
 In summary, you may never have parallel perfect octaves or parallel perfect fifths in this style of music. Please note that for an interval to be considered *parallel*, the interval must occur consecutively in the *same* two voices. For example, if your first P8 is between the bass and alto, the second P8 must also be in the bass and alto. If you find a P8 between the bass and tenor on the second chord, this is acceptable because it does not undermine the independence of the voices.
 
@@ -128,7 +167,17 @@ V:2 clef=bass
 w:C:I ii V7 I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-Again, remember that for this to be considered an error, the contrary perfect octaves/fifths must be in the same two voices. If the interval changes voices, it does not undermine the independence of the voices.
+### Conclusions
+
+In the first example, there are two examples of parallel perfect octaves:
+- between the soprano and tenor moving from ii<sup>6</sup> to V<sup>7</sup>
+- between the soprano and tenor moving from V<sup>7</sup> to I
+
+In the second example above, the CP5s occur between bass and tenor voices between:
+- the I chord and ii chord
+- the ii chord and the V<sup>7</sup> chord
+
+Contrary perfect 5ths/8ves occur when two voices have consecutive perfect fifths/octaves and move in contrary motion. Contrary fifths and octaves occur when trying to mask parallel perfect fifths and octaves, so they will exhibit most of the traits of PP5/PP8 including the fact that the intervals must occur between the same two voices If the interval changes voices, it does not undermine the independence of the voices.
 
 ## Unacceptable unequal fifths (UU5)
 
@@ -146,17 +195,21 @@ V:2 clef=bass
 w:C:I ii V6/5 I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
-So for this course, we will consider a d5 moving to a P5 *unacceptable* unequal fifths, but we will consider a P5 moving to a d5 as *acceptable*--a P5 to a d5 does not require incorrect resolutions of tendency tones. Remember that these errors are best thought of as symptoms of the actual problem. In this case, the real issue is that the only two notes in a diatonic key that can form a d5 are `ti` and `fa`, and as discussed many times in this course, these two notes will imply a dominant harmony that wants to resolve inward with `ti` moving to `do` and `fa` moving to `mi`. For a d5 to be followed by a P5, it would mean that `fa` must resolve to `sol` which is poor voice-leading and therefore the error we are trying to avoid. There are some stricter versions of chorale part-writing that do not allow any form of unequal fifths.
+### Conclusions
+
+Unacceptable unequal fifths are one of the easier part-writing errors to understand, because we are actually focusing on only one voice-leading issue. And because it is limited to certain voices, it is relatively easy to find compared to parallel and contrary fifths/octaves which are not acceptable between any voices.
+
+For this course, we will consider a d5 moving to a P5 *unacceptable* unequal fifths, but we will consider a P5 moving to a d5 as *acceptable*--a P5 to a d5 does not require poor resolutions of tendency tones. Remember that these errors are best thought of as symptoms of the actual problem. In this case, the real issue is that the only two notes in a diatonic key that can form a d5 are `ti` and `fa`, and as discussed many times in this course, these two notes imply a dominant harmony that wants to resolve inward with `ti` moving to `do` and `fa` moving to `mi`. For a d5 to be followed by a P5, it would mean that `fa` must resolve to `sol`--or less commonly, `ti` resolving to `la` as part of a deceptive progression--which is poor voice-leading and therefore the error we are trying to avoid. There are some stricter versions of chorale part-writing that do not allow any form of unequal fifths.
 
 ## Unacceptable similar fifths or octaves (US5, US8)
 
-The final common part-writing has many names, but we will use the term *unacceptable similar fifths or octaves*. This error can also be called "direct", "hidden", or "exposed". I prefer to use *similar* because it implies the motion like the other categories, but I also think that *exposed* does a fine job describing the effect. (I dislike the term *hidden* because students often confuse this with contrary fifths (or octaves), because the goal of contrary fifths is to "hide" parallel fifths.) *Unacceptable similar fifths or octaves* have the most restrictions. The conditions are:
+The final common part-writing has many names, but we will use the term *unacceptable similar fifths or octaves*. The term *similar* can also be replaced with "direct", "hidden", or "exposed". I prefer the term *similar* because it describes the motion like the other categories, but I also think that *exposed* does a fine job describing the effect. (I dislike the term *hidden* because students often confuse this with contrary fifths (or octaves), because the goal of contrary fifths is to "hide" parallel fifths.) *Unacceptable similar fifths or octaves* have the most restrictions. The conditions are:
 - They can only occur between the soprano and the bass voices.
 - They require a skip of a third or more in the soprano voice.
 - The two voices must move in similar (not parallel) motion.
 - The second interval must be a P5 or P8.
 
-If any one of these conditions are not met, then there is not a part-writing error. Look at the following example to find an example of *similar octaves*. Once you have found it, look at the voice-leading around it. What does it do to spacing? Does it create more errors? Unacceptable similar octaves and fifths also often create melodies that imply different harmonies. To demonstrate, sing the melody alone. Do you hear it as C major or a different key?
+If any one of these conditions are *not* met, then this error does not exist in that case. Look at the following example to find an example of *similar octaves*. Once you have found it, look at the voice-leading around it. What does it do to spacing? Does it create more errors? Unacceptable similar octaves and fifths also often create melodies that imply different harmonies. To demonstrate, sing the melody alone. Do you hear it as C major or a different key?
 
 {% capture ex6 %}X:6
 T:Similar octaves (S8)
@@ -170,95 +223,7 @@ V:2 clef=bass
 w:C:I vi IV V7 I{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
-**As a final demonstration of the difficulties that these part-writing errors create, try to fix each of the part-writing errors on this page. What do you have to change? Do you get to keep the harmony? Voice-leading? Voicing? In trying to fix it, do you just create further errors?**
-
-## Conclusions
-
-## Parallel Perfect Fifths and Octaves
-
-{% capture ex7 %}X:7
-T:Parallel perfect octaves (PP8)
-M:4/4
-L:1/2
-K:C
-V:1
-[cE] [AD]| [BF] [cE]|]
-V:2 clef=bass
-[C,G,] [F,A,] | [B,G,] [C,C]|]
-w:C:I ii6 V7 I{% endcapture %}
-{% include abc-example.html number="7" abc=ex7 %}
-
-The class found two examples of parallel perfect octaves in this example.
-- between the soprano and tenor moving from ii<sup>6</sup> to V<sup>7</sup>
-- between the soprano and tenor moving from V<sup>7</sup> to I
-
-Almost all unacceptable examples of parallel octaves and fifths are due to poor voice-leading and voicings. In this case, the third of the five chord is doubled. This third is a tendency tone that should resolve upward by step, but in doing so, it creates parallel perfect octaves. The third never should have been doubled.
-
-{% capture ex8 %}X:8
-T:Parallel perfect fifths (PP5)
-M:4/4
-L:1/2
-K:C
-V:1
-[cE] [AF]| [BF] [cE]|]
-V:2 clef=bass
-[C,G,] [D,A,] | [DG,] [C,C]|]
-w:C:I ii V7 I{% endcapture %}
-{% include abc-example.html number="8" abc=ex8 %}
-
-In this example, the class found two examples of parallel perfect fifths:
-- between the bass and tenor from I to ii
-- between the bass and tenor moving from ii to V<sup>7</sup>
-
-From this, we decided that the definition of a parallel perfect fifths/octaves is:
-- when two voices have consecutive perfect fifths/octaves and move in parallel motion
-    - it is not parallel perfect fifths/octaves if the intervals change voices (e.g. the first P8/P5 is between the soprano and tenor, but the second P8/P5 is between the soprano and alto)
-- These are unacceptable between any two voices.
-
-Parallel perfect fifths and octaves undermine the independence of the individual voices. Even after listening to the example with PP5s repeatedly, only one person in the class was able to distinguish the tenor voice. I then had the class look at the tenor voice and practice singing it in order to get the line into their ears. Even after doing this, they had trouble distinguishing between the two voices. This is even more pronounced if the chords are tuned using just intonation, because the upper note will blend into the overtone series of the lower note.
-  
-## Contrary Octaves and Fifths
-
-{% capture ex9 %}X:9
-T:Contrary perfect fifths (CP5)
-M:4/4
-L:1/2
-K:C
-V:1
-[cE] [AF]| [BF] [cE]|]
-V:2 clef=bass
-[C,G,] [D,,A,] | [D,G,,] [C,C]|]
-w:C:I ii V7 I{% endcapture %}
-{% include abc-example.html number="9" abc=ex9 %}
-
-Contrary fifths and octaves occur when trying to mask parallel perfect fifths and octaves. In the example above, the class identified the CP5s between bass and tenor voices between:
-- the I chord and ii chord
-- the ii chord and the V<sup>7</sup> chord
-
-From this, we decided that the definition of a contrary perfect fifths/octaves is:
-- when two voices have consecutive perfect fifths/octaves and move in contrary motion
-    - it is not contrary perfect fifths/octaves if the intervals change voices (e.g. the first P5 is between the soprano and tenor, but the second P5 is between the soprano and alto)
-- These are unacceptable between any two voices.
-
-## Unacceptable Unequal Fifths
-
-{% capture ex10 %}X:10
-T:Unacceptable unequal fifths (UU5)
-M:4/4
-L:1/2
-K:C
-V:1
-[cE] [Fd]| [dF] [cG]|]
-V:2 clef=bass
-[C,C] [D,A,] | [B,,G,] [E,C,]|]
-w:C:I ii V6/5 I{% endcapture %}
-{% include abc-example.html number="10" abc=ex10 %}
-
-Unacceptable unequal fifths are one of the easier part-writing errors to understand, because we are actually focusing on only one voice-leading issue. We defined a UUF as any time a d5 between the bass voice and another voice moves to a P5. Because it has to fill all of these conditions, it is relatively easy to find compared to parallel and contrary fifths/octaves which are not acceptable between any voices.
-
-The voice-leading issue that causes UU5 centers around the one naturally occurring d5 in the major scale: when `ti` is below `fa`. This is only likely to happen on a dominant harmony which means that this occurs typically on a V<sup>6/5</sup> chord or a vii<sup>o</sup> chord. The problem arises when `fa` does not resolve downward to `mi` in the next chord. This is an incorrect resolution of a tendency tone, and that is what creates the part-writing error.
-
-## Similar Fifths and Octaves
+### Conclusions
 
 Similar fifths/octaves occur when 1) the soprano and bass voices 2) move in similar motion to a 3) perfect fifth/octave, and 4) the soprano voice has a skip of a third or larger. You can see an example of this between the first two chords in this example.
 
