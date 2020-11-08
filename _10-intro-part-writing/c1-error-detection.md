@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 10d - Error detection
+title: Lesson 10c - Error detection
 abc: true
 ---
 
