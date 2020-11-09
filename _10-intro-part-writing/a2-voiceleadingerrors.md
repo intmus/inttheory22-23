@@ -6,6 +6,13 @@ abc: true
 
 ## Class discussion
 
+**Things to consider before you start part writing**
+- Harmonic Rhythm; pitches could switch between being a chord tone and a NCT depending on the harmonic rhythm
+- Chords/progression
+- Cadence
+- Key; Where are the important notes? What notes are on the strong beats?
+
+
 **Doubling**
 - No doubling thirds
 - The fifth can be omitted and the root tripled, but you *must* have the third to indicate the quality of the chord.
