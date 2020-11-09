@@ -8,9 +8,9 @@ We can view the voicing rules (i.e. spacing, range, doubling, and voice-crossing
 
 Before beginning, please remember that when composing in this style, you occasionally will need to bend, or even break, these rules to accommodate other musical goals. There is not a "right" or "wrong" hierarchy for the conventional rules of part-writing. For example, you might choose to accept parallel perfect 5ths if you are trying to create a particular melodic line that emphasizes stepwise motion. Or, you might decide to use voice-crossing of the inner voices to change the timbre and texture of a passage. So even the cleverest of composers may choose to eschew convention if it does not align with their musical goals, but for our beginning attempts, you should do your best to observe every rule in order to understand their importance and implementation.
 
-## Building the process
+## Reviewing our part-writing process
 
-In [Unit 10a]({{ site.baseurl }}/10-intro-part-writing/a1-funds-of-part-writing.html), we outlined a method for harmonizing a melody:
+In [Unit 11a]({{ site.baseurl }}/11-further-part-writing/a1-funds-of-part-writing.html), we outlined a method for harmonizing a melody:
 1. Identify the key
 2. Determine your phrase
 3. Choose a cadence to complete your phrase.
@@ -18,17 +18,17 @@ In [Unit 10a]({{ site.baseurl }}/10-intro-part-writing/a1-funds-of-part-writing.
 5. Compose a bass line based on your harmonization.
 6. Fill in the alto and tenor voices.
 
-And if we employ the the stylistic guidelines that we studied in Unit 10 for this style, we can improve our part-writing by:
-- following the standard harmonic progressions outlined by circle-of-fifths progressions.
-- correctly using cadences.
-- using functions such as tonic, dominant, and pre-dominant logically.
-- employing the smoothest possible voice-leading for each line.
+And we employed the stylistic guidelines that we studied in Unit 10 to act as the framework for our part-writeing.
+- follow the standard harmonic progressions outlined by circle-of-fifths progressions
+- correctly use cadences
+- use functions such as tonic, dominant, and pre-dominant as general guides
+- employ the smoothest possible voice-leading for each line
     - The bass can be slightly more disjunct than the upper parts, particularly when using root-position chords.
-- not crossing voices.
-- avoiding spacing or range errors.
-- avoiding incorrect doubling.
-- resolving tendency tones correctly.
-- avoiding unacceptable part-writing such as parallel perfect 5ths/8ves, contrary perfect 5ths/8ves, similar 5ths/8ves, and unequal 5ths.
+- do not cross voices
+- avoid spacing or range errors
+- avoid incorrect doubling
+- resolve tendency tones correctly
+- avoid unacceptable part-writing such as parallel perfect 5ths/8ves, contrary perfect 5ths/8ves, similar 5ths/8ves, and unequal 5ths
 
 Remember that circle-of-fifths progressions work because the voice-leading taps into the primary functions of diatonic harmony. If you review [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html), you will remember that we created the harmonic flow chart by simply following good voice-leading between chords that have roots separated by a descending P5/ascending P4. Admittedly, long strings of root-position chords create unmelodic bass lines, but they still represent the strongest voicing for many sonorities. 
 

@@ -8,13 +8,13 @@ abc: true
 
 The term *part-writing* can imply many things depending on its context, but for our purposes, this will be our first attempt to combine the fundamentals of melody (counterpoint) and harmony (voice-leading from circle-of-fifths progressions) into functional music using diatonic tonality. 
 
-By applying the various rules and techniques that we have studied thus far, we can:
+By applying the various rules and techniques that we have studied thus far, we will be able to:
 - Harmonize a melody
 - Compose a melody given a harmony
 - Fully voice four-part harmonies
 - Create independent melodic lines that function harmonically together
 
-Units 10 and 11 will help you solidify this process. First, we will establish a reference model by looking at classic errors that occur when writing in a four-part chorale style. We will then apply these guidelines to our own attempts to compose basic four-part chorales in order to better understand the voice-leading principles of diatonic music.
+Units 10 and 11 will help you solidify this process. First, we will establish a reference model by looking at the rules--and resulting errors from breaking those rules--that occur when writing in a four-part chorale style. We will then apply these guidelines to our own attempts to compose basic four-part chorales in order to better understand the voice-leading principles of diatonic music.
 
 We will be referring to this handout, [Part-Writing Error Checklist and Guide](https://docs.google.com/document/d/1s9Xd3LPqoaEevshTopxHzLX9jCzxVCZocOBLD_dceMU/edit?usp=sharing), for the next two units, so you may want to print this out or open it in a separate window.
 
