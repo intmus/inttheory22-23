@@ -19,8 +19,6 @@ V:2 clef=bass
 xxxx| xxxx| x4|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-### Conclusion
-
 In no particular order, you will need to determine: 
 - Harmonies
 - Harmonic rhythm
@@ -35,9 +33,11 @@ And as a reminder, if you did not access our guide to part-writing in the last u
 
 ## Two important concepts to review before beginning
 
-After looking at the list of concepts that are needed to harmonize a melody, you probably feel daunted and combining so many concepts into a single, coherent piece of music. So instead of bringing in every nuance to start, I'd like to draw your attention to two major concepts that will act as your overarching guides. 
+After looking at the list of concepts that are needed to harmonize a melody, you probably feel daunted and combining so many concepts into a single, coherent piece of music. So instead of bringing in every nuance to start, I'd like to draw your attention to two major concepts that will act as your overarching guides for managing your melodic (horizontal) and harmonic (vertical) choices. 
 
-### CONCEPT 1 - Developing Progressions Based on Voice-leading
+### CONCEPT 1 - Manage the horizontal aspect through melody and tendency tones
+
+First, you should always prioritize making smooth, singable part in this style. Your bass line will likely have more leaps, but the upper three voices should predominantly use stepwise motion. Any leaps should be followed by stepwise motion in the opposite direction.
 
 In Unit 7a, we showed that by studying the voice-leading of a simple V (or V<sup>7</sup>) to I progression, we can propose a broad set of voice-leading rules that explain circle-of-fifths diatonicism. Specifically:
 - For chords that have roots separated by a P5:
@@ -47,7 +47,7 @@ In Unit 7a, we showed that by studying the voice-leading of a simple V (or V<sup
 
 This is the beginning of a *circle-of-fifths progression*: a progression in which each chord root follows the circle of fifths. 
 
-### CONCEPT 2 - The "Rules" of Chorale-Style
+### CONCEPT 2 - Manage the veritcal aspect through stylistic rules
 
 Voice-leading governs the horizontal axis of music by shaping the melodies within each voice, but we need some basic rules to guide the vertical stacking of these melodies to make harmonies. A basic four-part chorale style employs the following four rules to act as general guidelines as a framework for combining voices.
 
@@ -67,7 +67,23 @@ Voice-leading governs the horizontal axis of music by shaping the melodies withi
 
 ## A first attempt at part-writing
 
-Let's use these two concepts to try to harmonize the simple melody below with one harmony per pitch.
+Let's use these two main concepts to try to harmonize the simple melody below with one harmony per pitch. Work through harmonizing the melody below, and take notes on each decision you have to make as your work through the process. If you get stuck, go back and look at the two major concepts to see if one of them gives you an idea how to proceed. And once you have finished, analyze your chorale to check for errors.
+
+{% capture ex2 %}X:2
+T:A first attempt at part-writing
+M:4/4
+L:1/2
+K:C
+V:1
+[c] [A]| [B] [c]|]
+V:2 clef=bass
+x x| x x|]
+w:C:{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
+
+### Conclusions
+
+As you started, you hopefully realized that you had to make some important choices first such as choosing your key and cadences. By the end, you should have created a process similar to the following.
 
 **To harmonize a melody in a four-part chorale style, you should:**
 - **Identify the key**
@@ -88,29 +104,10 @@ Let's use these two concepts to try to harmonize the simple melody below with on
     - Refer to the guidelines for voicing, range, and doubling in [Unit 10a]({{ site.baseurl }}/10-intro-harmonic/a1-voiceleadingerrors.html).
 - When writing your parts, always **strive to have voice-leading that is as smooth as possible** by emphasizing stepwise motion.
     - As mentioned above, bass lines are the exception and will often have more leaps, especially when using root-position chords.
-
-{% capture ex2 %}X:2
-T:A first attempt at part-writing
-M:4/4
-L:1/2
-K:C
-V:1
-[c] [A]| [B] [c]|]
-V:2 clef=bass
-x x| x x|]
-w:C:{% endcapture %}
-{% include abc-example.html number="2" abc=ex2 %}
-
-### Conclusions
-
-To harmonize any melody, you should: 
-1. Build around an ending
-    - Which cadences would make this a complete musical phrase? 
-2. Determine a harmonic rhythm that both works with the melody and fills in the gaps on our way to the cadence. 
-    - Will you have non-chord tones or are all notes part of the harmonic structure? 
-    - Will you prolong a certain tonal function such as the dominant harmony, or is it interesting enough to move quickly through your progression?
-3. Listen to your finished phrase repeatedly, whether played on piano or via musical notation software.
-    - Does your phrase sound convincing when played? If not, restructure your harmony and try again. 
+- **Check your work** 
+    - Listen to your finished phrase repeatedly. It doesn't matter whether you play your phrase on piano or via musical notation software; it only matters that you listen to it.
+    - Analyze your chorale for part-writing errors using the system we discussed in Unit 10.
+    - Does your phrase sound convincing when played? If not, restructure your harmony and try again.
     
 Please do not be afraid of failing! Your first attempts will likely sound clunky and unconvincing. This is a normal and important part of the learning process, so rather than be disappointed, try focusing on the parts that you do not like, and then analyze them for errors. You should be able to use the analytical tools that you have developed thus far to find mistakes, and then you can correct those. Iteration is key.
 
