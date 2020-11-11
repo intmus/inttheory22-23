@@ -8,8 +8,7 @@ abc: true
 
 **Circle-of-fifths triadic progression: I - vi - ii - V - I**
 - Static movement in the melody is very good. It's exactly what we want because it can make everything else a whole lot easier. Priotize static or stepwise movement in the melody whenever you can
-- Same progression, but with do mi fa sol mi (C E F G E) as the melody
-  - Same process of building from the back. Since we're dealing with a circle-of-fifths progression, we know exactly how tendency tones are going to resolve and we can reverse-engineer the inner voices after we've written our melody
+  - Build from the back. Since we're dealing with a circle-of-fifths progression, we know exactly how tendency tones are going to resolve and we can reverse-engineer the inner voices after we've written our melody
 
 **Adding the seventh: I - vi7 - ii - V7 - I**
 - Used the same boring melody as before (C C D D C) because we have to K.I.S.S.
