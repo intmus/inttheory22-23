@@ -108,10 +108,12 @@ As you started, you hopefully realized that you had to make some important choic
     - Listen to your finished phrase repeatedly. It doesn't matter whether you play your phrase on piano or via musical notation software; it only matters that you listen to it.
     - Analyze your chorale for part-writing errors using the system we discussed in Unit 10.
     - Does your phrase sound convincing when played? If not, restructure your harmony and try again.
-    
-Please do not be afraid of failing! Your first attempts will likely sound clunky and unconvincing. This is a normal and important part of the learning process, so rather than be disappointed, try focusing on the parts that you do not like, and then analyze them for errors. You should be able to use the analytical tools that you have developed thus far to find mistakes, and then you can correct those. Iteration is key.
 
-With a four note melody such as this, we have little room for development, so it is easiest to stick with a simple idea. For example, the melody ends on the tonic, so this eliminates a half cadence. The penultimate note is the seventh scale degree, so this eliminates a plagal cadence, leaving us with either an authentic cadence or a deceptive cadence.
+## Moving forward
+
+Please do not be afraid of failing! This is a normal and important part of the learning process, so rather than be disappointed, try focusing on the parts that you do not like, and then analyze them for errors. Your first attempts may sound clunky and unconvincing, but you should be able to use the analytical tools that you have developed thus far to find mistakes. Iteration is key.
+
+As you move the list above, you should realize that a four note melody such as this leaves little room for development, so it is easiest to stick with a simple ideas. Because `C` is in prominent positions at the beginning and end of the example, use C major for your key. And since the melody ends on the tonic, an authentic cadence would be easiest. With those two decisions made, everything else begins to fall into place.
 
 To keep this simple, let's choose a perfect authentic cadence. This locks in the bass line for our last two notes, because we know that a PAC has a root position V and I chords at the end of the phrase. It is hopefully clear that the first pitch should start on the tonic chord to establish the key in our ear, which leaves only the second chord undetermined.
 
@@ -173,6 +175,8 @@ Of note, you may have tried to jump to a `D` for the first beat of the second me
 
 Therefore, if we use only the tools that we have developed thus far in the course, we can already create a simple four-part chorale.
 
+<!-- NO IDEA WHY THIS IS HERE. FIX LATER.
+
 ## Voicing a four-part progression
 
 Let us return to the progressions from the last topic. We can now mix our voicing guidelines with our derived voice-leading rules to create a variety of progressions. 
@@ -209,3 +213,4 @@ V:2 clef=bass
 [E,B,]| [A,,C]| [D,D]| [G,,D]| [C,E]|]
 w:C:iii vi ii V I{% endcapture %}
 {% include abc-example.html number="8" abc=ex8 %}
+-->
