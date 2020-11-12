@@ -171,7 +171,7 @@ When attempting this deceptive cadence, you hopefully realized that you cannot a
 
 So for the above example, a better approach would be to alter the melody to allow for a doubling of the chordal third of the vi chord.
 
-{% capture e11 %}X:11
+{% capture ex11 %}X:11
 T:Using a functional substitution for a deceptive cadence
 M:3/4
 L:1/4
