@@ -19,9 +19,10 @@ abc: true
 - Soprano line: C C B C. There were a bunch of other options proposed that were at the same level of simplicity (focus on smooth voice leading), but they all caused errors
 - DOUBLE! THAT! THIRD! for a deceptive cadence. vi is a functional substitute for I because of its position in a deceptive cadence. In this instance it functions as the tonic instead of its usual "pre-predominant." We double the third because it's do/the tonic
 - Any time you use smooth contrary motion you'll avoid the majority of movement errors
-- "Circle of fifths progression" = literal circle of fifths bass movement. This is our vi - ii - V - I. When we move I - IV - V - (etc...) this is stepwise progression, so we can bend our tendency tone rules a little
+
+- "Circle of fifths progression" = literal circle of fifths bass movement. This is our vi - ii - V - I. When we move I - IV - V - (etc...) this is stepwise progression, so we can bend our tendency tone rules a little. Otherwise, our normal rules will create more problems. 
   - Think about functional substitutes, too! IV is just a ii7 without the root. vii0 is just a V7 without a root. vi stands in for I in deceptive cadences. In the progression we did in class, temporarily changing IV to ii7 helped make clear why the A in our IV did not have to resolve how thirds usually do, since A is the fifth in ii7 and should follow the same voice leading rules
-- vi6 is NO. The do in the bass makes it sounds like this chord was supposed to be I instead, which is the opposite of what you want to do with a deceptive cadence
+- vi6 is a NO. The do in the bass makes it sounds like this chord was supposed to be I instead, which is the opposite of what you want to do with a deceptive cadence
 
 **Overall conclusions**
 - Frustrated leading tone is a get out of jail free card in the inner voices ONLY
