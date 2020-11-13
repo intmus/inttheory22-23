@@ -78,7 +78,7 @@ Because the chord progression provides a vertical framework and the focus on smo
 
 In studying music theory, we will often spend more time discussing the exceptions to rules than the actual rule itself. And even though the general rule for resolving chordal sevenths--*Chordal sevenths resolve down by step*--is fairly consistent, there are common situtations in which you will be forced to break this rule (e.g. pre-determined melodies, sequences, etc.) Make downward stepwise resolution your default until you are forced to choose otherwise. 
 
-Try adding the following two seventh chords to our circle-of-fifths progression, making sure to pay attention to how your chordal thirds and sevenths are resolving.
+Try adding the following two seventh chords to our circle-of-fifths progression, making sure to pay attention to how your chordal thirds and sevenths are resolving. The first chord is fully voiced to force you into certain decisions, so you will need to start from the beginning rather than working your way backward.
 
 {% capture ex2 %}X:2
 T:Root-position part-writing with
@@ -87,15 +87,15 @@ M:4/4
 L:1
 K:C
 V:1
-c| x| x| x| x|]
+[cE]| x| x| x| x|]
 V:2 clef=bass
-[C,]| [A,,]|[D,]| [G,,]| [C,]|]
+[C,G]| [A,,]|[D,]| [G,,]| [C,]|]
 w:C:I vi7 ii V7 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 ### Conclusion
 
-These slight alterations create more issues in dealing with the resolutions of tendency tones. The first arises between the second and third chords. If you simply choose the smoothest voice-leading possible for each voice going into the second chord, vi<sup>7</sup>, you will place the chordal seventh in the tenor voice. This locks the voice-leading of the tenor voice into resolving downward by step to the third of the following ii chord, and in turn, that chordal third has its own tendencies and should resolve upward by step to the the root of the next chord. This means that the initial placement on the vi<sup>7</sup> effectively locks the entire tenor voice into place. From there, our alto voice is predetermined, because we do not want to double the third of the ii chord, leaving us with only the closest D or A. If we were to move to the A, that would create parallel perfect 5ths with the bass voice, so we can only choose the D for the alto voice. To move to the next chord, if we do not alter our soprano voice, we are then forced to place a B in the tenor voice which creates a less melodic tenor line.
+The addition of seventh chords create problems to solve as you now must contend with additional tendency tones. The first arises between the second and third chords. If you simply choose the smoothest voice-leading possible for each voice going into the second chord, vi<sup>7</sup>, you will place the chordal seventh in the tenor voice. This locks the voice-leading of the tenor voice into resolving downward by step to the third of the following ii chord, and in turn, that chordal third has its own tendencies and should resolve upward by step to the the root of the next chord. This means that the initial placement on the vi<sup>7</sup> effectively locks the entire tenor voice into place. From there, our alto voice is predetermined, because we do not want to double the third of the ii chord, leaving us with only the closest D or A. If we were to move to the A, that would create parallel perfect 5ths with the bass voice, so we can only choose the D for the alto voice. To move to the next chord, if we do not alter our soprano voice, we are then forced to place a B in the tenor voice which creates a less melodic tenor line.
 
 {% capture ex10 %}X:10
 T:Root-position part-writing with
@@ -147,11 +147,11 @@ w:C:I IV V7 I I IV V vi I ii IV V I ii7 V7 I{% endcapture %}
 
 ### Conclusions
 
-When you were harmonizing these short progressions, which chord progression presented the most issues? For most, it will likely be when the progressions that have root-movement by 2nd, particularly a progression like IV-V-vi. Let's start by isolating a common example of this movement, V moving to vi. In this progression, the V is acting according to its standard dominant function, but the vi chord has replaced the I chord in the position where a tonic function should occur. This progression represents a *functional substitution* in which vi is now acting as the tonic function. (This concept has application within the dominant and pre-dominant functions as well, but we need to explore first-inversion chords in the next topic, 11b, before we are ready for that discussion):**
+When you were harmonizing these short progressions, which chord progression presented the most issues? For most, it will likely be when the progressions that have root-movement by 2nd, particularly a progression like IV-V-vi. Let's examine this by isolating a common example of this movement, V moving to vi. In this progression, the V is acting according to its standard dominant function, but the vi chord has replaced the I chord in the position where a tonic chord usually appears. This progression represents a *functional substitution* in which vi is now acting as the tonic function. (This concept has application within the dominant and pre-dominant functions as well, but we need to explore first-inversion chords in the next topic, 11b, before we are ready for that discussion)
 
 ### Function over Form (Part 1)
 
-A *functional substitution* can, and often should, inform your voice-leading. When a root-position V chord precedes a root-position vi chord, we must choose to prioritize either our *doubling* conventions or our *part-writing conventions*. More specifically, do we want to double the third or do we want to end up with parallel perfect 8ves/5ths? We can demonstrate this by looking at two nearly identical progressions. Harmonize the following two progressions; first with the standard tonic function (i.e. V to I) and then with the functional substitution (i.e. V to vi.) Even though the I chord and vi chord have two common tones--the first and third scale degrees--you will have to make very different choices to avoid voice leading errors.
+A *functional substitution* can, and often should, inform your voice-leading. When a root-position V chord precedes a root-position vi chord, we must choose to prioritize either our *doubling* conventions or our *part-writing* conventions. More specifically, do we want to double the third or do we want to end up with parallel perfect 8ves/5ths? We can demonstrate this by looking at two nearly identical progressions. Harmonize the following two progressions; first with the standard tonic function (i.e. V to I) and then with the functional substitution (i.e. V to vi.) Even though the I chord and vi chord have two common tones--the first and third scale degrees--you will have to make very different choices to avoid voice leading errors.
 
 {% capture ex4 %}X:4
 T:Using a functional substitution for a deceptive cadence
@@ -192,6 +192,7 @@ The other difficult resolution in the previous example was when the root positio
 T:Root movement by 2nd
 M:4/4
 L:1/4
+Q:1/4=60
 K:C
 V:1
 [cE] [c] xx|]
@@ -199,6 +200,23 @@ V:2 clef=bass
 [C,G,] [F,,] [G,,] [C,]|]
 w:C:I IV V I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
+
+#### Conclusion
+
+Now that we are dealing with root movement of an interval other than a perfect fourth, you cannot solely rely on simple voice leading guidelines such as "chordal third moves upward by step to the root of the following chord." While this will still hold true when moving from V to I in this example, the the IV and V chords are separated by a 2nd. So if you solely rely on smooth, stepwise voice-leading, you will likely create objectionable parallel movement between the two chords. For example, when composing he soprano line as you move from the IV to the V chord, you cannot choose `re`, because this creates parallel perfect 5ths against the bass. So you must choose to move to the leading tone instead which locks your soprano line into `C - C - B - C`. From there, you will have to use some small skips in your other voices to resolve every voice in the smoothest possible way. There are a few different options for this progression, but you likely ended up with something like this.
+
+{% capture ex12 %}X:12
+T:Completed root movement by 2nd
+M:4/4
+L:1/4
+Q:1/4=60
+K:C
+V:1
+[cE] [cF] [BD] [cE]|]
+V:2 clef=bass
+[C,G,] [F,,A,] [G,,G,] [C,G,]|]
+w:C:I IV V I{% endcapture %}
+{% include abc-example.html number="12" abc=ex12 %}
 
 ## Common exceptions
 
@@ -208,6 +226,7 @@ There are some commonly used exceptions to our general part-writing conventions.
 T:Chordal third to chordal third
 M:4/4
 L:1/4
+Q:1/4=60
 K:C
 V:1
 [eG] [d] [c2]|]
@@ -235,7 +254,7 @@ w:C:I V7 I I V7 vi{% endcapture %}
 
 When first asked to compose a simple chorale, it is easy to feel paralyzed as you consider all of the rules and guidelines that you have learned. Luckily, if you develop an order to process the guidelines, they greatly simplify the part-writing process. It is much simpler to write a melody when you only have one or two options for the next pitch!
 
-As stated above, you should use smooth voice-leading when possible--making it a high priority in your decision-making process--but what constitutes "smooth" voice-leading? The simple answer is that stepwise, or sometimes static, motion is preferred, although this is only one decision point to consider. When you are creating a line, you will need to balance stepwise motion against avoiding errors. For our simple chorale-style, we are not using non-chord tones yet, so your next pitch must be a chord-tone. This means that you must also consider the notes that are already present such as the bass line or melody in order to ensure that you form a complete harmony and avoid errors. When you add in doubling and range limitations, you can usually narrow your options to one pitch. 
+As stated above, you should use smooth voice-leading when possible, making it a high priority in your decision-making process. But what constitutes "smooth" voice-leading? The simple answer is that stepwise, or sometimes static, motion is preferred, although this is only one decision point to consider. When you are creating a line, you will need to balance stepwise motion against avoiding errors. For our simple chorale-style, we are not using non-chord tones yet, so your next pitch must be a chord-tone. This means that you must also consider the notes that are already present such as the bass line or melody in order to ensure that you form a complete harmony and avoid errors. When you add in doubling and range limitations, you can usually narrow your options to one pitch. 
 
 You should also understand that while there are some general guidelines for resolving tendency tones, there are no simple rules that are unbreakable. At its most basic, `ti` resolves up by step, and `fa` resolves down by step. When part-writing, however, this is too simplistic a view. For example, `fa` often moves upward by step to `sol`, either as part of an ascending scalar melodic line or in the bass line when a pre-dominant chord (i.e. IV or ii<sup>6</sup> moves to a root-position V chord. A more advanced part-writer may think that `ti` and `fa` are tendency tones when they are part of a V<sup>7</sup> chord, so therefore, the rule for tendency tones should be that *chordal thirds* resolve up by step and *chordal sevenths* resolve down by step. This is a better rule, but it also falls apart when we leave circle-of-fifths progressions (chords with roots separated by a descending P5). When a IV chord moves to a V chord, it is impossible for the third to move *up by step* to the root of the V chord. For now, the easiest rule for tendency tones is:
 - *Chordal thirds* resolve up by step and *chordal sevenths* resolve down by step *when part of a circle-of-fifths progression*.
