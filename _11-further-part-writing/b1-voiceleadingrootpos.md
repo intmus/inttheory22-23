@@ -89,7 +89,7 @@ K:C
 V:1
 [cE]| x| x| x| x|]
 V:2 clef=bass
-[C,G]| [A,,]|[D,]| [G,,]| [C,]|]
+[C,G,]| [A,,]|[D,]| [G,,]| [C,]|]
 w:C:I vi7 ii V7 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
@@ -238,7 +238,7 @@ w:C:I V I{% endcapture %}
 Another common exception is called the *frustrated leading tone*. While not considered ideal, you can choose to have the leading tone resolve by skipping downward to the root of the tonic chord, *if the leading-tone is in an inner voice*. This can solve doubling issues if you are trying to fix an incomplete triad by adding the chordal fifth. Try it in the tenor voice on the following two progressions. Notice that this allows you to create a deceptive cadence without having to double the chordal third of the vi chord.
 
 {% capture ex7 %}X:7
-T:Frustrating a leading tone
+T:Frustrated leading tone
 M:3/4
 L:1/4
 Q:1/4=60

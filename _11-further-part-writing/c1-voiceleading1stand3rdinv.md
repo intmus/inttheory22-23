@@ -28,9 +28,9 @@ w:C:I V6 I I V6/5 I I V4/2 I6{% endcapture %}
 
 ### Conclusions
 
-With first and third inversion chords, we place either the chordal third or chordal seventh in the bass. Both of these chord tones are tendency tones, especially when part of circle-of-fifths progression--chordal thirds like to resolve up by step and chordal seventh should resolve down by step. 
+With first and third inversion chords, we place either the chordal third or chordal seventh in the bass. Both of these chord tones are tendency tones, and tendency tones in outer voices follow fairly strict rules in this style. 
 
-For first-inversion triads and seventh chords, the bass note should resolve up by step to the root of the following chord, meaning that the chord following a first-inversion chord will likely be in root position assuming that the progression follows the circle of fifths. For third-inversion seventh chords (there are no third-inversion triads), the chordal seventh in the bass should resolve down by step, and if it is a circle-of-fifths progression, this means that the bass will resolve to the chordal third of the next chord making it a first-inversion chord.
+For first-inversion triads and seventh chords in circle-of-fifths progressions, the bass note should resolve up by step to the root of the following chord, meaning that the chord following a first-inversion chord will likely be in root position. For third-inversion seventh chords (there are no third-inversion triads), the chordal seventh in the bass should resolve down by step, and if it is a circle-of-fifths progression, the bass will resolve to the chordal third of the next chord making it a first-inversion chord.
 
 Of course, these guidelines assume that we are harmonizing circle-of-fifths progressions. If you do not have roots that are separated by P4/P5, we can create guidelines using functional substitutions.
 
@@ -56,7 +56,7 @@ V:2 clef=bass
 w:C:I V6/5 I I viio V6/5 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-Because the root position vii<sup>o</sup> triad is so difficult, it is rarely used. It is not possible to resolve a root-position vii<sup>o</sup> triad to a I chord without creating at least one unacceptable part-writing error. A root-position vii<sup>o</sup> must either pass through another chord or be inverted to resolve directly to I.
+Because the root position vii<sup>o</sup> triad is so difficult, it is rarely used. It is not possible to resolve a root-position vii<sup>o</sup> triad to a I chord without breaking at least one part-writing norm. A root-position vii<sup>o</sup> must either pass through another chord or be inverted to resolve directly to I.
 
 As a general rule of thumb, any diminished triad (including the ii<sup>o</sup> in minor) will typically need to have the chordal third doubled, because the tension of the diminished fifth and its tendency tones.
 
@@ -98,7 +98,7 @@ w:C:I ii6 V I{% endcapture %}
 
 ## Passing chords
 
-Thus far, we have only described a chord's function using the *primary* functions of tonic, dominant, and pre-dominant. We now add a new category called *tertiary* functions, and our first type of tertiary function is the passing chord that you see above. (If you are wondering why we have not discussed secondary function, we will cover those in Unit 14.) A *passing chord* is a chord that is inserted between two other chords to create stepwise motion within a voice--usually in the bass line. You can consider *passing* a function that replaces a chord's standard function (i.e. tonic, dominant, and predominant), and instead extends the function of the chords on either side. Harmonize the following progression that uses the IV<sup>6</sup> as a passing function. What does this say about the function of the IV chord--is it still a pre-dominant? Does it change the function of the first V chord?
+Thus far, we have only described a chord's function using the *primary* functions of tonic, dominant, and pre-dominant. We now add a new category called *tertiary* functions, and our first type of tertiary function is the passing chord that you see above. (If you are wondering why we are skipping over secondary functions, we will cover those in Unit 14.) A *passing chord* is a chord that is inserted between two other chords to create stepwise motion within a voice--usually in the bass line. You can consider *passing* a function that replaces a chord's standard function (i.e. tonic, dominant, and predominant), and instead extends the function of the chords on either side. Harmonize the following progression that uses the IV<sup>6</sup> as a passing function. What does this say about the function of the IV chord--is it still a pre-dominant? Does it change the function of the first V chord?
 
 {% capture ex4 %}X:4
 T:Passing chords
@@ -115,6 +115,6 @@ w:C:V6 IV6 V{% endcapture %}
 
 ## Conclusions
 
-You may first look at this progression and think that "V doesn't go to IV." And you would be right, because V to IV would technically be a *re*gression, not a *pro*gression. (We will discuss this more in the next topic on second-inversion passing chords.) However, in this case, the IV chord is not functioning as a pre-dominant chord; instead it connects the two inversions of the V chord with the smooth voice-leading that comes from passing motion. A listener will hear this progression as an extension of the dominant color, not as an alternating dominant - pre-dominant - dominant pattern. Any inversion of a chord can be classified as a passing chord as long as it creates stepwise motion in the bass voice, and many first- and third-inversion chords function this way. 
+You may first look at this progression and think that "V doesn't go to IV." And you would be right, because V to IV would technically be a *re*gression, not a *pro*gression. (We will discuss this more in the next topic on second-inversion passing chords.) However, in this case, the IV chord is not functioning as a pre-dominant chord; instead it connects the two inversions of the V chord with the smooth voice-leading that comes from passing motion. A listener will hear this progression as an extension of the dominant color, not as an alternating dominant/pre-dominant/dominant pattern. Any inversion of a chord can be classified as a passing chord as long as it creates stepwise motion in the bass voice, and many first- and third-inversion chords function this way. 
 
 In the example above, this passing IV<sup>6</sup> chord allows the composer enough space to fix a voicing error on the V<sup>6</sup> chord. You hopefully noticed that the V<sup>6</sup> chord has a doubled third, and if it were to resolve directly to a I chord, it would create parallel octaves. So the IV<sup>6</sup> chord bridges the gap between the two inversions of the V chord, allowing the V<sup>6</sup> to fix its doubling issue before resolving to a tonic chord.
