@@ -8,7 +8,7 @@ title: Discussion 11c - Voice-leading for First and Third Inversion Chords
 **First- and third-inversion chords in circle-of-fifths progressions**
 - I - V6 - I
   - Melody: C D C. Can't use C B C because we end up with a PP8
-  - Inner voices: alto voice is really the only one with options. D or G on the second beat are both fine, but the latter is a stronger voicing (even though it requires a skip) because there's less space between A and S
+  - Inner voices: alto voice is really the only one with options. D or G on the second beat are both fine, but the latter has a skip.
 - I - V6/5 - I
   - Melody: C D C again
   - Inner voices: we started with G F E  in T, but this creates a spacing error. Keeping it simple with G G G instead takes care of that
