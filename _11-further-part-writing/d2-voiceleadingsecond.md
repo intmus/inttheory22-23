@@ -11,6 +11,8 @@ title: Discussion 11d - Voice-leading for Second Inversion Chords
 - Pedal
 - Arpeggiated
 
+Second inversion triads have to be tertiary function.
+
 **Doubling rules:**
 - Double the bass! In this case, that would be the fifth of the chord. Doubling the root is possible, but more difficult than doubling the fifth
 
