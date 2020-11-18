@@ -24,13 +24,13 @@ title: Discussion 11c - Voice-leading for First and Third Inversion Chords
   - This is the one time you can double the fifth in a root position viio because it will result in a doubled root for V6/5, but honestly...it's better to try and avoid them whenever possible
 
 **Using functional substitutions for pre-dominants**
-- #3: I - ii6/5 - V - I
-  - Voicing for ii6/5, SATB: C D A (F). From here, things are business as usual. We copy our example over to #1 to continue the exercise...
-- #1: I - IV - V - I
-  - For the IV, we have to take out the D used in the ii6/5. The class decided to change it to an F instead because in C, F is the root of IV. Copy and paste #3 to the second example...
-- #2: I - ii6 - V - I
-  - This time, we have to take out the C because ii is no longer a seventh chord. The class first decided to change it to a D, but this presented a spacing issue where we had octaves between S and A, which gives a hollower sound
+- 1: I - IV - V - I
+  - For the IV, we have to take out the D. 
+- 2: I - ii6 - V - I
+  - We have to take out the C because ii is no longer a IV. t
   - To avoid this, double the third in ii6! ii and IV, as explained before, are similar in the same way as V and viio. ii6 can follow the same doubling rules as IV--its third is IV's root, which we saw in #1
+- 3: I - ii6/5 - V - I
+  - Voicing for ii6/5, SATB: C D A (F). 
 - Essentially: this is a rare thing, much like a frustrated leading tone, but it's still good to know about for the purposes of analysis. This one also happens a lot, so it's especially good to know about in advance
 
 **Function**
@@ -41,6 +41,6 @@ title: Discussion 11c - Voice-leading for First and Third Inversion Chords
 **Passing chords**
 - Creates passing motion. If you identify a chord as "passing," you're saying it has no primary function. Instead, we're using it for smooth voice leading. To ID these chords, you put the Roman numeral in parentheses and write "passing" underneath it
 - Like other tertiary functions, these extend the primary functions on either side of them. If you insert a passing chord between two dominant function chords, you've simply lengthened the dominant section
-- V6 - IV6 - V
+- V6 - IV6 - V. We made the IV6 a vi and V6 to vi is good, but vi to V is not.... so we label it a passing chord.
   - There's no good option for this one, really...each one has its own errors, whether actual or just "not ideal," so it's a matter of picking the one that is the least bad
 
