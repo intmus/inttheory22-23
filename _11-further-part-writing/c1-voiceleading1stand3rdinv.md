@@ -98,9 +98,9 @@ w:C:I ii6 V I{% endcapture %}
 
 ## Passing chords
 
-Thus far, we have only described a chord's function using the *primary* functions of tonic, dominant, and pre-dominant. We now add a new category called *tertiary* functions, and our first type of tertiary function is the *passing chord*. (If you are wondering why we are skipping over secondary functions, we will cover those in Unit 14.) A *passing chord* is a chord that is inserted between two other chords to create stepwise motion within a voice--usually in the bass line. You can consider *passing* a function that replaces a chord's standard function (i.e. tonic, dominant, and predominant), and instead extends the function of the chords on either side. 
+Thus far, we have only described a chord's function using the *primary* functions of tonic, dominant, and pre-dominant. We now add a new category of functions called *tertiary* functions--which we will discuss in detail in the next topic, Unit 11d--and our first type of tertiary function is the *passing chord*. (If you are wondering why we are skipping over secondary functions, we will cover those in Unit 14.) A *passing chord* is a chord that is inserted between two other chords to create stepwise motion within a voice--usually in the bass line. You can consider *passing* a function that removes a chord's standard function (i.e. tonic, dominant, and predominant), and instead extends the function of the chords on either side. 
 
-Let's see how this works by attempting an example with an impossible solution based on our current part-writing guidelines. Try to harmonize the following progression that uses the IV<sup>6</sup> as a passing function. You will notice that there is no tenor voice in the first chord, so you try multiple options to see if you can find a solution for a tenor voice that fulfills all guidelines thus far.
+Let's see how this works by attempting an example that seemingly breaks all of our harmonic progressions norms. When you first look at the progression below, you should immediately notice that a V chord resolves to a IV chord--which does not follow our harmonic flowchart of primary functions. While this is generally true, there is something happening here that requires you to look at the bigger picture. Try to harmonize the following progression using your best voice-leading, and as you do so, pay particular attention to the motion within each voice. You will notice that there is no tenor voice in the first chord, so you may try multiple options to see if you can find a solution for a tenor voice that fulfills all guidelines thus far.  
 
 {% capture ex4 %}X:4
 T:Passing chords
@@ -112,15 +112,35 @@ V:1
 [cE][d][c][d]| [c]4|]
 V:2 clef=bass
 [C,][B,,][A,,][G,,]| [C,]4|]
-w:C:I V6 IV6 V I{% endcapture %}
+w:C:I V6 IV6 V7 I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
 ### Conclusions
 
-In the example above, we are trapped by a voicing of the opening I chord. 
+In the example above, the melodic, stepwise motion of the bass line traps us into making some difficult harmonic choices. We want to end on a PAC, which means that as we extend the progression backward, we don't have any choices that would follow our standard harmonic flowchart of primary functions. (Please refer to Unit 7a if you need a refresher on primary functions in diatonic harmony.) We can use a pre-dominant function on beat 3 to lead to our dominant function chord on beat 4, but there are no primary function harmonies that lead to a pre-dominant that also incorporate the leading tone of the bass line. (Of note, the I<sup>M7</sup> is not used in this style of composition; you are welcome to try it and you will notice that it doesn't sound to out of place, but we would analyze this as two beats of a I chord with a passing tone (non-chord tone) on the second beat of the bass line.)
 
-TO BE WRITTEN
+The solution is to use another dominant chord on beat 2. Even though we would not normally have a dominant harmony resolve to a IV chord, in this case, the IV chord is not functioning as a IV chord with its typical primary function as a pre-dominant chord. Instead, it has taken on a *tertiary function* as a *passing chord*. Look at the voice-leading within each voice of this completed example:
 
-this passing IV<sup>6</sup> chord allows the composer enough space to fix a voicing error on the V<sup>6</sup> chord. You hopefully noticed that the V<sup>6</sup> chord has a doubled third, and if it were to resolve directly to a I chord, it would create parallel octaves. So the IV<sup>6</sup> chord bridges the gap between the two inversions of the V chord, allowing the V<sup>6</sup> to fix its doubling issue before resolving to a tonic chord.
+{% capture ex6 %}X:6
+T:Passing chord extending dominant function
+M:4/4
+L:1/4
+Q:1/4=60
+K:C
+V:1
+[cE][dD][cF][dF]| [cE]4|]
+V:2 clef=bass
+[C,G,][B,,G,][A,,A,][G,,B,]| [C,C]4|]
+w:C:I V6 IV6 V7 I{% endcapture %}
+{% include abc-example.html number="6" abc=ex6 %}
 
-You may first look at this progression and think that "V doesn't go to IV." And you would be right, because V to IV would technically be a *re*gression, not a *pro*gression. (We will discuss this more in the next topic on second-inversion passing chords.) However, in this case, the IV chord is not functioning as a pre-dominant chord; instead it connects the two inversions of the V chord with the smooth voice-leading that comes from passing motion. A listener will hear this progression as an extension of the dominant color, not as an alternating dominant/pre-dominant/dominant pattern. Any inversion of a chord can be classified as a passing chord as long as it creates stepwise motion in the bass voice, and many first- and third-inversion chords function this way. 
+If you were to ignore the fact that beat 3 forms a standard triad, you can assign each voice on beat 3 to a standard non-chord tone label, as if it were not part of a harmony.
+- The soprano voice is a neighbor tone between the two Cs.
+- The alto voice is an anticipation of the F on beat 4.
+- The tenor voice is a passing tone between beats 2 and 4.
+- And most importantly, the bass voice is a passing tone between beats 2 and 4.
+So even though a V chord does not usually resolve to a IV chord, in this particular case, it only *looks* as if it is resolving to a IV chord. In reality, each voice is simply moving through a non-chord tone...which happens to form a standard triad on beat 3. So instead of trying to label the IV chord as having a standard function, you would say that it's function is extending the dominant function on either side of it.
+
+So when this happens, we still want to acknowledge that the chord exists, but we also want to note that it is no longer a primary function. We will discuss the notation of of tertiary functions more in the next topic, but for now, label them using their standard Roman numeral and inversion figure, but put the Roman numeral inside of parentheses with a label of "pass" directly beneath it. Note that passing chords--meaning chords who create passing motion in one or more voices--act as if they are a group of non-chord tones. You may even think of them as "non-chord tone chords" if that helps. A listener will hear this progression as an extension of the dominant function, not as an alternating dominant/pre-dominant/dominant pattern. Any inversion of a chord can be classified as a passing chord as long as it creates stepwise motion in one or more voices--usually the bass voice--and it is common for many first- and third-inversion chords function this way.
+
+You may also notice that we have an unusual doubling on the IV<sup>6</sup> chord, but once we discuss second inversion chords in the next unit, we will be able to update the guidelines for doubling chord tones to more closely reflect what exists in music.
