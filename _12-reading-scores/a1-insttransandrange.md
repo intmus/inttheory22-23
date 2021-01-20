@@ -11,7 +11,7 @@ Now that we have a functional understanding of diatonic harmony, we can begin an
 For various practical and historical reasons, *transposing instruments* produce a different sounding pitch than the one written on the page. For example, when a B-flat clarinet sees a written 'C', that pitch will sound as a 'B-flat'. 
 
 Musicians use the following terms to discuss transposing instruments.
-- *sounding pitch* - The pitch that an instrument produces.
+- *sounding pitch* - The pitch that an instrument produces, regardless of its standard transposition.
 - *written pitch* - The pitch as written on the music.
 - *concert pitch* - The pitch at which the note name matches the standard frequencies for that pitch. (i.e. C = C, A = A, etc.)
     - In practical usage, concert pitch is almost always interchangeable with sounding pitch.

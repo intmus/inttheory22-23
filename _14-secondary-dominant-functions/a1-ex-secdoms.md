@@ -10,13 +10,14 @@ This unit will be your first introduction of *functional* accidentals--meaning a
 
 ## Introducing secondary dominant chords
 
-Secondary dominant chords share possibly the closest relationship to diatonic progressions and are an obvious starting point for studying chromatic harmony, because they are simply an elaboration of circle-of-fifths progressions. Let's begin looking at this by harmonizing the following progression in four-part harmony. Because it is full of root position triads, you will need to use multiple incomplete chords to use smooth voice-leading while avoiding errors.
+Secondary dominant chords are a logical extension to diatonic progressions and an obvious starting point for studying chromatic harmony, because they are simply an elaboration of circle-of-fifths progressions. Let's begin by harmonizing the following progression in four-part harmony. Because it is full of root position triads, you will need to use multiple incomplete chords to use smooth voice-leading while avoiding errors.
 
 {% capture ex1 %}X:1
 T:A standard progression
 M:4/4
 L:1/2
 K:C
+Q:1/4=80
 V:1
 [cE] [c]| [d] [d]| [c2]|]
 V:2 clef=bass
@@ -24,13 +25,14 @@ V:2 clef=bass
 w:C:I vi ii V I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-In Unit 7, we discussed the evolution of the circle-of-fifths progression, and in that process, we saw that the circle-of-fifths progressions are strong because the voice-leading closely mirrors are a series of V-I progressions. With that in mind, let's zoom in on the middle measure of the ii-V-I progression that you completed above. (This will work for any voicing that you chose, but I have inserted the voicing that I used in the next example.) On the staff below, I have isolated the ii and V chords in the first two measures. In the second measure, I have copied all of the voices exactly from the first measure, but I have altered only the *key signature* to match the second chord--in this case, our second chord was the V chord, a G major triad, so I used the key signature for G major without altering any of the voices. Analyze the second measure in G major while taking into account the new key signature. What progression have we created? 
+In Unit 7, we discussed the evolution of the circle-of-fifths progression, and in that process, we saw that the circle-of-fifths progressions are strong because the voice-leading closely mirrors a series of V-I progressions. With that in mind, let's zoom in on the middle measure of the ii-V-I progression that you completed above. (This will work for any voicing that you chose, but I have inserted the voicing that I used in the next example.) On the staff below, I have isolated the ii and V chords in the first two measures. In the second measure, I have copied all of the voices exactly from the first measure, but I have altered only the *key signature* to match the tonic of the second chord--in this case, our second chord was the V chord, a G major triad, so I used the key signature for G major without altering any of the voices. Analyze the second measure in G major while taking into account the new key signature. What progression have we created? 
 
 {% capture ex2 %}X:2
 T:Altering ii-V
 M:4/4
 L:1/2
 K:C
+Q:1/4=80
 V:1
 [dF] [dG]|| [K:G] [dF] [dG]||
 V:2 clef=bass
@@ -45,6 +47,7 @@ T:Changing ii into a dominant chord
 M:4/4
 L:1/2
 K:C
+Q:1/4=80
 V:1
 [cE] [cE]| [dF] [dG]| [c2E]|]
 V:2 clef=bass
@@ -61,6 +64,7 @@ T:Changing ii into a dominant chord
 M:4/4
 L:1/2
 K:C
+Q:1/4=80
 V:1
 [cE] [cE]| [d^F] [dG]| [c2E]|]
 V:2 clef=bass
