@@ -53,15 +53,15 @@ M:4/4
 L:1/2
 K:C
 V:1
-[cE] [cE]| [c^F] [BG]| [c2E]|]
+[cE] [cE]| x [BG]| [c2E]|]
 V:2 clef=bass
-[C,G,] [A,,A,]| [D,A,] [G,,G,]| [C,2G,]|]
-w:C:I vi V7/V V I{% endcapture %}
+[C,G,] [A,,A,]| [^F,,] [G,,G,]| [C,2G,]|]
+w:C:I vi viio/V V I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
 ### Conclusions
 
-It is likely that you immediately ran into issues in trying to eliminate the D from the bass chord. Substituting the an A in the same octave creates parallel octaves against the tenor. Substituting an F-sharp in the same octave creates parallel octaves against the alto. You could frustrate the leading tone in the alto as a workaround, but the fact remains: vii<sup>o</sup> *triads* are extremely difficult to use as a dominant function, and there is no straightforward answer to the above exercise that does not result in some compromise. 
+If you tried to create your vii<sup>o</sup>/V based on the V<sup>7</sup>/V voicing from above, it is likely that you immediately ran into issues in trying to eliminate the D from the bass chord. Substituting an A in the same octave creates parallel octaves against the tenor. Substituting an F-sharp in the same octave creates parallel octaves against the alto. You could frustrate the leading tone in the alto as a workaround, but the fact remains: vii<sup>o</sup> *triads* are difficult to use as a dominant function with good voice-leading, and there is no straightforward answer to the above exercise that does not result in some compromise. 
 
 ## Adding a seventh
 
@@ -73,10 +73,10 @@ M:4/4
 L:1/2
 K:C
 V:1
-[cE] [cE]| x x| [c2]|]
+[cE] [cE]| [EA] [DG]| [E2G]|]
 V:2 clef=bass
-[C,G,] [A,,A,]| [^F,,] [G,,]| [C,2]|]
-w:C:I vi viio7/V V I{% endcapture %}
+[C,G,] [A,,A,]| [^F,,C] [G,,B,]| [C,2C]|]
+w:C:I vi vii%7/V V I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
 ### Conclusion
@@ -89,16 +89,16 @@ M:4/4
 L:1/2
 K:C
 V:1
-[cE] [cE]| [c_E] [DB]| [c2]|]
+[cE] [cE]| [c_E] [DB]| [c2E]|]
 V:2 clef=bass
-[C,G,] [A,,A,]| [^F,,A,] [G,,G,]| [C,2]|]
+[C,G,] [A,,A,]| [^F,,A,] [G,,G,]| [C,2G,]|]
 w:C:I vi viio7/V V I{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
 Because this is a functional substition for a V/V chord, the root and fifth of the vii<sup>o7</sup>/V are acting as if they were the third and seventh of the V<sup>6/5</sup>/V chord. You can see this when you voice the two chords side-by-side.
 
 {% capture ex7 %}X:7
-T:Comparing a vii07/V to a V7/V
+T:Comparing a viio7/V to a V7/V
 M:4/4
 L:1/2
 Q:1/4=60
@@ -107,7 +107,7 @@ V:1
 [cD] [DB]| [c_E] [DB]|]
 V:2 clef=bass
 [^F,,A,] [G,,G,]| [^F,,A,] [G,,G,]|]
-w:C:V6/5ofV I viio7/V V I{% endcapture %}
+w:C:V6/5ofV V viio7/V V I{% endcapture %}
 {% include abc-example.html number="7" abc=ex7 %}
 
 ## Secondary leading-tone chords through similar chords
