@@ -6,7 +6,7 @@ abc: true
 
 ## Voice-leading exceptions for secondary dominants
 
-In Unit 11, we discussed how repeated patterns and sequences in voice-leading can override standard voice-leading practices. One such example was how a sequence of seventh chords can require "incorrectly" resolved chordal thirds and sevenths. To demonstrate this, harmonize the excerpt below paying attention to the chordal resolutions between the ii<sup>7</sup> and V<sup>4/3</sup> chords. Which voices must use non-standard resolutions to accommodate the progression?
+In Unit 17, we will discuss how repeated patterns and sequences in voice-leading can override standard voice-leading practices. We can preview one such example by looking at seventh chords that require "incorrectly" resolved chordal thirds and sevenths. To demonstrate this, harmonize the excerpt below paying attention to the chordal resolutions between the ii<sup>7</sup> and V<sup>4/3</sup> chords. Which voices must use non-standard resolutions to accommodate the progression?
 
 {% capture ex1 %}X:1
 T:Harmonizing consecutive seventh chords
@@ -114,12 +114,13 @@ Therefore, secondary dominant chords can be substituted freely within a circle-o
 
 ## Deceptive resolutions of secondary dominant functions
 
-There is a less common resolution of secondary dominant chords that relies on the voice-leading from a deceptive cadence. Analyze the following example, and you will notice that at first glance, the progression does not follow our established progressions between the second and third chords. To understand this, you must think in the *borrowed* key. What key would this chromatic chord *normally* tonicize? If you were in that key, how would label the progression between these two chords? It is very helpful to use leadsheet symbols here.
+There is a less common resolution of secondary dominant chords that relies on the voice-leading from a deceptive cadence. Analyze the following example, and you will notice that at first glance, the progression does not follow our established progressions between the second and third chords. To understand this, you must think in the *tonicized* key. What key would this chromatic chord *normally* tonicize? If you were in that key, how would label the progression between these two chords? It is helpful to use leadsheet symbols here.
 
 {% capture ex4 %}X:4
 T:Deceptive resolutions of secondary dominant functions
 M:4/4
 L:1/2
+Q:1/4=90
 K:C
 V:1
 [cE] [BD]| [AC] [GD]| [G2C]|]
@@ -130,8 +131,8 @@ w:C:I V7/vi IV V4/2 I6{% endcapture %}
 
 ### Conclusions
 
-In this progression, the E7 chord is likely to function as the dominant in the key of A major/minor. But instead of resolving to an A minor chord--the diatonic vi of the current key of C major--it resolves to an F major triad. At first this seems almost nonsensical, but if you examine the tonicization in the key of A minor, you will realize that this is a common progression in that key--a deceptive progression of V7 to vi. In labeling this in our secondary key, you do not need to label anything further, but feel free to use the abbreviation of "dec" in parentheses between the two chords if you would like to make a note of this uncommon use of secondary dominants.
+In this progression, the E7 chord is likely to function as the dominant in the key of A major/minor. But instead of resolving to an A minor chord--the diatonic vi of the current key of C major--it resolves to an F major triad. At first this seems almost nonsensical, but if you examine the tonicization in the key of A minor, you will realize that this is a common progression in that key--a deceptive progression of V7 to VI. In labeling this in our secondary key, you do not need to label anything further, but feel free to use the abbreviation of "dec" in parentheses between the two chords if you would like to make a note of this uncommon use of secondary dominants.
 
-In short, if you find a root-position secondary dominant chord that does not resolve to its normally tonicized chord, check to see if it instead resolves to a diatonic chord with a root that is step (M2/m2) above the root of the secondary dominant. If so, this is a deceptive resolution in a secondary key, so you should still label the secondary dominant in the secondary key.
+In short, if you find a root-position secondary dominant chord that does not resolve to its normally tonicized chord, check to see if it instead resolves to a diatonic chord with a root that is a step (M2/m2) above the root of the secondary dominant. If so, this is a deceptive resolution in a secondary key, so you should still label the secondary dominant in the secondary key.
 
 Remember that all deceptive progressions create difficult voice leading in four-part harmony, particularly if both chords are triads. Please refer to the voice-leading guidelines for this progression in Unit 11 if you would like to review.

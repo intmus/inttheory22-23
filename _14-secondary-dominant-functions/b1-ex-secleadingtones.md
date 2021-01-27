@@ -81,7 +81,7 @@ w:C:I vi vii%7/V V I{% endcapture %}
 
 ### Conclusion
 
-As you can see, the part-writing mostly takes care of itself in voicing this chord as long as you resolve the tendency tones correctly. The most obvious solution is listed below. Notice that the resolutions are smooth and allow every tendency tone to resolve correctly without creating objectional parallels.
+As you can see, the part-writing mostly takes care of itself in voicing this chord as long as you resolve the tendency tones correctly. The most obvious solution is listed below. Notice that the resolutions are smooth and allow every tendency tone to resolve correctly without creating objectionable parallels.
 
 {% capture ex6 %}X:6
 T:A completed secondary leading-tone seventh chord
@@ -95,7 +95,7 @@ V:2 clef=bass
 w:C:I vi viio7/V V I{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
-Because this is a functional substition for a V/V chord, the root and fifth of the vii<sup>o7</sup>/V are acting as if they were the third and seventh of the V<sup>6/5</sup>/V chord. You can see this when you voice the two chords side-by-side.
+Because this is a functional substitution for a V/V chord, the root and fifth of the vii<sup>o7</sup>/V are acting as if they were the third and seventh of the V<sup>6/5</sup>/V chord. You can see this when you voice the two chords side-by-side.
 
 {% capture ex7 %}X:7
 T:Comparing a viio7/V to a V7/V
