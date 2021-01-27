@@ -8,11 +8,15 @@ abc: true
 
 Harmonization of "Inserting secondary dominant functions into various root movement patterns"
 
-Progression I, V7/vi, vi, V7/IV, IV, V7/V, V7, I
+Progression I, vi7, V7/ii, ii, V7/V, V7, I
 
-Soprano: C, D, C, C, D, D, C Alto: E, E, E, E, F, F#, F, E Tenor: G, G#, A, Bb, A, C, B, G
+Soprano: C, C, C#, D, D, D, C Alto: E, G, G, F, F#, G, E Tenor: G, A, A, C, C, B, G
 
-Bass notes (found from inversion): C, E, A, C, F, D, G, C
+Bass notes (found from inversion): C, A, A, D, D, G, C
+
+Any major, minor, or dominant quality can be tonicized. For leading tone chords, check previous page chpt.15a.
+
+Inserting secondary dominants helps to create smooth bass lines. 
 
 (Following to be used for example 3 on previous page - DO NOT ALTER)
 
