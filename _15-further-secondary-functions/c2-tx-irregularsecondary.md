@@ -8,7 +8,7 @@ abc: true
 
 **Harmonizing consecutive seventh chords**
 - We have some weird voice leading happening between the first and second chords
-  - This is how we wet up a seventh chord sequence, where instead of thirds resolving upward to the root of the next they remain static, become sevenths, and then resolve *down* to the third of the chord after that.
+  - This is how we set up a seventh chord sequence, where instead of thirds resolving upward to the root of the next, they remain static, become sevenths, and then resolve *down* to the third of the chord after that in circle of fifths progressions.
 - All you have to do to turn ii7 into a V7/V is raise the third, then add a natural to the F in the G7 after that. This looks weird on paper and sucks to sight read, but for the purposes of harmonic analysis we write it this way.
 
 **Consecutive secondary dominant chords**
