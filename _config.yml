@@ -73,24 +73,27 @@ collections:
   17-mode-mixture:
     output: true
     name: 17) Mode Mixture
-  18-chromatic-chords:
+  18-tonal-sequences:
     output: true
-    name: 18) Chromatic Chords
-  19-extended-harmonies:
+    name: 18) Tonal Sequences
+  19-chromatic-chords:
     output: true
-    name: 19) Extended Tertian Harmony
-  20-advanced-chromatic-techniques:
+    name: 19) Chromatic Chords
+  20-extended-harmonies:
     output: true
-    name: 20) Advanced Chromatic Techniques
-  21-beyond-simple-compound-meters:
+    name: 20) Extended Tertian Harmony
+  21-advanced-chromatic-techniques:
     output: true
-    name: 21) Beyond Simple and Compound Meters
-  22-intro-to-non-diatonic-materials:
+    name: 21) Advanced Chromatic Techniques
+  22-beyond-simple-compound-meters:
     output: true
-    name: 22) An Introduction to Non-Diatonic Materials
-  23-intro-to-post-tonal:
+    name: 22) Beyond Simple and Compound Meters
+  23-intro-to-non-diatonic-materials:
     output: true
-    name: 23) An Introduction to Post-Tonal Analysis
+    name: 23) An Introduction to Non-Diatonic Materials
+  24-intro-to-post-tonal:
+    output: true
+    name: 24) An Introduction to Post-Tonal Analysis
 #  final-project:
 #    output: true
 #    name: Final Project Notes and Discussion
