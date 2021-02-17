@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 18b Lesson - Chromatic Sequences
+title: 18b Discussion - Chromatic Sequences
 abc: true
 ---
 

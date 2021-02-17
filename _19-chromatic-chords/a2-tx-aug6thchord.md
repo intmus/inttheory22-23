@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 18b Lesson - Augmented sixth chords
+title: 18a Lesson - Augmented sixth chords
 abc: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 18b Examples - Advanced Sequences
+title: 18b Lesson - Advanced Sequences
 abc: true
 ---
 

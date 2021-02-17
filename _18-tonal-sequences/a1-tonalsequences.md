@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 18e - Tonal Sequences
+title: 18a Lesson - Tonal Sequences
 abc: true
 ---
 

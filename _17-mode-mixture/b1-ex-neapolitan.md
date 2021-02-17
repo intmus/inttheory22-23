@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 18a Examples - bII chords (Neapolitan)
+title: 17b Examples - bII chords (Neapolitan)
 abc: true
 ---
 
@@ -50,7 +50,7 @@ As you labeled the chords, you probably noticed that you had a chord that could 
 
 ## Neapolitan chords (bII)
 
-You may label the Neapolitan chord using standard Roman numeral notation (bII) as discussed in the mode mixture unit (Unit 17a), but it is also common to substitute an upper-case "N" -- short for Neapolitan -- in your Roman numerals. For voice-leading purposes, the chord may sometimes have an enharmonically equivalent pitch--such as the `G#` shown in the third and sixth progressions--but we still always analyze this as a bII chord.
+You may label the Neapolitan chord using standard Roman numeral notation (bII) as discussed in the mode mixture unit (Unit 17a), but it is also common to substitute an upper-case "N"--short for Neapolitan--in your Roman numerals. For voice-leading purposes, the chord may sometimes have an enharmonically equivalent pitch--such as the `G#` shown in the third and sixth progressions--but we still always analyze this as a bII chord.
 
 The above examples are three of the most common ways in which you should approach and leave a Neapolitan chord:
 - Directly to the V chord, most often the V<sup>7</sup>

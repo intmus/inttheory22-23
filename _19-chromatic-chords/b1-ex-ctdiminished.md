@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 18c Examples - Common-tone diminished chords
+title: 18b Examples - Common-tone diminished chords
 abc: true
 ---
 

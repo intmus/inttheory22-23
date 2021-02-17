@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 17b Examples - Advanced mode mixture
+title: 17c Examples - Advanced mode mixture
 abc: true
 ---
 

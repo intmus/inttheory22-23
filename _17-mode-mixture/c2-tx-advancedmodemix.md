@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 17b Lesson - Advanced mode mixture
+title: 17c Lesson - Advanced mode mixture
 abc: true
 ---
 
