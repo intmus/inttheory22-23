@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 20a Examples - Mediant harmony and Idealized Voice-leading Intervals
+title: 21a Examples - Mediant harmony and Idealized Voice-leading Intervals
 abc: true
 ---
 

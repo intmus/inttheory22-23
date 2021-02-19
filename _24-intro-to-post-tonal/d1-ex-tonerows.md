@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 23d Examples - Serialism and Tone Rows
+title: 24d Examples - Serialism and Tone Rows
 abc: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 18a Examples - Augmented sixth chords
+title: 19a Examples - Augmented sixth chords
 abc: true
 ---
 

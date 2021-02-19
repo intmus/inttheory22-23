@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 19a Examples - Extended Tertian Harmonies and Non-chord Tones
+title: 20a Examples - Extended Tertian Harmonies and Non-chord Tones
 abc: true
 ---
 

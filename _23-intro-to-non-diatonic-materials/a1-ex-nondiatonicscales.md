@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 22a Examples - Non-diatonic scales
+title: 23a Examples - Non-diatonic scales
 abc: true
 ---
 

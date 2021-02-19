@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 19a Lesson - Extended Tertian Harmonies and Non-chord Tones
+title: 20a Lesson - Extended Tertian Harmonies and Non-chord Tones
 abc: true
 ---
 # Class discussion

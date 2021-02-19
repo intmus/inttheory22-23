@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 22b Examples - Pitch-class integer notation
+title: 23b Examples - Pitch-class integer notation
 abc: true
 ---
 
