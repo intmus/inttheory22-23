@@ -10,7 +10,7 @@ abc: true
 - Not based in tertian harmony, so their "Roman numerals" are written differently than normal
 - They're called augmented sixth chords because they contain an augmented sixth
 - The primary reason for these is voice leading--the raised tone moves up, the lowered tone moves down. Both tones will proceed to the root of the next chord
-  - a default +6 chord will proceed to V and has predominant function
+  - a default +6 chord will proceed to V and has **predominant function**
 
 **Think of the components of these chords using scale degrees!**
 - Italian (It): b6, #4, 1 (x2)
@@ -20,7 +20,7 @@ abc: true
 
 Italian is the "basic" flavor: it just contains all the notes that all the +6 chords have. In my experience, I actually had more trouble IDing It+6 chords than the other two because I psyched myself out looking for a fourth tone that obviously was not there. So, be aware that It+6s are going ot have a different shape than Ger+6 and Fr+6.
 
-Speaking of shape, Ger+6s will usually appear in the same shape as a V6/5, while Fr+6 will usually appear in the same shape as a V4/3. The default shape for a It+6 is like a V6. (V(7) is used as a filler for simplicity: remember that these all have predominant function.)
+Speaking of shape, Ger+6s will usually appear in the same shape as a V6/5, while Fr+6 will usually appear in the same shape as a V4/3. The default shape for a It+6 is like a V6. (V(7) is used as a filler for simplicity: remember that these all have predominant function.ex: Ab C Eb F# can be renamed as Ab C Eb Gb to make a Ab7 chord instead of Aug6 chord)
 
 The "inversion" doesn't affect how we label these. No matter which note is in the bass, it's always written as the default (x)+6. This is because the chord is *not* made up of stacked thirds, so our inversion labeling system doesn't translate properly.
 
