@@ -96,11 +96,9 @@ w:C:It+6 V I It+6 V I Ger+6 V I Ger+6 V I Fr+6 V I Fr+6 V I
 
 ### Conclusions
 
-#### A defining resolution
+As you can see, the tendency tones of the augmented sixth--^b6 and ^#4--will always resolve by a half-step. If the ^b6 is in a lower voice than the ^#4, they will resolve outward by half-step to an octave. If the ^#4 is in a lower voice than the ^b6, they will resolve inward by half-step to create an octave. The resolution of this interval is the entire reason for the existence of these augmented sixth chords, so you can consider this resolution of the defining characteristic of these chords.
 
-As you can see, the tendency tones of the augmented sixth -- ^b6 and ^#4 -- will always resolve by a half-step. If the ^b6 is in a lower voice than the ^#4, they will resolve outward by half-step to an octave. If the ^#4 is in a lower voice than the ^b6, they will resolve inward by half-step to create an octave. The resolution of this interval is the entire reason for the existence of these augmented sixth chords, so you can consider this resolution of the defining characteristic of these chords.
-
-#### Augmented sixth chords resolving to V<sup>7</sup> and I<sup>6/4</sup>
+## Augmented sixth chords resolving to V<sup>7</sup> and I<sup>6/4</sup>
 
 There are certainly voice-leading issues when resolving augmented sixth chords, but the chromatic element, particularly the ^#4, somewhat camouflages the objectionable parallels. Most obviously, when a Ger<sup>+6</sup> resolves directly to a V chord, parallel perfect fifths will result when resolving the ^b6 and ^b3 scale degrees. For this reason, there are alternate resolutions for augmented sixth chords that are often preferable. Look at the next example to see two possible fixes for this. Does the cadential I<sup>6/4</sup> fix the likely objectionable parallels for a Ger<sup>+6</sup>? Why does the Ger<sup>+6</sup> have an enharmonically spelled pitch when resolving to a cadential I<sup>6/4</sup>? When an augmented sixth chord resolves to a V<sup>7</sup>, what changes about the resolution of the tendency tones in the augmented sixth chord?
 
@@ -116,6 +114,12 @@ V:2 clef=bass
 [C2_A,,] [G,,C][G,,B,]| [G,4C,]|| [_A,,2D] [G,,2D]| [C4C,]||]
 w:C:Ger+6 I6/4 V I Fr+6 V7 I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
+
+### Conclusions
+
+Passing through another chord can hide the objectionable parallels created by the tendency tones of the Ger<sup>+6</sup>. In particular, a cadential 6/4 chord can still provide the standard resolutions for the tendency tone (to the dominant scale degree) but also provides an outlet for the ^b3 to resolve by half-step to the third of the I<sup>6/4</sup> as you can see in the first example. In this case, the ^b3 will often be re-spelled to a ^#2, but this does not change the function or labeling of the chord.
+
+The other option that is commonly used is resolving any augmented sixth chord to a V<sup>7</sup> chord rather than a triad. In this case though, the smoothest resolution to the seventh of the V<sup>7</sup> is to alter the resolution of one of the tones that create the augmented sixth interval--particularly, the ^#4. Instead of resolving upward by half-step to `sol`, you can resolve the ^#4 *downward by half-step* to the seventh of the V<sup>7</sup> as demonstrated in the second example above.
 
 ## Labeling augmented sixth chords
 
