@@ -79,12 +79,12 @@ collections:
   19-chromatic-chords:
     output: true
     name: 19) Chromatic Chords
-  20-extended-harmonies:
+  20-extended-and-mediant-harmonies:
     output: true
-    name: 20) Extended Tertian Harmony
-  21-advanced-chromatic-techniques:
+    name: 20) The Harmony of Thirds
+  21-advanced-modulatory-techniques:
     output: true
-    name: 21) Advanced Chromatic Techniques
+    name: 21) Advanced Modulatory Techniques
   22-beyond-simple-compound-meters:
     output: true
     name: 22) Beyond Simple and Compound Meters
