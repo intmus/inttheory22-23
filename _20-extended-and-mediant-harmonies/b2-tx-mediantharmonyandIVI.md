@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 21a Lesson - Mediant harmony and Idealized Voice-leading Intervals
+title: 20b Lesson - Mediant harmony and Idealized Voice-leading Intervals
 abc: true
 ---
 
