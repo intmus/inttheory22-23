@@ -1,10 +1,12 @@
 ---
 layout: chapter
-title: 20a Examples - Extended Tertian Harmonies and Non-chord Tones
+title: 20a Lesson - Extended Tertian Harmonies and Non-chord Tones
 abc: true
 ---
 
-To this point in the course, we have only studied harmony based on triads and seventh chords, but as we have shown in the units covering chromaticism, triads and seventh chords are simply a result created by the underlying voice leading that makes tonality work. Because of this, it is possible to have extensions beyond seventh chords that function as chord tones. Analyze the following excerpt from the famous tune *The Girl from Ipanema* composed by Antonio Carlos Jobim. Label each chord with leadsheet symbols and Roman numerals with inversion figures as well as all non-chord tones. (Note that measure 6 is particularly tricky if you have never seen a tri-tone substitution in jazz. For that measure, you may want to consider the melody separately and change one pitch of the chorale chord to create an augmented sixth chord.)
+To this point in the course, we have only studied harmony based on triads and seventh chords, but as we have shown in the units covering chromaticism, triads and seventh chords function in progressions due to the underlying voice leading in diatonic harmony. If we look at the construction of melodies and their interactions with vertical harmonies, we can find ways to expand the tertian stack to include extensions beyond seventh chords that function as chord tones. 
+
+Let us start by analyzing the following "chorale" arrangement based on the famous tune *The Girl from Ipanema* composed by Antonio Carlos Jobim. Label each chord with leadsheet symbols and Roman numerals, while paying particular attention to labeling all non-chord tones. Note that measure 6 is particularly tricky, but you only need to look back into the previous unit for a way to understand that harmony. For that measure, you may want to consider the melody separately and enharmonically re-spell one pitch of the chorale chord.
 
 {% capture ex1 %}X:1
 T:Girl from Ipanema
@@ -29,7 +31,7 @@ How did you deal with the first measure of this tune? It is clearly an Fmaj7 cho
 
 ## Extended tertian harmony versus non-chord tones
 
-The first measure of *The Girl from Ipanema* is a perfect example of functional extended harmonies and should help you begin creating a decision tree to determine whether a tone is a non-chord tone or a functional extension. Because the position of the `G` in the measure, it does not fit the standard non-chord tone patterns that we established early in the course. As you look at it further, it should be clear that this G is *functional*--it is critical to the texture and structure of this chord--so we must consider it a chord tone, making this harmony an F<sup>maj9</sup> chord.
+The first measure of *The Girl from Ipanema* is a perfect example of functional extended harmonies and should help you begin creating a decision tree to determine whether a tone is a non-chord tone or a functional extension. Because the position of the `G` in the measure, it does not fit the standard non-chord tone patterns that we established early in the course. As you look at it further, it should be clear that this G is *functional*--it is critical to the texture and structure of this chord--so we must consider it a chord tone, making this harmony an F<sup>maj9</sup> chord. Measure 3 has a similar issue with the E in the melody over the G7
 
 As we have discussed repeatedly in this course, harmonic analysis is the art of determining which pitches are functional to the harmony and which pitches are embellishment. As we move into an expanded view of tonal harmony, it is imperative that you are extremely familiar with the details of non-chord tones in Unit 9a, because these shapes will provide a foundation to help you begin determining what is functional. Simply put, if you cannot label a pitch as one of the possible non-chord tone shapes, then it is most likely a functioning chord tone. If there are more than four pitches for a given harmony that fall into this category, it means that you must consider the concept of extended tertian harmonies such as ninth chords.
 

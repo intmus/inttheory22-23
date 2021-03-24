@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 20a Lesson - Extended Tertian Harmonies and Non-chord Tones
+title: 20a Discussion - Extended Tertian Harmonies and Non-chord Tones
 abc: true
 ---
 # Class discussion
@@ -23,7 +23,7 @@ Labeled G9, G11, and G13 (for dominant chords).
   - G11 is G,B,D,F,A,C
   - G13 is G,B,D,F,A,C,E
   
-If a non-chord tone doesn't fit within our given possibilities, it's most likely an extention.
+If a non-chord tone doesn't fit within our given possibilities, it's most likely an extension.
 Your options for non-chord tones are:
 - passing tone
 - neighbor tone
