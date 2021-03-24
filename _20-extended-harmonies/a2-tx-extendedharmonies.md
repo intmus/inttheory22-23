@@ -47,7 +47,7 @@ What are the differences between these chords?
   - also often grouped like G,A,B,D.
     - this is not the same as sub. 
     - sub means to substitute a chord tone with the given note.
-3. V9 65
+3. V9(65)
   - still spelled like a V9 but in first inversion (of seventh chord inversions).
     - if the ninth is on the bottom, it's probably not a ninth, but a pedal tone.
 4. Vsub13
@@ -55,6 +55,7 @@ What are the differences between these chords?
   - though spelled the same as a iii6, it functions as the dominant so it is labelled Vsub13 (or Vsub6).
   - in C, spelled G,B,E.
   
+Ninth chords are not usually in inversions.   
 A V9 chord is the combination of a V7 and a G#%7. 
 In A, the lower 4 notes are E,G#,B,D (V7). 
 The upper 4 notes are G#,B,D,F#.
