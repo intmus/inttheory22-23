@@ -14,34 +14,34 @@ abc: true
 - A collection of pitch classes. Each group size has a different name (refer to the chart in 22b)
 
 **Notating pitch class sets**
-- Many of the examples on your homework will be *unordered* pitch class sets. Despite this name, we need a standard system for writing these so we can easily make them *ordered* later
-- Undordered pc sets are notated with parantheses around the set and commas between each pc. Examples: (0,1,5,t) and (Bb,C,D,G). Like hwo points on a graph are notated before you actually graph them
+- Many of the examples on your homework will be *unordered* pitch class sets. Despite this name, we need a standard system for writing these so we can easily make them *ordered* later.
+- Undordered pc sets are notated with parantheses around the set and commas between each pc. Examples: (0,1,5,t) and (Bb,C,D,G). Like two points on a graph are notated before you actually graph them.
 
 **Modulo 12 arithmetic**
 - 12 is the magic number in this system! Everything is based around 12. Just like how you know that the clock resets when you go from noon to 1 P.M., the number above e/11 in this notation roll back around to 0, 1, 2, etc.
-- If you have a number above 12, you subtract 12 from it to get the number that's actually within the bounds of our system
+- If you have a number above 12, you subtract 12 from it to get the number that's actually within the bounds of our system.
 
 **Notating transposition**
-- We are solely in fixed zero now
+- We are solely in fixed zero now.
 - We have the pitch class set (E,F,G,Bb). Using traditional transposition methods, transpose up a P4 to get (A,Bb,C,Eb)
-- If we convert our first pcs to integer notation, we get (4,5,7,t). Add 5 to each number (subtracting 12 from any numbers over e), and we have (9,t,0,3). Convert the second set back to note names, and you will find it's the same as the second set the first time we transposed in our traditional method
+- If we convert our first pcs to integer notation, we get (4,5,7,t). Add 5 to each number (subtracting 12 from any numbers over e), and we have (9,t,0,3). Convert the second set back to note names, and you will find it's the same as the second set the first time we transposed in our traditional method.
 - The numbers in integer notation represent intervals from 0. 5 = P4 because F is a P4 (5 half steps) from C (0)
-- You would notate this process like this: T5(E,F,G,Bb) = (A,Bb,C,Eb) OR T5(4,5,7,t) = (9,t,0,3). T5 just means that we are transposing by adding 5, and it is fixed to the front of the original set to show that it is the one we're manipulating
+- You would notate this process like this: T5(E,F,G,Bb) = (A,Bb,C,Eb) OR T5(4,5,7,t) = (9,t,0,3). T5 just means that we are transposing by adding 5, and it is fixed to the front of the original set to show that it is the one we're manipulating.
 
 **Transposing downward**
 - Same process as above, but instead of adding numbers we subtract them!
-- In Mod12, you can also add 12 to a negative number to get a pc within the bounds of our notation system
+- In Mod12, you can also add 12 to a negative number to get a pc within the bounds of our notation system.
 
 **Normal form/normal order**
-- Normal form/order is an ascending arrangement of a pcs where the outside interval is smallest. This is very different from tertian harmony, where we're concerned with stacking in thirds
-- Let's use (1,7,t). Think about this process like using a clock face: you can only go clockwise, which means you can shuffle which nubmer is first in the set as long as the set remains in the same order. You can have (7,t,1) but you can't have (1,t,7) because t is out of ascending order
+- Normal form/order is an ascending arrangement of a pcs where the outside interval is smallest. This is very different from tertian harmony, where we're concerned with stacking in thirds.
+- Let's use (1,7,t). Think about this process like using a clock face: you can only go clockwise, which means you can shuffle which nubmer is first in the set as long as the set remains in the same order. You can have (7,t,1) but you can't have (1,t,7) because t is out of ascending order.
 - We can have (1,7,t,), (7,t,1), or (t,1,7). We're looking for the smallest outside interval, which we do by subtracting the last integer from the first one in the set. t-1=9, 1-7=6, and 7-t=9. Since the middle one has the smallest interval, the normal form for (1,7,t) is [7,t,1].
-- Square brackets and commas denote normal form
-- *Always* put things in ascending form before you put them in normal or prime form. This form allows us to go through the process of finding the smallest outside interval, so it's important that we start out using it
+- Square brackets and commas denote normal form.
+- *Always* put things in ascending form before you put them in normal or prime form. This form allows us to go through the process of finding the smallest outside interval, so it's important that we start out using it.
 
 **Breaking ties for ordering pitch class sets**
 - What do we do if we do all our subtracting and end up with two of the same result??
-  - Go one more number in from the right with the remaining possibilities to break the tie! Obviously there was no tie to break with (1,7,t), but if we wanted to break the tie between the two 9 answers we would go 7-1=6 and 1-t=3 respectively
+  - Go one more number in from the right with the remaining possibilities to break the tie! Obviously there was no tie to break with (1,7,t), but if we wanted to break the tie between the two 9 answers we would go 7-1=6 and 1-t=3 respectively.
 
 **Developing a method for normal form using (3,e,5,2,8)**
 - Put in ascending order: (2,3,5,8,e). Any ascending order is fine, but I usually start with the smallest number on the left because it makes sure I don't get mixed up
@@ -66,7 +66,7 @@ abc: true
   - 3-e=4
 -The normal form for this pentachord is [2,3,5,8,e]. Remember that we're subtracting the same number every time--we're just changing what we're subtracting it *from*
 
-Completely symmetrical pitch class sets don't have a normal form, so we would just write it in ascending form with the smallest number at the bottom
+Completely symmetrical pitch class sets don't have a normal form, so we would just write it in ascending form with the smallest number at the bottom.
   
 # Further reading
 
