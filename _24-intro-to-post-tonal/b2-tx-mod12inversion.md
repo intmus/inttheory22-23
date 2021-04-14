@@ -18,7 +18,7 @@ What if we apply Mod 12 to this idea?
   - we get the same idea by mirroring numbers over the clock, putting the mirror down the line between 0 and 6.
 - the inversions of each number are:
   - 1 e, 2 t, 3 9, 4 8, 5 7, 6 6.
-- if you're using the clock for inversion, you can move the mirror axis to any number and treat it the same
+- if you're using the clock for inversion, you can move the mirror axis to any number and treat it the same.
 
 #### Ex: C major triad
 What is the pitch class set for a C major triad?
