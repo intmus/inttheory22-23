@@ -4,10 +4,10 @@ layout: page
 ---
 
 <ul class="index-buttons">
-<li><a href="{{ "/about.html" | absolute_url }}">About</a></li>
-<li><a href="{{ "/forum/index.html" | absolute_url }}">Assignments &amp; Forum</a></li>
-<li><a href="{{ "/abc-tutorial.html" | absolute_url }}">ABC Tutorial</a></li>
-<li><a href="{{ "/abc-playground.html" | absolute_url }}">ABC Playground</a></li>
+<li><a href="{{ '/about.html' | relative_url }}">About</a></li>
+<li><a href="{{ '/forum/index.html' | relative_url }}">Assignments &amp; Forum</a></li>
+<li><a href="{{ '/abc-tutorial.html' | relative_url }}">ABC Tutorial</a></li>
+<li><a href="{{ '/abc-playground.html' | relative_url }}">ABC Playground</a></li>
 </ul>
 
 {% for chapter in site.collections %}
