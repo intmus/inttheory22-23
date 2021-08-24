@@ -4,8 +4,6 @@ title: Lesson 1a - Pitches and Clefs
 abc: true
 ---
 
-This is a test
-
 <!--Hi Future Sean! I hope you've had a great summer. I know that you've forgotten how to commit, add, and push as well as all the other basics, but a while ago, you installed an VS code extension to make this easier. It will probably work on this new repository, but if not, you'll need to set it up by clicking on the gear in the lower left corner, choose Extensions, and click on "Git add commit push" to set it up. 
 
 Once it's running properly, you can use ctrl + s to save changes, and then ctrl + alt + p to automatically git add, git commit, and git push without having to log in every gd time. You'll need to add a description, but that's not too bad. 
@@ -14,7 +12,8 @@ You're welcome! And if it doesn't work, just have Evan fix it like you always do
 
 ### A Starting Place
 
-In this course, we will be studying many styles of music, but all of these will have roots in the harmonic and melodic practices of the common practice period. The common practice period is generally considered to include Western art music from the Renaissance through the Romantic eras, but any music that that grew out of this tradition--including almost all popular music today--can be analyzed using the tools we will study for common practice harmony.
+In this course, we will be studying many styles of music, but all of these will have roots in the harmonic and melodic practices of the common practice period. 
+The common practice period is generally considered to include Western art music from the Renaissance through the Romantic eras, but any music that that grew out of this tradition--including almost all popular music today--can be analyzed using the tools we will study for common practice harmony.
 
 By the time musicians begin formally exploring music theory, they likely are familiar with basic music notation--treble and bass clefs, staves, ledger lines, and accidentals--due to time spent performing. If you are uncomfortable with any of aspect of these concepts, you can review by reading the explanations under the *Further Reading* section of [Discussion 1a]({{ site.baseurl }}/01-pitches-clefs/a2-pitchesclefs.html).
 
