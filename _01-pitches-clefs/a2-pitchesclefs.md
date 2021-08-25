@@ -6,9 +6,7 @@ abc: true
 
 ## Class Discussion
 
-### Creating a Definitions of Different Musical Words
-
-#### Rhythm
+### Creating a Definition of Rhythm
 
 A pattern or a series of patters that happens in a certain amount of time. 
 
@@ -20,31 +18,31 @@ The point of these first four weeks are learning how to communicate the fundamen
 
 ### Clef Puzzle
 
-#### Treble Clef
+- Treble Clef
 
 Lines, E,G,B,D,F 
 
 Spaces, F,A,C,E
 
-#### Alto Clef
+- Alto Clef
 
 Lines, F,A,C,E,G
 
 Spaces, G,B,D,F
 
-#### Tenor Clef
+- Tenor Clef
 
 Lines, D,F,A,C,E
 
 Spaces, E,G,B,D
 
-#### Bass Clef
+- Bass Clef
 
 Lines, G,B,D,F,A
 
 Spaces, A,C,E,G
 
-#### Why are clefs designated by a letter?
+- Why are clefs designated by a letter?
 
 G Treble clef circles the G
 
@@ -52,15 +50,15 @@ F Bass clef emphasizes the F with the dots and the start of the clef
 
 C Tenor and Alto clef are both centered on middle C
 
-#### Where did clefs come from?
+- Where did clefs come from?
 
 A lack off ledger lines, and smaller ranges, so the clef would move around for the ease of the instrumentalist or vocalist, making it for their range. 
 
-#### How do the clefs relate?
+- How do the clefs relate?
 
 Middle C is one ledger line below the treble clef and one ledger line above the bass clef. Alto and tenor clef delineate middle C
 
-#### What instruments use alto and tenor clef?
+- What instruments use alto and tenor clef?
 
 Alto clef has cello, viola, and trombone.
 
