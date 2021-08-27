@@ -6,7 +6,24 @@ abc: true
 
 ## Class Discussion
 
-TBD
+###Pitch Systems and Intro to Solfege
+Dan's British Phonetic System vs. Sean's Latin Solfege spelling
+Latin Spellings: Do,Re,Mi,Fa,Sol,La,Ti. 
+Why Move Do? The relationship between notes doesn't change between keys/key centers. Tonality Agnostic: System that fits all tonal centers. We need a system to demonstrate relationships across all keys.
+Secondary use for solfege: Singing syllable. These solfege pitches are one syllable names to make singing and sight singing easier.
+In a diatonic context (Voice leading, etc.) Do and ti are immovable objects. If they cross, we lose our sense of tonality.
+The first "key" in western harmony is Aeolian Mode (Natural Minor) having the raised Te->Ti. Care for double charps/double flats.
+
+###Enharmonic Equivalents
+Enharmonic Equivalents: (i.e. Bb and A#). Same frequency/pitch, but function harmonically different in context (A# is not the third of a Gb major triad). Hertz(A=440 Hertz aka virbrations per second (for the wave). Equal temperament made for keyboradist (ruined just intonation). Pitch Class: 12 total, corresponed the 12 most common keys. Using Enharmonic Equivalents for C (B# and Dbb), has three total equivalents. Ab/G# has only two total notes of Enharmonic Equivalent because it's surrounded by two other black keys (on the piano). We need to use triple sharps/triple flats to get the next enharmonic equivalent. The next closest letter name is a whole step away, furthest from the half steps found on the piano. 12 pitches for 7 modes (weird ratio).
+
+###ISO System
+International Standard Organization (Responsible for determining how much a kilogram weighs, how long a second is, the worlds roundest sphere, atomic clock, etc. Home base in Central Europe). Also responsible for our lettering system based around A=440Hertz. 
+Letter names fixed to specific letter names and more importantly, octaves. How does the ISO system label octaves?
+Treble Clef: C4 is the line below, Alto Clef: right in the middle, Tenor clef: fourth line up, Bass Clef: one line above. C4=Middle C.
+Be able to visually see who the clefs interact which eachother on a grandstaff and clefs useful for transpositions (i.e. Tenor Sax/Baritone Sax). The numeral in the ISO system tells us where each octave is. The numeral changes at C, instead of A (little wierd). Known that the remaining notes on the keyboard (A0, B0, etc.) exist.
+
+Housekeeping notes: Double check your discord access. Homeowork assignemnts are posted on discord. Need staff paper (blanksheetmusic.net) <- it's free!
 
 ## Further Reading
 
