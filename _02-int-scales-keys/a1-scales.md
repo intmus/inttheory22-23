@@ -4,7 +4,7 @@ title: Lesson 2a - Diatonic Scales
 abc: true
 ---
 
-"Organized sound" is a common way to define music in its simplest form, and we can use this definition as a launching point for discussing pitch collections and scales. If we accept that music is "organized sound", then the methods used to organize it will define all aspects of the composition. 
+"Organized sound" is a common way to define music in its simplest form, and we can use this definition as a launching point for discussing pitch collections and scales. If we accept that music is "organized sound", then the methods used to organize it will define all aspects of its composition. 
 
 ## Tonal music
 
@@ -32,17 +32,17 @@ Put simply, our musical hierarchy is:
 
 ## Goals for this topic:
 
-As you listen through all of the examples below, you should:
+As you listen through the examples below, you should:
 - describe the pattern that determines the pitches in the *major* scale and all forms of *minor* scales regardless of starting pitch
     - You can think of this question as how to describe the scale without using note names or solfege.
 - figure out why *natural, melodic,* and *harmonic* minors are named as they are
-- memorize the names for each scale degree (i.e. tonic) as well as the corresponding numeral notation
+- memorize the names for each scale degree (e.g. tonic, super tonic, etc.) as well as the corresponding numeral notation
     - how the names for each scale degree are derived (e.g. How are dominant and subdominant scale degrees related?)
 - incorporate the Latin spelling for every solfege
 
 ### Important notes
 
-The following examples demonstrate how the tune of *Happy Birthday* would be written if only using the notes from a particular scale. In most examples, scale degrees are numbered below each pitch as well as solfege using movable "do". Additionally, scale degrees are named above the pitches for the examples in major and melodic minor. When determining your pitch collections, pay particular attention to the differences of the sixth and seventh scale degrees.
+The following examples demonstrate how the tune of *Happy Birthday* would be written if only using the notes from a particular scale. In most examples, scale degrees are numbered below each pitch as well as solfege using movable "do". Additionally, scale degrees are named above the pitches for the examples in major and melodic minor. You goal is to find the scale from which the melody is derived, so you should start by arranging the pitches in an ascending order based on the scale degrees. When determining your pitch collections, pay particular attention to the differences of the sixth and seventh scale degrees.
 
 ### Major
 
@@ -65,7 +65,7 @@ w:sol mi do ti la fa fa mi do re do{% endcapture %}
 
 ## Minor scales
 
-There are three forms of the minor scale, and each has a specific role. As you listen to these three melodies, only one of them will sound as if it has no surprising pitches. Once you have found the example that doesn't have a "surprise moment, consider the name of the mode. Does it give you some insight into why it sounds best playing this melody?
+There are three forms of the minor scale, and each has a specific role. As you listen to these three melodies, only one of them will sound as if it has no surprising pitches. Once you have found the example that doesn't have a "surprise moment", consider the name of the mode. Does it give you some insight into why it sounds best playing this melody?
 
 ### Natural minor
 
@@ -127,11 +127,11 @@ w:sol me do te le fa fa me do re sol la ti do{% endcapture %}
 
 ### Intervallic patterns
 
-In diatonic music, each scale has seven pitches. All seven letters can be used once, and no letter can be used more than once. This creates a series of 2nds that create our scale.
+In diatonic music, each scale has seven pitches. All seven letters can be used once, and no letter can be used more than once. This creates a series of intervals that we will label as *whole steps*, *half steps*, and *augmented steps* for now--until we formally define intervals in Topic 2c. Half steps are intervals between two consecutive letters with no pitches between them (e.g. C to D-flat), whereas whole steps have one pitch between them (e.g. C to D has D-flat between them). Augmented steps are intervals between two different letters and have two pitches between them (e.g. C to D-sharp has D-flat and D-natural between them). These are much rarer than whole and half steps and only occur in one diatonic scale. Of note, the letter names must be different, or it is not a half-step (e.g. B-flat to B-natural).
 
 Major scales have an intervallic pattern of:
 
-*(W = whole-step, H = half-step, A = augmented 2nd)*
+*(W = whole-step, H = half-step, A = augmented step)*
 
 W - W - H - W - W - W - H
 
@@ -149,11 +149,11 @@ W - H - W - W - W - W - H
 
 ### Labeling scale degrees
 
-When discussing scales, it is helpful to have a method that refers to pitches without referencing a specific key. For example, the first "Happy Birthday" example on the previous page is written in G major, but there are eleven other tonics around which we could structure that melody's intervallic structure. In order to reference the interval pattern rather than the actual pitches, we use *scale degrees*. 
+Similar to solfege, there is another commonly-used system in which you can label the pitches in a scale without referencing a specific tonic. Instead of solfege names, you can instead use *scale degree* numbers. We denote these by placing a caret `^` above the scale degree number. For example, the note  that is five letter names above the tonic of a scale would be called fifth scale degree and written as `^5`--although the caret would be *above* the numeral, not to the side.
 
-One common way to communicate pitches of the scale is to use scale degree numbers. We denote these by placing a caret `^` above the scale degree number. For example, the pitch that is a fifth above the tonic would be called fifth scale degree and would be written as `^5`, although the caret would be above the numeral, not to the side.
+The scale degree system functions similarly to the solfege system that we discussed in the Unit 1b, with the added benefit of not requiring someone to memorize a bunch of Latin terms. The two systems can be used mostly interchangeably, at least if you are comparing it to moveable-do solfege. Of note however, the solfege system is much more useful in sight-singing because each note designation uses only one syllable, whereas some scale degrees have two syllables and there is no simple way to show alteration to a scale degree without adding further syllables. 
 
-A second common way to describe scale degrees is to use *solfege syllables*. In this system, each scale degree is assigned a single-syllable Latin word, and this can be helpful when sight-singing. The chart below shows all seven base solfege syllables and how each can be altered for raised and lowered pitches. If a solfege symbol is marked as "N/A", this alteration is non-functional in tonal harmony.
+You can review the chart below showing all seven scale degrees next to the solfege syllables and the altered solfege for raising and lowering pitches. If a solfege symbol is marked as "N/A", this alteration is non-functional in tonal harmony. You should be fluent in both of these systems if you plan to have a career in music, because both are widely used in a variety of contexts.
 
 Scale degree | Solfege syllable | Raised | Lowered
  --- | --- | --- | ---
@@ -176,13 +176,9 @@ They are:
 6. Submediant
 7. Leading-tone/Subtonic
 
-Notice the relationship between any term and its counterpart as denoted by the prefix `sub`. The dominant is a fifth above the tonic; the subdominant is a fifth below the tonic. The mediant is a third above the tonic; the submediant is a third below the tonic. 
+Notice the relationship between any term and its counterpart as denoted by the prefix `sub`. The dominant is the fifth pitch above the tonic; the subdominant is the fifth pitch below the tonic. The mediant is the third above the tonic; the submediant is the third below the tonic. 
 
-The supertonic is a 2nd above the tonic, but because of the importance and function of the leading-tone, its scale degree name changes to reflect the difference between a major 2nd below the tonic versus the minor 2nd below the tonic. If the 2nd below the tonic is a whole-step, we call it the subtonic. If the 2nd below the tonic is a half-step, we call it the leading tone. This is true in both major and minor.
-
-### Tonal centers and modes
-
-We consider a key to be defined by its tonic, so if two scales share a tonic, they are considered to be the same key but different *modes* of each other. For example, G major and G minor are the same key, but different modes. This is confusing for many students, because they have always associated their concept of a key with its key signature.
+The supertonic is the second pitch above the tonic, but because of the importance and function of the leading-tone, its scale degree name changes to reflect the difference between a whole step below the tonic versus a half-step below the tonic. This is true in both major and minor.
 
 ### Why we need three minor scales
 
@@ -194,7 +190,7 @@ We will discuss the role of harmonic minor more when we begin analyzing chords, 
 
 The "Happy Birthday" examples above are perfect for exploring the importance of melodic minor. By keeping the interval sizes from "Happy Birthday" but changing the pitches to fit the various forms of minor, you can hear three similar but distinct versions of "Happy Birthday". When a student first listens to the natural minor version, they often feel that the first `te` does not work with the rest of the tune, and in the harmonic minor version, the augmented 2nd that occurs between `ti` and `le` is jarring. On the other hand, the melodic minor version sounds entirely correct (although some may not like the darker tone of a traditionally "happy" song.)
 
-This easily highlights the role of melodic minor -- to create melodies in minor. By having both an ascending and descending version, we can resolve the sixth and seventh scale degrees upward and downward by relying on the tendency of those scale degrees. `Te` and `le` both have a strong downward pull and almost always resolve downward. `Ti` and `la` both have a strong upward pull and tend to resolve upward. These are general rules and are occasionally broken, but I encourage you to play with the example below to hear how "strange" the piece becomes if you do not allow the sixth and seventh scale degrees to account for their resolutions. (Try putting `la` in for every sixth scale degree for the most obviously jarring version.)
+This easily highlights the role of melodic minor -- to create melodies in minor. By having both an ascending and descending version, we can resolve the sixth and seventh scale degrees upward and downward by relying on the tendency of those scale degrees. `Te` and `le` both have a strong downward pull and almost always resolve downward. `Ti` and `la` both have a strong upward pull and tend to resolve upward. These are general rules and are occasionally broken, but I encourage you to play with the example below to hear how "strange" the piece becomes if you do not allow the sixth and seventh scale degrees to account for their resolutions. (Try putting `la` in for every sixth scale degree for the most jarring version.)
 
 {% capture ex8 %}X:8
 %%staffsep 100%

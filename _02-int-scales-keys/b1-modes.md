@@ -4,24 +4,26 @@ title: Lesson 2b - Modes
 abc: true
 ---
 
-### Goals for this topic:
+### Tonal centers and modes
 
-As you listen through all of the examples below, you should:
-- figure out why *natural, melodic,* and *harmonic* minors are named as they are
-- be able to describe how *modes* relate to the major and minor scales (or vice versa)
-- describe which modes seem "light" and "dark" and what seems to create this phenomenon
-- discuss how major and minor *pentatonic* scales relate to the major and minor scales
-- memorize the names for each scale degree (i.e. tonic) as well as the corresponding numeral notation
-    - how the names for each scale degree are derived (e.g. How are dominant and subdominant scale degrees related?)
-- incorporate the Latin spelling for every solfege
+We consider a key to be defined by its tonic, so if two scales share a tonic, they are considered to be the same key but different *modes* of each other. For example, G major and G minor are the same key, but different modes. This is confusing for many students, because they have always associated their concept of a key with its key signature. It may seem like splitting hairs unnecessarily, but this differentiation will help when we begin studying how one key can change into another through the process of modulation in later units.
 
 ## Modes
 
-The next eight scales are all modal scales, and the first six of these modes actually pre-date the major and minor scales. Even though you are likely more familiar with major and minor scales to this point in your musical education, modes are commonly used in all types of Western music, including classical, jazz, pop, movie soundtracks, and folk music. As you listen to Happy Birthday played in each mode, take note of the basic structure of each mode by comparing how they are related to the major and minor scales. Is there an easy way to remember these?
+The logical extension of defining a key by its tonic is that there are *many* possible modes based on a given tonic. The next eight scales are all modal scales, and the first six of these modes actually pre-date the major and minor scales. Even though you are likely more familiar with major and minor scales to this point in your musical education, modes are commonly used in all types of Western music, including classical, jazz, pop, movie soundtracks, and folk music. As you listen to Happy Birthday played in each mode, take note of the basic structure of each mode by comparing how they are related to the major and minor scales. Is there an easy way to remember these?
 
-Each mode can be "ranked" on a scale from the darkest to lightest sound, so on your first listen, take note of which sound dark and light to you. (Remember that describing a scale as light or dark is a somewhat subjective concept, so take your ranking with a grain of salt.) Once you have them grouped dark and light modes, see if you can figure out what each group has in common. Does there seem to be a pattern of notes that pushes a mode toward the extremes of your rankings?
+For example, each mode could be "ranked" on a scale from the darkest to lightest, so on your first listen, take note of which sound dark and light to you. (Remember that describing a scale as light or dark is a subjective concept, so consider your ranking with a healthy bit of skepticism.) Once you have them grouped into dark and light modes, see if you can figure out what each group has in common. Does there seem to be a pattern of notes that pushes a mode toward the extremes of your rankings?
 
-Because we have yet to discuss tonality as a concept, you do not need to worry too much about the difference between modal and diatonic (i.e. major and minor) music yet. So as you listen to the modes below, simply compare the intervallic patterns and solfege to that of the major and minor scales above. We will discuss their usage more as we begin to explore musical function and harmony in later chapters. 
+Because we have yet to discuss tonality as a concept, you do not need to worry too much about the difference between modal and diatonic (i.e. major and minor) music yet. So as you listen to the modes below, simply compare the intervallic patterns and solfege to that of the major and minor scales in the previous topic. We will discuss their usage more as we begin to explore musical function and harmony in later chapters.
+
+### Goals for this topic:
+
+As you listen through all of the examples below, you should:
+- be able to describe how *modes* relate to the major and minor scales (or vice versa)
+- describe which modes seem "light" and "dark" and what seems to create this phenomenon
+- memorize the names for each scale degree (i.e. tonic) as well as the corresponding numeral notation
+    - how the names for each scale degree are derived (e.g. How are dominant and subdominant scale degrees related?)
+- incorporate the Latin spelling for every solfege
 
 {% capture ex19 %}X: 19
 T:Happy Birthday in G Ionian
@@ -108,7 +110,7 @@ d B G| =F E c/2>c/2| B G A| G2|]{% endcapture %}
 
 ### Conclusion
 
-When first studying the modes, most students consider modes a simple extension of their major scale--i.e. "Phrygian mode is a major scale starting on the third scale degree"--even though the primary six modes (Ionian through Aeolian) predate the major scale. Relating the modes to the major scale is a good way to memorize their construction, because many major scales are widely taught as the foundation of Western music. Eventually, you should strive to be able to recall each mode as its own entity, so that you can begin hearing the intracacies of how the mode functions musically, rather than hearing it as an derivative of the major scale. 
+When first studying the modes, most students consider modes a simple extension of their major scale--i.e. "Phrygian mode is a major scale starting on the third scale degree"--even though the primary six modes (Ionian through Aeolian) predate the major scale. Relating the modes to the major scale is a good way to memorize their construction, because many major scales are widely taught as the foundation of Western music. Eventually, you should strive to be able to recall each mode as its own entity, so that you can begin hearing the intricacies of how the mode functions musically, rather than hearing it as a derivation of the major scale. 
 
 Modes from C Ionian | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
  --- | --- | --- | --- | --- | --- | --- | ---
@@ -121,7 +123,7 @@ Modes from C Ionian | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
  Locrian | B | C | D | E | F | G | A
  Lydian Dominant | F | G | A | B | C | D | Eb
 
-Of course, there are other ways to memorize these. The most obvious is to memorize the intervallic pattern from the tonic note. The table below shows the intervals necessary to reach the next scale degree of each mode.
+Of course, there are other ways to memorize these. One is to memorize the intervallic pattern from the tonic note. The table below shows the intervals necessary to reach the next scale degree of each mode.
 
 Intervallic patterns of modes | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
  --- | --- | --- | --- | --- | --- | --- | ---
@@ -151,11 +153,19 @@ Yet understanding construction does nothing to further your understanding of the
 
 Our "non-mode"--the Lydian Dominant scale--shares the altered pitches from both the Lydian and Mixolydian modes, so it cannot be derived in the same manner as the other modes. It is, however, useful in improvising over dominant seventh chords and has the unusual characteristic of acting as a hybrid of the whole tone and octatonic scales, two non-diatonic scales that we will discuss in Unit 22. After you read more about those two scales at a later date, return to the Lydian Dominant scale to see if you can determine *why* we consider it a hybrid of a whole tone and octatonic collections.
 
-You should spend time exploring each of these modes to learn why one pitch can sound "tonicized" without a traditional dominant to tonic relationship. With very few exceptions, every piece of music contains a harmonic method for creating tension and release, and music written in these modes is no different. When listening to all of the versions of *Happy Birthday* above, you probably disliked the first time a mode landed on `te`, but after listening to multiple examples using `te`, it becomes normalized and can be heard as a weaker--but still functional--counterpart to `do`. Discovering how each mode creates tension and release is paramount to understanding modal usage, and will help you create a framework for any scale--including those below.
+You should spend time exploring each of these modes to learn why one pitch can sound "tonicized" without a traditional dominant to tonic relationship. With very few exceptions, every piece of music contains a harmonic method for creating tension and release, and music written in these modes is no different. When listening to all of the versions of *Happy Birthday* above, you probably disliked the first time a mode landed on `te`, but after listening to multiple examples using `te`, it becomes normalized and can be heard as a weaker--but still functional--counterpart to `do`. Discovering how each mode creates tension and release is paramount to understanding modal usage, and will help you create a framework for any scale.
 
 ## Basic pentatonic scales
 
-We will discuss the pentatonic scales here because of their importance and prevalence in a variety of music, but these are not a complete modal shift from major and minor scales in the way that the modes are. Instead, certain the penatonic scales exclude certain pitches when compared to the parallel major or minor scale, which makes them easily related but functionally different. You will see this in the examples below, because it required some "artistic license" to translate a tune based in the major scale into a pentatonic collection.
+We will discuss the pentatonic scales here because of their importance and prevalence in a variety of music, but these are not a complete modal shift from major and minor scales in the way that the modes are. Instead, certain penatonic scales exclude certain pitches when compared to the parallel major or minor scale. You will see this in the examples below, because it required some "artistic license" to translate a melody based in the complete major scale into a pentatonic collection limited to five pitches.
+
+### Goals for this topic:
+
+As you listen through all of the examples below, you should:
+- discuss how major and minor *pentatonic* scales relate to the major and minor scales
+- memorize the names for each scale degree (i.e. tonic) as well as the corresponding numeral notation
+    - how the names for each scale degree are derived (e.g. How are dominant and subdominant scale degrees related?)
+- incorporate the Latin spelling for every solfege
 
 ### Major pentatonic
 
@@ -199,7 +209,7 @@ The pentatonic scale is a nearly universal sonority as demonstrated by Bobby McF
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ne6tB2KiZuk" frameborder="0" allowfullscreen></iframe>
 
-Neither the major or minor form of the pentatonic scale relates strongly to the harmonic functions that we will study in this course, but their prominence in world and folk musics makes them an important part of our musical heritage. This alone justifies familarity with these colors.
+Neither the major nor minor form of the pentatonic scale relates strongly to the harmonic functions that we will study in this course, but their prominence in world and folk musics makes them an important part of our musical heritage. This alone justifies familiarity with these colors.
 
 Major and minor pentatonic scales have a simple relationship to their major and minor counterparts. The major pentatonic scale uses the first, second, third, fifth, and sixth scale degrees of the major scale. The minor pentatonic scale uses the first, third, fourth, fifth, and seventh scale degrees of the minor scale. 
 
@@ -209,7 +219,7 @@ Even though they do not function diatonically, there are two general concepts of
 
 ## Chromatic scale
 
-This final example is a heavily ornamented version of *Happy Birthday* that demonstrates every possible solfege as well as the correct resolution for all chromatic tones. This arrangement is still technically in G major, because strictly speaking, the chromatic scale is a collection of pitches and does not necessarily center around one tone. (Note that because ABC notation has no way to represent scale degrees, I was forced to omit the `^` that would normally appear above each scale degree and to use a `b` to represent a flat and a `#` to represent a sharp. Please forgive the misuses.)
+This final example is a heavily ornamented version of *Happy Birthday* that demonstrates every possible solfege as well as the correct resolution for all chromatic tones. This arrangement is still technically in G major, because strictly speaking, the chromatic scale is a collection of pitches and does not necessarily center around one tone. (Note that because ABC notation has no way to represent scale degrees, I was forced to omit the `^` that would normally appear above each scale degree and to use a `b` to represent a flat and a `#` to represent a sharp. Please forgive the colloquialisms.)
 
 {% capture ex7 %}X:7
 %%staffsep 75%
