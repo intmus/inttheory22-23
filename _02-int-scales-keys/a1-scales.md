@@ -4,17 +4,17 @@ title: Lesson 2a - Diatonic Scales
 abc: true
 ---
 
-The simplest definition of music is "organized sound", and we can use this definition as a launching point for discussing pitch collections and scales. If we accept that music is "organized sound", then the method used to organize it will define the *style* of composition. For this course, we will study *tonal* music, because *tonal* describes the organizational method--or style--of this music.
+"Organized sound" is a common way to define music in its simplest form, and we can use this definition as a launching point for discussing pitch collections and scales. If we accept that music is "organized sound", then the methods used to organize it will define all aspects of the composition. 
 
 ## Tonal music
 
-Tonal music is organized around a central tone called the *tonic*.
+For this course, the majority of music that we'll study will be *tonal* music, meaning music that is organized around a central pitch called the *tonic*.
 
-And once we have a central pitch around which we build a tonality, every pitch in the tonality is defined by its relationship to that pitch. It is these intervallic relationships that differentiate one pitch collection from another, and we can categorize each pitch collection by studying their commonalities and differences. 
+When we build a tonality around a tonic pitch, every pitch in the tonality can be found by measuring the distance, or *interval*, between it and the tonic. It is these intervallic relationships that differentiate one pitch collection from another, and we can categorize each pitch collection by studying their commonalities and differences. 
 
-In Unit 1, we defined moveable-do solfege as a way for us to look at the relationships between a group of pitches that are organized around a central pitch. In doing so, we created a *scale*, even though we didn't define it as such. Whenever you group any number of pitches, you create a *collection*. However, when you order a collection by the frequency of each pitch--or more simply stated, how high or low the pitches are--you create a scale. So a scale is *a collection of pitches that are organized in an ascending or descending form*, and consequently create a fixed intervallic pattern. A scale can encompass any tuning system or style of composition.
+In Unit 1, we discussed moveable-do solfege as a way for us to look at the relationships between a group of pitches that are organized around a central pitch. In doing so, we created a *scale*, even though we did not define it as such. Whenever you group any number of pitches, you create a *collection*. However, when you order a collection by the frequency of each pitch--or more simply stated, arranging pitches from high to low--you create a scale. So a scale is *a collection of pitches that are organized in an ascending or descending form*, and consequently create a fixed intervallic pattern. A scale can encompass any tuning system or style of composition.
 
-Certain scales are at the core of all common practice harmony, and as a music student, you are likely already familiar with these: *major, minor, modal, pentatonic, and chromatic*. Below, we discuss the diatonic scales (i.e. major and minor) and Topic 2b details the others. We will explore some extended scales in Unit 22.
+Certain scales are at the core of all common practice harmony, and as a music student, you are likely already familiar with these: *major, minor, modal, pentatonic, and chromatic*. Below, we discuss the diatonic scales (i.e. major and minor) and Topic 2b details the others. We will explore even more types of scales in Unit 22.
 
 ### Diatonic music
 
