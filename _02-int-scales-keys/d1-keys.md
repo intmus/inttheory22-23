@@ -4,7 +4,7 @@ title: Lesson 2d - Key Signatures
 abc: true
 ---
 
-As discussed in the previous topics, scales represent a pitch collection, centered around a tonic pitch. Because we can transpose these pitch collections to center around any pitch-class, we create twelve unique pitch centers--called *keys*--and even more if we include enharmonic equivalents. Because writing accidentals for many of these keys would be clunky and difficult to read, we use a system of key signatures to give the performer a simple way of knowing which pitches in the key are raised and lowered.
+As discussed in the previous topics, scales represent a pitch collection, centered around a tonic pitch. Because we can transpose these pitch collections to center around any pitch-class, we create twelve unique pitch centers--called *keys*--and even more if we include enharmonic equivalents. (Some argue that there are fifteen key centers, one for each key signature. Theoretically speaking, there as many keys as we have pitch names, but we can leave that argument for another time.) Because writing accidentals for every pitch would be clunky and difficult to read, we use a system of *key signatures*--a shorthand collection of flats or sharps at the beginning of each staff--to give performers a simple way of knowing which pitches in the key are raised and lowered.
 
 ## Key signatures
 

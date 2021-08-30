@@ -12,8 +12,8 @@ Any two-note combination is called a *dyad*, and the distance between the two pi
 
 ### Goals for this topic
 
-In the example below, each interval represents the concept stated at the beginning of its staff, but each measure *also* has an important intervallic relationship to the measures above and below it. Using these, develop explanations for how we find each of the following:
-- the *size* of the interval between two pitches as represented by an Arabic numeral
+In the example below, each interval represents the concept stated at the beginning of its staff, but each measure *also* has an important intervallic relationship to the measures above and below it as labeled by the word in front of each row (staff line). Using these relationships and labels, develop explanations for how we find each of the following:
+- the *size* of the interval between two pitches as represented by the Arabic numeral
 - the *quality* of the interval as represented by the labels *perfect, major, minor, diminished, and augmented*
 - which *sizes* can use which *qualities* as well as the hierarchy of *qualities* for each *size*
 - *chromatic* versus *diatonic* intervals
@@ -60,7 +60,7 @@ w: P8 M7 m6 P5 A4 d3 m2 P1{% endcapture %}
 
 ## Conclusions
 
-Our goal when measuring intervals is intrinsically tied to the tonal system that we use, diatonic harmony. The simplest way to measure the distance between two intervals would be to measure the distance by the shortest possible interval--in this case, a half-step (minor second). While easily understandable, this method does not relate to our concept of tonality. Instead, counting half-steps creates *interval-classes* in which intervals are considered equal regardless of the pitches. For example, the interval of `G` to `D-flat` has six half-steps which is identical to the interval from `G` to `C-sharp`. Both even use the same pitch-classes, however, if you put those into the context of the scales from the previous unit, you will hopefully associate these two intervals with different key centers. (`G` to `D-flat` is strongly associated with the key of A-flat major/minor, whereas `C-sharp` to `G` likely implies D major/minor.) The context of these two intervals is critical in determining their function in tonal harmony, so we use a system that differentiates between the two.
+Our goal when measuring intervals is intrinsically tied to the tonal system that we use, diatonic harmony. The simplest way to measure the distance between two intervals would be to measure the distance by counting the number of the shortest possible intervals--in this case, a half-step (minor second)--between two pitches. While easily understandable, this method does not relate to our concept of tonality. Instead, counting half-steps creates *interval-classes* in which intervals are considered equal regardless of the pitches. For example, the interval of `G` to `D-flat` has six half-steps which is identical to the interval from `G` to `C-sharp`. Both even use the same pitch-classes, however, if you put those into the context of the scales from the previous unit, you will hopefully associate these two intervals with different key centers. (`G` to `D-flat` is strongly associated with the key of A-flat major/minor, whereas `C-sharp` to `G` likely implies D major/minor.) The context of these two intervals is critical in determining their function in tonal harmony, so we use a system that differentiates between the two.
 
 In a diatonic labeling system, every interval has a *size* and a *quality*. For example, in a minor second, labeled `m2`, the **m** indicates the *quality* of the interval and the **2** indicates the *size* of the interval. Let's look at how we find *size* first.
 
