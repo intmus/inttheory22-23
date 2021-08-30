@@ -6,19 +6,31 @@ abc: true
 
 ## Class discussion
 
-**Pentatonic Scales Tricks**
+### Definition of a Scale
 
--Take out the tri-tone notes (Degree 4 and 7) from the major scale for major pentatonic.
+- A scale is an arrangememnt of pitches using intervals of a second in ascending form. 
 
--Minor pentatonic can be remembered as taking out scale degree 2 and 6.
+- A collection is a group of notes in any order you want. 
 
--Major and Minor are the same pitches, but just organized in a different order (different starting point). They are modes of each other.
+### Diatonic Classifications
 
-**Bobby McFerrin Video**
+^1 ^2 ^3 ^4 ^5 ^6 ^7 
 
-He could demonstrate that the pentatonic scale can be used independently and easily taught. 
+Do Re Mi Fa Sol La Ti 
 
-Even though it is missing the two notes that we considered important scale degrees, if can still be expressive and interesting (and it is in our bones). 
+Tonic, Super Tonic, Mediant, Sub Dominant, Dominant, Sub Mediant, Leading Tone
+
+The flatted leading tone is called the sub tonic, since in minor music, both the sub tonic and the leading tone are used. We will not use that type labelling much in this class. Some people use it, so we need to know it to an extent. 
+
+### The Differences Between the Minor Scales
+
+In natural and harmonic minor, a melody, such as happy birthday, has a few spots where it just sounds bad. Clunky notes or weird intervals make our ears wince a little bit. But, with melodic minor, which has both the sub tonic and leading tone, makes happy birthday normal, though having a minor sound. 
+
+### Parallel Vs. Relative
+
+Parallel scales start on the same pitch. Like D major and D minor. 
+
+Relative scales share the same sharps and flats. Like C major and A natural minor. 
 
 
 # Further Reading
