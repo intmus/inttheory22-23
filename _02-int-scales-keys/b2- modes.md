@@ -6,6 +6,22 @@ abc: true
 
 ## Class discussion
 
+### Modes of Happy Birthday From Lightest to Darkest
+
+Lydian, sharp ^4
+
+Ionian, no changes from the major scale
+
+Mixolydian, flat ^7
+
+Dorian, flat ^3 and flat ^7
+
+Aeolian, flat ^3, flat^6, flat ^7
+
+Phrygian, flat ^2, flat ^3, flat ^6, and flat ^7
+
+Locrian, flat ^2, flat ^3, flat ^5, flat ^6, and flat ^7
+
 **Pentatonic Scales Tricks**
 
 -Take out the tri-tone notes (Degree 4 and 7) from the major scale for major pentatonic.
