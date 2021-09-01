@@ -35,6 +35,11 @@ Locrian, flat ^2, flat ^3, flat ^5, flat ^6, and flat ^7
 He could demonstrate that the pentatonic scale can be used independently and easily taught. 
 
 Even though it is missing the two notes that we considered important scale degrees, if can still be expressive and interesting (and it is in our bones). 
+The Major Pentatonic scale, how the audience knew about Mi and So (from McFerrin's demonstration)
+
+**Major Pentatonic: Do, Re, Mi, So, La or ^1, ^2, ^3, ^5, ^6.
+
+**Minor Pentatonic: Do, Me, Fa, Sol, Te or ^1, ^b3, ^4, ^5, ^b7.
 
 ###Notes Continued on Wednesday September 1, 2021. 
 
@@ -47,6 +52,8 @@ How to practice/learn the modes: for example, F Phrygian
 2: (Parallel): What tones are altered in a Phyrgian Scale?
 
 How to find Phrygian Dominant: Build a domninat scale upon the ^5 of the Phrygian scale. (a.k.a the locrian scale).
+
+If you raise a pitch, you are wanting to resolve it upwards. If you lower a pitch, you want it to resolve downwards.
 
 # Further Reading
 
