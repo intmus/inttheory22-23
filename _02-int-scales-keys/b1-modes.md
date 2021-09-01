@@ -6,11 +6,11 @@ abc: true
 
 ### Tonal centers and modes
 
-We consider a key to be defined by its tonic, so if two scales share a tonic, they are considered to be the same key but different *modes* of each other. For example, G major and G minor are the same key, but different modes. This is confusing for many students, because they have always associated their concept of a key with its key signature. It may seem like splitting hairs unnecessarily, but this differentiation will help when we begin studying how one key can change into another through the process of modulation in later units.
+We consider a key to be defined by its tonic, so if two scales share a tonic, they are considered to be the same key but different *modes* of each other. For example, G major and G minor are the same key, but different modes. This is confusing for many students, because they have always associated their concept of a key with its key signature. It may seem like splitting hairs unnecessarily, but this differentiation will help in later units when we begin studying how harmonic functions of all modes within a key can be used interchangeably.
 
 ## Modes
 
-The logical extension of defining a key by its tonic is that there are *many* possible modes based on a given tonic. The next eight scales are all modal scales, and the first six of these modes actually pre-date the major and minor scales. Even though you are likely more familiar with major and minor scales to this point in your musical education, modes are commonly used in all types of Western music, including classical, jazz, pop, movie soundtracks, and folk music. As you listen to Happy Birthday played in each mode, take note of the basic structure of each mode by comparing how they are related to the major and minor scales. Is there an easy way to remember these?
+The logical conclusion of defining a key by its tonic is that there are *many* possible modes that share that tonic. The next eight scales are all modal scales, and the first six of these modes actually pre-date the major and minor scales. Even though you are likely more familiar with major and minor scales to this point in your musical education, the modes below are commonly used in all types of Western music, including classical, jazz, pop, movie soundtracks, and folk music. As you listen to Happy Birthday played in each mode, take note of the basic structure of each mode by comparing how they are related to the major and minor scales. Is there an easy way to remember these?
 
 For example, each mode could be "ranked" on a scale from the darkest to lightest, so on your first listen, take note of which sound dark and light to you. (Remember that describing a scale as light or dark is a subjective concept, so consider your ranking with a healthy bit of skepticism.) Once you have them grouped into dark and light modes, see if you can figure out what each group has in common. Does there seem to be a pattern of notes that pushes a mode toward the extremes of your rankings?
 
@@ -110,7 +110,7 @@ d B G| =F E c/2>c/2| B G A| G2|]{% endcapture %}
 
 ### Conclusion
 
-When first studying the modes, most students consider modes a simple extension of their major scale--i.e. "Phrygian mode is a major scale starting on the third scale degree"--even though the primary six modes (Ionian through Aeolian) predate the major scale. Relating the modes to the major scale is a good way to memorize their construction, because many major scales are widely taught as the foundation of Western music. Eventually, you should strive to be able to recall each mode as its own entity, so that you can begin hearing the intricacies of how the mode functions musically, rather than hearing it as a derivation of the major scale. 
+When first studying the modes, most students consider modes a simple extension of their major scale--i.e. "Phrygian mode is a major scale starting on the third scale degree"--even though the primary six modes (Ionian through Aeolian) predate the major scale. Relating the modes to the major scale is a good way to memorize their construction, because major scales are widely taught as the foundation of Western music. Eventually, you should strive to be able to recall each mode as its own entity, so that you can begin hearing the intricacies of how the mode functions musically, rather than hearing it as a derivation of the major scale. 
 
 Modes from C Ionian | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
  --- | --- | --- | --- | --- | --- | --- | ---
