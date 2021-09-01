@@ -36,6 +36,18 @@ He could demonstrate that the pentatonic scale can be used independently and eas
 
 Even though it is missing the two notes that we considered important scale degrees, if can still be expressive and interesting (and it is in our bones). 
 
+###Notes Continued on Wednesday September 1, 2021. 
+
+Mixed Modes
+Lydian Dominant (Do,Re, Mi, Fi, So, La, Te, Do). Compared to major, we have a raised 4th (fi) and a lowered 7th (Te). 
+Lydian Dominant, rather than Lydian Mixolydian. Easier to say. Very useful for dealing with altered chords (we will get to that).
+
+How to practice/learn the modes: for example, F Phrygian
+1: (Relative): What scale is F the ^3 of?
+2: (Parallel): What tones are altered in a Phyrgian Scale?
+
+How to find Phrygian Dominant: Build a domninat scale upon the ^5 of the Phrygian scale. (a.k.a the locrian scale).
+
 # Further Reading
 
 ## From *Open Music Theory*
