@@ -13,7 +13,6 @@ title: Discussion 2c - Identifying and Labeling Intervals
 
 -Letter names (C, D, E; 3rd) 
 
-
 **How do you explain interval quality?**
 
 -The way it sounds and fits in the major scale. 
@@ -22,31 +21,50 @@ title: Discussion 2c - Identifying and Labeling Intervals
 
 -You can group Perfect, Augmented, and Diminished together (Perfect heiarchy). Also, major and minor can be grouped together (major/minor heiarchy). 
 
-**How do inversions work?**
-
--You move one note an octave towards the other note. This is its inversion. 
-
--Subtract the original interval from 9 (gives you size) and alter the quality (minor/major, augmented/diminished, perfect/perfect) 
-
 **Harmonic vs Melodic**
 
--Harmonic are played together. 
+-Harmonic intervals are pitches that are played simultaneously. 
 
--Melodic are played separate. 
+-Melodic are played consecutively, or not at the same time. 
 
 **What is the difference between a simple and compound interval?**
 
--Simple are 1-7
+-Simple are 1-7. 
 
--Compound is adding an octave+ to a simple interval. 
-
--Add 7 to the original interval to get the compound size. 
+-Compound is adding 7 to to a simple interval. 
 
 **Diatonic vs Chromatic**
 
 -Diatonic intervals occur within the key signature. 
 
 -Chromatic intervals have altered notes. 
+
+**How do inversions work?**
+
+-You move one note an octave towards the other note. This is its inversion.  
+
+-Subtract the original interval from 9 (gives you size) and alter the quality (minor changes to major and vice versa, augmented becomes diminished and vice versa, perfect becomes perfect because it's perfect) 
+
+**How do you explain interval quality?**
+
+-Heirarchy of qualities from biggest to smallest with major and minor: Augmented, Major, minor, diminished (A, M, m, d). The simple interval sizes in the major/minor heirarchy are 2, 3, 6, and 7.
+
+-Heirarchy of qualities from biggest to smallest with perfect intervals: Augmented, Perfect, diminished (A, P, d). The simple interval sizes in the Perfect heirarchy are 1, 4, and 5.
+
+-Perfect intervals and major/minor intervals do not coexist. 
+
+-Qualities come from counting half steps. 
+
+-In a major scale, any interval going from the tonic (first note) to any other note in the scale ascending is either a Perfect quality or a Major quality. In a major scale, any interval going from the tonic (first note) to any other note in the scale descending is either Perfect quality or minor quality. 
+
+-The way it sounds and fits in the major scale. 
+
+-You can find any interval starting on "Do" going up (ascending). These can be major, minor, or perfect in quality. 
+
+-Ways to practice interval quality: Know your scales!! If you know your scales and the qualities within them, it is much easier to know what the quality of any two pitches are. 
+
+
+
 
 
 
