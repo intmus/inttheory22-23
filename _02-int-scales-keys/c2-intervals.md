@@ -66,11 +66,6 @@ title: Discussion 2c - Identifying and Labeling Intervals
 
 
 
-
-
-
-*(Add a note in "Important Concepts" about 7ths (?))* 
-
 ## Further Reading
 
 ### From *Open Music Theory*
