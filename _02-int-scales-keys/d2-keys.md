@@ -25,6 +25,13 @@ When we stack the first five P5 around the circle, we get a major pentatonic sca
 - A pattern that results in a tonal center?
   - Yes, though the "tonal center" part is what we are especially concerned with!
   
+**Order of Flats/Sharps
+- Flats (B,E,A,D,G,C,F)-Battle Ends And Down Go Charles Father, BEAD Greatest Common Factor
+- Sharps (F,C,G,D,A,E,B)- (Reverse of Flats)
+**Finding Minor Versions
+
+-Relative Minor: Different tonic, same key signature (Find the 6th scale degree, that is the relative minor, or count 3 notes below the Tonic)
+-Parallel Minor: Same tonic, different key signature (Add three flats/take away three sharps)
 **For diatonic purposes:**
 - Key is defined by a tonic
 - Key signature acts as a shorthand in reference to the notes organized *around* the tonic (like a legend on a map)
