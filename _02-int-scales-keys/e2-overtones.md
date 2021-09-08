@@ -16,7 +16,7 @@ abc: true
 - Can think of it as tonic, subdominant, dominant
   - Working in C, the first 4 notes suggest C, the next 4 suggest the dominant of F (C's subdominant), and the last 4 are sol la ti do in G (C's dominant)
 
-Timbre = how your brain interprets the overtone series
+Timbre = how your brain interprets the overtone series (Why someone's voice is different than anothers. Why a piano sounds like a piano and a trumpet sounds like a trumpet)
 
 A "big" sound (the kind we usually hear in professional musicians) just means that there's a strong fundamental and a LOT of overtones in that person's sound.
 
