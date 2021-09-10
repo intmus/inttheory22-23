@@ -22,3 +22,10 @@ A "big" sound (the kind we usually hear in professional musicians) just means th
 
 **If the overtone series exists everywhere, how did different systems of music evolve?**
 - In the case of gamelan and some types of Indian music, these systems were based off of the instruments constructed to play that music, not the voice
+
+**Major Sclae Makeup**
+-All major scales are made up of all perfect fifths with one diminished fifth. 
+
+**Equal Temperment vs Just Temperment**
+-Equal temperment means that every note is eaqually separated
+-Just temperment is when each note is slightly further apart or closer together based on the key. In ensembles, you might have heard your director saying the third needs to be flat, or the fifth needs to be flat. 
