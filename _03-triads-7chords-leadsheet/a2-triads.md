@@ -7,6 +7,12 @@ title: Discussion 3a - Triads
 
 Tertian Harmnoy: Harmony based on stacked thirds.
 *(diatonic triad, stacked thirds, is not necessarily the same as a "triad"-implies any collection of three pitches)*
+Quartal/Quintal Harmony (Stacked 4th's/5th's), not what we primarily study, but still important to keep in mind.
+
+**Use of the Word:Third**
+-As an interval measurement
+-As a scale degree
+-As a chord descriptor
 
 **ID Triads?**
 - M: M3 + m3 (P5 outside)
@@ -15,12 +21,15 @@ Tertian Harmnoy: Harmony based on stacked thirds.
 - A: M3 + M3 (A5 outside)
 
 Note that all 3rds are either major or minor! Don't even worry about diminished thirds.
+We only have these 4 types of triads (in Tertian Harmony), Any adjustment of the structure of these 4 triad typs results in creating a different triad from the 4 types.
 
 Additional tips:
 - Knowing your scales can help identify triads, especially in a key with lots of sharps or flats where many of the possible altered notes are double sharps or flats.
 - Possible groupings for memorization
   - M and A both "start" with a M3, m and d both start with a m3
   - M and m are more familiar whereas A and d are newer and "weirder," have altered 5ths
+  - If you know your A major scale (as an example), you know your A major triad  (root, third, fifth). 
+  - If you know your A minor scale, you know your A minor triad. 
 
 **ID inversions?**
 - Root position: starting point (stacked thirds)
