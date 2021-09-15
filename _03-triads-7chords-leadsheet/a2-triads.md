@@ -32,12 +32,13 @@ Additional tips:
   - If you know your A minor scale, you know your A minor triad. 
 
 **ID inversions?**
-- Root position: starting point (stacked thirds)
+- Root position: starting point (stacked thirds). No inversion figures.
   - Determine the quality of the third and the quality of the fifth to find the quality of the chord.
-- 1st inversion: take the root and move it to the top (3rd is on the bottom)
-- 2nd inversion: take the third and move it to the top (5th is on the bottom)
+- 1st inversion: take the root and move it to the top (3rd is on the bottom). Inversion figure of superscript 6
+- 2nd inversion: take the third and move it to the top (5th is on the bottom). Inversion figure of superscript 6 over 4 (6/4)
 
 - The only thing that determines your inversion is the lowest/bass pitched note.
+- The inversion figures are based on the interval between the bass note and the other notes in the triad. The 5 and 3 in root position and first inversion are assumed. 
 *(note that when actually labeling inversions, the numbers will be superscript and stacked)*  
 
 **ID closed vs open voicing?**
