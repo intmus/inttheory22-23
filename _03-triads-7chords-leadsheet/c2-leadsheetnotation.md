@@ -5,6 +5,8 @@ title: Discussion 3c - Leadsheet Notation
 
 ### Class Discussion
 
+We need a system that differentiates between function and quality, hence why we have Leadsheet Notation for quality and Roman Numeral Analysis for function. 
+
 **Definitions of new/unfamiliar terms for leadsheet notation:**
 - Extended Harmony: Adding notes past our normal triads and 7th chords. Ex. C9 
 - Sub: taking one note out of the chord and replacing it with another. Ex. D11^(sub #11)
@@ -12,7 +14,7 @@ title: Discussion 3c - Leadsheet Notation
 - Note: ^ symbol indicates superscript text.
 How we're "supposed" to interpret leadsheet notation can change depending on the composer. One might not care whether you interpret C^11 as adding an 11th or a 4th, whereas others will *specifically* want an 11th because of how its sound differs from a 4th
 
-**What is the difference beteen an add 6 chord and an inverted minor seventh chord? (Ex: C^6 and Am7/C?)**
+**What is the difference between an add 6 chord and an inverted minor seventh chord? (Ex: C^6 and Am7/C?)**
 - This is the point where roman numeral analysis becomes more useful! Leadsheet notation = construction, roman numeral analysis = finding function. The two chords have vastly different functions even though they contain the same notes and are shaped in the same way
 
 **What do we sub out in a sub chord?**
