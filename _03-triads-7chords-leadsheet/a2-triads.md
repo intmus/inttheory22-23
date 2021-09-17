@@ -37,6 +37,8 @@ Additional tips:
 - 1st inversion: take the root and move it to the top (3rd is on the bottom). Inversion figure of superscript 6
 - 2nd inversion: take the third and move it to the top (5th is on the bottom). Inversion figure of superscript 6 over 4 (6/4)
 
+NOTE: The bass note of the chord (triad or otherwise) gives you the inversion figure (not the root, but the bass note could be the root). The root of the chord provides the quality of the chord (as it relates to the other tones in the chord).
+
 - The only thing that determines your inversion is the lowest/bass pitched note.
 - The inversion figures are based on the interval between the bass note and the other notes in the triad. The 5 and 3 in root position and first inversion are assumed. 
 *(note that when actually labeling inversions, the numbers will be superscript and stacked)*  
