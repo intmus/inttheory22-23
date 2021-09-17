@@ -6,7 +6,9 @@ abc: true
 
 ## Class Discussion
 
-Lowest pitch=bass. Root is the chord that be build the thirds around.
+The purpose of inversion figures is purely a shorthand to identify what note is in the bass.
+
+Lowest pitch=bass. The root of the chord is the identifying factore of the chord, where thirds are stacked around. These thirds can take different forms as a chord becomes inverted.
 
 **How do we determine seventh chord quality?**
 
@@ -16,13 +18,22 @@ Looking at both the triads in the seventh chord and be aware of the different qu
 
 Dominant and Dimished relationship: They both have diminished 5ths. Dominant is between 3rd and 7th, while diminished is 1st and 5th (all chordal pitches). 
 
+The five seventh chords we use are:
+-Major Seventh(MM) - (Major Major) - (Do,Mi,So,Ti)
+-Dominent Seventh(Mm) - (Major Minor) - (So,Ti,Re,Fa)
+-Minor Seventh(mm) - (Minor Minor) - (La,Do,Mi,So)
+-Half-Diminished Seventh(dm) - (Diminished Minor) - (Ti,Re,Fa,La)
+-Fully-Diminshed Seventh(dd) - (Diminished Diminished) - (Ti,Re,Fa,LEY)
+
+The colloquial names for these chords are first(Dominent Seventh), followed by the shorthand used in identifying the chords(Mm), then the name we will use in this theory class to label these chords (Major Minor) The solfege provided correspond to where we find these 7th chords in diatonic major scales (So,Ti,Re,Fa), save for the Fully-Diminished chord that occurs in minor. 
+
 **How do we determine and label seventh chord inversions?**
 
 Seventh chords add third inversion because they have an additional note compared to triads. Their inversion figures are as such:
-- Root position: 7
-- First inversion: 6/5
-- Second inversion: 4/3
-- Third inversion: 4/2
+- Root position: 7 (Root in the Bass)
+- First inversion: 6/5 (Third in the Bass)
+- Second inversion: 4/3 (Fifth in the Bass)
+- Third inversion: 4/2 (Seventh in the Bass)
 
 Remember to not add the slash when handwriting. Stacked things are just impossible to notate online.
 
