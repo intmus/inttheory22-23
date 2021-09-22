@@ -27,6 +27,15 @@ How we're "supposed" to interpret leadsheet notation can change depending on the
 - Easily understandable without having to bring tonality into it
   - Yes! Roman numerals rely on context, but leadsheet notation doesn't.
 
+**Slash Chords**
+
+This is how we mark inversions for lead sheet notation (both triads and 7th chords).
+
+Fro slash chords, here is an example: (Amin7/C)
+The A in this example represents the Tonic of the chord (the root). the "min7" tells us that this is a minor minor seventh chord (The quality of the Chord), and the C below tells us the bottom note (the bass). In this case, Amin7/C is a 1st inversion Amin7 seventh chord. 
+
+Unlike Roman Numerals and Chord Identification Notation (Mm7,MM7,dim7,etc.), the "7" from the quality of the chord description does not change to represnt the inversion. (from our example, we are reffering the the "7" in our Amin7/C). The "7" tells us that the chord is a seventh chord. The slash chord and note below tells us what the inversion is. If we were to transfer our example (Amin7/C) into our other quality identification system, it would look like: mm6/5, a minor minor chord seventh chord in first inversion.
+
 ## Further Reading
 
 ### From *Open Music Theory*
