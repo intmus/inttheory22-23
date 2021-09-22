@@ -23,12 +23,17 @@ title: Discussion 4a - Simple Meters
 **What's a measure?**
 - A defined space that can only hold as many beats as the meter allows
   - A meter is defined by the beats!
+  - A measure is our basic unit of meter (like inches into feet)
   
 **What is a regular meter?**
 - Can be divided into two? (Nope, too specific)
 - Beats are divided evenly? *Something* is divided evenly?
 - *All the beats are the same length*
   - Examples: 4/4 and 3/4 are regular, whereas 5/8 is irregular...unless the tempo is eighth note = whatever
+
+**What is an irregular meter?
+-Have uneven beats within one measure (5/8 as 2+3 as an example).
+-Not like mixed meter: As an example, alternating between two(or more) regular and/or irregular meters. "America" from West Side Story (switches between 3/4 and 6/8).
   
 **What is a simple meter?**
 - Any time signature that has a 2, 3, or 4 in the denominator? (No: on the right track, though!)
@@ -37,7 +42,7 @@ title: Discussion 4a - Simple Meters
 - *Basic division of a beat is 2*
 
 **What do the top and bottom numbers mean in a simple time signature?**
-- Top = number of beats in a measure
+- Top = number of beats in 1 measure
 - Bottom = note value that "gets" the beat
 - What do we mean by "get"? How do we explain this to beginning musicians?
   - "How many" (top) and "what kind" (bottom)
