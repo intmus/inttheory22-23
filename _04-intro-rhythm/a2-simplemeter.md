@@ -63,6 +63,8 @@ title: Discussion 4a - Simple Meters
 
 **The common beat-counting system that we'll be using in this course:**
 - 1 e &amp; a  2 e &amp; a ...
+- For Triplets, we will use la li (ie 1 la li 2 la li etc.)
+- The reason we are using these is because we can point out a certain sixteenth note or eighth note triplet without much effort or confusion. 
 
 # Further Reading
 
