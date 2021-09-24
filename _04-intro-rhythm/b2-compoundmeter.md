@@ -14,9 +14,12 @@ title: Discussion 4b - Compound Meters
 -Quadruple: 12/8, 12/4
 
 **What do the top and bottom numbers of compound time signatures mean?**
-- Top = if you divide by 3, that's how many beats there are? (Yes, but this doesn't tell us what the numbers mean) 
-- *Top = how many of the note in the bottom there are, bottom = the note value of the division*
+- *Top = how many divisons there are in a measure*
+- *Bottom = the note value of the division*
 
+**Counting sixtupelets or the equivalent thereof**
+-1 to la ta li ti 2 to la ta li ti
+-For the purpose of having a different syllables on each note
 
 # Further reading
 
