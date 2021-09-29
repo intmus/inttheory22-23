@@ -12,6 +12,10 @@ title: Discussion 6a - Roman Numerals in Harmonic Analysis
 - All 4 chord members (C Eb G Bb)
 - We *do not* know what key we are in and how this chord functions within the key. It is completely removed from form
 
+**Chords we should NOT use for now:**
+- No Major 7 chords
+- three chords have no purpose until later
+
 **Roman numerals**
 - The roman numeral itself identifies the root. You can tell what note the root is because its number correlates directly to its scale degree. For example, in C major vi indicates an A minor chord because A is the sixth scale degree in that key. As we'll see in a second, the root can be altered just like the other chord members
 - Uppercase/lowercase identifies the third in relation to the root (major/minor)
