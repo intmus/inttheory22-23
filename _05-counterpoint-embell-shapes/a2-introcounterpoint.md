@@ -21,11 +21,13 @@ title: Discussion 5a - Introduction to Counterpoint
 - A note: "consonant" and "dissonant" in this style = "allowed" and "not allowed." P5s, P8s, M3s, etc. are allowed, whereas P4s are not.
 
 **Types of contrapuntal motion**
-- Parallel: same direction of melodic interval, same size harmonic interval (not necessarily the same *quality*)
-- Contrary: opposite direction of motion, intervals don't matter
-- Oblique: one voice is stationary, the other moves
+- Parallel: two voices moving in the same direction and by the same size of interval (not necessarily the same *quality*)
+- Contrary: two notes moving in the opposite direction from each other. Intervals don't matter
 - Static: no movement in either voice
-- Similar: same direction, different harmonic interval sizes
+- Oblique: one voice is stationary, the other moves in either direction
+- Similar: same direction, different interval sizes
+
+Similar and Perfect are not connected. They mean different things and aren't used in the same situations as each other. 
 
 # Further reading
 
