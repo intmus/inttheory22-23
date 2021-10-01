@@ -21,13 +21,15 @@ title: Discussion 6a - Roman Numerals in Harmonic Analysis
 - Uppercase/lowercase identifies the third in relation to the root (major/minor)
 - 5ths are assumed perfect unless there's a +, a half-diminished, or a diminished sign in the superscript
   - The diminished sign is special because it indicates that both the fifth and seventh are lowered. You can tell the difference from the half-diminished sign because the latter has a slash through it (it's cut in "half")
-- 7 by itself = dominant 7th. Can be altered with M, a half-diminished, or a diminished sign
+- 7 by itself = dominant 7th(minor 7th). Can be altered with M(major 7th), a half-diminished(lowered fifth, minor 7th), or a diminished sign(lowered fifth, diminished 7th)
+- Quick note for writing fully diminished sevenths: A double flat is required, even if the key signature has a flat already. A doubleflat overrides any present alterations from the key signature to show a double lowered note.
   - Sometimes chords like IV7 are notated without the clarification that it's a major seventh chord--you're expected to know because a major seventh is diatonic. However, when we get past the Classical era this method breaks down because all kinds of crazy stuff starts happening with harmony from the Romantic era onward
   
 **Altering Roman numerals for non-diatonic chord qualities**
 - Can have any triad in any key as long as you know how it relates to the key
-- Accidental in front alters the chord from its diatonic version. Ex: in C major, bVI = Ab major chord
+- Accidental in front alters the chord from its diatonic version. Ex: in C major, bVI = Ab major chord. The sharp/flat alters the root.
   - Only sharps and flats are used this way--no naturals. Even in sharp keys, you would use a flat sign to indicate a lowered chord. Likewise, a sharp indicates a raised chord even in flat keys
+
   
 # Further Reading
 
