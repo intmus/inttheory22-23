@@ -9,12 +9,26 @@ abc: true
 **Tendency tones**
 - Root in bass goes to root of next chord
 - Thirds move up by step to root of next chord
-- Fifths move down by step to root of next chord
+- Fifths move down by step to root of next chord, has options.
 - Sevenths move down by step to third of next chord
+
+**Voicing Notes**
+- Disjunct voice (larger leaps, 3rd's 4th's or 5th's, maybe greater)
+- Conjunct Line (smooth, stepwise, maybe a third)
+Bass voices often fall under the catagory of disjunct, while many soprano voicesoften fall under the catagory of conjunct.
+- When part writing, we strive for smooth (conjunct) voice leading in all voices except the bass voices.
+
+Chordal Third: The third of any given chord. Note, any given chordal third does not have to be the 3rd scale degree in the current key center. This particular language applies to all other chord tones, most commonly the chordal third, the chordal fifth, and the chordal 7th.
+
+**Doubling**
+When doubling a triad, we typically double the root of the chord (not always the case, see the viio chord)
+Optionally, we may double the fifth to solve voice leading issues.
+We do not double our thirds (or our sevenths in the case of more than 4 voices).
 
 **Notes on predominant and dominant chords**
 - viio can also be thought of as a V7 with no root. The voice leading functions the same way in both chords.
 - IV can be thought of as a ii7 with no root. Their voice leading functions in the same way. Keep in mind that the fa in IV resolves up to sol the same way it would in a ii7, and *not* down to mi.
+- We are observing root movement via descending perfect fifths (via the Circle of Fifths).
 
 Here's our nifty progressions flowchart, both in major:
 
