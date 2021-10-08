@@ -32,13 +32,13 @@ We do not double our thirds (or our sevenths in the case of more than 4 voices).
 
 Here's our nifty progressions flowchart, both in major:
 
-iii7 -> vi7 -> [ii7 or IVM7] -> [V7 or vii%7] -> I -> (any)
+iii -> vi -> [ii or IV] -> [V7 or vii%7] -> I -> (any)
 
 IVM7 goes to I (plagal cadence); V7 goes to vi7; iii7 sometimes goes to IVM7; vi7 sometimes goes to V7.
 
 And minor:
 
-IIIM7 -> VIM7 -> ii%7 or iv7 -> V7 or viio7 -> I -> (any)
+III -> VI -> ii%7 or iv -> V7 or viio7 -> I -> (any)
 
 Everything that happens in major, just change the chord quality and it works in minor.
 
