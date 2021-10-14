@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Class reading - What is harmonic funtion?
+title: Class reading - What is harmonic function?
 ---
 
 ## Class reading from *Open Music Theory*
