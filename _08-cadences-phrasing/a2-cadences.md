@@ -4,10 +4,17 @@ title: Discussion 8a - Cadences
 ---
 
 # Class discussion
+**The Meaning of Dominant**
+The five chord in the key
+Leading tone's and other tendency tones
+A quality of seventh chord (Mm)
+An unstable chord which pulls to the tonic
 
-- Cadences are like the many different endings to a scentence or speech puncuation. 
+**Cadences**
+- Cadences are like the many different endings to a scentence or speech puncuation. They have to end phrases by definition. 
 - It's not about if we can lable chords, but can we lable function.
 - Tonic is stable, Dominant is less stable as it feels like it eventually needs to resolve to **I**. Pre-dominants want to resolve to **V**. 
+- Cadences are made of two chords. Tension of some sort, and a release or a lack thereof. 
 
 **Cadence Types** 
 - PAC: **V** to **I** with both chords in root position. Soprano has to have *do* on **I** chord. (Dominant function chords to I)
