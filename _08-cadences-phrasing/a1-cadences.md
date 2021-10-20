@@ -4,13 +4,13 @@ title: Lesson 8a - Cadences
 abc: true
 ---
 
-After having developed voice-leading procedures in Unit 7a, you should now understand why the voice-leading between V and I creates tension and release. This progression defines tonal harmony, and it is from this that we derive our three primary function classifications: tonic, dominant, and pre-dominant function. While it is easy to memorize which chords belong to each of the primary functions, it is more important to understand how and why these functions work.
-- The most stable harmony is built around the tonic of the key, so stable chords have a *tonic* function.
-- The harmonies that pull strongly to *tonic* function are built around the dominant of the key, so these chords have a *dominant* function.
-- There are also harmonies that resolve well to the *dominant* function chords, so these have a *pre-dominant* function.
-    - Some systems call these chords *subdominant* function because they all share the fourth scale degree. We already use words such as "dominant" and "tonic" in a variety of ways (e.g. scale degrees, harmonic function, chord types, etc.), so we will be differentiating pre-dominant from subdominant to create slightly less confusion.
+After having developed voice-leading procedures in Unit 7a, you should now understand how the voice-leading between V and I contributes toward tension and release. This progression defines tonal harmony, and it is from this that we derive our three **primary functions**: tonic, dominant, and pre-dominant. While it is easy to memorize which chords belong to each of the primary functions, it is more important to understand how and why these functions work, because context can change a chord's function to any other function.
+- *Tonic* function chords provide stability and closure. Most chords that do this contain the tonic pitch, hence the name.
+- *Dominant* function chords pull strongly to *tonic* function chords. Their pull creates instability, but because they are only one chord removed from the end of the progression, most listeners will still associate them strongly with the end of a musical idea. The dominant chord can be considered the progenitor of this function, so all harmonies that pull to a tonic function can be described as a having a dominant function.
+- Because the dominant function chord precedes the tonic function, the dominant function can be seen as the "doorway" through which all chords will pass as they move toward harmonic resolution. Therefore, all chords that have the goal of moving toward the dominant function are labeled as *pre-dominant* function. This will include a wide variety of chords, and when we introduce secondary and tertiary function chords later in the course, there will be a large amount of overlap between pre-dominant chords--a primary function--and those. We will discuss the implied semantics of primary, secondary, and tertiary chords as we learn them.
+    - Some systems label *pre-dominant* functions as *subdominant*, because many include the fourth scale degree. We already use words such as "dominant" and "tonic" in a variety of ways (e.g. scale degrees, harmonic function, chord types, etc.), so we will be differentiating pre-dominant from subdominant to create slightly less confusion.
 
-These harmonic functions shape every musical phrase, and nowhere is that more obvious than in studying how phrases end. *Cadences* are the term that we use to describe the harmonic progression at the end of a musical phrase. If a musical phrase could be considered equivalent to a written sentence, then the *cadence* is the period at the end of that sentence. All cadences finish a phrase, but not all cadences provide closure and stability. In fact, some cadences are purposefully unsettled.
+These harmonic functions shape every musical phrase, and no where is that more obvious than in studying how phrases end. *Cadences* are the term that we use to describe the harmonic progression at the end of a musical phrase. If a musical phrase could be considered equivalent to a written sentence, then the *cadence* is the period at the end of that sentence. All cadences finish a phrase, but not all cadences provide closure and stability. In fact, some cadences are purposefully unsettled.
 
 We will study the chords associated with classifying cadences, but it takes far more than a particular harmonic progression to create a cadence. In addition to chord progressions, cadences are affected by melodic shapes, melodic rhythm, harmonic rhythm, context, meter, and many other elements of music.
 
@@ -78,9 +78,9 @@ Cadences close each musical idea and phrase--they are the punctuation at the end
 
 - **Authentic Cadence** - any cadence in which a dominant function harmony (i.e. V or vii<sup>o</sup>) resolves to I. There are two types of authentic cadences, so we always label any authentic cadence as one of these: 
     - **Perfect Authentic Cadence (PAC)**
-        - Must have a V chord resolving to a I chord
-        - Both the V chord and I chord are in root position
-        - `Do` is in the soprano voice of the I chord 
+        - Must have a V chord resolving to a I/i chord
+        - Both the V chord and I/i chord are in root position
+        - `Do` is in the soprano voice of the I/i chord 
     - **Imperfect Authentic Cadence (IAC)**
         - Any authentic cadence that does not fulfill all of the requirements for a PAC.
 - **Half Cadence (HC)**
@@ -91,4 +91,4 @@ Cadences close each musical idea and phrase--they are the punctuation at the end
     - Any phrase that ends in IV resolving to I
         - Commonly associated with "Amen" at the end of chorales
 - **Deceptive Cadence (DC)**
-    - Any phrase that ends with V resolving to vi
+    - Any phrase that ends with V resolving to vi/VI
