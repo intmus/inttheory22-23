@@ -28,7 +28,7 @@ V:2 clef=bass
 
 Compare the examples below to the original progression to determine what has changed knowing that any added pitches will be the NCTs of that type. As you do this, use the the three characteristics discussed in the previous topic--preparation, NCT, and resolution--to create a definition for each NCT. Once you have a working definition, see if the other other descriptors (e.g. upper/lower, ascending/descending, chromatic/diatonic, on-chord/off-chord, or accented/non-accented) can be applied to each NCT.
 
-### Neighbor Groups (NG) - also called "double neighbor tones"
+### Neighbor Groups (NG) - also referred to as *Double Neighbor Tones* (DN)
 
 **How does the neighbor group relate to a neighbor tone?**
 
@@ -47,9 +47,11 @@ w:F:I ii6 V7 _ _ _ I IV6 ii6 _ _ V I{% endcapture %}
 
 #### Conclusions
 
-![](/images/embellishingTones/doubleNeighbor.png)
+![][doubleNeighbor]
 
-Like neighbor tones, a *neighbor group*, also known as a double neighbor figure, begins and ends on the *same* stable tone. Between those two instances of the stable tone are two embellishing tones — one a step above and the other a step below the stable tone being embellished. Though individually we may consider each of the two embellishing tones to be incomplete neighbor tones, working together in the double-neighbor figure, they balance each other and create a contiguous whole, with the overall stability of a complete neighbor. A double neighbor figure is typically unaccented and off-chord, although it could be both accented and on-chord.
+Like neighbor tones, a *neighbor group*, also known as a *double neighbor tone*, begins and ends on the *same* stable tone. Between those two instances of the stable tone are two embellishing tones — one a step above and the other a step below the stable tone being embellished. Though individually we may consider each of the two embellishing tones to be incomplete neighbor tones, working together in the double-neighbor figure, they balance each other and create a contiguous whole, with the overall stability of a complete neighbor. A double neighbor figure is typically unaccented and off-chord, although it could be both accented and on-chord.
+
+There is a variation of neighbor groups called *incomplete neighbor groups (ING)*. These are less common than neighbor groups and should be a last resort in your analyses, but they occur often enough that we need this label. An incomplete neighbor group occurs when a chord tone is approached by two pitches as if they were a part of a neighbor group--meaning one NCT a step above and one NCT a step below--but unlike a neighbor group, the first chord tone is missing. If you look at the image above for a neighbor group. 
 
 ### Appoggiaturas (APP)
 
@@ -121,7 +123,7 @@ An anticipation is essentially an otherwise stable tone that comes too early. An
 
 #### Syncopation versus anticipations
 
-![](/images/embellishingTones/syncopatedNote.png)
+![][syncopatedNote]
 
 Some theorists classify syncopated rhythmic figures as separate from anticipations, but this is more a discussion of re-articulation. For those that classify these differently, [syncopation](http://openmusictheory.com/syncopation.html) occurs when a rhythmic pattern that typically occurs on strong beats or strong parts of the beat occurs instead on weak beats or weak parts of the beat. Like the anticipation, the syncopated note is an early arrival — it tends to belong to the chord on the following beat. Unlike the anticipation, the syncopation is tied into a note in that chord and is not rearticulated. Rather than anticipating a note in the chord that follows, a syncopation is simply a disjointed and repeated arrival of the chord itself. Of course, you should consider context when making this decision as this difference is subtle, but if there is a pattern of syncopated rhythms in a passage, you could be more likely to label syncopation for the passage as a whole, rather than many anticpations.
 
@@ -150,7 +152,9 @@ Pedals are *approached by static motion and left by static motion*; essentially,
 
 ### Incomplete Neighbor Tone (INT)
 
-It is uncommon, but you will occasionally encounter an unaccented non-chord tone that is approached by leap and left in the *same* direction; resembling an appoggiatura but not resolving in the opposite direction. For this course, we will label these as *incomplete neighbor tones*, although some theorists use this term to refer to appoggiaturas and escape tones as well. Broadly speaking, you should not resort to an incomplete neighbor tone NCT unless you have exhausted all other options, because it is far more likely for this shape is part of a chordal skip rather than an NCT.
+![][INT]
+
+While less common than those above, you will occasionally encounter an unaccented non-chord tone that is approached by leap and left by step in the *same* direction; resembling an appoggiatura but not resolving in the opposite direction. For our analyses, we will label these as *incomplete neighbor tones*, although some theorists use this term to refer to appoggiaturas and escape tones as well. Broadly speaking, you should not resort to an incomplete neighbor tone NCT unless you have exhausted all other options, because it is far more likely for this shape is part of a chordal skip rather than an NCT.
 
 
 [INT]: {{ site.baseurl }}/images/embellishingTones/INT.png
@@ -158,3 +162,6 @@ It is uncommon, but you will occasionally encounter an unaccented non-chord tone
 [escape]: {{ site.baseurl }}/images/embellishingTones/escapeTone.png
 [anticipation]: {{ site.baseurl }}/images/embellishingTones/anticipation.png
 [syncopation]: {{ site.baseurl }}/images/embellishingTones/syncopatedNote.png
+[doubleNeighbor]: {{ site.baseurl }}/images/embellishingTones/doubleNeighbor.png
+[syncopatedNote]: {{ site.baseurl }}/images/embellishingTones/syncopatedNote.png
+[retardation]: {{ site.baseurl }}/images/embellishingTones/retardation.png
