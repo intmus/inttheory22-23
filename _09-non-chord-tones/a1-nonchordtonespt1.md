@@ -143,7 +143,7 @@ w:F:I ii6 V7 I IV6 ii6 V I{% endcapture %}
 
 ![][retardation]
 
-A retardation is essentially an upward-resolving suspension. It is almost always reserved for the final chord of a large formal division (or a movement), and it frequently appears simultaneously with a suspension (as seen in the picture above). Like suspensions, retardations must be accented and on-chord, yet unlike suspensions, it is not necessary to label the intervals against the bass, although you may do so if you wish.
+A retardation is essentially an upward-resolving suspension. It is almost always reserved for the final chord of a large formal division (or a movement), and it frequently appears simultaneously with a suspension (as seen in the picture above--the retardation is the upper-most voice). Like suspensions, retardations must be accented and on-chord, yet unlike suspensions, it is not necessary to label the intervals against the bass, although you may do so if you wish.
 
 ## A few last notes
 

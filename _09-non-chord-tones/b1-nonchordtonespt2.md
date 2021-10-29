@@ -152,8 +152,6 @@ Pedals are *approached by static motion and left by static motion*; essentially,
 
 ### Incomplete Neighbor Tone (INT)
 
-![][INT]
-
 While less common than those above, you will occasionally encounter an unaccented non-chord tone that is approached by leap and left by step in the *same* direction; resembling an appoggiatura but not resolving in the opposite direction. For our analyses, we will label these as *incomplete neighbor tones*, although some theorists use this term to refer to appoggiaturas and escape tones as well. Broadly speaking, you should not resort to an incomplete neighbor tone NCT unless you have exhausted all other options, because it is far more likely for this shape is part of a chordal skip rather than an NCT.
 
 
