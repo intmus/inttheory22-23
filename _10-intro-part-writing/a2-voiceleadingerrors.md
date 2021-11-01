@@ -11,11 +11,14 @@ abc: true
 - Chords/progression
 - Cadence
 - Key; Where are the important notes? What notes are on the strong beats?
+- Remember what notes are essential for every chord (root, third, seventh if there is one)
 
 
 **Doubling**
 - No doubling thirds
 - The fifth can be omitted and the root tripled, but you *must* have the third to indicate the quality of the chord.
+- You may double the fifth if needed, if you cannot double the root.
+- On second inversion triads, doubling the fifth is preferred.
 - Seventh chords
   - The fifth can also be omitted in a seventh chord, but you have to have the root, third, and the seventh.
   - No doubling thirds or sevenths (because the further you are into the overtone series, the worse it will sound as they are tendency tones). You will also have to resolve those tones and if they resolve the same way, those voices are now locked together/pattern. 
