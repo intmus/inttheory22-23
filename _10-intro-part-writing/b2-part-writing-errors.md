@@ -18,3 +18,5 @@ See 10b for part writing error checklist/document.
 - Contrary perfect octaves or perfect fifths. CP8 or CP5 a subset of PP8
 
 These errors must be within the same two voices across both chords.
+
+Most of these primary errors are symptoms of bad voice leading, bad spacing, and all those other good things. If you are writing with those things in mind, you will probably not have to worry about these errors. 
