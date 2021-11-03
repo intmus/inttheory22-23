@@ -27,6 +27,7 @@ abc: true
 - SAT need to be within an octave of their adjacent voices. There can be more than an octave between S and T, but not S and A or A and T
   - Closed position: less than an octave between S and T. Open position: more than an octave between S and T
 - B can be as far away or as close to T as you want. It doesn't matter, but it sounds nice when you have bigger intervals on the bottom.
+- From the bass to soprano, a good way to think about it is big intervals to small intervals. 
 
 **Range**
 - "A little above the staff to a little below the staff in all the named clefs"
