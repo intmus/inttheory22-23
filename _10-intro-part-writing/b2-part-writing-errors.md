@@ -10,6 +10,8 @@ See 10a for the rules.
 
 See 10b for part writing error checklist/document.
 
+Always prioritize smooth voice leading (doesn't sound the most interesting, but provides the least part writing traps/errors).
+
 **Primary Errors**
 
 - Parallel perfect octaves or perfect fifths. PP8 or PP5
