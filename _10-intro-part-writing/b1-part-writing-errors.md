@@ -22,7 +22,7 @@ We will be referring to this handout, [Part-Writing Error Checklist and Guide](h
 
 Before we begin, I would like to address a question that I have received many times from students. Why do we study part-writing rather than just analysis, particularly in a strict style that is not performed regularly by modern musicians?
 
-There are many answers for this, but there is one in particular that I think justifies the study of this in this course. Part-writing is the simplest way to study *how* voice-leading creates harmony. Even though most of its rules are archaic, and a modern student's ear is not nearly as offended by certain style characteristics (e.g. parallel perfect fifths), this is the most direct way to study every aspect of how music functions: voice-leading, chord progressions, voicing chords, chordal structure, tendency tones, melodic construction, and so on.
+There are many answers for this, but there is one in particular that I think justifies the study of this in this course. Part-writing is the simplest way to study *how* voice-leading creates harmony. Even though most of its rules are archaic, and a modern student's ear is unlikely to be "offended" by certain style characteristics (e.g. parallel perfect fifths), this is the most direct way to study every aspect of how music functions: voice-leading, chord progressions, voicing chords, chordal structure, tendency tones, melodic construction, and so on.
 
 We could attempt to focus on only one style of modern music--whether pop, jazz, classical, or otherwise--but because each is a fully developed, complex language, you would still need to learn basic harmonic movement before beginning to write in that style. And because each of these musics has its roots in diatonic harmony, an understanding of basic chorale style part-writing will allow you to study and develop a process to analyze *all* of these styles, rather than focusing your studies into only one area and being ignorant of the others.
 
@@ -45,8 +45,8 @@ In the last [topic]({{ site.baseurl }}/10-intro-harmonic/a1-voiceleadingerrors.h
 - Doubling
     - You can double the root of a chord when possible.
     - For triads, you may double the fifth instead of the root if necessary.
-        - This is actually more preferable if the triad is in second inversion.
-    - **Do not** double the third because it is a tendency tone. If this is doubled, it will force you to choose between the incorrect resolution of a tendency tone or unacceptable parallel octaves. Also, the third should also be least present chord tone in the balance for the chord to sound best.
+        - This is actually preferable if the triad is in second inversion.
+    - **Do not** double the third because if it is a tendency tone. (e.g. circle-of-fifths progressions)If this is doubled, it will force you to choose between the incorrect resolution of a tendency tone or unacceptable parallel octaves. Also, the third should also be least present chord tone in the balance for the chord to sound best.
     - **Do not** double the seventh because it is a tendency tone. If this is doubled, it will force you to choose between the incorrect resolution of a tendency tone or unacceptable parallel octaves.
     - **Do not** double the fifth of a seventh chord. This would require omitting the root, third, or seventh, and none of these are expendable.
 
@@ -201,18 +201,18 @@ Unacceptable unequal fifths are one of the easier part-writing errors to underst
 
 For this course, we will consider a d5 moving to a P5 *unacceptable* unequal fifths, but we will consider a P5 moving to a d5 as *acceptable*--a P5 to a d5 does not require poor resolutions of tendency tones. Remember that these errors are best thought of as symptoms of the actual problem. In this case, the real issue is that the only two notes in a diatonic key that can form a d5 are `ti` and `fa`, and as discussed many times in this course, these two notes imply a dominant harmony that wants to resolve inward with `ti` moving to `do` and `fa` moving to `mi`. For a d5 to be followed by a P5, it would mean that `fa` must resolve to `sol`--or less commonly, `ti` resolving to `la` as part of a deceptive progression--which is poor voice-leading and therefore the error we are trying to avoid. There are some stricter versions of chorale part-writing that do not allow any form of unequal fifths.
 
-## Unacceptable similar fifths or octaves (US5, US8)
+## Similar perfect fifths or octaves (SP5, SP8)
 
-The final common part-writing has many names, but we will use the term *unacceptable similar fifths or octaves*. The term *similar* can also be replaced with "direct", "hidden", or "exposed". I prefer the term *similar* because it describes the motion like the other categories, but I also think that *exposed* does a fine job describing the effect. (I dislike the term *hidden* because students often confuse this with contrary fifths (or octaves), because the goal of contrary fifths is to "hide" parallel fifths.) *Unacceptable similar fifths or octaves* have the most restrictions. The conditions are:
+The final common part-writing has many names, but we will use the term *similar perfect fifths or octaves*. The term *similar* can also be replaced with "direct", "hidden", or "exposed". I prefer the term *similar* because it describes the motion like the other categories, but I also think that *exposed* does a fine job describing the effect. (I dislike the term *hidden* because students often confuse this with contrary fifths (or octaves), because the goal of contrary fifths is to "hide" parallel fifths.) Of all the part-writing errors discussed in this unit, *similar perfect fifths or octaves* have the most restrictions. The conditions are:
 - They can only occur between the soprano and the bass voices.
 - They require a skip of a third or more in the soprano voice.
 - The two voices must move in similar (not parallel) motion.
 - The second interval must be a P5 or P8.
 
-If any one of these conditions are *not* met, then this error does not exist in that case. Look at the following example to find an example of *similar octaves*. Once you have found it, look at the voice-leading around it. What does it do to spacing? Does it create more errors? Unacceptable similar octaves and fifths also often create melodies that imply different harmonies. To demonstrate, sing the melody alone. Do you hear it as C major or a different key?
+If any one of these conditions are *not* met, then this error does not exist. Look at the following example to find an example of SP8. Once you have found it, look at the voice-leading around it. What does it do to spacing? Does it create more errors? Unacceptable similar octaves and fifths also often create melodies that imply different harmonies. To demonstrate, sing the melody alone. Do you hear it as C major or a different key?
 
 {% capture ex6 %}X:6
-T:Similar octaves (S8)
+T:Similar octaves (SP8)
 M:4/4
 L:1/2
 K:C
@@ -225,10 +225,10 @@ w:C:I vi IV V7 I{% endcapture %}
 
 ### Conclusions
 
-Similar fifths/octaves occur when 1) the soprano and bass voices 2) move in similar motion to a 3) perfect fifth/octave, and 4) the soprano voice has a skip of a third or larger. You can see an example of this between the first two chords in this example.
+Similar perfect fifths/octaves occur when 1) the soprano and bass voices 2) move in similar motion to a 3) perfect fifth/octave, and 4) the soprano voice has a skip of a third or larger. You can see an example of this between the first two chords in this example.
 
 {% capture ex11 %}X:11
-T:Similar octaves (S8)
+T:Similar octaves (SP8)
 M:4/4
 L:1/2
 K:C
