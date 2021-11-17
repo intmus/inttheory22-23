@@ -36,7 +36,7 @@ title: Discussion 11c - Voice-leading for First and Third Inversion Chords
 **Function**
 - Primary: tonic, dominant, predominant. When we assign these to chords in a progression, we're saying they fill a certain slot
 - Secondary: chords that borrow the functions of primary chords
-- Tertiary: using a chord in a way that has nothing to do with primary or secondary function. There are four kinds, but today we're only talking about passing chords
+- Tertiary: using a chord in a way that has nothing to do with primary or secondary function. There are four kinds: Passing, Cadential, Pedal, and Arpeggiated.
 
 **Passing chords**
 - Creates passing motion. If you identify a chord as "passing," you're saying it has no primary function. Instead, we're using it for smooth voice leading. To ID these chords, you put the Roman numeral in parentheses and write "passing" underneath it
