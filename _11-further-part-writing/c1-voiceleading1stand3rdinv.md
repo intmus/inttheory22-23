@@ -136,7 +136,7 @@ w:C:I V6 IV6 V7 I{% endcapture %}
 
 If you were to ignore the fact that beat 3 forms a standard triad, you can assign each voice on beat 3 to a standard non-chord tone label, as if it were not part of a harmony.
 - The soprano voice is a neighbor tone between the two Cs.
-- The alto voice is an anticipation of the F on beat 4.
+- The alto voice is an anticipation of the F on beat 4. (Or simply a chord tone if you consider this to be the chordal 7th of the V<sup>7</sup>.)
 - The tenor voice is a passing tone between beats 2 and 4.
 - And most importantly, the bass voice is a passing tone between beats 2 and 4.
 So even though a V chord does not usually resolve to a IV chord, in this particular case, it only *looks* as if it is resolving to a IV chord. In reality, each voice is simply moving through a non-chord tone...which happens to form a standard triad on beat 3. So instead of trying to label the IV chord as having a standard function, you would say that it's function is extending the dominant function on either side of it.
