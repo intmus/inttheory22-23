@@ -44,7 +44,7 @@ To this point, everything that we have discussed has been based on a two-voice m
 
 When voicing triads in four-part harmony, at least one note must be doubled.
 
-1. Doubling the root is usually the ideal choice on root position chords and is always a reasonable option, regardless of inversion.
+1. Doubling the root is usually the ideal choice on root position chords and is almost always a reasonable option, regardless of inversion.
 2. Doubling the fifth is generally the second best option for triads, and it is often the best option for second inversion triads.
 3. Doubling the third is generally *unacceptable*, although there are certain cases in which this can be necessary, such as *some* first inversion chords. As a rule of thumb, do not double the third unless you are working on a chord in which you've already been told that doubling the third is the best option.
 4. If you need to omit a voice, the fifth is the only option, because the root and third are required to define the chord. Diminished triads are the only diatonic harmony in which the chordal fifth is a critical chord tone, but even in these situations, the fifth might be the best omission if necessary (albeit unlikely).
