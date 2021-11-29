@@ -35,9 +35,10 @@ Second inversion triads have to be tertiary function.
 - I - V - ii6/4 - V6 - I
   - Whenever you have a passing chord, its "primary function" becomes that of the chords around it, no matter was Roman numeral it is. In this example, ii6/4 has a dominant function because it acts as part of the V's around it
   - Their tertiary function is basically just to act as a bridge between other chords--to make voice leading easier. We wouldn't have been able to set up our cool contrasting motion soprano and bass in this example without the passing 6/4 in the middle
+  - Passing chords are quite flexible. They can found in nearly any location in a chord progression. One voice (usually the bass) will have passing motion, and another voice having interchange (contrary motion).
   
   I - V - (ii6/4) - V6 - I
-           pass
+           (pass)
   T   D---------------   T
   
 **Pedal 6/4 chords**
@@ -48,7 +49,8 @@ Second inversion triads have to be tertiary function.
 - The pedal does NOT have to be in the bass, but it is almost always in the bass
 
   I    (IV6/4)    I
-        ped
+        (ped)
   T------------------       
   
- 
+ **Arpeggiated 6/4 chords**
+ - Not very common, needs a large amount of time to establish the pattern in order to identify. An example is large amounts of vamps (4 measures +) on one chord. The harmonic motion we hear is the whole chord motion changing every 4 or so bars. (i.e. I chord going to a I6 chord to a I6/4 chord over the course of 12+ measures).
