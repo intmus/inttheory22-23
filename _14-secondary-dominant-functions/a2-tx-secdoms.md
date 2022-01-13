@@ -3,11 +3,6 @@ layout: chapter
 title: 14a Discussion - Secondary Dominant Chords
 abc: true
 ---
-This is a test
-I'm trying to make a paragraph
-
-But this actually worked
-
 
 # Class discussion
 ## Secondary Dominant Chords
