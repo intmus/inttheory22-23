@@ -46,7 +46,7 @@ w:C:I vi V7/V V I{% endcapture %}
 
 To turn this into a secondary *leading-tone* chord, you need to replace the root--in this case, the pitch D--with a note from vii<sup>o</sup>/V. While this is a simple statement, I hope that you remember our discussions of the difficulties in voicing a vii<sup>o</sup> triad. You do not want to double the tendency tones, because one of them will need to resolve incorrectly to avoid objectionable parallels with each other. And because there are so many tendency tones--the root, fifth, and seventh of any vii<sup>o7</sup> are all tendency tones--you need to be careful of where each voice is placed to avoid parallelisms, poor resolutions, and spacing errors. 
 
-As you work on revoicing your V7/V, take note of which pitch you choose to double. What other changes are necessary to avoid poor resolutions? You may choose to use any inversion for your vii<sup>o</sup>/V chord, so try re-voicing using the following voicing:
+As you work on revoicing your V<sup>7</sup>/V, take note of which pitch you choose to double. What other changes are necessary to avoid poor resolutions? You may choose to use any inversion for your vii<sup>o</sup>/V chord, so try re-voicing using the following voicing:
 
 {% capture ex4 %}X:4
 M:4/4
@@ -61,7 +61,7 @@ w:C:I vi viio/V V I{% endcapture %}
 
 ### Conclusions
 
-If you tried to create your vii<sup>o</sup>/V based on the V<sup>7</sup>/V voicing from above, it is likely that you immediately ran into issues in trying to eliminate the D from the bass chord. Substituting an A in the same octave creates parallel octaves against the tenor. Substituting an F-sharp in the same octave creates parallel octaves against the alto. You could frustrate the leading tone in the alto as a workaround, but the fact remains: vii<sup>o</sup> *triads* are difficult to use as a dominant function with good voice-leading, and there is no straightforward answer to the above exercise that does not result in some compromise. 
+If you tried to create your vii<sup>o</sup>/V based on the V<sup>7</sup>/V voicing from above, it is likely that you immediately ran into issues in trying to eliminate the D from the bass. Substituting an A in the same octave creates parallel octaves against the tenor. If we do not alter our upper voices from the completed V<sup>7</sup>/V example, substituting an F-sharp in the bass creates parallel octaves against the alto. You could frustrate the leading tone in the alto as a workaround, but the fact remains: vii<sup>o</sup> *triads* are difficult to use as a dominant function with good voice-leading, and there is no straightforward answer to the above exercise that does not result in some compromise. 
 
 ## Adding a seventh
 
@@ -73,9 +73,9 @@ M:4/4
 L:1/2
 K:C
 V:1
-[cE] [cE]| [EA] [DG]| [E2G]|]
+[cE] x| x x| x2|]
 V:2 clef=bass
-[C,G,] [A,,A,]| [^F,,C] [G,,B,]| [C,2C]|]
+[C,G,] [A,,]| [^F,,] [G,,]| [C,2]|]
 w:C:I vi vii%7/V V I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
@@ -89,10 +89,10 @@ M:4/4
 L:1/2
 K:C
 V:1
-[cE] [cE]| [c_E] [DB]| [c2E]|]
+[cE] [cE]| [cE] [DB]| [c2E]|]
 V:2 clef=bass
 [C,G,] [A,,A,]| [^F,,A,] [G,,G,]| [C,2G,]|]
-w:C:I vi viio7/V V I{% endcapture %}
+w:C:I vi vii%7/V V I{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
 Because this is a functional substitution for a V/V chord, the root and fifth of the vii<sup>o7</sup>/V are acting as if they were the third and seventh of the V<sup>6/5</sup>/V chord. You can see this when you voice the two chords side-by-side.
@@ -112,7 +112,7 @@ w:C:V6/5ofV V viio7/V V I{% endcapture %}
 
 ## Secondary leading-tone chords through similar chords
 
-It is also helpful to approach secondary leading-tone chords by exploring the dual nature of their function. To this point, we have focused on their role as dominant function chords in a second key. For example, we have shown repeatedly that a V<sup>7</sup>/V functions as the V chord *in the key of* V. This explains their voice-leading, but it does not address their *actual* function within the progression as a whole in the home key--the key of I. In the home key, the V<sup>7</sup>/V takes the place of a *pre-dominant* chord, most often replacing a ii chord.
+It is also helpful to approach secondary leading-tone chords by exploring the dual nature of their function. To this point, we have focused on their role as dominant function chords in a second key. For example, we have shown repeatedly that a V<sup>7</sup>/V functions as the V chord *in the key of* V. This explains their voice-leading, but it does not address their *actual* function within the progression as a whole in the home key--the key of I. In the home key, the V<sup>7</sup>/V takes the place of a *pre-dominant* chord, most often replacing a ii chord, but like ii and IV, it can move laterally between them. (e.g. A ii7 can move to a V7/V and then resolve to V.)
 
 This can be applied to vii<sup>o7</sup>/x as well. Notice that the roots of both dominant function chords--V and vii<sup>o</sup>--and the roots of pre-dominant chords--ii and IV--are separated by the interval of a third. If we add this observation to the idea that a V/V chord is a functional substitution for a ii chord, it reasons that a vii<sup>o</sup> chord is therefore a functional substitution for a IV chord. They share a function and have a root that is a third higher than their more commonly used counterpart.
 
