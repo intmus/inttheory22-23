@@ -16,7 +16,9 @@ Bass notes (found from inversion): C, A, A, D, D, G, C
 
 Any major, minor, or dominant quality can be tonicized. For leading tone chords, check previous page chpt.15a.
 
-Inserting secondary dominants helps to create smooth bass lines. 
+Inserting secondary dominants helps to create smooth bass lines.
+
+Cycle of Dominants: Chaining secondary dominate chords together (V/ii->V/V->V->I)
 
 (Following to be used for example 3 on previous page - DO NOT ALTER)
 
