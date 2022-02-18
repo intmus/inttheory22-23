@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 13d Lesson - Musical Textures
+title: 13d Discussion - Musical Textures
 ---

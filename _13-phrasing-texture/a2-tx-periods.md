@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 13a Lesson - The Period
+title: 13a Discussion - The Period
 ---
 
 # Class discussion

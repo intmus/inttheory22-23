@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 19b Lesson - Common-tone diminished chords
+title: 19b Discussion - Common-tone diminished chords
 abc: true
 ---
 # Class Discussion

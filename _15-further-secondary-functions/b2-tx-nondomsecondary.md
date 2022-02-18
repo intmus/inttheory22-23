@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 15b Lesson - Non-dominant Function Secondary Chords
+title: 15b Discussion - Non-dominant Function Secondary Chords
 abc: true
 ---
 # Class discussion

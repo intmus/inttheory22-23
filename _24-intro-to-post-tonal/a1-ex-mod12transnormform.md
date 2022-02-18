@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 24a Examples - Basic PC Set Manipulation
+title: 24a Lesson - Basic PC Set Manipulation
 abc: true
 ---
 

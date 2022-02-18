@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 23a Lesson - Non-diatonic scales
+title: 23a Discussion - Non-diatonic scales
 abc: true
 ---
 

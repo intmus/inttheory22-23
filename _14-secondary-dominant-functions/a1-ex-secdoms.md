@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 14a Examples - Secondary Dominant Chords
+title: 14a Lesson - Secondary Dominant Chords
 abc: true
 ---
 

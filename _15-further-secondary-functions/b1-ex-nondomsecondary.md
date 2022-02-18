@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 15b Examples - Non-dominant Function Secondary Chords
+title: 15b Lesson - Non-dominant Function Secondary Chords
 abc: true
 ---
 

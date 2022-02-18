@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 16b Lesson - Defining modulation
+title: 16b Discussion - Defining modulation
 abc: true
 ---
 

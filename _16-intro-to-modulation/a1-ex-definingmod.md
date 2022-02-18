@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 16a Examples - Defining modulation
+title: 16a Lesson - Defining modulation
 abc: true
 ---
 

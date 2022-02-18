@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 24e Examples - Using Pitch Class Sets in Analysis
+title: 24e Lesson - Using Pitch Class Sets in Analysis
 abc: true
 ---
 

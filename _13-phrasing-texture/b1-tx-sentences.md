@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 13b Lesson - The Sentence
+title: 13b Discussion - The Sentence
 ---
 
 # Class discussion

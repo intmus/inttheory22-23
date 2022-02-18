@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 15a Examples - More Secondary Dominant Functions
+title: 15a Lesson - More Secondary Dominant Functions
 abc: true
 ---
 

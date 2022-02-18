@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 12b Lesson - Score Reading and Reduction
+title: 12b Discussion - Score Reading and Reduction
 ---
 
 # Class discussion

@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 14b Lesson - Secondary Leading-tone Chords
+title: 14b Discussion - Secondary Leading-tone Chords
 abc: true
 ---
 

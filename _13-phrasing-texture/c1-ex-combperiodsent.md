@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 13c Examples - Combining Periods and Sentences
+title: 13c Lesson - Combining Periods and Sentences
 ---

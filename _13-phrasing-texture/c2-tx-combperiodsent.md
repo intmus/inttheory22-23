@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 13c Lesson - Combining Periods and Sentences
+title: 13c Discussion - Combining Periods and Sentences
 ---
 
 # Class discussion

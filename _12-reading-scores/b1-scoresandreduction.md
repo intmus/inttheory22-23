@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 12b Examples - Score Reading and Reduction
+title: 12b Lesson - Score Reading and Reduction
 abc: true
 ---
 

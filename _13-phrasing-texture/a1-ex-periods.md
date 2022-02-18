@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 13a Examples - The Period
+title: 13a Lesson - The Period
 ---

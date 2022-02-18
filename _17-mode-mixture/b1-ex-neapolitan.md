@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 17b Examples - bII chords (Neapolitan)
+title: 17b Lesson - bII chords (Neapolitan)
 abc: true
 ---
 

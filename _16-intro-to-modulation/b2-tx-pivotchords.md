@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 16b Lesson - Pivot chords
+title: 16b Discussion - Pivot chords
 abc: true
 ---
 

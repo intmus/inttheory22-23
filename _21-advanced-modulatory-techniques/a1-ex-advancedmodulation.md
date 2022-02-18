@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 22a Examples - Advanced Modulatory Techniques
+title: 22a Lesson - Advanced Modulatory Techniques
 abc: true
 ---
 

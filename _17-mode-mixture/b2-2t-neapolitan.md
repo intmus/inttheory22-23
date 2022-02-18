@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 17b Lesson - Neapolitan chords (bII<sup>6</sup>)
+title: 17b Discussion - Neapolitan chords (bII<sup>6</sup>)
 abc: true
 ---
 

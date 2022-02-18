@@ -1,4 +1,4 @@
 ---
 layout: chapter
-title: 13b Examples - The Sentence
+title: 13b Lesson - The Sentence
 ---
