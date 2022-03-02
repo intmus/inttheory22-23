@@ -4,7 +4,7 @@ title: 19b Lesson - Common-tone diminished chords
 abc: true
 ---
 
-Neapolitan chord and augmented sixth chords act as functional substitutions for pre-dominant chords, although we looked at how they could be used to substitute for dominant chords as well. The chord that you will study below does not fulfill one of the three primary functions; instead, it is used to embellish and elongate a function. 
+Augmented sixth chords act as functional substitutions for pre-dominant and occasionally dominant chords, so in both of these cases, you can assign those chords a primary function of dominant or pre-dominant. The chord that you will study below does not fulfill one of the three primary functions; instead, it embellishes and elongates a different chord, similar to a tertiary function chord such as a passing or pedal chord. 
 
 It is possible to think of this chord using tertian harmony, but its voice-leading determines its construction. 
 
