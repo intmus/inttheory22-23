@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 20b Discussion - Mediant harmony and Idealized Voice-leading Intervals
+title: 20b Discussion - Mediant harmony and Simplified Voice-leading Intervals
 abc: true
 ---
 
