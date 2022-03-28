@@ -20,7 +20,7 @@ The following examples demonstrate advanced modulatory methods in simplistic ren
 - Work backward from the end of the piece to create Roman numerals for the second key.
 - When you come to the bridge between the two keys, try to determine what ties the pieces together. 
     - It will be helpful to consider the guidelines of each modulatory technique that you have already learned.
-        - Do your Roman numerals meet in the *middle* of the phrase as would be expected of a standard pivot chord modulation? Does the modulation happen between phrases as is standard in a direct modulation? Does the modulation involve one or more isolated common-tones?
+        - Do your Roman numerals meet in the *middle* of the phrase as would be expected of a standard pivot chord modulation? Does the modulation happen between phrases as is standard in a phrase modulation? Does the modulation involve one or more isolated common-tones?
 
 ## Group A
 
