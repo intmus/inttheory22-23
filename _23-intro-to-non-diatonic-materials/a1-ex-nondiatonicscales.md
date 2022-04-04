@@ -140,6 +140,5 @@ The three octatonic collections | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8
  1 | C | Db | Eb | E | F# | G | A | Bb
  2 | C# | D | E | F | G | Ab | Bb | B
  3 | D | Eb | F | Gb | Ab | A | B | C
- 4 | Eb | E | F# | G | A | Bb | C | Db
 
 The octatonic scale has long been a favorite of modern composers, because it not only has the tonal fluidity and symmetry of a hexatonic scales, but it also contains many of standard tonal structures such as triads and seventh chords. In a HW octatonic scale, you can create a major triad, minor triad, diminished triad, minor seventh chord, dominant seventh chord, and fully diminished seventh triad off of four of different pitches within the collection. This gives composers an amazing flexibility to use tonally familiar structures in a non-standard manner.
