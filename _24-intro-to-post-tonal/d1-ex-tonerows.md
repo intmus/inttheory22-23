@@ -4,7 +4,7 @@ title: 24d Lesson - Serialism and Tone Rows
 abc: true
 ---
 
-For many people, the terms *tone row* and *matrix* are synonymous with post-tonal theory. Luckily, your basic understanding of set theory comprehending tone rows fairly simple.
+For many people, the terms *tone row* and *matrix* are synonymous with post-tonal theory. Luckily, your newfound understanding of set theory help in comprehending tone rows and their manipulation.
 
 ## Starting small
 
