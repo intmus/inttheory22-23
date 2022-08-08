@@ -6,17 +6,17 @@
 
 # site info
 title: "Integrated Music Theory"
-tagline: "2021-22"
+tagline: "2022-23"
 description: "an open, interactive, online textbook for college music theory"
 keywords: "music theory, OER, university of idaho, inquiry-based"
 owner: Sean Butterfield
 email: sbutterfield@uidaho.edu
-published: 2021
-github-repo: https://github.com/intmus/inttheory21-22
+published: 2022
+github-repo: https://github.com/intmus/inttheory22-23
 
 # urls
 url: https://intmus.github.io
-baseurl: /inttheory21-22
+baseurl: /inttheory22-23
 
 # collections
 # each unit of the book is a collection
