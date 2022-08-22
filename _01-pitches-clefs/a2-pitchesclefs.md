@@ -6,6 +6,10 @@ abc: true
 
 ## Class Discussion
 
+TBD
+
+### 2022-22 Discussion
+
 ### Creating a Definition of Rhythm
 
 A pattern or a series of patters that happens in a certain amount of time. 
