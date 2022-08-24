@@ -26,8 +26,9 @@ Even though most college music students are familiar with reading music, most ar
 
 ### Exploring clefs
 
-Treble clef is sometimes referred to as a *G-clef*, and bass clef can be called an *F-clef*.
-Alto and tenor clefs are known as *C-clefs*. So let's piece together the notes and octave relationships between the clefs as well as why the clefs have these alternate names. 
+Treble clef is sometimes referred to as the *G-clef*, and bass clef as the *F-clef*.
+Alto and tenor clefs are known as *C-clefs*. 
+So let's piece together the notes and octave relationships between the clefs as well as why the clefs have these alternate names. 
 
 In the examples below: 
 - the treble and alto clefs are in unison
@@ -62,7 +63,7 @@ w: E A F B G C# G{% endcapture %}
 
 ### Conclusion
 
-Clefs have secondary names because each clef is centered around the pitch in its name. The bass clef's dots surround an F, and the two C-clefs are centered on middle C. Treble clef, however, not only encircles the G at the center of its spiral, but it evolved from a stylized *G*. For a well-researched, short article on the evolution of clefs, I suggest reading Jimmy Stamp's [The Evolution of the Treble Clef](http://www.smithsonianmag.com/arts-culture/the-evolution-of-the-treble-clef-87122373/) from the Smithsonian website.
+Clefs have secondary names because each clef is centered around the pitch in its name. The bass clef's dots surround an F, and the two C-clefs are centered on middle C. Treble clef, however, not only encircles the G at the center of its spiral, but it evolved from a stylized *G*. For a short and fun article on the evolution of clefs, I suggest reading Jimmy Stamp's [The Evolution of the Treble Clef](http://www.smithsonianmag.com/arts-culture/the-evolution-of-the-treble-clef-87122373/) from the Smithsonian website.
 
 The octave relationship for each clef is the most important thing you can remember from this discussion, and the easiest way to demonstrate this is to look at where middle C sits on each clef. Below, you can see the note names for the lines and spaces of each clef, and middle C is highlighted at the beginning of each staff.
 
