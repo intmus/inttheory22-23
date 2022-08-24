@@ -10,12 +10,15 @@ Once it's running properly, you can use ctrl + s to save changes, and then ctrl 
 
 You're welcome! And if it doesn't work, just have Evan fix it like you always do lol -->
 
-### A Starting Place
+## A Starting Place
 
-In this course, we will be studying many styles of music, but all of these will have roots in the harmonic and melodic practices of the common practice period. 
-The common practice period is generally considered to include Western art music from the Renaissance through the Romantic eras, but any music that that grew out of this tradition--including almost all popular music today--can be analyzed using the tools we will study for common practice harmony.
+In this course, we will study music through the lens of a few of its most basic components: melody, harmony, and rhythm. There are other building blocks of music, such as texture, orchestration, and lyrics, but we will focus on melody, harmony, and rhythm because the unique ways in which a muscial genre combines these three concepts will help us understand the *least* intuitive rules and strategies that define the style. Or more simply put: we will establish a framework for understanding the parts of music that are most difficult to study.
 
-By the time musicians begin formally exploring music theory, they likely are familiar with basic music notation--treble and bass clefs, staves, ledger lines, and accidentals--due to time spent performing. If you are uncomfortable with any of aspect of these concepts, you can review by reading the explanations under the *Further Reading* section of [Discussion 1a]({{ site.baseurl }}/01-pitches-clefs/a2-pitchesclefs.html).
+While much of our beginning examples will study the widely-used standards of Western art music from the Renaissance through the Romantic eras, any music that that grew out of this tradition--including almost all popular music today--can be better understood using the tools we use in analyzing tonal harmony. As such, when possible, we will analyze music from a wide variety of styles and genres to better test the tools that we use to study.
+
+### Before you begin
+
+By the time most musicians begin formally exploring music theory, they likely are familiar with basic music notation--treble and bass clefs, staves, ledger lines, and accidentals--due to time spent performing. If you are uncomfortable with any of aspect of these concepts, you can review by reading the explanations under the *Further Reading* section of [Discussion 1a]({{ site.baseurl }}/01-pitches-clefs/a2-pitchesclefs.html).
 
 ## Clefs
 
