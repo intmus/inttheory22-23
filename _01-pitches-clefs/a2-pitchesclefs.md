@@ -6,11 +6,11 @@ abc: true
 
 ## Class Discussion
 
-- “What instruments use alto clef?” Alto voice for baroque, Viola, Cello
-- “What instruments use tenor clef?” Bass, Trombone, Cello, Euphonium, etc
-- “Where is middle C on each clef”
+1. “What instruments use alto clef?” Alto voice for baroque, Viola, Cello
+2. “What instruments use tenor clef?” Bass, Trombone, Cello, Euphonium, etc
+1. “Where is middle C on each clef”
   - Alto and Tenor - the middle of the clef, where the clef points to
-- “Why do we have these four clefs?”
+1. “Why do we have these four clefs?”
   - Because of the ranges of instruments
 
 ### 2022-22 Discussion
