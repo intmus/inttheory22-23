@@ -6,7 +6,25 @@ abc: true
 
 ## Class Discussion
 
-TBD
+“What instruments use alto clef?” 
+- Alto voice for older music, Viola, Cello
+“What instruments use tenor clef?” 
+- Bass, Trombone, Cello, Euphonium, old Tenor voice parts, etc
+“Why do we have these four clefs?”
+- Because of the ranges of different instruments
+“Where is middle C on each clef”
+- Treble clef, or G clef - swirls around the G line (second line)
+- Alto and Tenor, or C clefs - the middle of the clef, where the clef points to (third line)
+- Bass clef or F clef - the starting dot rests on the F line, and the two dots are on either side of the F line (fourth line)
+"What strategies can we use to simplify Alto and Tenor Clef?"
+- Alto is just below treble clef and just above the bass clef. If you think of treble and bass clef together, alto clef is the notes in the middle that bridge the gap between treble and bass clef
+- Treble clef is visually a seventh higher from alto clef, not a second away
+- Think of the lines of the alto clef as a F major 9 chord, through the lens of your instrument
+- Everything that is usually on a space is on a line. Create a visual transposition. Think of Alto clef as being a second away, then think down an octave
+- Using reference intervals to connect two clefs
+- Relating the strings of an instrument to the visual difference between clefs
+- Knowing where middle C is
+- Sean’s way - Because the alto clef looks to be lower than tenor clef, you read as if it is an interval of a second higher compared to treble clef. Because the Tenor clef looks to be higher than alto clef, you read as if it is a second lower compared to treble clef.
 
 ### 2022-22 Discussion
 
