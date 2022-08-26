@@ -86,6 +86,16 @@ C | G,, B,, D, F, A,| A,, C, E, G,|]
 w: midC G B D F A A C E G{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
+{% capture ex3 %}X:3
+T:Middle C in each clef
+M:C
+L:1
+K:C
+C| [K:clef=alto]C| [K:clef=tenor]C| [K:clef=bass]C|]{% endcapture %}
+{% include abc-example.html number="3" abc=ex3 %}
+
+From these two examples, it is easy to see the necessity of clefs. Ledger lines are an important notation tool, but too many ledger lines becomes difficult to read quickly. Therefore, each clef highlights a specific range that can be written without employing ledger lines. Alto clef is typically thought of as a lower extension for treble clef; it adds the visual space of seven steps from treble clef. Tenor clef is a higher extension for bass clef and adds the visual space of five steps from bass clef. Of course, alto and tenor clef have similar ranges and one of the other could likely be eliminated with little issue--alto clef is visually seven steps from either treble or bass clef making it a middle ground for both--but because both of these clefs have been widely used for more than a century, it is necessary for all musicians to be familiar with reading them.
+
 ### Tips and tricks
 
 When asked about their methods, past students suggested working on clefs via:
