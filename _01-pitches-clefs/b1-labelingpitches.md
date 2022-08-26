@@ -8,7 +8,7 @@ abc: true
 
 There are many methods for labeling pitches, and these vary based on language of origin, style of music, pedagogy, and analytical purposes. In this textbook, we will primarily reference the widely-used English-language notation system that employs seven letter names and accidentals. This system is discussed below and is sufficient for differentiating between pitches in diatonic tonality. (If the terms *diatonic* and *tonality* don't mean anything to you yet, don't worry; we'll cover those terms in later units.)
 
-There are times, however, when we want to discuss the *relationships* within a tonal structure without tying ourselves to a particular tonal center. You already do this naturally when you listen to music. If you have participated in any amount of music performance, you can likely tell the difference between a major and minor scale, simply by hearing them. You don't need to know the exact pitches, and you don't need to know in which key the scale is. You can tell the difference by instinctively measuring *the relative distance between pitches*. So to discuss how the distance between pitches implies tonal centers, we need a system that demonstrates *relative* distance without having to refer to the letter system and a key name. 
+There are times, however, when we want to discuss the *relationships* within a tonal structure without tying ourselves to a particular tonal center. You already do this instinctively when you listen to music. If you have participated in any amount of music performance, you can likely tell the difference between a major and minor scale, simply by hearing them. You don't need to know the exact pitches, nor do you need to know the name of the primary pitch of the key. Instead, you intuit the relationships in pitch collection by hearing *the relative distance between pitches*. We will discuss our system for labeling intervals in the next unit, but to do so, we need a system that demonstrates the *relative* distances between pitches around a tonal center, without having to refer to the letter system and a key name. 
 
 There are multiple pre-existing systems that define music in relative terms, but for this textbook, we will use *moveable-"do" solfege*, a system that evolved from some of the earliest methods of notation. In this system, we assign the *tonic* of the key (or in simpler terms, the first note of the key), to `do`, and then we assign each note above that pitch a similar Latin name based on its distance from `do`. For those of you familiar with the musical *The Sound of Music*, you probably already know the basic seven solfege. "Do, a deer, a female deer...and so on.
 
@@ -26,7 +26,7 @@ Scale degree | Solfege syllable | Raised | Lowered
 
 ### Accidentals
 
-This course assumes that you have a basic knowledge of how to raise and lower pitches in standard music notation. If you need to review proper usage of accidentals, please refer to the *Further Reading* section under [Discussion 1b]({{ site.baseurl }}/01-pitches-clefs//b2-labelingpitches.html).
+This course assumes that you have a basic knowledge of how to raise and lower pitches in standard music notation. If you need to review accepted usage of accidentals, please refer to the *Further Reading* section under [Discussion 1b]({{ site.baseurl }}/01-pitches-clefs//b2-labelingpitches.html).
 
 ## Enharmonic Equivalence and Pitch Classes
 
@@ -85,7 +85,7 @@ K:C
 
 ### ISO
 
-When labeling pitches, we also need a way to refer to specific octaves or registers. We will be using the system used by the International Standard Organization (ISO). In this system, each pitch is given an Arabic numeral that designates its octave. For example, middle C is labeled as C4.
+When labeling pitches, we also need a way to refer to specific octaves or registers. We will be using the system used by the [International Standard Organization (ISO)](https://www.iso.org/standards.html). In this system, each pitch is given an Arabic numeral that designates its octave. For example, middle C is labeled as C4.
 
 ### Goals for this topic
 
@@ -121,18 +121,6 @@ There are a few simple rules to label octaves using the ISO system.
 - Each numbered octave starts on C, not A.
     - Each number ends on B.
     - Even if two notes are enharmonically equivalent, they can have different octave designations. For example, C-flat4 and B3 are enharmonically equivalent, but because they straddle the octave break between C and B, they are labeled as belonging to different octaves.
-
-You were told that C4 is *middle C*, and from this, you should be able to determine where *middle C* appears on each clef
-
-{% capture ex4 %}X:4
-T:Middle C in each clef
-M:C
-L:1
-K:C
-C| [K:clef=alto]C| [K:clef=tenor]C| [K:clef=bass]C|]{% endcapture %}
-{% include abc-example.html number="4" abc=ex4 %}
-
-From this, it is easy to see the necessity of clefs. Ledger lines are an important notation tool, but too many ledger lines becomes difficult to read quickly. Therefore, each clef highlights a specific range that can be written without employing ledger lines. Alto clef is typically thought of as a lower extension for treble clef; it adds the visual space of seven steps from treble clef. Tenor clef is a higher extension for bass clef and adds the visual space of five steps from bass clef. Of course, alto and tenor clef have similar ranges and one of the other could likely be eliminated with little issue -- alto clef is visually seven steps from either treble or bass clef -- but because both of these clefs have been widely used for more than a century, it is necessary for all musicians to be familiar with reading them.
 
 ### Why is the ISO system based on C instead of A?
 
