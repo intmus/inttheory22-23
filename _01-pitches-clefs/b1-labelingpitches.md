@@ -78,7 +78,7 @@ L:1/4
 K:C
 ^B, C __D| ^^B, ^C _D| ^^C D __E| ^D _E __F|
 ^^D E _F| ^E F __G| ^^E ^F _G| ^^F G __A|
-^G _A z| ^^G A __B| ^A _B __C| ^^A B _C|]{% endcapture %}
+^G _A z| ^^G A __B| ^A _B __c| ^^A B _c|]{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 ## **Labeling Octaves and Clef Relationships**
