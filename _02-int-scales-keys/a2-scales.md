@@ -4,7 +4,49 @@ title: Discussion 2a - Diatonic Scales
 abc: true
 ---
 
-## Class discussion
+## Class Discussion 2022
+
+"What is music?"
+
+The best broad definition for music that doesn't exclude other world music is "Organized sound".
+
+"How would you teach a beginner music student what an interval is?"
+
+- It's hard to teach intervals without an understanding scales, and its hard to teach scales without and understanding of intervals.
+
+- We start with relating to sounds first.
+
+"How can we define whole steps and half steps without scales?"
+
+- Looking at the keyboard, a half step is the closest possible next note.
+
+Defining a scale
+
+- There is a difference between a pitch collection and a scale. A pitch collection is just a collection of pitches. In order to make a pitch collection into a scale, it must be arranged in order decending or ascending.
+
+- A scale must have one of each of the seven note names.
+
+When writing out numbered scale degrees, (^1 ^2 ^3 ^4 ^5 ^6 ^7) the arrow goes above the number.
+
+"Why do we use melodic minor?"
+
+- It allows for the tension and release in both directions. It includes the leading tone without having an augmented second like harmonic minor.
+
+"What is the difference between parrallel and relative minor?"
+
+- Parrallel scales have the same tonic, relative scales have the same notes or, pitch collection.
+
+- Only the natural minor scale has a true relative major scale.
+
+"Why do we call harmonic minor the harmonic minor scale"
+
+- Because of the dominant-tonic relationship uses the dominant five chord, which requires the leading tone.
+
+"Why does melodic minor sound more correct than harmonic minor?"
+
+- Because Ti wants to resolve up to the tonic. When Ti is followed by Le, like in the harmonic minor version of Happy Birthday, there is a melodic augmented second.
+
+## Class discussion 2021
 
 ### Definition of a Scale
 
