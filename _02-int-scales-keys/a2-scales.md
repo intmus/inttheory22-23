@@ -30,7 +30,7 @@ When writing out numbered scale degrees, (^1 ^2 ^3 ^4 ^5 ^6 ^7) the arrow goes a
 
 "Why do we use melodic minor?"
 
-- It allows for the tension and release in both directions. It includes the leading tone without having an augmented second like harmonic minor.
+- It allows for tension and release in both directions. It includes the leading tone without having an augmented second like harmonic minor.
 
 "What is the difference between parallel and relative minor?"
 
