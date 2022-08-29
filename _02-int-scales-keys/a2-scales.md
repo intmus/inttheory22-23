@@ -32,9 +32,9 @@ When writing out numbered scale degrees, (^1 ^2 ^3 ^4 ^5 ^6 ^7) the arrow goes a
 
 - It allows for the tension and release in both directions. It includes the leading tone without having an augmented second like harmonic minor.
 
-"What is the difference between parrallel and relative minor?"
+"What is the difference between parallel and relative minor?"
 
-- Parrallel scales have the same tonic, relative scales have the same notes or, pitch collection.
+- Parallel scales have the same tonic, relative scales have the same notes or, pitch collection.
 
 - Only the natural minor scale has a true relative major scale.
 
