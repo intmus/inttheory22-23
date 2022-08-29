@@ -4,11 +4,13 @@ title: Lesson 2a - Diatonic Scales
 abc: true
 ---
 
-"Organized sound" is a common way to define music in its simplest form, and we can use this definition as a launching point for discussing pitch collections and scales. If we accept that music is "organized sound", then the methods used to organize it will define all aspects of its composition. 
+### Defining music
 
-## Tonal music
+There are many ways to start an argument with someone, but one of the easiest is to ask a musician to define music--and often more interestingly, what is *not* music. For our purposes, we will use the broad definition of "organized sound". This is a common way to define music in its simplest form, and we can use this definition as a launching point for study without setting one style or genre above others. Throughout this course, we will focus on the concept of *how* music functions in order to create a common ground for discussion, and to do so, we will spend time working through a variety of ways to communicate our thoughts about musical fucnction separate from our biases toward and against certain styles. If you can differentiate between your personal preferences from the functional aspects of music, you will be able to reach more people as a teacher, performer, or composer. 
 
-For this course, the majority of music that we'll study will be *tonal* music, meaning music that is organized around a central pitch called the *tonic*.
+## Defining *tonal* music
+
+If we accept that music is "organized sound", then the methods used to organize it will define all aspects of its composition. For this course, the majority of music that we'll study will be *tonal* music, meaning music that is organized around a central pitch called the *tonic*.
 
 When we build a tonality around a tonic pitch, every pitch in the tonality can be found by measuring the distance, or *interval*, between it and the tonic. It is these intervallic relationships that differentiate one pitch collection from another, and we can categorize each pitch collection by studying their commonalities and differences. 
 
