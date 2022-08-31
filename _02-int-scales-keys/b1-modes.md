@@ -232,7 +232,7 @@ K:G
 "5"D/2>"#5"^D/2| "6"E/2"b6"_E/2 "5"D "1"G/2"#6"^E/2| "7"F2 (3"5"D/2"#4"^C/2"5"D/2| "6"E "5"=D "2"A/2"7"^F/2| "1"G2 "5"D/2>"5"D/2|
 w:sol si la le sol do li ti sol fi sol la sol re ti do sol sol
 "5"d/2"b5"_d/4"4"c/4 "3"B/2"b3"_B/4"2"A/4 "1"G| "7"F/2"b6"=F/2 "6"HE "4"c/2>"4"c/2| (3"3"B/2"#2"^A/2"3"B/2 "1"G/2"#1"^G/2 "2"=A/2"b2"_A/2| "1"G2|]
-w:sol se fa me me re do ti te la fa fa mi ri mi do di re ra do{% endcapture %}
+w:sol se fa mi me re do ti te la fa fa mi ri mi do di re ra do{% endcapture %}
 {% include abc-example.html number="7" abc=ex7 %}
 
 ### Conclusions
