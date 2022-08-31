@@ -4,7 +4,7 @@ title: Lesson 2c - Identifying and Labeling Intervals
 abc: true
 ---
 
-To this point, we have discussed formal labeling systems for a single pitch, as well as how we can combine these pitches to create scales. Our next step up the ladder of complexity will be develop a method to measure the distance between any two pitches, and we do this in Western music notation by looking at the distance between two pitches changes in function when in a scale. 
+To this point, we have discussed formal labeling systems for a single pitch, as well as how we can combine these pitches by whole and half steps to create scales. Our next step up the ladder of complexity will be develop a method to measure the distance between any two pitches, and we do this in Western music notation by looking at the distance between two pitches changes in function when in a scale. 
 
 ## Intervals
 
@@ -12,10 +12,11 @@ Any two-note combination is called a *dyad*, and the distance between the two pi
 
 ### Goals for this topic
 
-In the example below, each interval represents the concept stated at the beginning of its staff, but each measure *also* has an important intervallic relationship to the measures above and below it as labeled by the word in front of each row (staff line). Using these relationships and labels, develop explanations for how we find each of the following:
+In the example below, each interval represents the concept stated at the beginning of its staff, but each measure *also* has an important intervallic relationship to the measures directly above and below it as labeled by the word in front of each row (staff line). Using these relationships and labels, develop explanations for how we find each of the following:
 - the *size* of the interval between two pitches as represented by the Arabic numeral
 - the *quality* of the interval as represented by the labels *perfect, major, minor, diminished, and augmented*
-- which *sizes* can use which *qualities* as well as the hierarchy of *qualities* for each *size*
+- which *sizes* can use which *qualities*
+- the hierarchy of *qualities* for each *size*
 - *chromatic* versus *diatonic* intervals
 - *simple* versus *compound* intervals and how this affects classifying of *quality* and *size*
 - how the *size* and *quality* change when the upper and lower pitches of an interval are inverted
@@ -33,7 +34,7 @@ In the example below, each interval represents the concept stated at the beginni
   - _**Chromatic** intervals in the examples below_
     - All other intervals
 - **Inversions**
-  - The bottom row of intervals are the inversions of each interval in the top row. For example, the M7 in the bottom row is the inversion of the m2 directly above it in the first row. 
+  - The bottom row of intervals are the inversions of each interval in the top row. For example, the M7 in the bottom row is the inversion of the m2 above it in the first row. 
 
 
 {% capture ex1 %}X:1
