@@ -5,6 +5,44 @@ title: Discussion 2c - Identifying and Labeling Intervals
 
 ## Class Discussion
 
+Intervals
+
+What does it mean to invert an interval?
+
+- Inversions are when you take one note in an interval and move it an octave past the other note.
+
+- When inverting, Major becomes Minor, Perfect remains Perfect, Diminished becomes Augmented
+
+Chromatic Vs Diatonic Intervals
+
+- If the notes in the intervals appear in the given key signatures, 
+
+Some intervals can only have certain qualtities. Possible qualities for all intervals:
+
+- Unisons can be Augmented and Perfect (Not Diminished).
+
+- Seconds can be Augmented, Major, Minor, and Diminished.
+
+- Thirds can be Augmented, Major, Minor and Diminished.
+
+- Fourths can be Augmented, Perfect, and Diminished.
+
+- Fifths can be Augmented, Perfect, and Diminished.
+
+- Sixths can be Augmented, Major, Minor, and Diminished.
+
+- Sevenths can be Augmented, Major, Minor, and Diminished.
+
+- Octaves can be Augmented, Perfect, and Diminished.
+
+Hierarchy for intervals that cannot be Major or Minor (from widest to closest)  - Augmented, Perfect, Diminished
+
+Hierarchy for intervals that cannot be Perfect - Augmented, Major, Minor, Diminished
+
+When determining intervals, the diatonic intervals in an ascending major scale contains only Major and Perfect intervals. Likewise, descending major sclaes contain only Major and Perfect intervals.
+
+## Class Discussion 2021
+
 *(Only 8 diatonic intervals. The rest are chromatic)*
 
 **How do you explain size?**
