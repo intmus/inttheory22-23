@@ -36,7 +36,7 @@ Order the modes from lightest to darkest.
 
 - Intervals are labeled with a quality first (merfect, major, minor, diminished, and augmented), and a size next (unison, second, third, fourth, etc.).
 
-- Harmonic intervals are intervals played together, melodic intervals are played seperately 9one after another).
+- Harmonic intervals are intervals played together, melodic intervals are played seperately (one after another).
 
 - Simple intervals are intervals within the octave, compound intervals are inervals are that stretch further than an octave.
 
