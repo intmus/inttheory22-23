@@ -9,7 +9,7 @@ Intervals
 
 What does it mean to invert an interval?
 
-- Inversions are when you take one note in an interval and move it an octave past the other note.
+- Inversions are when you take one note in an interval and move it an octave up or down past the other note.
 
 - When inverting, Major becomes Minor, Perfect remains Perfect, Diminished becomes Augmented
 
