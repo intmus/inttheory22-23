@@ -15,7 +15,11 @@ What does it mean to invert an interval?
 
 Chromatic Vs Diatonic Intervals
 
-- If the notes in the intervals appear in the given key signatures, 
+- If the notes in an interval appear in the current key, they are diatonic.
+
+- If the one (or both) of the notes in an interval use(s) accidentals, the interval is probably chromatic (can't exist without accidentals in most cases).
+
+- Go up the major scale starting from the bottom note. If it is in the major scale, it's diatonic.
 
 Some intervals can only have certain qualtities. Possible qualities for all intervals:
 
