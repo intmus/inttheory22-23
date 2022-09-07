@@ -4,7 +4,32 @@ title: Discussion 2d - Key Signatures
 abc: true
 ---
 
-## Class Discussion
+## Class Discussion -
+
+Key Signatures Don't Always Represent the Current Key
+
+- A piece of music can change key quickly, and change back quickly as well. These changes in tonic aren't always represented by a key signature change in the music.
+
+- Keys are more defined by the tonic and dominant relationship present in the music.
+
+Have a pnuemonic device for the order of sharps and flats
+
+- F C G D A E B
+
+- Fat Cats Go Down Alleys Eating Bugs/Birds/Berries
+
+- B E A D G C F
+
+- Bald Eagles Are Diving Gracefully Catching Fish
+
+- "Beadcgf"
+
+When you add a sharp (take away a flat), you create the new Ti to the key signature.
+
+When you add a flat (take away a sharp), you create the new Fa to the key signature.
+
+
+## Class Discussion 2021
 
 **Frequency Ratio**
 
