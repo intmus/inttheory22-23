@@ -20,13 +20,15 @@ In the examples below, you will find sets of three keys. Use these to find:
 - a method for determining the *relative* and *parallel* minor keys from a major key
     - as well as the *relative* and *parallel* major keys from a minor key
 
-### A caveat
+#### A caveat
 
-Please note that any *scale* that shares a tonic note is considered to be one key. Even though this may contradict your intuitive thoughts, this means that G major and G minor are considered the same **key**! Instead, we call them *modes* of each other, not different keys. The explanation for this terminology is best left for once we have more tools to examine it, but for now, practice using the correct terminology to avoid a confusing "re-learning" moment later in the course.
+Please remember from our discussion of scales and modes that any *scale* that shares a tonic note is considered to be one key. Even though this may contradict your intuitive thoughts, this means that G major and G minor are considered the same **key**! Instead, we call them *modes* of each other, not different keys. While somewhat pedantic, this will help our discussions of modulation and mode mixture once we begin studying chromatic harmony.
 
 ### Keys that use sharps and the minor keys that are related to them
 
-Use these examples to determine the order of sharps. Pay particular attention to which **scale degrees** are affected in each key as sharps are added. Is it the same scale degree in each key? How is this related to the tonic? If you continue the pattern, are you able to discern the name of the next key and which accidentals are added? You should also be able to determine the relationship between a major key and its parallel and relative minors.
+Accidentals are added to the key signature from left to right, so using the examples below, you can compare the relation of the tonic to the newly added sharps to develop an order in which you would add more sharps to a key signature. 
+
+Pay particular attention to which **scale degrees** are affected in each key as sharps are added. Is it the same scale degree in each key? How is this related to the tonic? If you continue the pattern, are you able to discern the name of the next key and which accidentals are added? You should also be able to determine the relationship between a major key and its parallel and relative minors.
 
 {% capture ex1 %}X: 1
 T:3 major scales that use sharps
@@ -61,7 +63,7 @@ w: G min (G maj) _ _ _ _ D min (D maj) _ _ _ _ _ _ A min (A maj){% endcapture %}
 
 ### Keys that use flats and the minor keys that are related to them
 
-Use these examples to determine the order of flats. Pay particular attention to which **scale degrees** are affected in each key as flats are added. Is it the same scale degree in each key? How is this related to the tonic? If you continue the pattern, are you able to discern the name of the next key and which accidentals are added? You should also be able to determine the relationship between a major key and its parallel and relative minors.
+Use these examples to determine the order of flats in the same way. As before, pay particular attention to which **scale degrees** are affected in each key as flats are added. Is it the same scale degree in each key? How is this related to the tonic? If you continue the pattern, are you able to discern the name of the next key and which accidentals are added? You should also be able to determine the relationship between a major key and its parallel and relative minors.
 
 {% capture ex4 %}X: 4
 T:3 major scales that use flats
@@ -96,7 +98,7 @@ w: B-flat min (B-flat maj) _ _ E-flat min (E-flat maj) _ _ A-flat min (A-flat ma
 
 ## Conclusions
 
-In the next topic, we will discuss how the overtone series creates our perception of pitch, tonality, and music as a whole. But for now, we can observe that one aspect of the overtone series, the circle-of-fifths, plays a critical role in defining diatonic function and key signatures. The order of sharps and flats follows a series of ascending perfect 5th intervals.
+In the next topic, we will discuss how the overtone series creates our perception of pitch, tonality, and music as a whole. But for now, we can observe that one aspect of the overtone series, the circle-of-fifths, plays a critical role in defining diatonic function and key signatures. The order of sharps and flats follows a series of ascending perfect 5th intervals for sharps and a descending perfect 5ths for flats.
 - Order of sharps: F - C - G - D - A - E - B
 - Order of flats: B - E - A - D - G - C - F
 
