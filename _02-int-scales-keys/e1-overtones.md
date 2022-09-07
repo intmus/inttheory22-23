@@ -33,7 +33,7 @@ C,,C,G,C x x x x x x x x|]{% endcapture %}
 
 ## Bernstein on the importance of the overtone series
 
-Next, please watch this wonderful video of Leonard Bernstein outlining an entertaining supposition as to how the overtone series helps to explain harmony's evolution throughout the ages. Keep in mind that each evolutionary step he discusses adds another partial from the overtone series.
+Next, please watch this video of Leonard Bernstein discussing an entertaining supposition as to how the overtone series helps to explain harmony's evolution throughout the ages. Keep in mind that each evolutionary step he discusses adds another partial from the overtone series.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gt2zubHcER4" frameborder="0" allowfullscreen></iframe>
 
@@ -41,7 +41,7 @@ Next, please watch this wonderful video of Leonard Bernstein outlining an entert
 
 The division of the octave into twelve parts is our brains' interpretations of a simple mathematical phenomenon. When the frequency of a sound wave doubles, our brains hear those two frequencies as sharing some fundamental commonality, so it interprets those two pitches as the "same" but separated by an octave. Therefore, octaves always have a 2:1 ratio. A110, A220, A440, and A880 are all `A` separated by octaves. The next two "simplest" ratios are a 3:2 ratio and a 4:3 ratio, which create a perfect 5th and a perfect 4th respectively. 
 
-The importance of these ratios is easily observed in the circle of fifths. If you begin on any pitch-class and begin moving by ascending perfect 5ths (or 4ths), you will find yourself back at the beginning after cycling through all twelve pitch-classes. We call this the circle of fifths.
+The influence of these ratios is among the most important concepts for understanding the way in which humans process sound. This concept not only explains why humans which intervals find certain intervals consonant or dissonant--simpler ratios are heard as consonant whereas complex ratios are heard as dissonant--but these importance of simpler ratios is easily observed in the circle of fifths. If you begin on any pitch-class and begin moving by ascending perfect 5ths (or 4ths), you will find yourself back at the beginning after cycling through all twelve pitch-classes. We call this the circle of fifths.
 
 C - G - D - A - E - B - F-sharp - C-sharp - G-sharp - D-sharp/E-flat - B-flat - F - *C*
 
