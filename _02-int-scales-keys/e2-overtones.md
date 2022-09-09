@@ -4,7 +4,34 @@ title: Discussion 2e - The Overtone Series
 abc: true
 ---
 
-# Class discussion
+## Class Discussion 
+
+"Why can we differentiate sounds?"
+
+- When early humans developed, it was important to be able to differenciate high and low sounds 
+
+"Why are certain intervals consanant verses dissonant?"
+
+- When the frequency of a tone line up well with the frequency of another tone, we hear it as consonant.
+
+- The most simple ratio we can create is 2:1, where a tone vibrates at one half the frequency of another tone. We call this an octave. The next simplest ratio is 3:2. We call this a perfect fifth. As the ratios between two frequencies become more complex, the interval becomes more dissonant. 
+
+"How do we differenciate timbre?"
+
+- Every sound produces overtones. We often hear just the fundamental, or the loudest tone or sound. Your brain organizes all of the extra tones in the overtone series into a bundle of sound we call timbre.
+
+Overtone Series
+
+- Notes in the overtone series in C - C, C, G, C, E, G, Bb, C, D, E, F#, G
+
+- The order of the overtone series in intervals - P8, P5, P4, M3, m3, m3, M2, M2, M2, M2, m2
+
+- Major scales are based on stacking perfect fifths (the first interval with two different pitches) 
+
+- Intonation is based on how you divide the octave. If you divide it into 12 equal tones (equal temperament), it doesn't perfectly line up the the overtone series. The tuning system that uses the overtone series is calles "Just Intonation".
+
+
+## Class discussion 2021
 
 **Two different systems for labeling the overtone series, either one is good**
 - Fundamental + x overtone. Ex: in C, the Bb in the treble clef staff is the sixth overtone.
