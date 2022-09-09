@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 2b - Modes
+title: Lesson 2b - Modes and Pentatonics
 abc: true
 ---
 
