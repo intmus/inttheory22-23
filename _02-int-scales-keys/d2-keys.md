@@ -28,6 +28,12 @@ When you add a sharp (take away a flat), you create the new Ti to the key signat
 
 When you add a flat (take away a sharp), you create the new Fa to the key signature.
 
+"How do you find the relative minor of a major scale?"
+
+- Start the scale on the 6th scale degree
+
+- Think "Do Ti La" or down a half step, then a whole step
+
 
 ## Class Discussion 2021
 
