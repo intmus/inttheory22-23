@@ -8,11 +8,11 @@ abc: true
 
 "Why can we differentiate sounds?"
 
-- When early humans developed, it was important to be able to differenciate high and low sounds 
+- When early humans developed, it was important to be able to differenciate high and low sounds to hear the difference between predators and prey.
 
 "Why are certain intervals consanant verses dissonant?"
 
-- When the frequency of a tone line up well with the frequency of another tone, we hear it as consonant.
+- When the frequency of a tone lines up well with the frequency of another tone, we hear it as consonant.
 
 - The most simple ratio we can create is 2:1, where a tone vibrates at one half the frequency of another tone. We call this an octave. The next simplest ratio is 3:2. We call this a perfect fifth. As the ratios between two frequencies become more complex, the interval becomes more dissonant. 
 
