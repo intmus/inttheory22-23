@@ -4,7 +4,7 @@ title: Lesson 3a - Triads
 abc: true
 ---
 
-When discussing key signatures in Unit 2d, we created that a series of repeating intervals of a P5 will eventually cycle through all twelve pitch classes before repeating. And if we insert a diminished 5th at any point, we can "shortcut" back to six pitches earlier--and in doing so, we create a diatonic collection of seven pitches that we associate with Western diatonic tonality. 
+When discussing key signatures in Unit 2d, we demonstrated that a series of repeating P5 intervals will eventually cycle through all twelve pitch classes. And if we insert a diminished 5th at any point, we can "shortcut" back to six pitches earlier--and in doing so, we create a new looping set of intervals that also happens to be a diatonic collection of seven pitches. 
 
 We can further demonstrate this effect by stacking them on top of each other to create basic harmonies. Listen to the next example which stacks diatonic 5ths--meaning 5ths that reflect the key signature used for this tonal center--to create a series of perfect 5ths. As you listen, you will probably hear each of these dyads as having an "open" or "undefined" sound. Feel free to experiment using the text entry box below the example to see if you can insert a note into those open 5ths that creates a pleasing sound. 
 
