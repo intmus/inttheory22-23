@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Discussion 2b - Modes
+title: Discussion 2b - Modes and Pentonic Scales
 abc: true
 ---
 
