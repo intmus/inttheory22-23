@@ -46,12 +46,12 @@ The influence of these ratios is among the most important concepts for understan
 C - G - D - A - E - B - F-sharp - C-sharp - G-sharp - D-sharp/E-flat - B-flat - F - *C*
 
 Perhaps more important for our discussion, though, is what happens when we introduce a diminished 5th into the pattern. Try this quick exercise:
-1. Choose any starting pitch, and then write your starting pitch and the next six pitches from the circle of fifths on a separate piece of paper. (This will be easier if you choose a pitch that is flatted, because it will allow you to avoid dealing with double-sharps.)
+1. Choose any starting pitch, and then write it and the next six pitches from the circle of fifths on a separate piece of paper. (This will be easier if you choose a pitch that is flatted, because it will allow you to avoid dealing with double-sharps.)
     - If you've done this correctly, you should have one pitch for every letter name. e.g. one 'A', one 'B', etc.
 2. Lower the final pitch by one half-step, thus creating the interval of a diminished 5th between it and the previous pitch.
 3. If you re-arrange the seven pitches in ascending order now beginning with whatever pitch you chose to start, you will notice that you have created the major scale for that starting pitch.
 
-This slight change--the addition of one diminished 5th--creates the necessary tension for keys to function diatonically, so diatonic function could be described as a slight imperfection on an otherwise perfect series of intervals. 
+In essence, the diminished fifth creates a new, smaller self-repeating loop inside of the circle of fiths. This slight change--the addition of one diminished 5th--creates the necessary tension for keys to function diatonically, so diatonic function could be described as an imperfection on an otherwise perfect series of intervals. 
 
 This can be further shown by looking at the naturally occurring intervals if we write diatonic 5ths above the notes of a major scale.
 
