@@ -3,7 +3,49 @@ layout: chapter
 title: Discussion 3a - Triads
 ---
 
-# Class Discussion
+## Class Discussion
+
+"What is a triad?"
+
+- In tonal harmony, a triad is a chord with three notes made up of two thirds stacked on top of eachother.
+
+- The type of triad is determined by the quality of the thirds that make up the triad.
+
+Triad Qualities
+
+- Four qualities of triads: Augmented, Major, Minor, and Diminished.
+
+- Augmented: M3 + M3. Creates an augmented fifth between the root and the fifth.
+
+- Major: M3 + m3. Creates a perfect fifth between the root and the fifth.
+
+- Minor: m3 + M3. Creates a perfect fifth between the root and the fifth.
+
+- Diminished: m3 + m3. Creates a diminished fifth between the root and the fifth.
+
+- Notice how none of the above triads use augmented thirds or diminished thirds.
+
+Inversions of Triads
+
+- A root position triad with the root on the bottom (lowest note).
+
+- A first inversion triad has the chordal third on the bottom.
+
+- A second inversion triad has the chordal fifth on the bottom.
+
+- To "un-invert" a triad (turn it into root position) put the root on the bottom.
+
+- THE ROOT AND THE BASS NOTE OF A CHORD ARE NOTE THE SAME.
+
+Inversion Figures
+
+- Root Position: 5/3 (or no inversion figure)
+
+- First Inversion: 6 (6/3)
+
+- Second Inversion: 6/4
+
+# Class Discussion 2021
 
 Tertian Harmnoy: Harmony based on stacked thirds.
 *(diatonic triad, stacked thirds, is not necessarily the same as a "triad"-implies any collection of three pitches)*
