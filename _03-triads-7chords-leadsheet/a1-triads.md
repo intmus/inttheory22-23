@@ -6,7 +6,7 @@ abc: true
 
 When discussing key signatures in Unit 2d, we demonstrated that a series of repeating P5 intervals will eventually cycle through all twelve pitch classes. And if we insert a diminished 5th at any point, we can "shortcut" back to six pitches earlier--and in doing so, we create a new looping set of intervals that also happens to be a diatonic collection of seven pitches. 
 
-We can further demonstrate this effect by stacking them on top of each other to create basic harmonies. Listen to the next example which stacks diatonic 5ths--meaning 5ths that reflect the key signature used for this tonal center--to create a series of perfect 5ths. As you listen, you will probably hear each of these dyads as having an "open" or "undefined" sound. Feel free to experiment using the text entry box below the example to see if you can insert a note into those open 5ths that creates a pleasing sound. 
+We can further demonstrate this effect by stacking them on top of each other to create basic harmonies. Listen to the next example which stacks diatonic 5ths--meaning 5ths that only use the pitches in this key--to create a series of perfect 5ths. As you listen, you will probably hear each of these dyads as having an "open" or "undefined" sound. Feel free to experiment using the text entry box below the example to see if you can insert a note into those open 5ths that creates a pleasing sound. 
 
 {% capture ex1 %}X:1
 %%staffsep 100%
@@ -18,11 +18,11 @@ K:C
 w:P5 P5 P5 P5 P5 P5 d5 P5{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-As you probably noticed, you can create a variety of interesting harmonies, but the ones that felt the most familiar occurred when placed a pitch in each 5th that divided them equally. And in doing so, you created the basic harmonic structure for all diatonic music: *the triad*.
+As you probably noticed, you can create a variety of interesting harmonies, but the ones that felt the most familiar occurred when you placed a pitch in each 5th that divided them equally. And in doing so, you created the basic harmonic structure for all diatonic music: *the triad*.
 
 ## Building diatonic triads
 
-All diatonic triads have exactly three pitches, although chordal members may be doubled and certain chord members can occasionally be omitted (and therefore implied) depending on the context. We name the chord members by the distance above the bottom pitch **when the chord is stacked in thirds**:
+All diatonic triads have exactly three unique pitches, although chordal members may be doubled and certain chord members can occasionally be omitted (and therefore implied) depending on the context. We name the chord members by the distance above the bottom pitch **when the chord is stacked in thirds**:
 - the lowest pitch is called the *root* of the chord
 - the pitch that is a 3rd above the root is called the *chordal third*
 - the pitch that is a 5th above the root is called the *chordal fifth*
@@ -35,7 +35,7 @@ As dyads have two pitches, the word "triad" implies *any* collection of three pi
 
 ## Triad qualities
 
-If the study of the evolution of music, you will find that early harmony focused on perfect intervals similar to this example, but diatonic harmony as we know did not truly begin until music began regularly featuring a third chordal member. By stacking two intervals of a third, we create a *triad*, which contains not only the two thirds, but also the interval of a fifth between the outer pitches. Any harmonic system which relies on stacking thirds is called *tertian harmony*.
+In the study of the evolution of music, you will find that early harmony focused on perfect intervals similar to this example, but diatonic harmony as we know did not take root until music began regularly using a third chordal member. By stacking two intervals of a third, we create a *triad*, which contains not only the two thirds, but also the interval of a fifth between the outer pitches. Any harmonic system which relies on stacking thirds is called *tertian harmony*.
 
 {% capture ex2 %}X:2
 %%staffsep 100%
@@ -88,6 +88,8 @@ Therefore, if a triad is in root position, you can determine triad qualities by 
 - Minor: m3 + M3
 - Diminished: m3 + m3
 - Augmented: M3 + M3
+
+Please note that when looking at the thirds contained in our four standard triads, *only* M3 and m3 intervals are used. By stacking those you can create a d5 or A5, but you will never use a d3 or A3.
 
 ## Triad inversions and their labels
 
@@ -171,7 +173,7 @@ As students develop the process for finding any inversion, they usually work thr
 - Attempt #3: - Closed voicings contain all chord members within one octave. 
     - This is almost there , but does not explain how a chord with more than four pitches can be in closed position.
 - Attempt #4: Open voicing skips one of the voices.
-  - This definition is almost there, but the term "voices" is problematic because "voices" does not relate directly to a chord.
+  - This definition is also very close, but the term "voices" is problematic because "voices" is used ambiguously and does not relate directly to a chord.
 
 A complete definition combines these ideas.
 - Closed voicing stacks all pitches of a chord in an ascending order and does not skip a chordal member.
