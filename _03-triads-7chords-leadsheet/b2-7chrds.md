@@ -4,7 +4,67 @@ title: Discussion 3b - Seventh Chords
 abc: true
 ---
 
-## Class Discussion
+## Class Discussion 
+
+Labeling Seventh Chords 
+
+- Major seventh: MM (Major Major)
+
+- Dominant seventh: Mm (Major Minor)
+
+- Minor seventh: mm (Minor Minor)
+
+- Half-diminished seventh: dm (Diminished Minor)
+
+- Fully-diminished seventh: dd (Diminished Minor)
+
+- The first letter is the quality of the triad, the second letter is interval from the root to the seventh.
+
+Inversion Figures for Seventh Chords
+
+- Root position: 7
+
+- First inversion: 6/5
+
+- Second inversion: 4/3
+
+- Third inversion: 4/2
+
+Leadsheet Notation 
+
+- Leadsheet notation is a system of labeling chords unrelated to the current key (unlike roman numeral analysis). A label linked to only the pitches used in a chord.
+
+- Each chord should have the letter name, quality of chord, seventh (if there is one), and inversion (if not in root position).
+
+Labeling chord qualities (A, M, m, d)
+
+- ALL CHORDS USE CAPITAL LETTERS, NOT JUST MAJOR CHORDS
+
+- Augmented triad: label "Aug" after chord letter name (or jsut "A")
+
+- Major triad: nothing extra after chord letter name
+
+- Minor triad: label "Min" after chord letter name 
+
+- Diminished triad: label "dim" or "d" after letter name
+
+Leadsheet Notation for Seventh Chords
+
+- Major seventh chord: "maj7", triangle, triangle with the seventh
+
+- Dominant seventh chord: just 7 after chord letter name and quality
+
+- Minor seventh chord: just 7 after chord letter and quality
+
+- Half-diminished seventh chord: circle with slash trhough it and 7 after letter and quality
+
+- Fully-diminished seventh chord: circle and 7 after letter and quality
+
+Labeling Inversions in Leadsheet Notation
+
+- To label inversions, put a diagonal slash after the chord symbol, then put the bass note under the slash. This is called a Slash Chord.
+
+## Class Discussion 2021
 
 The purpose of inversion figures is purely a shorthand to identify what note is in the bass.
 
