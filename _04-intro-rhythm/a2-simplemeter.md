@@ -3,7 +3,49 @@ layout: chapter
 title: Discussion 4a - Simple Meters
 ---
 
-## Class Discussion
+## Class Discussion 
+
+"What is meter?"
+
+- How we organize strong and weak pulses. Relating beats to the word pulse allows non-musicians to understand a beat.
+
+Hierarchy of rhythm:
+
+- Measure
+
+- Beat - primary pulses
+
+- Division - a division of a beat is the next simplest fraction (according to the type of meter).
+
+- Subdivision - a subdivision is half of the division.
+
+Labeling Meters
+
+- Duple, triple, and quadruple
+
+  - Duple meter is when the measure is divided into two strong beats.
+
+  - Triple meter is when the measure is divided into three strong beats.
+
+  - Quadruple meter is when the measure is divided into four strong beats.
+
+- Simple meter is when the beat is divided into two equal parts.
+
+- Compound meter is when the beat is divided into three equal parts.
+
+"What do time signatures mean?"
+
+- Top number: how many beats the measure is divided into in most cases (this breaks with some compound meters).
+
+- Bottom number: what note value gets the beat.
+
+"How do we count rhythm?"
+
+- The beats get counted with numbers. Divisions get counted with "ands". Subdivisions get either "e" or "a".
+
+- Simple quadruple time is counted "1 e and a 2 e and a 3 e and a 4 e and a".
+
+## Class Discussion 2021
 
 #### Fix mm. 5 in Common Examples of simple quadruple meters with correct beaming (4 la li).
 
