@@ -4,7 +4,7 @@ title: Lesson 4a - Simple Meters
 abc: true
 ---
 
-This text assumes that you are already familiar with the basics of rhythmic notation, so we will be skipping most of the basic rhythmic terminology. If you would like to learn about these terms (or review), I have included some materials from *Open Music Theory* in the [Further Reading]({{ site.baseurl }}/04-intro-rhythm/a2-simplemeter.html).
+This text assumes that you are already have a working knowledge of rhythmic notation, so we will only briefly discuss most of the basic rhythmic terminology. If you would like to explore the terminology further (or simply review), I have included some materials from *Open Music Theory* in the [Further Reading]({{ site.baseurl }}/04-intro-rhythm/a2-simplemeter.html).
 
 ## Rhythmic review
 
@@ -14,9 +14,9 @@ First, a few basic terms: *Meter* is the manner in which we organize strong and 
 - how we divide the meter into regular or irregular pulses called *beats*
 - how many of these *beats* are in the measure
 
-If we imagine meter as a hierarchy, the *measure* is the top level and *beats* are how we divide the measure. Beats are then divided into *divisions*, and *divisions* can be further divided into *subdivisions*. 
+If we imagine meter as a hierarchy, the *measure* is the top level and *beats* are the next level below. Beats are then divided into *divisions*, and *divisions* can be further divided into *subdivisions*. There is no further terminology below the subdivision, but you are welcome to affix "levels" to the term such as *first subdivision*, *second subdivision*, and so on.
 
-Finally, please note that meter is somewhat subjective and can be greatly altered by many factors, especially tempo. Where one listener might listen to a piece with four quarter-notes per measure and feel that the quarter notes are the beat, another listener may listen to the same piece and hear the beat in a slow two with the half-note as the beat.
+Finally, please note that meter is somewhat subjective and can be greatly altered by many factors, especially tempo. Where one listener might listen to a piece with four quarter-notes per measure and feel that the quarter notes are the beat, another listener may listen to the same piece and hear a slower tempo with the half-note as the beat.
 
 ## Simple meters
 
@@ -28,7 +28,6 @@ Using the following examples, determine:
 - the characteristic that all *simple* meters have in common
 - what the top and bottom numbers mean in a simple time signature
 - what *duple*, *triple*, and *quadruple* mean when describing a meter
-- "theoretically ideal" rhythmic notation of beaming in simple meters 
 - a list of common meters in *simple duple*, *simple triple*, and *simple quadruple*
 - the common beat-counting system that we'll be using in this course (written in the "Simple Quadruple" example)
 
@@ -70,17 +69,6 @@ w:1 2 3 4 & 2 & _ & 4 & a 1 _ & 3 e & a 4 & a
 [M:4/16][L:1/16] G G G G| z/2G/2 G/2G/2- G/2G/2 (3G/2G/2G/2|G- G/2G/2 G/4G/4G/4G/4 G/2G/4G/4||{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-{% capture ex4 %}X:4
-T:Some common beaming exceptions in simple meters
-M:4/4
-L:1/4
-K:C
-G/2G/2- G/2G/2 G G| G/2 G G/2 G G||
-w:Ideal| Common
-G- G/2G/2 G- G/2G/2| G>G G>G|]
-w:Ideal| Common|{% endcapture %}
-{% include abc-example.html number="4" abc=ex4 %}
-
 ## Conclusions
 
 This is always an interesting class discussion, because creating objective definitions depends on the students differentiating their opinions from the underlying principles of the concept.
@@ -99,11 +87,11 @@ When looking at the above examples, simple meters can be divided into collection
 - simple quadruple meter: 4
   - ex: 4/4, 4/2, 4/8, 4/16
 
-While this is correct for the meters above, it does not provide a definition of what these numbers mean. *These words--simple, triple, quadruple, and so on--are used to signify how many beats are in a measure.*
+*These words--simple, triple, quadruple, quintuple, and so on--are used to signify how many beats are in a measure.*
 
 ### Simple time signatures
 
-Most students correctly identify the function of the top and bottom numbers of the simple time signatures (but struggle with the same concept for compound meters). 
+In discussing simple time signatures, most students correctly identify the function of the top and bottom numbers of the simple time signatures (but struggle with the same concept for compound meters). 
 
 For simple meter time signatures:
 - the top number represents the number of beats in the measure
@@ -111,7 +99,7 @@ For simple meter time signatures:
   - if a 4 is on the bottom, the beat is represented by a quarter note
   - if an 8 is on the bottom, the beat is represented by an eighth note
 
-To easily figure out the bottom number's rhythmic value, I tell students to imagine that the bottom note becomes the denominator (lower number) of a fraction under a numerator of 1. A bottom number of 4 becomes 1/4--a quarter. A bottom number of 2 becomes 1/2--a half.
+To easily figure out the bottom number's rhythmic value, you can imagine that the bottom number becomes the denominator (lower number) of a fraction under a numerator (upper number) of 1. A bottom number of 4 becomes 1/4--a quarter. A bottom number of 2 becomes 1/2--a half. This method works for all simple meters.
   
 ### Beat-counting system in simple meters
 
@@ -124,11 +112,30 @@ While this system can blend together aurally if said quickly, its primary benefi
 
 ### Theoretically ideal rhythmic notation versus common practice
 
-The two examples above demonstrate something I term "theoretically ideal" rhythmic notation versus two counterparts of the same rhythm beamed in a more commonly used manner. For these:
-- *Theoretically ideal* rhythmic notation never hides a beat under a note length longer than the beat, and instead uses tied notes to represent longer note values.
-  - There are many common exceptions, most notably half notes and whole notes in relatively short measures, but this depends on the meter and context.
-  - Theoretically ideal *beaming* applies to any note length that can be connected by beams--eighth notes, sixteenth notes, and further subdivisions.
+Finally, we need to discuss the variations in which note values are used in simple meters, mostly stemming from centuries of published music. Most importantly, we want to distinguish between what will make music easier to read versus the accepted shortcuts that we often make in writing rhythms.
 
-This is very much inline with with this text's general intention. Well-engraved music is meant to look pleasing, but it also should be easy for a performer to read. This often leads to grouping rhythmic patterns according to non-rhythmic ideas: lyrics, spacing measures across the page, phrasing, a limited number of systems, etc. *Theoretically ideal* rhythmic notation would never obscure a beat in order to provide the easiest reading of harmony within a score. Of course, no musician will ever use this in its strictest form because it would become difficult to read in many situations; imagine not using a whole note in 4/4 time and instead using four tied quarter notes. 
+### Goals for this topic
+
+Use the following example to determine:
+- a definition for "theoretically ideal" rhythmic notation of beaming in simple meters 
+
+{% capture ex4 %}X:4
+T:Some common beaming exceptions in simple meters
+M:4/4
+L:1/4
+K:C
+G/2G/2- G/2G/2 G G| G/2 G G/2 G G||
+w:Ideal| Common
+G- G/2G/2 G- G/2G/2| G>G G>G|]
+w:Ideal| Common|{% endcapture %}
+{% include abc-example.html number="4" abc=ex4 %}
+
+
+The two examples above demonstrate something I term "theoretically ideal" rhythmic notation by comparing them to two counterparts of the same rhythm beamed in a more commonly used manner. For these:
+- *Theoretically ideal* rhythmic notation would never hide a beat under a note length longer than the beat, and instead uses tied notes to represent longer note values.
+
+Of course, this level of restrictive notation would never be used solely in published music. For example, half notes and whole notes are commonly used in 4/4, even though they *technically* obscure the beat. In less used meters that have smaller beat values such as 4/16 however, ideal beaming is more commonly employed to help readers deal with their unfamiliarity. A mental shortcut could therefore be to consider using ideal beaming in any meter in which the beat can be connected by beams--eighth notes, sixteenth notes, and further subdivisions.
+
+This is very much inline with with this text's general intention. Well-engraved music is meant to look pleasing, but it also should be easy for a performer to read. No musician will ever use this in its purest form because it would become difficult to read in many situations; imagine not using a whole note in 4/4 time and instead using four tied quarter notes. Adding further confusion to this concept is that there are many factors outside of the rhythm that may lead a composer or publisher to group rhythmic patterns according to non-rhythmic ideas: lyrics, spacing measures across the page, phrasing, a limited number of systems, etc. *Theoretically ideal* rhythmic notation would never obscure a beat in order to provide the easiest reading of harmony within a score. 
 
 That being said, it is important for students of music to begin trying to understand how grouping and beaming decisions are made, because in harmonic analysis, it is easy to sometimes miss voices because of obscured beats. It is also an excellent thought exercise to help students begin demonstrating mastery of meters and rhythmic values.
