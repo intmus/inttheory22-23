@@ -3,7 +3,19 @@ layout: chapter
 title: Discussion 4b - Compound Meters
 ---
 
-## Class discussion
+## Class Discussion 
+
+Compound Meter
+
+- A commpound meter is any meter where the beat is divided into 3 equal parts. 
+
+- In compound meter, the time signature works differently than in simple meter. The top number tells you the number of divisions in the measure. To find the number of beats in a measure of compound time, take the top number and divide it by three.
+
+Counting in Compound
+
+- The subdivisions of the beat are counted "1 to la ti li ti". 
+
+## Class Discussion 2021
 
 **What is a compound meter?**
 - Any regular meter where beats are divisible by 3. 
