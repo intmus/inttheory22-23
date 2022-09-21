@@ -16,10 +16,9 @@ Using the following examples, determine:
 - the defining characteristic of all *compound* meters
 - what the top and bottom numbers mean in a compound time signature
 - what *duple*, *triple*, and *quadruple* mean when describing a compound meter
-- "theoretically ideal" rhythmic notation (e.g. beaming) in compound meters 
 - a list of common meters in *compound duple*, *compound triple*, and *compound quadruple*
 - the common beat-counting system that we'll be using in this course (written in the "Compound Quadruple" example)
-- how to decide whether 3/4 (or 3/8, 3/16, etc.) is a simple or compound meter
+- "theoretically ideal" rhythmic notation (e.g. beaming) in compound meters
 
 {% capture ex1 %}X:1
 T:Common examples of compound duple meters with correct beaming
@@ -57,34 +56,6 @@ w:1 2 la li 3 li 4 & 1 to la ta li ti 2 to la li ti 3 to ta ti 4 la li
 [M:12/16][L:1/16] G3 GGG G2G (2GG|G/2G/2G/2G/2G/2G/2 G/2G/2GG/2G/2 G/2GGG/2 GGG||
 [M:12/32][L:1/32] G3 GGG G2G (2GG|G/2G/2G/2G/2G/2G/2 G/2G/2GG/2G/2 G/2GGG/2 GGG||{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
-
-### The problem with 3
-
-Use the MIDI player to listen to the following two examples. Even though they are identical excerpts, one thing has been altered in the second example. What was altered, and does it change your perception of whether the tune is simple or compound? Provide your final classifications for both examples.
-
-{% capture ex4 %}X:4
-T:Amelia's Waltz
-M:3/4
-K:D
-Q:1/4=100
-L:1/8
-A,|"D"D3 E D2|"D"D2 F3 E|"Bm"D2 F2 BF|"F#m"A3 F A2|\
-"G"B2 G3 B|"D"A2 F3 E|"Bm"D2 B,3 A,|"G"B,4 A,2 |
-"D"D3 E D2|"D"D2 F3 E|"Bm"D2 F2 BF|"F#m"A3 F A2|\
-"G"B3 c d2|"G"d2 e2 f2|"A"e2 B2 c2| "D"d6 ||{% endcapture %}
-{% include abc-example.html number="4" abc=ex4 %}
-
-{% capture ex5 %}X:5
-T:Amelia's Waltz
-M:3/4
-K:D
-Q:1/4=180
-L:1/8
-A,|"D"D3 E D2|"D"D2 F3 E|"Bm"D2 F2 BF|"F#m"A3 F A2|\
-"G"B2 G3 B|"D"A2 F3 E|"Bm"D2 B,3 A,|"G"B,4 A,2 |
-"D"D3 E D2|"D"D2 F3 E|"Bm"D2 F2 BF|"F#m"A3 F A2|\
-"G"B3 c d2|"G"d2 e2 f2|"A"e2 B2 c2| "D"d6 ||{% endcapture %}
-{% include abc-example.html number="5" abc=ex5 %}
 
 ## Conclusions
 
@@ -134,6 +105,39 @@ As with simple meters, there are various systems for counting beats and their di
 The problem with both of these systems is that there is not a unique syllable for each subdivsion. Generally speaking, students are asked to insert "ta" between each of the division syllables creating 1-ta-la-ta-li-ta. This is adequate for practice aloud, but it is poor for specificity because there are three 'ta' syllables in each beat. For our class, we use:
 1-to-la-ta-li-ti 
 
-## Meters that have a '3' as the top number of the time signature
+## The problem with 3
+
+### Goals for this topic
+
+Using the following examples, determine:
+- how to decide whether 3/4 (or 3/8, 3/16, etc.) is a simple or compound meter
+
+Use the MIDI player to listen to the following two examples. Even though they are identical excerpts, one thing has been altered in the second example. What was altered, and does it change your perception of whether the tune is simple or compound? Provide your final classifications for both examples.
+
+{% capture ex4 %}X:4
+T:Amelia's Waltz
+M:3/4
+K:D
+Q:1/4=100
+L:1/8
+A,|"D"D3 E D2|"D"D2 F3 E|"Bm"D2 F2 BF|"F#m"A3 F A2|\
+"G"B2 G3 B|"D"A2 F3 E|"Bm"D2 B,3 A,|"G"B,4 A,2 |
+"D"D3 E D2|"D"D2 F3 E|"Bm"D2 F2 BF|"F#m"A3 F A2|\
+"G"B3 c d2|"G"d2 e2 f2|"A"e2 B2 c2| "D"d6 ||{% endcapture %}
+{% include abc-example.html number="4" abc=ex4 %}
+
+{% capture ex5 %}X:5
+T:Amelia's Waltz
+M:3/4
+K:D
+Q:1/4=180
+L:1/8
+A,|"D"D3 E D2|"D"D2 F3 E|"Bm"D2 F2 BF|"F#m"A3 F A2|\
+"G"B2 G3 B|"D"A2 F3 E|"Bm"D2 B,3 A,|"G"B,4 A,2 |
+"D"D3 E D2|"D"D2 F3 E|"Bm"D2 F2 BF|"F#m"A3 F A2|\
+"G"B3 c d2|"G"d2 e2 f2|"A"e2 B2 c2| "D"d6 ||{% endcapture %}
+{% include abc-example.html number="5" abc=ex5 %}
+
+## Conclusions
 
 After listening the two examples in 3/4, it is easy to identify that the two examples were identical except for the tempo. In the slower example, you will likely hear it in a simple triple meter with the quarter note as the beat. For the faster example, most instead hear this as a fast compound single meter with the dotted half note as the beat. Meters such as 3/8, 3/4, and 3/2 are all dependent on tempo as to whether they are a compound or simple meter. While a good rule of thumb is to consider these meters as simple until you have listened to the piece at tempo, 3/8 meters are commonly fast and conducted in one. Make sure to look at the tempo if determining a meter's classification when only looking at the score.
