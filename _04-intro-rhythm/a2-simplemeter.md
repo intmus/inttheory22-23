@@ -45,6 +45,8 @@ Labeling Meters
 
 - Simple quadruple time is counted "1 e and a 2 e and a 3 e and a 4 e and a".
 
+In Ideal music notation, every beat is shown. There are often implifications to have less ties.
+
 ## Class Discussion 2021
 
 #### Fix mm. 5 in Common Examples of simple quadruple meters with correct beaming (4 la li).
