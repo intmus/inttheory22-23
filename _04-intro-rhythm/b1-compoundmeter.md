@@ -107,6 +107,8 @@ The problem with both of these systems is that there is not a unique syllable fo
 
 ## The problem with 3
 
+The final issue to explore before we leave our discussion of meter classifications is the subjectivity and listener perception in determining any meter.
+
 ### Goals for this topic
 
 Using the following examples, determine:
