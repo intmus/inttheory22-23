@@ -15,6 +15,8 @@ Counting in Compound
 
 - The subdivisions of the beat are counted "1 to la ti li ti". 
 
+When determining whether something is simple or compound, it is important to consider the tempo of the piece. For example, a piece could be in simple triple or compound triple depending on how fast it is conducted.
+
 ## Class Discussion 2021
 
 **What is a compound meter?**
