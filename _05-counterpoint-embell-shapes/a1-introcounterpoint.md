@@ -4,9 +4,9 @@ title: Lesson 5a - Introduction to Counterpoint
 abc: true
 ---
 
-Before you begin, please remember that this unit is not meant to be a formal introduction to counterpoint. Because this is primarily a tonal harmony course, we are briefly dipping into the study of counterpoint to introduce voice-leading in its simplest form. I highly encourage you to study counterpoint fully at a later time (if you have not already), because it will change for the better the the manner in which you listen to, study, and perform music.
+Before you begin, please remember that this unit is not meant to be a formal introduction to counterpoint. Because this is primarily a tonal harmony course, we are briefly dipping into the study of counterpoint to introduce voice-leading in its simplest form. I highly encourage you to study counterpoint in more depth at a later time (if you have not already), because it will change the manner in which you listen to, study, and perform music.
 
-To begin studying basic counterpoint, we need to establish the fundamental concepts of intervallic consonance, intervallic dissonance, and the types of contrapuntal motion.
+To understand counterpoint, we need to establish the fundamental concepts of intervallic consonance, intervallic dissonance, and the types of contrapuntal motion.
 
 ## Goals for this topic
 
@@ -78,7 +78,6 @@ Consonant and Dissonant Intervals:
     - Perfect 5ths
     - Perfect Octave
     - Perfect Unison
-    - (The perfect 4th was mentioned, but it was not in the examples.)
 
 - Imperfect Consonance:
     - Major 3rd
@@ -90,13 +89,13 @@ Consonant and Dissonant Intervals:
     - All other intervals, but the most common are:
         - Major 2nd
         - Minor 2nd
-        - Perfect 4th
+        - **Perfect 4th**
         - Augmented 4th
         - Diminished 5th
         - Major 7th
         - Minor 7th
     
-Students familiar with modern music are often surprised to find that a perfect 4th is considered dissonant in this style. The first thing to understand is that the terms *consonant* and *dissonant* are subjective terms that are determined within a style. In this case, a perfect 4th undermines the melodic structure of tonality because it implies a weak inversion. Complete understanding of this idea requires a deeper knowledge of counterpoint and implied harmony, so at this point, I ask that you file this away for us to discuss when we get to tonal implications and usage of second inversion chords in Unit 7.
+Students familiar with modern music are often surprised to find that a perfect 4th is considered dissonant in this style. The first thing to understand is that the terms *consonant* and *dissonant* are subjective terms that are determined within a style. In this case, a perfect 4th undermines the melodic structure of tonality because, when used melodically, it implies a different tonic. Complete understanding of this idea requires a deeper knowledge of counterpoint and implied harmony, so at this point, I ask that you file this away for us to discuss when we get to tonal implications and usage of second inversion chords in Unit 7.
 
 ### Contrapuntal motion
 
