@@ -20,7 +20,7 @@ When music theorists want to discuss diatonic (key-based) function, we label cho
 ## Goals for this topic
 
 Using the examples below, determine:
-- what are the diatonic qualities of all triads in seventh chords in major and minor
+- what are the diatonic qualities of all triads and seventh chords in major and minor
   - If we consider these examples to be "diatonic", does every quality occur naturally or do some require accidentals?
   - What is the relationship between chords in major and minor?
 - how Roman numerals are created and labeled
