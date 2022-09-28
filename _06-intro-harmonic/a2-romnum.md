@@ -3,7 +3,31 @@ layout: chapter
 title: Discussion 6a - Roman Numerals in Harmonic Analysis
 ---
 
-# Class discussion
+"What chord qualities are the same in major and minor?"
+
+- In order for a piece of music to function as it normally does in western music, we must have the leading tone. Therefore, we assume minor is harmonic minor.
+
+- The five chords are both major, in order to be dominant.
+
+- The chord built on the seventh scale degree are both diminished.
+
+- The vii/o7 chord in Major becomes the iio/7 in minor.
+
+- A fully diminished seventh chord can only exist when built on the leading tone in harmonic minor.
+
+"How do we alter chords in roman numberal analysis?"
+
+- Alter the root by putting a flat or sharp **in front** of the note. **To have a chord built on the natural seventh in minor (Te), you must put a flat before the roman numeral.******
+
+- To alter the third, change the case of the letter of the roman numeral. A chord with a major third has capitol letters (IV) and chords with a minor third have lowercase letters (iv).
+
+- To alter the fifth, put a diminished or augmented sign after roman numeral. When no alteration is present, it is assumed that the fifth is a perfect fifth away from the root.
+
+- When no alteration is present, it is assumed that the seventh of a chord is a minor seventh away from the root. To make a major seventh chord, put a capitol M in front of the seven. A half diminished chord is assumed to have a diminished triad and a minor seventh.
+
+- When a seventh chord is inverted, you do not need to put "7" after the roman numeral. The inversion figure (6/5, 4/3, 4/2) implied a minor seventh from the root.
+
+# Class discussion 2021
 
 *Note that the seventh dimnished chord and major V in **minor** needs the leading tone (ti) in diatonic harmony.*
 
