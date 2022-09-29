@@ -59,20 +59,23 @@ Note that the `X:` field is a place-holder necessary for the website implementat
 
 The body contains the actual musical notes as well as bar lines and repeats.
 - Note names are entered as letter names.
-- To add an accidental,
-    - Put a `^` before the letter to raise the pitch. (F-sharp is written `^F`)
-    - Put a `_` before the letter to lower the pitch. (E-flat is written `_E`)
+- Accidentals:
+    - Put a `^` before the letter to add a sharp to the pitch. (F-sharp is written `^F`)
+      - Add two `^` for a double-sharp. `^^`
+    - Put a `_` before the letter to add a flat to the pitch. (E-flat is written `_E`)
+      - Add two `_` for a double-flat. `__`
+    - Put a `=` before the letter to add a natural to the pitch (E-natural is written `=E`)
 - Octaves of pitches are determined by two factors:
     - An upper-case `C` denotes C4 (middle C), and a lower-case `c` denotes C5.
     - To alter these in either direction, you can add an apostrophe `'` after the letter to raise it an octave, or you can add a comma `,` after a letter to lower it an octave.
-        - The simplest way to get C3 is to add a comma after an upper-case "C" - `C,`
-        - You could also write C3 by adding two commas to a lower-case "C" - `c,,`
-        - The simplest way to notate C6 is a lower-case "c" with an apostrophe - `c'` - but you could also write it by affixing two apostrophes after an upper-case "C" - `C''`
+      - The simplest way to get C3 is to add a comma after an upper-case "C" - `C,`
+      - You could also write C3 by adding two commas to a lower-case "C" - `c,,`
+      - The simplest way to notate C6 is a lower-case "c" with an apostrophe - `c'` - but you could also write it by affixing two apostrophes after an upper-case "C" - `C''`
 - Rhythms and note length
     - In your header, you will set a default note length with the command L.
-        - If you set a default note length of a quarter note `L: 1/4` in your header, all pitches will default to a quarter note length.
+      - If you set a default note length of a quarter note `L: 1/4` in your header, all pitches will default to a quarter note length.
     - To lengthen a note, add a number **after** the pitch name and the editor will multiply your note length by that amount.
-        - If you set a default note length of a quarter note `L: 1/4` in your header, but would like a half-note, you only need to add a `2` after a note name. If you add a `3`, you will get a dotted half-note. If you add a `4` after a note name, you will get a whole note. Etc.
+      - If you set a default note length of a quarter note `L: 1/4` in your header, but would like a half-note, you only need to add a `2` after a note name. If you add a `3`, you will get a dotted half-note. If you add a `4` after a note name, you will get a whole note. Etc.
     - To shorten a note, add a back-slash and a number **after** the pitch name and the editor will divde your note length by that amount.
         - If you set a default note length of a quarter note `L: 1/4` in your header, but would like an eighth-note, you only need to add a `/2` after a note name. If you add a `/4` after a note name, you will get a sixteenth-note. Etc.
 - Beaming is controlled by adding or subtracting spaces between notes.
