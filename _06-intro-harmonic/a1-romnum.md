@@ -49,13 +49,13 @@ w:i7 ii\/o7 IIIM7 iv7 V7 VIM7 viio7 i7{% endcapture %}
 
 {% capture ex2 %}X:2
 T:Altering Roman numerals for non-diatonic chord qualities
-T:(Each of these examples is in the key of C.)
+T:(Note that the final measure is in the key of D-flat major.)
 M:4/4
 L:1
 K:C
 V:1
-[Ace]| [A^ce]| [_Ac_e]| [Aceg]| [_Ac_eg]| [^D^F^A]|
-w:  vi VI bVI vi7 bVIM7 #ii{% endcapture %}
+[Ace]| [A^ce]| [_Ac_e]| [Aceg]| [_Ac_eg]| [K:Db] [=E=G=B]|
+w:  C:vi VI bVI vi7 bVIM7 Db:#ii{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 {% capture ex3 %}X:3
