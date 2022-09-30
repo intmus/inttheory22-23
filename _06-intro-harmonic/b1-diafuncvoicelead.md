@@ -9,7 +9,7 @@ If we think back on our progression through the course thus far, we began by stu
 Therefore, we can use a simple counterpoint exercise to begin determining how harmony functions, because harmony is defined by the melodic tendencies of certain pitches within a diatonic scale.
 
 ## Implied harmony in two parts
-<!-- When doing the following example, make sure that the class understands that each measure has the same two harmonies. It won't make sense to them otherwise. -->
+<!-- When doing the following example, make sure that the class understands that each measure has the same two harmonies. It won't make sense to them otherwise. Also, after having listened to this once through and discussed the key and implied function with them, point out how they hear the first measure as having a major chord on the second beat even though there is no third or fifth. You can prove this to them by changing all of the Es to Ebs and then have them listen to it in minor. When you play the first measure again, they will now hear the second beat as having a minor third instead of a major third even though it's not there either time.-->
 
 **Each measure of the next example implies the same two harmonies repeatedly--one on the first half note and the second on the second half note.**
 - Which two harmonies do you think these measures imply? 
