@@ -3,6 +3,8 @@ layout: chapter
 title: Discussion 6a - Roman Numerals in Harmonic Analysis
 ---
 
+Roman numeral analysis allows us to label chords in relation to the current key. The roman numerals (I, ii, iii, IV, V, vi, viio) reffer scale degree a chord is built on compared to the current tonic. 
+
 "What chord qualities are the same in major and minor?"
 
 - In order for a piece of music to function as it normally does in western music, we must have the leading tone. Therefore, we assume minor is harmonic minor.
