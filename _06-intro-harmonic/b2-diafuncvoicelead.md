@@ -3,7 +3,25 @@ layout: chapter
 title: Discussion 6b - Establishing Diatonic Function through Voice Leading
 ---
 
-## Class discussion
+## Class Discussion
+
+"Why do chords have a certain pull?"
+
+- A V7 chord pulls to a I chord for many reasons. A chord will often have a pull to the chord whos root is a perfect fifth away (vi to ii, ii to V, V to I). The third of a V chord is the leading tone, and wants to resolve to the tonic. The seventh of a V7 chord resolves down to the third of the tonic. All of these tones in the V7 chord pull to the tonic.
+
+"What is Chord Function?"
+
+- Primary functions - Tonic, Dominant, and Pre-dominant
+
+- Tonic - A tonic functioning chord is "home base". Stable in the current key. The I chord is tonic.
+
+- Dominant - A dominant functioning chord wants to move to the tonic. The V (V7) and viio (viio7) chords are dominant.
+
+- Pre-dominant - A pre-dominant functioning chord sets up a dominant chord (pulls to the dominant). IV and ii chords are pre-dominant.
+
+When the roots of the chords in a progression have move in descending fifths, it is called a "circle of fifths progression".
+
+## Class discussion 2021
 
 **Implied Harmony in Two Parts**
 - You hear a V7 chord but only have the root. Why?
