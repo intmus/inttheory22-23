@@ -42,13 +42,21 @@ This is *harmonic function*. A chord's function is a way of describing how it wo
 
 ## Harmonic functions in diatonic music
 
-In diatonic music, there are three basic categories of harmonic function: *tonic*, *dominant*, and *pre-dominant*. 
+In this course, we will use a break harmonic function into three categories:
+- *Primary* function
+  - The foundation of creating tension and release in our tonal system. Every musical phrase must have chords that function in this category.
+- *Secondary* function (Units 14 and 15)
+  - These chords *borrow* primary function from a secondary key. 
+- *Tertiary* function (Unit 11)
+  - These chords *extend* the function of primary function chords.
+
+For now, we will only focus on primary function chords. **Primary function** harmonies can be divided into three categories: *tonic*, *dominant*, and *pre-dominant*. 
 - *Tonic* (**T**) harmonies feel stable and final.
   - This is primarily the I chord, but in some circumstances, this can include the vi chord.
 - *Dominant* (**D**) harmonies are strong but unstable. They have a strong tonal gravity pulling toward a *tonic* harmony
-  - This includes the V and vii<sup>o</sup> chords.
+  - This V and vii<sup>o</sup> chords are the most common dominant harmonies.
 - *Pre-dominant* (**P**) harmonies are weak and unstable. Their tonal gravity pulls them toward *dominant* harmonies.
-  - This includes the ii and IV chords, but can occasionally include the vi chord.
+  - For our early discussions, you may consider this to be a broad category that includes all chords that do not function as either tonic or dominant. The most commonly used pre-dominant harmonies are ii, IV, and vi.  
   - Note that there is a difference between the words "pre-dominant" and "predominant".
 
 ### Some caveats on making assumptions based on this exercise
