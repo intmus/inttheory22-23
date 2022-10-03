@@ -5,9 +5,9 @@ abc: true
 ---
 <!-- Before teaching this lesson, make sure that they have attempted to resolve V7 to I in two voices in their previous homework as part of 6b. You can then use their findings from how the members of the V7 chord resolve to the I chord to move through this discussion more quickly. -->
 
-We now have the analytical foundation and tools to begin studying harmonic *function*--how and why a chord works with other chords to build tonality. In this lesson, we will derive the basic aspects of function by combining two major concepts from previous units:
-1. As shown in the two-part examples in [Unit 6b]({{ site.baseurl }}/06-intro-harmonic/b1-diafuncvoicelead.html), the progression from V<sup>7</sup> to I creates a strong and natural sense of resolution. There are many reasons we hear this progression as a strong cadence, but perhaps the strongest reason is the voice-leading between the V<sup>7</sup> and I chords--meaning the way in which individual pitches naturally pull toward each other. 
-2. When written as a scale, diatonic collections are simply a sequence of five whole steps and two half-steps--the major scale, for example, is W-W-H-W-W-W-H--but as we determined in [Unit 2c]({{ site.baseurl }}/02-int-scales-keys/d1-keys.html), you can find all seven pitches in the diatonic collection by altering a a single half-step in a circle-of-fifths. This alteration changes one of the P5 intervals to a d5, and it is these two pitches within the diatonic collection, `ti` and `fa`, that establish the voice leading that pulls V<sup>7</sup> to I and therefore around which tonal harmony is constructed.
+We now have the analytical foundation and tools to begin studying harmonic *function*--how and why a chord works with other chords to build tonality. In this lesson, we will derive the basic aspects of function by studying how two major concepts from previous units are related:
+1. *Scalar tendencies* - When written as a scale, diatonic collections are a sequence of five whole steps and two half-steps--the major scale, for example, is W-W-H-W-W-W-H--as shown in [Unit 2c]({{ site.baseurl }}/02-int-scales-keys/d1-keys.html). The inherent tension in the scale comes from the two half-steps, and we studied this by demonstrating that altering a single interval in a circle-of-fifths--more specifically, changing any of the P5 intervals to a d5--will always create a smaller cycle through seven diatonic pitches. This specific alteration creates the variation necessary for a diatonic collection, establishing `ti` and `fa`, and consequently creating the two scalar tendenices necessary for dominant and tonic  function.
+2. *Voice-leading* - As shown in the two-part examples in [Unit 6b]({{ site.baseurl }}/06-intro-harmonic/b1-diafuncvoicelead.html), the progression from V<sup>7</sup> to I creates a strong and natural sense of resolution. There are many reasons we hear this progression as a strong cadence, but perhaps the strongest reason is the voice-leading between the V<sup>7</sup> and I chords--meaning the way in which individual pitches naturally pull toward each other. 
 
 As a side note, the significance of cultural conditioning cannot be overlooked. A person who grows up listening to *any* style of music will be conditioned to hear the tendencies used in that music as a natural progression, and this holds true for those raised around music descended from the diatonic tradition. This does not change the importance of voice-leading in forming these progressions, but it is worth remembering the difference between laws, rules, and strategies discussed in the first reading from Unit 6.
 
@@ -15,7 +15,7 @@ The examples below demonstrate how these half-steps create this the foundation o
 
 ## Goals for this topic
 
-The next five examples are meant to expose the logic behind the voice-leading of standard diatonic harmonies. To use these, study each example before moving on to the next and form a hypothesis regarding the voice leading (which chord tones resolve or pull to other chord tones). Once you have developed a theory as to how and why the progression works, move to the next example to see if your hypothesis can be applied. If it cannot, alter your hypothesis to account for both examples. Continue this way until you have found voice-leading rules that apply to all of the examples.
+The next five examples will help you begin creating the logic behind the voice-leading of standard diatonic harmonies. To use these, study each example before moving on to the next and form a hypothesis regarding the voice leading--i.e. which chord tones resolve or pull to other chord tones. Once you have developed a theory as to how and why the progression works, move to the next instruction to see if your hypothesis can be applied to create the next idealized harmony. If it cannot, alter your hypothesis to account for both examples. Continue this way until you have found voice-leading rules that account for all of the examples.
 
 **This example has two idealized progressions of a V chord resolving to a I chord: one as triads and the other with a seventh chord.** 
 - Study how each voice resolves. 
@@ -109,9 +109,9 @@ In this common progression, the bass voice moves `fa` to `sol`, and it sounds ac
 
 So instead, you must base your general rules around *chordal members* and their resolutions, rather than scale degrees and their resolutions. Specifically:
 - For chords that have roots separated by a P5:
-    - The *seventh* of the first chord resolves to the *third* of the second chord.
-    - the *third* of the first chord resolves to the *root* of the second chord.
-    - If both chords are in root position, the bass voice moves from the *root* of the first chord to the *root* of the next chord.
+  - The *third* of the first chord resolves to the *root* of the second chord.
+  - The *seventh* of the first chord, if present, resolves to the *third* of the second chord.
+  - If both chords are in root position, the bass voice moves from the *root* of the first chord to the *root* of the next chord.
 
 Before moving on, take a moment to check these rules against the finished example from above, copied below for your convenience.
 
@@ -134,7 +134,7 @@ You can also alter this example to include seventh chords in order to apply the 
 
 **Beyond the iii chord, the voice-leading runs into an issue with harmonic function. While it is possible to continue this pattern through these two chords, in tonal harmony, the IV and vii<sup>o</sup> chords actually function most often as if they are extensions of the ii<sup>7</sup> and V<sup>7</sup> chords respectively. Look at the following example to see voice-leading using both of these chords. The first measure uses the ii<sup>7</sup> and V<sup>7</sup> chords as part of a diatonic progression, but the second progression substitutes the IV for the ii<sup>7</sup> chord and the vii<sup>o</sup> chord for the V<sup>7</sup> chord. After looking at this example, explain why IV and vii<sup>o</sup> function similarly to ii<sup>7</sup> and V<sup>7</sup>.**
 
-*Please note that to demonstrate how closely related these chords are, many voice-leading rules of common practice harmony are broken in this example--most notably the parallel octaves between the soprano and bass between vii<sup>o</sup> and I. This is for demonstration purposes only, do not assume that this is good voice-leading for IV or vii<sup>o</sup>. We will discuss the rules of voice-leading in this style when we study part-writing in Units 10 and 11.*
+*Please note that to demonstrate how closely related these chords are, many voice-leading rules of common practice harmony are broken in this example--most notably the parallel octaves between the soprano and bass between vii<sup>o</sup> and I. This is for demonstration purposes only, do not assume that this is standard voice-leading for IV or vii<sup>o</sup>. We will discuss the rules of voice-leading in this style when we study part-writing in Units 10 and 11.*
 
 {% capture ex5 %}X:5
 T:Adding the IV and viio chords
