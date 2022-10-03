@@ -4,7 +4,29 @@ title: Discussion 7a - Using Voice-leading to Create a Harmonic Progression
 abc: true
 ---
 
-# Class discussion
+## Class Discussion
+
+"What rules can we apply to voiceleading so make sure all voices are moving correctly in a circle of fiths progression?"
+
+- The roo is the mostikely tone to be doubled.
+
+- The root of a chord can often stay the same and become the fifth of the next chord.
+
+- The third of a a chord resolves up by step to the root of the next chord.
+
+- The fifth of a chord can resolve down to the root of the next chord.
+
+- The bass voice can move in larger leaps. For now, it will stay on the root.
+
+More Rules
+
+- You can omit the fifth from any chord if smooth voiceleading allows. 
+
+- Never omit the third or the root of a chord.
+
+- When you have a V7 moving to a I chord in root position, it is better to omit the fifth in th I chord to make sure all voices are present and voiceleading is smooth.
+
+## Class discussion 2021
 
 **Tendency tones**
 - Root in bass goes to root of next chord
