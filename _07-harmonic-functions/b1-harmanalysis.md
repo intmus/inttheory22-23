@@ -20,21 +20,16 @@ As we progress through the examples below, we will develop a process for analyzi
 **Study the following chorale, and provide a Roman numeral and inversion figure below every new harmony. As you go through this process, keep track of the questions that you solve as well as what makes this difficult. Start by looking at the big picture, and do not get bogged down in trying to figure out every pitch and chord at first glance. If you get stuck, keep moving and return to the difficult sections after you have a feel for the piece as a whole. You should also consider starting with leadsheet notation until you are confident of the key of the piece; you can then return to add Roman numerals once you have more context.**
 
 {% capture ex1 %}X:1
-T:Old hundredth psalm
+T:Brahms-inspired chorale
+T:Altered from “Die Wollust in den Maien”, WoO 34 no. 11
 M:4/4
 L:1/4
 Q:1/4=80
 K:G
 V:1
-[GD]| [GD] [FD] [EB,] [DD]| [GB,] [AD] H[BD]
-[BD]| [BD] [BG] [AF] [GG]| [cG] [BG] H[AF]
-[GG]| [AF] [GB] [AF] [DG]| [EE] [FC] H[GB,]
-[dD]| [BD] [GG] [AF] [cA]| [GB] [AF] H[GG]|| [G4C4]| [G4B,4]|]
+[G/2D][B/2G]| [dG] [dG][eG] [dG] [cG]| [BG] [AF] [BG] [dG]| [c2E] [A2F]| [G4]|]
 V:2 clef=bass
-[G,B,]| [G,B,] [A,D,] [E,G,] [B,,G,]| [E,G,] [D,F,] H[G,G,,]
-[G,G,]| [G,G,] [G,D] [DD,] [E,B,]| [C,E] [G,,D] H[DD,]
-[E,B,]| [D,D] [G,D] [D,D] [B,,G]| [C,G,] [D,A,] H[G,E,]
-[G,B,]| [G,G,] [E,B,] [D,D] [A,,E]| [D/2B,,/2]-[D/2C,/2] [D/2D,/2]-[C/2D,/2] H[G,,B,]|| [C,4E,4]| [G,,4D,4]|]{% endcapture %}
+[G,B,]| [G,B,] [G,B,][C,C] [G,B,] [EC,]| [DG,]| [DD,] [DG,] [DB,,]| [G,2C,] [C2D,]| [B,4G,,]|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 ### Conclusions
