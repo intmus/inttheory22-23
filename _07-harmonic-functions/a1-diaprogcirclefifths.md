@@ -165,12 +165,12 @@ Using just this flowchart, you can build basic chordal progressions for a given 
 ## Adding in Exceptions
 
 There are a few common exceptions that should be added to this progression flowchart. We will discuss how these are used as we work through their appropriate topics (e.g. cadences, chordal substitutions), but for now, please add them to your list of possible progressions.
-- chords that have the same function can move to each other
+- *lateral progressions* - chords that have the same function can move to each other
     - V can move to vii<sup>o</sup>, and vii<sup>o</sup> can move to V
     - ii can move to IV, and IV can move to ii.
-- V can move to vi 
-    - This is most commonly used at the end of a phrase. In this case, vi is "replacing" a I chord and assuming a tonic function, so it must be used  and voice carefully. See [Unit 7c]({{ site.baseurl }}/07-harmonic-functions/c1-cadences.html) (later in this unit) for a full explanation of cadences.
-- IV can go to I
+- *deceptive progressions* - V can move to vi 
+    - This is most commonly used at the end of a phrase. In this case, vi is "replacing" a I chord and assuming a tonic function, so it must be used  and voice carefully. See [Unit 8a]({{ site.baseurl }}/08-cadences-phrasing/a1-cadences.html) for a full explanation of cadences.
+- *plagal progressions* - IV can go to I
     - This is most commonly used at the end of a phrase, and in this case, IV is "replacing" the V chord. This is another cadence, so it must be prepared properly. It is better to avoid using this progression in the middle of a phrase, so in your early attempts at part-writing, do not attempt to use this.
 - UNCOMMON: vi can move to V
     - There are instances where vi will move to V, but in these cases, it is best to think of the vi chord as taking on a tonic function. In your early part-writing, do not use this progression, because like V moving to vi--a much more common progression--this progression is likely to result in poor voice-leading.
