@@ -26,6 +26,18 @@ More Rules
 
 - When you have a V7 moving to a I chord in root position, it is better to omit the fifth in th I chord to make sure all voices are present and voiceleading is smooth.
 
+Motion Between Two Voices
+
+- Static motion is when both voices stay the same from one chord to the next.
+
+- Oblique motion is when one voice moves and the other stays the same.
+
+- Parrallel motion is when both voices move with the same interval size and the same direction.
+
+- Similar motion is when both voices move in the same way with a different interval size (or quality).
+
+- Contrary motion is when both voies move in opposite directions. This could be when both voices move closer to eachother, or further away.
+
 ## Class discussion 2021
 
 **Tendency tones**
