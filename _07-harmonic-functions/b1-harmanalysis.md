@@ -65,16 +65,18 @@ The chorale has a few incomplete chords, such as the downbeat of measure 3 and t
 Let's examine the downbeat of measure 3. First, ask yourself what are all of the possible diatonic chords in the key of G major that contain both C and E? Those pitches would be the:
 - root and third of the IV chord
 - third and fifth of the ii chord
-- fifth and seventh of the vii<sup>&slasho;7</sup>
+- fifth and seventh of the vii<sup>&oslash;7</sup>
 
-music theorists use a number of tools, most of which are designed to look at contextual clues and draw conclusions based on their general knowledge. We created one of these tools in Unit 7a with the diatonic harmony flowchart.
+With these options, we can look at which pitches are prioritized to see which of our three possibilities is most likely. We have already discussed that the root is the most likely chord tone to be doubled, and in this case the C is tripled. This strongly implies that the C is the root of the chord which would make this a IV chord. 
+
+To double check that assumption, we can refer to the standard chord progression chart that we built in the last topic (and copied below) against the *function* of a possible IV chord in the context of chords on either side of it. We know that a pre-dominant chord would fit well between the tonic and dominant chords in this spot, because a I chord can resolve to any chord, and a IV chord moves well to a V chord.
 
 | (*unnamed*) | (*unnamed*) | pre-dominant | dominant | tonic |
 --- | --- | --- | --- | --- |
 | iii | vi | ii | V | I |
 | | | IV | vii<sup>o</sup> | |
 
-By employing the progressions from this flowchart, a theorist can look at a given harmony and decide which pitches support a harmonic progression that is *likely* to be heard by a listener, even if those tones are not present.
+By employing a knowledge of standard progressions, a theorist can look at a given harmony and decide which pitches support a harmonic progression that is *likely* to be heard by a listener, even if those tones are not present.
 
 ## Embellishments
 
