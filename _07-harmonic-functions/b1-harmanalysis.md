@@ -15,7 +15,7 @@ Regardless of the complexity or era of a composition, if a theorist can answer t
 
 ## A first attempt at harmonic analysis
 
-As we progress through the examples below, we will develop a process for analyzing a piece of tonal music. Students often think that "analyzing" a piece of music simply involves identifying and labeling a bunch of chords, but as you move through this, be aware that *the goal of harmonic analysis is to explain how the listener hears the music*. While the first step is identifying harmonies, it is far more involved than that, so as you move past the first step of identifying chords, I encourage you to make a list of all the questions and decisions that you encounter as you work. 
+As we progress through the example below, we will develop a process for analyzing a piece of tonal music. Students often think that "analyzing" a piece of music simply involves identifying and labeling each chord, but if that were the case, we should just use  Roman numerals help us to provide context--otherwise, it would be  be aware that *the goal of harmonic analysis is to explain how the listener hears the music*. While the first step is identifying structure of the harmony, it is far more involved than that, so as you move past the first step of identifying chords, I encourage you to make a list of all the questions and decisions that you encounter as you work. 
 
 **Study the following chorale, and provide a Roman numeral and inversion figure below every new harmony. As you go through this process, keep track of the questions that you solve as well as what makes this difficult. Start by looking at the big picture, and do not get bogged down in trying to figure out every pitch and chord at first glance. If you get stuck, keep moving and return to the difficult sections after you have a feel for the piece as a whole. You should also consider starting with leadsheet notation until you are confident of the key of the piece; you can then return to add Roman numerals once you have more context.**
 
@@ -27,9 +27,9 @@ L:1/4
 Q:1/4=80
 K:G
 V:1
-[G/2D][B/2G]| [dG] [dG][eG] [dG] [cG]| [BG] [AF] [BG] [dG]| [c2E] [A2F]| [G4]|]
+[G/2D][B/2G]| [dG] [eG] [dF] [cF]| [BG] [AF] [BG] [dG]| [c2E] [A2F]| [G4]|]
 V:2 clef=bass
-[G,B,]| [G,B,] [G,B,][C,C] [G,B,] [EC,]| [DG,]| [DD,] [DG,] [DB,,]| [G,2C,] [C2D,]| [B,4G,,]|]{% endcapture %}
+[G,/2B,][G,/2D,]| [G,B,,] [A,C,] [DD,] [DD,]| [DG,] [DD,] [DG,] [DB,,]| [G,2C,] [C2D,]| [B,4G,,]|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 ### Conclusions
@@ -45,9 +45,23 @@ We will tackle the second and third questions in the example below, but before y
 
 Determining harmonic rhythm is intuitively obvious to most musicians while listening, but can be difficult to illustrate when looking only at the music. This is often a chicken-or-the-egg question: you need to know how often the chord changes to determine which pitches to include in the chord, but you also need to look at which pitches create chords to figure out how often the chord changes. Chorales are an easy place to start, because most often, they change chords in a consistent rhythm--in this case, every beat--and this creates an easy-to-see visual cue as each chord is stacked vertically and mostly homorhythmic. For more complicated textures, studying melodic patterns and bass-lines is often enough to provide enough context for an educated guess. Bass-lines in particular will often sustain pitches and/or outline chords until the harmony changes, and this gives a clear indicator of probable harmonic rhythm. This becomes much easier as the student gains experience.
 
+{% capture ex2 %}X:2
+T:Brahms-inspired chorale
+T:Altered from “Die Wollust in den Maien”, WoO 34 no. 11
+M:4/4
+L:1/4
+Q:1/4=80
+K:G
+V:1
+[G/2D][B/2G]| [dG] [eG] [dF] [cF]| [BG] [AF] [BG] [dG]| [c2E] [A2F]| [G4]|]
+V:2 clef=bass
+[G,/2B,][G,/2D,]| [G,B,,] [A,C,] [DD,] [DD,]| [DG,] [DD,] [DG,] [DB,,]| [G,2C,] [C2D,]| [B,4G,,]|]
+w:I (6/4) (6) ii6/5 V (7) I V I (6) IV V7 I{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
+
 #### Omitted/implied chord tones
 
-The Old Hundreth Psalm has a number of incomplete chords, and this may not be obvious at first glance. To fill in the missing pieces, music theorists use a number of tools, most of which are designed to look at contextual clues and draw conclusions based on their general knowledge. We created one of these tools in Unit 7a with the diatonic harmony flowchart.
+The chorale has a few incomplete chords--meaning chords with an implied chord tone. To fill in the missing pieces, music theorists use a number of tools, most of which are designed to look at contextual clues and draw conclusions based on their general knowledge. We created one of these tools in Unit 7a with the diatonic harmony flowchart.
 
 | (*unnamed*) | (*unnamed*) | pre-dominant | dominant | tonic |
 --- | --- | --- | --- | --- |
@@ -63,23 +77,24 @@ One of the most difficult issues to tackle in harmonic analysis is determining *
 - Which pitches could be removed without changing the basic effect?
 - Which pitches are added solely to provide variety?
 
-**Analyze the following embellished first phrase of the Old Hundredth Psalm. Which notes are not necessary for the harmonic function? How would you describe their motion? If you are struggling to determine whether it belongs or not, try referring to your the harmonic outline that you built in the previous topic [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html). Does the voice-leading--i.e. how each chordal member resolves--work with the rules that you established in Unit 7a if you do not have a non-chord tone?**
+**Analyze the following embellished first phrase of the chorale from above. Which notes are not necessary for the harmonic function? How would you describe their motion? If you are struggling to determine whether it belongs or not, try referring to your the harmonic outline that you built in the previous topic [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html). Does the voice-leading--i.e. how each chordal member resolves--work with the rules that you established in Unit 7a if you do not have a non-chord tone?**
 
-{% capture ex2 %}X:2
-T:Embellished first phrase of Old Hundredth Psalm
+{% capture ex3 %}X:3
+T:Embellished version of the chorale
 M:4/4
 L:1/4
-Q:1/4=50
+Q:1/4=80
 K:G
 V:1
-[GD]| [G/2D][G/2E] [F/2D][F/2C] [E/2B,][E/2C] [D/2D][D/2C]| [GB,] [AD] H[BD]|]
+[G/2D][B/2G]| [dG] [eG] [dF] [cF]| [BG] [AF] [BG] [dG]| [c2E] [A2F]| [G4]|]
 V:2 clef=bass
-[G,/2B,][F,/2B,]| [G,B,] [A,D,] [E,G,] [B,,G,]| [E,G,] [E,/2F,][D,/2F,] H[G,G,,]|]{% endcapture %}
-{% include abc-example.html number="2" abc=ex2 %}
+[G,/2B,][G,/2D,]| [G,B,,] [A,C,] [D,A,] [DD,]| [DG,] [DD,] [DG,] [DB,,]| [G,2C,] [C2D,]| [B,4G,,]|]
+w:I (6/4) (6) ii6/5 V (7) I V I (6) IV V7 I{% endcapture %}
+{% include abc-example.html number="3" abc=ex3 %}
 
 ### Conclusion
 
-The essential pitches of any harmony are those that if removed, would noticeably alter the way the listener hears the harmony. As you attempted to analyze this decorated melody, were you able to see and hear the basic framework from the first phrase of the Old Hundredth? If so, it should have allowed you to figure out both the harmonic rhythm as well as which pitches were decorative. 
+The essential pitches of any harmony are those that if removed, would noticeably alter the way the listener hears the harmony. As you attempted to analyze this decorated melody, were you able to see and hear the basic framework from the first phrase of the basic version that you first analyzed? If so, it should have allowed you to figure out both the harmonic rhythm as well as which pitches were decorative. 
 
 The harmonic rhythm stayed the same; one chord per quarter note, even though the voices were often filled double the amount of notes. 
 
