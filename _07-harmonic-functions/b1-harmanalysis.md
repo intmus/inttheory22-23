@@ -4,9 +4,6 @@ title: Lesson 7b - Performing a Harmonic Analysis
 abc: true
 ---
 
-<!-- When you return to this section, you have two MAJOR EDITS
- 1 - You need to find a better example the Old 100th. It's first phrase is full of vi chords acting as tonic function, which is confusing and totally undermines what you said about vi to V being rare in the previous unit.
- 2 - You need to write in full answers for the conclusions section, because you never actually give them the answers to the questions as asked. Fine for in class, but someone who isn't in class will never have confirmation of whether they got it correct or not.-->
 Now that we understand how circle-of-fifths progressions within a key create a basic harmonic "outline", we can use that pattern to begin analyzing harmony. The framework of these progressions can be used to organize any piece of music in this tradition and allows us to ask the two fundamental questions of all harmonic analysis: 
 - How are expectations created in the music?
 - Which pitches are functional in creating these expectations?
@@ -15,7 +12,7 @@ Regardless of the complexity or era of a composition, if a theorist can answer t
 
 ## A first attempt at harmonic analysis
 
-As we progress through the example below, we will develop a process for analyzing a piece of tonal music. Students often think that "analyzing" a piece of music simply involves identifying and labeling each chord, but if that were the case, we should just use  Roman numerals help us to provide context--otherwise, it would be  be aware that *the goal of harmonic analysis is to explain how the listener hears the music*. While the first step is identifying structure of the harmony, it is far more involved than that, so as you move past the first step of identifying chords, I encourage you to make a list of all the questions and decisions that you encounter as you work. 
+As we progress through the lesson below, we will begin to develop our process for analyzing a piece of tonal music. Students often think that "analyzing" a piece of music simply involves identifying and labeling each chord, but if that were the case, we should just use leadsheet symbols--they are flexible and do not require you to know anything more than pitches that are present.  Roman numeral analysis provides a way for us to create *context*, because our ultimate goal in analyzing music is *to better understand how a listener perceives the music*. While the first step is identifying the structure of the harmony, we must move beyond that in order to make ourselves better performers, educators, and composers. As you work through the examples, make a list of all the questions and decisions that you encounter. 
 
 **Study the following chorale, and provide a Roman numeral and inversion figure below every new harmony. As you go through this process, keep track of the questions that you solve as well as what makes this difficult. Start by looking at the big picture, and do not get bogged down in trying to figure out every pitch and chord at first glance. If you get stuck, keep moving and return to the difficult sections after you have a feel for the piece as a whole. You should also consider starting with leadsheet notation until you are confident of the key of the piece; you can then return to add Roman numerals once you have more context.**
 
@@ -32,14 +29,14 @@ V:2 clef=bass
 [G,/2B,][G,/2D,]| [G,B,,] [A,C,] [DD,] [DD,]| [DG,] [DD,] [DG,] [DB,,]| [G,2C,] [C2D,]| [B,4G,,]|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-### Conclusions
+## Conclusions
 
  To do this, there are three primary questions that must be answered in a harmonic analysis:
 - What is the harmonic rhythm? (i.e. How often does the harmony change?)
 - Which pitches are chord tones and non-chord tones?
 - Which pitches, if any, are omitted but implied by the context?
 
-#### Harmonic rhythm
+### Harmonic rhythm
 
 We will tackle the second and third questions in the example below, but before you can begin to analyze the chords within a piece, you need to figure out how often the chords change. This concept is called *harmonic rhythm*. It is different for every piece; sometimes it will be every beat as in the chorale above, but other pieces will have irregular patterns and/or many measures before new harmonies.
 
@@ -59,7 +56,7 @@ V:2 clef=bass
 w:I (6/4) (6) ii6/5 V (7) I V I (6) IV V7 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-#### Omitted/implied chord tones
+### Omitted/implied chord tones
 
 The chorale has a few incomplete chords--meaning chords with an implied chord tone. To fill in the missing pieces, music theorists use a number of tools, most of which are designed to look at contextual clues and draw conclusions based on their general knowledge. We created one of these tools in Unit 7a with the diatonic harmony flowchart.
 
