@@ -10,11 +10,13 @@ Now that we understand how circle-of-fifths progressions within a key create a b
 
 Regardless of the complexity or era of a composition, if a theorist can answer these questions about a piece, they can analyze the qualities that define that style of composition. 
 
-## A first attempt at harmonic analysis
-
 As we progress through the lesson below, we will begin to develop our process for analyzing a piece of tonal music. Students often think that "analyzing" a piece of music simply involves identifying and labeling each chord, but if that were the case, we should just use leadsheet symbols--they are flexible and do not require you to know anything more than pitches that are present.  Roman numeral analysis provides a way for us to create *context*, because our ultimate goal in analyzing music is *to better understand how a listener perceives the music*. While the first step is identifying the structure of the harmony, we must move beyond that in order to make ourselves better performers, educators, and composers. As you work through the examples, make a list of all the questions and decisions that you encounter. 
 
-**Study the following chorale, and provide a Roman numeral and inversion figure below every new harmony. As you go through this process, keep track of the questions that you solve as well as what makes this difficult. Start by looking at the big picture, and do not get bogged down in trying to figure out every pitch and chord at first glance. If you get stuck, keep moving and return to the difficult sections after you have a feel for the piece as a whole. You should also consider starting with leadsheet notation until you are confident of the key of the piece; you can then return to add Roman numerals once you have more context.**
+## A first attempt at harmonic analysis
+
+Study the following chorale, and provide:
+- a leadsheet symbol above every chord
+- Roman numeral and inversion figure below every new harmony. As you go through this process, keep track of the questions that you solve as well as what makes this difficult. Start by looking at the big picture, and do not get bogged down in trying to figure out every pitch and chord at first glance. If you get stuck, keep moving and return to the difficult sections after you have a feel for the piece as a whole. You should also consider starting with leadsheet notation until you are confident of the key of the piece; you can then return to add Roman numerals once you have more context.
 
 {% capture ex1 %}X:1
 T:Brahms-inspired chorale
@@ -26,7 +28,7 @@ K:G
 V:1
 [G/2D][B/2G]| [dG] [eG] [dF] [cF]| [BG] [AF] [BG] [dG]| [c2E] [A2F]| [G4]|]
 V:2 clef=bass
-[G,/2B,][G,/2D,]| [G,B,,] [A,C,] [DD,] [DD,]| [DG,] [DD,] [DG,] [DB,,]| [G,2C,] [C2D,]| [B,4G,,]|]{% endcapture %}
+[G,/2B,][G,/2D,]| [G,B,,] [A,C,] [A,D,] [DD,]| [DG,] [DD,] [DG,] [DB,,]| [C2C,] [C2D,]| [B,4G,,]|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 ## Conclusions
@@ -52,13 +54,20 @@ K:G
 V:1
 [G/2D][B/2G]| [dG] [eG] [dF] [cF]| [BG] [AF] [BG] [dG]| [c2E] [A2F]| [G4]|]
 V:2 clef=bass
-[G,/2B,][G,/2D,]| [G,B,,] [A,C,] [DD,] [DD,]| [DG,] [DD,] [DG,] [DB,,]| [G,2C,] [C2D,]| [B,4G,,]|]
+[G,/2B,][G,/2D,]| [G,B,,] [A,C,] [A,D,] [DD,]| [DG,] [DD,] [DG,] [DB,,]| [C2C,] [C2D,]| [B,4G,,]|]
 w:I (6/4) (6) ii6/5 V (7) I V I (6) IV V7 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 ### Omitted/implied chord tones
 
-The chorale has a few incomplete chords--meaning chords with an implied chord tone. To fill in the missing pieces, music theorists use a number of tools, most of which are designed to look at contextual clues and draw conclusions based on their general knowledge. We created one of these tools in Unit 7a with the diatonic harmony flowchart.
+The chorale has a few incomplete chords, such as the downbeat of measure 3 and the downbeat of measure 4. If we do not have a full chord present, how do we determine the implied chord that a listener is likely to hear?
+
+Let's examine the downbeat of measure 3. First, ask yourself what are all of the possible diatonic chords in the key of G major that contain both C and E? Those pitches would be the:
+- root and third of the IV chord
+- third and fifth of the ii chord
+- fifth and seventh of the vii<sup>&slasho;7</sup>
+
+music theorists use a number of tools, most of which are designed to look at contextual clues and draw conclusions based on their general knowledge. We created one of these tools in Unit 7a with the diatonic harmony flowchart.
 
 | (*unnamed*) | (*unnamed*) | pre-dominant | dominant | tonic |
 --- | --- | --- | --- | --- |
@@ -85,7 +94,7 @@ K:G
 V:1
 [G/2D][B/2G]| [dG] [eG] [dF] [cF]| [BG] [AF] [BG] [dG]| [c2E] [A2F]| [G4]|]
 V:2 clef=bass
-[G,/2B,][G,/2D,]| [G,B,,] [A,C,] [D,A,] [DD,]| [DG,] [DD,] [DG,] [DB,,]| [G,2C,] [C2D,]| [B,4G,,]|]
+[G,/2B,][G,/2D,]| [G,B,,] [A,C,] [A,D,] [DD,]| [DG,] [DD,] [DG,] [DB,,]| [C2C,] [C2D,]| [B,4G,,]|]
 w:I (6/4) (6) ii6/5 V (7) I V I (6) IV V7 I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
