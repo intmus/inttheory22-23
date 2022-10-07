@@ -81,7 +81,22 @@ To double check that assumption, we can see if a IV chord makes sense in the pro
 | iii | vi | ii | V | I |
 | | | IV | vii<sup>o</sup> | |
 
-By employing a knowledge of standard progressions, a theorist can look at a given harmony and decide which pitches support a harmonic progression that is *likely* to be heard by a listener, even if those tones are not present.
+By employing a knowledge of standard progressions, a theorist can look at a given harmony and decide which pitches support a harmonic progression that is *likely* to be heard by a listener, even if those tones are not present. For this purpose, it will be helpful for you to add a row of functional analysis below your Roman numerals so that you can easily see what your Roman numerals imply to an experienced analysis. If we combine these, we get a finished analysis that will look like this:
+
+{% capture ex3 %}X:3
+T:Brahms-inspired chorale
+T:Altered from “Die Wollust in den Maien”, WoO 34 no. 11
+M:4/4
+L:1/4
+Q:1/4=80
+K:G
+V:1
+[G/2D][B/2G]| [dG] [eG] [dF] [cF]| [BG] [AF] [BG] [dG]| [c2E] [A2F]| [G4]|]
+V:2 clef=bass
+[G,/2B,][G,/2D,]| [G,B,,] [A,C,] [A,D,] [DD,]| [DG,] [DD,] [DG,] [DB,,]| [C2C,] [C2D,]| [B,4G,,]|]
+w:I (6/4) (6) ii6/5 V (7) I V I (6) IV V7 I
+w:T - - P D - T D T - P D T{% endcapture %}
+{% include abc-example.html number="3" abc=ex3 %}
 
 ### Chord tones versus non-chord tones
 
@@ -94,7 +109,7 @@ Let's use the initial sketch of our analysis to look at a more complex version o
 
 **Analyze the following embellished version chorale from above. Which notes are not necessary for the harmonic function? How would you describe their motion? If you are struggling to determine whether it belongs or not, try referring to your the harmonic outline that you built in the previous topic [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html). Does the voice-leading--i.e. how each chordal member resolves--work with the rules that you established in Unit 7a if you do not have a non-chord tone?**
 
-{% capture ex3 %}X:3
+{% capture ex4 %}X:4
 T:Embellished version of chorale
 T:(Divided across four staves)
 M:4/4
@@ -109,7 +124,7 @@ V:3 clef=bass
 [B,/2][G,/2]| [G,] [A,] [A,] [D]| [D/2][E/2] [D] [D] [D]| [C2] [C2]| [B,4]|]
 V:4 clef=bass
 [G,/2][D,/2]| [B,,] [C,] [D,] [D,/2][E,/4][F,/4]| [G,] [D,] [G,/2][D,/2] [B,,]| [C,2] [D,2]| [G,,4]|]{% endcapture %}
-{% include abc-example.html number="3" abc=ex3 %}
+{% include abc-example.html number="4" abc=ex4 %}
 
 The essential pitches of any harmony are those that if removed, would noticeably alter the way the listener hears the harmony. As you attempted to analyze this decorated chorale, were you able to see and hear the basic framework from the first phrase of the basic version that you first analyzed? If so, it should have allowed you to figure out both the harmonic rhythm as well as which pitches were decorative. 
 
