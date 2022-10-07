@@ -38,6 +38,16 @@ Motion Between Two Voices
 
 - Contrary motion is when both voies move in opposite directions. This could be when both voices move closer to eachother, or further away.
 
+Creating a Flow Chart of Chords
+
+- The most distance chord from the I chord is the iii chord. In general, chords want to move in descending perfect fifths.
+ 
+- The ii chord and the IV chord function in the same way. The V chord and the viio chard also function the same way.  
+
+- The way chords want to resolve: iii to vi, vi to ii or Iv, ii or IV to viio or V, and V or viio to I.
+
+- ii chords and IV chords can move t and from eachother, as well as the V chord and viio chord.
+
 ## Class discussion 2021
 
 **Tendency tones**
