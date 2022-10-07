@@ -102,19 +102,18 @@ L:1/4
 Q:1/4=80
 K:G
 V:1
-[G/2][B/2]| [d] [e] [d] [c]| [B] [A] [B] [d]| [c2] [A2]| [G4]|]
+G/4A/4B/4c/4| [d] [e] [d] [c]| [B] [A] [B/2][c/2] [d]| [c]-[c/2][d/2] [A][B]| [G4]|]
 V:2
-[D/2][G/2]| [G] [G] [F] [F]| [G] [F] [G] [G]| [E2] [F2]| [G4]|]
+[D/2][G/2]| [G] [G]-[G/2][F/2] [F]| [G] [F] [G] [G]| [E2] [F2]| [G4]|]
 V:3 clef=bass
-[B,/2][G,/2]| [G,] [A,] [A,] [D]| [D] [D] [D] [D]| [C2] [C2]| [B,4]|]
+[B,/2][G,/2]| [G,] [A,] [A,] [D]| [D/2][E/2] [D] [D] [D]| [C2] [C2]| [B,4]|]
 V:4 clef=bass
-[G,/2][D,/2]| [B,,] [C,] [D,] [D,]| [G,] [D,] [G,] [B,,]| [C,2] [D,2]| [G,,4]|]
-w:I (6/4) (6) ii6/5 V (7) I V I (6) IV V7 I{% endcapture %}
+[G,/2][D,/2]| [B,,] [C,] [D,] [D,/2][E,/4][F,/4]| [G,] [D,] [G,/2][D,/2] [B,,]| [C,2] [D,2]| [G,,4]|]{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-The essential pitches of any harmony are those that if removed, would noticeably alter the way the listener hears the harmony. As you attempted to analyze this decorated melody, were you able to see and hear the basic framework from the first phrase of the basic version that you first analyzed? If so, it should have allowed you to figure out both the harmonic rhythm as well as which pitches were decorative. 
+The essential pitches of any harmony are those that if removed, would noticeably alter the way the listener hears the harmony. As you attempted to analyze this decorated chorale, were you able to see and hear the basic framework from the first phrase of the basic version that you first analyzed? If so, it should have allowed you to figure out both the harmonic rhythm as well as which pitches were decorative. 
 
-The harmonic rhythm stayed the same; one chord per quarter note, even though the voices were often filled double the amount of notes. 
+The harmonic rhythm stayed the same; one chord per quarter note, even though the voices were often filled more notes. 
 
 From there, you must consider a number of factors to determine which notes are embellishments. 
 - Which pitches are on the strong beats? 
