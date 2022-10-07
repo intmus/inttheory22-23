@@ -117,27 +117,29 @@ L:1/4
 Q:1/4=80
 K:G
 V:1
-G/4A/4B/4c/4| [d] [e] [d] [c]| [B] [A] [B/2][c/2] [d]| [c]-[c/2][d/2] [A][B]| [G4]|]
+G/4A/4B/4c/4| [d] [e] [d] [c]| [B] [A] [B] [d]| [c]-[c/2][B/2] [A2]| [G4]|]
 V:2
 [D/2][G/2]| [G] [G]-[G/2][F/2] [F]| [G] [F] [G] [G]| [E2] [F2]| [G4]|]
 V:3 clef=bass
-[B,/2][G,/2]| [G,] [A,] [A,] [D]| [D/2][E/2] [D] [D] [D]| [C2] [C2]| [B,4]|]
+[B,/2][G,/2]| [G,] [A,] [A,] [D]| [D/2]>[E/2] [D/2]>[E/2] [D] [D]| [C2] [C2]| [B,4]|]
 V:4 clef=bass
-[G,/2][D,/2]| [B,,] [C,] [D,] [D,/2][E,/4][F,/4]| [G,] [D,] [G,/2][D,/2] [B,,]| [C,2] [D,2]| [G,,4]|]{% endcapture %}
+[G,/2][D,/2]| [B,,] [C,] [D,] [D,/2][E,/4][F,/4]| [G,] [D,] [G,/2][D,/2] [B,,]| [C,2] [D,][D,,]| [G,,4]|]{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-The essential pitches of any harmony are those that if removed, would noticeably alter the way the listener hears the harmony. As you attempted to analyze this decorated chorale, were you able to see and hear the basic framework from the first phrase of the basic version that you first analyzed? If so, it should have allowed you to figure out both the harmonic rhythm as well as which pitches were decorative. 
+As you attempted to analyze this decorated chorale, were you able to see and hear the basic framework from the first phrase of the basic version that you first analyzed? If so, it should have allowed you to figure out both the harmonic rhythm as well as which pitches were added as embellishment. 
 
-The harmonic rhythm stayed the same; one chord per quarter note, even though the voices were often filled more notes. 
+The harmonic rhythm stayed the same; one chord per quarter note, even though the voices were often filled more notes, so your harmonic analysis would not change for this arrangement. Therefore, the *functional* pitches of any piece of music are the essential notes that if removed, would noticeably alter the way the listener hears the harmony. 
 
-From there, you must consider a number of factors to determine which notes are embellishments. 
-- Which pitches are on the strong beats? 
-- Are any pitches repeated? 
+As we progress in our analyses, you will find that there are a number of factors which influence a listener's perception of functional pitches (i.e. chord tones) and non-functional (non-chord tomes) pitches such as: 
+- Which pitches are in strong metric positions (e.g. strong beats or sustained notes)? 
+- Are certain pitches given preference through methods such as repetition? 
 - Is one pitch more dissonant against the other chord tones? 
 Differentiating between chord tones and non-chord tones is the key to deciding a chord's function.
 
+When we study non-chord tones in detail in Unit 9, we will be able to clearly differentiate and label these from our chord tones, but for now, it is enough to know that they exist and are an important part of analysis.
+
 ## Before moving forward...
 
-As you answered each of these questions, you began understanding how harmony *functions*. Even without much guidance, you can use your knowledge of musical fundamentals--intervals, chords, melodic lines, Roman numeral labeling, etc.--to create a sketch of the harmonic underpinnings of this chorale.
+Hopefully, these examples have allowed you to start grasping the difference between *labeling* chords and understanding their *functions*. Even without much guidance, you can use your knowledge of musical fundamentals--intervals, chords, melodic lines, etc.--to create a sketch of the harmonic underpinnings of this chorale.
 
-We use chorales to begin studying analysis because of the vertical nature of the writing. Every chord in this composition is aligned to where it can be easily parsed by sight, and almost every tone is functional. As you look at other musical styles, try to reduce the music down to a simpler texture--one that resembles a chorale voicing--if you cannot answer the basic questions of finding harmonic rhythm and chord tones.
+We use chorales to begin studying analysis because of the vertical nature of the writing. Every chord in this composition is aligned to where it can be easily parsed by sight, and almost every tone is functional. As we look at music from a variety of styles, we will always have the tool of reducing music to its simplest texture--one that likely resembles a chorale voicing--in order to further our understanding of the phrase and shape of our interpretations.
