@@ -6,13 +6,13 @@ abc: true
 
 ## Class Discussion
 
-"What rules can we apply to voiceleading so make sure all voices are moving correctly in a circle of fiths progression?"
+"What rules can we apply to voiceleading to make sure all voices are moving correctly within a circle of fifths progression?"
 
-- The roo is the mostikely tone to be doubled.
+- The root is the most likely tone to be doubled.
 
 - The root of a chord can often stay the same and become the fifth of the next chord.
 
-- The third of a a chord resolves up by step to the root of the next chord.
+- The third of a chord resolves up by step to the root of the next chord.
 
 - The fifth of a chord can resolve down to the root of the next chord.
 
@@ -20,11 +20,11 @@ abc: true
 
 More Rules
 
-- You can omit the fifth from any chord if smooth voiceleading allows. 
+- You can omit the fifth from any chord if smooth voice leading allows. 
 
 - Never omit the third or the root of a chord.
 
-- When you have a V7 moving to a I chord in root position, it is better to omit the fifth in th I chord to make sure all voices are present and voiceleading is smooth.
+- When you have a V7 moving to a I chord in root position, it is often better to omit the fifth in the I chord to make sure all voices are present and voice leading is smooth.
 
 Motion Between Two Voices
 
@@ -32,21 +32,21 @@ Motion Between Two Voices
 
 - Oblique motion is when one voice moves and the other stays the same.
 
-- Parrallel motion is when both voices move with the same interval size and the same direction.
+- Parallel motion is when both voices move with the same interval size and the same direction.
 
 - Similar motion is when both voices move in the same way with a different interval size (or quality).
 
-- Contrary motion is when both voies move in opposite directions. This could be when both voices move closer to eachother, or further away.
+- Contrary motion is when both voices move in opposite directions. This could be when both voices move closer to each other, or further away.
 
 Creating a Flow Chart of Chords
 
-- The most distance chord from the I chord is the iii chord. In general, chords want to move in descending perfect fifths.
+- The most distant chord from the I chord is the iii chord. In general, chords want to move in descending perfect fifths.
  
 - The ii chord and the IV chord function in the same way. The V chord and the viio chard also function the same way.  
 
 - The way chords want to resolve: iii to vi, vi to ii or Iv, ii or IV to viio or V, and V or viio to I.
 
-- ii chords and IV chords can move t and from eachother, as well as the V chord and viio chord.
+- ii chords and IV chords can move to and from each other, as well as the V chord and viio chord.
 
 ## Class discussion 2021
 
