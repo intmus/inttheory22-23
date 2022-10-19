@@ -10,17 +10,25 @@ After having developed voice-leading procedures in Unit 7a, you should now under
 - Because the dominant function chord precedes the tonic function, the dominant function can be seen as the "doorway" through which all chords will pass as they move toward harmonic resolution. Therefore, all chords that have the goal of moving toward the dominant function are labeled as *pre-dominant* function. This will include a wide variety of chords, and when we introduce secondary and tertiary function chords later in the course, there will be a large amount of overlap between pre-dominant chords--a primary function--and those. We will discuss the implied semantics of primary, secondary, and tertiary chords as we learn them.
     - Some systems label *pre-dominant* functions as *subdominant*, because many include the fourth scale degree. We already use words such as "dominant" and "tonic" in a variety of ways (e.g. scale degrees, harmonic function, chord types, etc.), so we will be differentiating pre-dominant from subdominant to create slightly less confusion.
 
-These harmonic functions shape every musical phrase, and no where is that more obvious than in studying how phrases end. *Cadences* are the term that we use to describe the harmonic progression at the end of a musical phrase. If a musical phrase could be considered equivalent to a written sentence, then the *cadence* is the period at the end of that sentence. All cadences finish a phrase, but not all cadences provide closure and stability. In fact, some cadences are purposefully unsettled.
+### Alleviating terminology confusion
+
+Note that the two first primary functions--tonic and dominant--share terms with the older scale degree system (i.e. The system that we discussed in Unit 2a that uses terms such as mediant, submediant, supertonic, etc.) as well as certain commonly-used chord types such as dominant chords. Because students often confuse the meaning of these, this text will use the following style guide:
+- When referring to scale degrees, I will always use the numbering system. (e.g. ^1, ^2, etc. OR "first scale degree", "second scale degree")
+- When referring to harmonic function, I will always follow the terms "tonic" and "dominant" with the word "function".
+- When referring to chords, I will use Roman numerals when possible. For example, rather than saying the dominant chord, I will refer to the V chord.
+
+## Primary harmonic function
+
+The three primary harmonic functions shape all musical phrases through tension and resolution, and no where is that more obvious than in studying how phrases end. *Cadences* are the term that we use to describe the harmonic progression at the end of a musical phrase. All cadences finish a phrase, but not all cadences provide closure and stability. In fact, some cadences are purposefully unsettled.
 
 We will study the chords associated with classifying cadences, but it takes far more than a particular harmonic progression to create a cadence. In addition to chord progressions, cadences are affected by melodic shapes, melodic rhythm, harmonic rhythm, context, meter, and many other elements of music.
 
-For this course, we will study six types of cadences:
+For this course, we will study five types of cadences:
 - *perfect authentic cadence (PAC)*
 - *imperfect authentic cadence (IAC)*
 - *half cadence (HC)*
 - *deceptive cadence (DC)*
 - *plagal cadence (PC)*
-- *phrygian half cadence (PHC)*
 
 *Take special care to remember the abbreviations in parentheses for each cadence type. These will be used repeatedly in your analyses.*
 
@@ -33,7 +41,6 @@ For each cadence in the following examples, determine:
     - *half cadence*
     - *deceptive cadence*
     - *plagal cadence*
-    - *phrygian half cadence*
 - what chord functions (i.e. tonic, dominant, pre-dominant) are used in each type of cadence.
 - what chord tones are present in the soprano and bass.
 - what other musical elements affect the phrase ending.
@@ -61,17 +68,6 @@ w: _ _ _ _ _ _ _ DC
 w: _ _ _ _ _ _ _ _ _ PAC _ plagal{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-{% capture ex2 %}X:2
-T:Phrygian half cadence
-M:4/4
-L:1
-K:Eb
-V:1
-[FC]| [GD]|]
-V:2 clef=bass
-[CA,,]| [=B,G,,]|]{% endcapture %}
-{% include abc-example.html number="2" abc=ex2 %}
-
 ## Conclusions
 
 Cadences close each musical idea and phrase--they are the punctuation at the end of musical sentences. We classify each cadence by their harmonic progressions.
@@ -85,10 +81,23 @@ Cadences close each musical idea and phrase--they are the punctuation at the end
         - Any authentic cadence that does not fulfill all of the requirements for a PAC.
 - **Half Cadence (HC)**
     - Any phrase that ends on a V chord.
-    - **Phrygian Half Cadence (PHC)**
-        - This is a special type of half cadence that only occurs in minor and must have a iv<sup>6</sup> resolving to a root-position V chord
 - **Plagal Cadence (PC)**
     - Any phrase that ends in IV resolving to I
         - Commonly associated with "Amen" at the end of chorales
 - **Deceptive Cadence (DC)**
     - Any phrase that ends with V resolving to vi/VI
+
+### Phrygian half cadence
+
+There is a special type of half cadence that is used often enough in certain musical styles that it has received a special name: the *Phrygian half cadence (PHC)*. This is a special type of half cadence that only occurs in minor and must have a iv<sup>6</sup> resolving to a root-position V chord. We will not use this often, but you should be aware of it and able to label it when you see it.
+
+{% capture ex2 %}X:2
+T:Phrygian half cadence
+M:4/4
+L:1
+K:Eb
+V:1
+[FC]| [GD]|]
+V:2 clef=bass
+[CA,,]| [=B,G,,]|]{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
