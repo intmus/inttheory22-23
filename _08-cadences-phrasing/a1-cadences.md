@@ -70,7 +70,7 @@ w: _ _ _ _ _ _ _ _ _ PAC _ plagal{% endcapture %}
 
 ## Conclusions
 
-Cadences close each musical idea and phrase--they are the punctuation at the end of musical sentences. We classify each cadence by their harmonic progressions.
+Cadences close each musical idea and phrase, and we classify each cadence by certain characteristics of their voice-leading and harmonic progressions.
 
 - **Authentic Cadence** - any cadence in which a dominant function harmony (i.e. V or vii<sup>o</sup>) resolves to I. There are two types of authentic cadences, so we always label any authentic cadence as one of these: 
     - **Perfect Authentic Cadence (PAC)**
@@ -89,7 +89,7 @@ Cadences close each musical idea and phrase--they are the punctuation at the end
 
 ### Phrygian half cadence
 
-There is a special type of half cadence that is used often enough in certain musical styles that it has received a special name: the *Phrygian half cadence (PHC)*. This is a special type of half cadence that only occurs in minor and must have a iv<sup>6</sup> resolving to a root-position V chord. We will not use this often, but you should be aware of it and able to label it when you see it.
+There is a special type of half cadence that is used often enough in certain musical styles that it has received a special name: the *Phrygian half cadence (PHC)*. This cadence only occurs in minor and must consist of a iv<sup>6</sup> resolving to a root-position V chord. We will not discuss this particular cadence often, but you should be aware of it and able to label it when you see it.
 
 {% capture ex2 %}X:2
 T:Phrygian half cadence
