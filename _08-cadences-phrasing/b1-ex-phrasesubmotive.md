@@ -4,6 +4,8 @@ title: Lesson 8b - The Phrase, Sub-phrase, and Motive
 abc: true
 ---
 
+<!-- You need to add some explanations for non-chord tones before they begin the analysis -->
+
 When we perform a harmonic analysis, we are attempting to explain how a listener hears a harmonic progression by determining which pitches are functional and non-functional to a majority of listeners. To do so, we rely on our understanding of diatonic tendencies and voice-leading to explain likely interpretations of a listener, in the same way that an experienced teacher relies on their past successes with students to better determine the likely efficacy of a particular teaching strategy.
 
 Once we go beyond looking at the building blocks of Western music--rhythm, intervals, chords, keys, etc.--and begin combining these concepts to analyze function, we begin to organize music into structures that combine these individual ideas into complete musical statements. 
@@ -48,7 +50,7 @@ w:_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ C:
 F,F, F,F,| G,G, G,G,| A,A, G,F,| E,E, E,E,| F,F, F,F,| G,G, G,,G,,| C,C/2D/2 C/2B,/2A,/2G,/2|
 ^F,F, F,F,| G,G, G,G,| ^F,F, F,F,| G,G, =F,F,| E,E, B,B,| A,C B,A,|
 w:g: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ F:
-B,A, G,F,| C,C, C,C,| E,E, E,E,| F,F, F,F,| E,E, E,E,| F,F, F,F,| A,A, A,A|
+B,A, G,F,| C,C, C,C,| E,E, E,E,| F,F, F,F,| E,E, E,E,| F,F, F,F,| A,A, A,A,|
 B,B, B,B,| CC C,C,| D,D, D,D,| A,,A,, A,,A,,| B,,B, A,B,| CC C,C,| F,2 z2|]
 
 {% endcapture %}
