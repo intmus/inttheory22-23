@@ -62,6 +62,7 @@ A phrase is a complete musical idea that:
 - has a clear sense of harmonic progression.
 - ends with a cadence.
 - has a melodic structure that creates tension and release.
+- has a contour with a clear climax (high or low point).
 - most often ends with longer rhythmic values to create a sense of pause or rest.
 
 ### Phrase Key to *An Die Freude*
