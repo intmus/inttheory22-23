@@ -3,7 +3,25 @@ layout: chapter
 title: Discussion 8b - The Phrase, Sub-phrase, and Motive
 ---
 
-# Class Discussion
+## Class Discussion
+
+Often, phrases will end with a cadence. Cadences give balance ans structure to a piece of music. 
+
+Things to look for when considering what might be a phrase:
+
+- Cadences/resolutions
+
+- Rests after a melody line
+
+- Going into a different key/modulation
+
+- Contour of the melody
+
+Motives
+
+- A motive is the smallest identifiable fragment of music.
+
+## Class Discussion
 
 ## Identifying Phrases ##
 - Look for rests
