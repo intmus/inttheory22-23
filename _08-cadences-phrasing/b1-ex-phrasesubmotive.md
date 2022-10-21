@@ -14,7 +14,7 @@ A *phrase* is the complete musical idea built to support a motive. The most comm
 
 ## Identifying phrases
 
-Now that you have a basic understanding of harmonic progressions, harmonic function, labeling function with Roman numerals, and cadences, you can combine these ideas to explore musical phrases. 
+Now that we have a basic understanding of harmonic progressions, harmonic function, labeling function with Roman numerals, and cadences, we can combine these ideas to explore musical phrases. 
 - After listening to Mozart's *An Die Freude* multiple times (found below), mark the beginning and ending of each phrase based on your listening. 
     - Remember that each phrase should sound like a complete musical idea with a clear beginning, middle, and end.
 - Once you have established these, label the last two chords of each phrase using Roman numerals and inversion figures.
@@ -23,9 +23,9 @@ Now that you have a basic understanding of harmonic progressions, harmonic funct
 - Find multiple iterations of your motive. How does Mozart transform it throughout the piece?
 - Once you have completed each of these steps, discuss what you think defines a phrase. What are the essential components?
 
-Because this piece only has two voices, many chords will have more than one option for a harmony, so you must use the harmonic flowchart from the beginning of this chapter to choose the most likely harmony based on function. For example, if a harmony only has `mi` and `sol`, this could be either a I chord or a iii chord. If you put it into context, however, it will become clear what harmony the listener is likely to hear. If the harmony with `mi` and `sol` is preceded by `fa` and `sol`, it is highly unlikely that this is a iii chord. `fa` and `sol` outline a V<sup>7</sup> harmony, and a V chord will not resolve to a iii chord. Instead the listener will hear this as a V chord resolving to a I chord -- albeit an unstable I chord.
+Because this piece only has two voices, many chords will have more than one option for a harmony, so you must use the harmonic flowchart from Unit 7a to choose the most likely harmony based on function. For example, if a harmony only has `mi` and `sol`, this could be either a I chord or a iii chord. If you put it into context, however, it will become clear what harmony the listener is likely to hear. If the harmony with `mi` and `sol` is preceded by `fa` and `sol`, it is highly *unlikely* that this is a iii chord, because `fa` and `sol` outline a V<sup>7</sup> harmony and a V chord will not resolve to a iii chord. Instead the listener will hear this as a V chord resolving to a I chord--albeit an unstable I chord.
 
-Also note that this piece has multiple modulations that I have marked into the score. We will cover modulations in a later unit, but for now, make sure to analyze each phrase ending in the correct key. If you do not, your cadences will not make sense.
+**NOTE: This piece has multiple modulations that I have marked into the score. We will cover modulations in a later unit, but for now, make sure to analyze each phrase ending in the correct key. If you do not, your cadences will not make sense.**
 
 {% capture ex1 %}X:1
 T:Mozart - An Die Freude
@@ -60,7 +60,7 @@ A phrase is a complete musical idea that:
 - has a clear sense of harmonic progression.
 - ends with a cadence.
 - has a melodic structure that creates tension and release.
-- ends with longer rhythmic values to create a sense of slowing.
+- most often ends with longer rhythmic values to create a sense of pause or rest.
 
 ### Phrase Key to *An Die Freude*
 
