@@ -4,7 +4,25 @@ title: 9a Lesson - Non-chord Tones, Part 1
 abc: true
 ---
 
-## Class discussion 
+## Class Discussion
+
+How do we determine whether or not a note is a chord tone, or a non-chord tone?
+
+- Non-chord tones are always sandwiched by two chord tones.
+
+- You can determine the type of non-chord tone by it's shape (how it moves).
+
+Tyoes of Non-Chord Tones (NCTs)
+
+- Passing tone: when a note is approached and resolved by stepwise motion in the same direction.
+
+- Neighbor tone: when a note is approached by stepwise motion, and resolved in stepwise motion in the opposite direction.
+
+- Suspension: when a note is held from a chord tone and resolved down to a chord tone using stepwise motion.
+
+
+
+## Class discussion 2021
 
 For a non-chord tone to be a non-chord tone, it has to occur during a given chord where the tone is not part of the chord.
 
