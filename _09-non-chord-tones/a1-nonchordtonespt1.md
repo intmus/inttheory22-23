@@ -8,17 +8,17 @@ abc: true
 
 ## Chord tones versus non-chord tones (NCTs)
 
-To this point in our harmonic analyses, we have looked at mostly simple textures that utilized steady, blocked chords. To make music varied and interesting, however, we need to be able to create a variety of melodic shapes and motives, and this requires using a mixture of pitches that are functional--meaning that they are part of the harmony--and non-functional embellishments. We call these embellishing pitches *non-chord tones (NCT)*, and understanding which pitches are functional is often the most difficult hurdle in harmonic analysis.
+To this point in our harmonic analyses, we have looked at relatively simple textures that are limited to steady, blocked chords. To create variety and interest, however, we need to be able to compose a variety of melodic shapes and motives, and this requires using a mixture of pitches that are functional--meaning that they are essential to the harmony--and non-functional embellishments. We call these embellishing pitches *non-chord tones (NCT)*, and understanding which pitches are functional is often the most difficult hurdle in harmonic analysis.
 
-Much like determining the harmonic rhythm, finding NCTs can be difficult because it requires you to work through all possible combinations of the pitches within a given harmony and then choose the most likely combination. Even if you know that the harmony spans only two beats, it can be difficult to sort through all the possible combinations if the texture is complicated. Fortunately, the same strategies that work for determining the harmonic rhythm provide a foundation for determining NCTs. You can begin by looking at melodic patterns and bass-lines, and it is helpful to consider whether a note occurs in a strong or weak metric position. It is unusual for the functional tones to occur *only* on offbeats, as the ear is drawn to pitches when they occur on the beat. 
+Much like determining the harmonic rhythm, finding NCTs can be difficult because it requires you to work through all possible combinations of the pitches within a given harmony and then choose the most likely combination. Even if you know that the harmony spans only two beats, it can be difficult to sort through all the possible combinations if the texture is complicated. Fortunately, the same strategies that work for determining the harmonic rhythm provide a foundation for determining NCTs. You can begin by looking at melodic patterns and bass-lines, and it is helpful to consider whether a note occurs in a strong or weak metric position. It is unusual for the functional tones to occur *only* on offbeats, as the ear is drawn to pitches when they occur on a beat. 
 
-Even for one experienced in finding patterns within the music, this still sometimes requires trial-and-error. When first learning how to identify non-chord tones, you may want to copy and rearrange the pitches on another staff (or lightly next to the chord if there is room,) to see what triads and seventh chords are even possible given the present notes. Usually this is enough to limit the possibilities to one or two chords. When it is not, you will then need to refer to your harmonic flowchart to see if there is some context that could provide a probable chord.
+Even for someone experienced in finding patterns within the music, this still sometimes requires trial-and-error. When first learning how to identify non-chord tones, you may want to copy and rearrange the pitches on another staff (or lightly next to the chord if there is room,) to see what triads and seventh chords are even possible given the present notes. Usually this is enough to limit the possibilities to one or two chords. When it is not, you will then need to refer to your harmonic flowchart to see if there is some context that could provide a probable chord.
 
 ## Discussing and labeling non-chord tones
 
-When developing a harmonic analysis, you should place parentheses around the note head of each non-chord tone and then label the NCT with its abbreviation. Each of the non-chord tones below will have a standard abbreviation written next to the definition. (For example, passing tones will be labeled using a "pt".)
+When developing a harmonic analysis, you should place parentheses around the note head of each non-chord tone and then label the NCT with its abbreviation. Each of the non-chord tones below will have a standard abbreviation written next to the definition. (For example, passing tones will be labeled using a "pt". See below for details.)
 
-Although before we can find non-chord tones in music, we need a shared terminology that describes how they are constructed. There are a great variety of NCTs, but every type shares a basic framework that we classify by motion between the notes on either side of it.
+Before we can find non-chord tones in music, we need a shared terminology that describes how they are constructed. There are a great variety of NCTs, but every type shares a basic framework that we classify by motion between the notes on either side of it.
 - the *preparation*
     - The chord tone that directly precedes the NCT.
     - Its relationship to the NCT will define the type of movement used to approach the NCT.
@@ -67,7 +67,7 @@ V:2 clef=bass
 - neighbor tone
 - suspension
 
-Identify each of the non-chord tones in the following example by comparing it to the unembellished example above. You should be able to deduce to which classification each non-chord tone belongs by comparing the name (i.e. passing, neighbor, and suspension) to the motion around the non-chord tone. As you do so, create a definition of each type of non-chord tone using the terminology that we discussed above. (e.g. preparation, resolution, accented, etc.)
+Identify each of the non-chord tones in the following example by comparing it to the unembellished example above. You should be able to deduce which classification each non-chord tone belongs by comparing the name (i.e. passing, neighbor, and suspension) to the motion around the non-chord tone. As you do so, create a definition of each type of non-chord tone using the terminology that we discussed above. (e.g. preparation, resolution, accented, etc.)
 
 {% capture ex2 %}X:2
 T:With added suspensions, passing tones, and neighbor tones
