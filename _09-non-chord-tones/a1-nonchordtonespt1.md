@@ -8,15 +8,17 @@ abc: true
 
 ## Chord tones versus non-chord tones (NCTs)
 
-To this point in our harmonic analyses, we have looked at relatively simple textures that are limited to steady, blocked chords. To create variety and interest, however, we need to be able to compose a variety of melodic shapes and motives, and this requires using a mixture of pitches that are functional--meaning that they are essential to the harmony--and non-functional embellishments. We call these embellishing pitches *non-chord tones (NCT)*, and understanding which pitches are functional is often the most difficult hurdle in harmonic analysis.
+To this point in our harmonic analyses, we primarily have looked at simple textures that were limited to steady, blocked chords. However, most music uses embellished melodies created from a mixture functional pitches--meaning that they are essential to the harmony--and non-functional embellishments. Determining which pitches are functional is often one of the most difficult hurdles in harmonic analysis.
 
-Much like determining the harmonic rhythm, finding NCTs can be difficult because it requires you to work through all possible combinations of the pitches within a given harmony and then choose the most likely combination. Even if you know that the harmony spans only two beats, it can be difficult to sort through all the possible combinations if the texture is complicated. Fortunately, the same strategies that work for determining the harmonic rhythm provide a foundation for determining NCTs. You can begin by looking at melodic patterns and bass-lines, and it is helpful to consider whether a note occurs in a strong or weak metric position. It is unusual for the functional tones to occur *only* on offbeats, as the ear is drawn to pitches when they occur on a beat. 
+We call these embellishing pitches *non-chord tones (NCT)*, and much like determining the harmonic rhythm, finding NCTs can be difficult because it requires you to work through all possible combinations of the pitches within a given harmony and then choose the most likely combination. Even if you know that a harmony spans only two beats, it can be difficult to sort through all the possible combinations if the texture is complicated. Fortunately, the same strategies that work for determining the harmonic rhythm provide a foundation for determining NCTs. For example, you can always consider whether a note occurs in a strong or weak metric position, because it is unusual for the functional tones to occur *only* on offbeats. 
 
-Even for someone experienced in finding patterns within the music, this still sometimes requires trial-and-error. When first learning how to identify non-chord tones, you may want to copy and rearrange the pitches on another staff (or lightly next to the chord if there is room,) to see what triads and seventh chords are even possible given the present notes. Usually this is enough to limit the possibilities to one or two chords. When it is not, you will then need to refer to your harmonic flowchart to see if there is some context that could provide a probable chord.
+As you become more experienced, you will find that certain melodic patterns and bass-lines are indicative of specific non-chord tones. Even for someone accustomed to finding patterns within tonal music, this still sometimes requires trial-and-error. When first learning how to identify non-chord tones, you may want to copy and rearrange the pitches on another staff (or lightly next to the chord if there is room,) to see what triads and seventh chords are even possible given the present notes. Usually this is enough to limit the possibilities to one or two chords. When it is not, you will then need to refer to your harmonic flowchart to see if there is some context that could provide a probable chord.
 
 ## Discussing and labeling non-chord tones
 
 When developing a harmonic analysis, you should place parentheses around the note head of each non-chord tone and then label the NCT with its abbreviation. Each of the non-chord tones below will have a standard abbreviation written next to the definition. (For example, passing tones will be labeled using a "pt". See below for details.)
+
+### NCT Structure
 
 Before we can find non-chord tones in music, we need a shared terminology that describes how they are constructed. There are a great variety of NCTs, but every type shares a basic framework that we classify by motion between the notes on either side of it.
 - the *preparation*
@@ -27,6 +29,8 @@ Before we can find non-chord tones in music, we need a shared terminology that d
 - the *resolution*
     - The chord tone that immediately follows the NCT.
     - Its relationship to the NCT will define the type of movement used to leave the NCT.
+
+### Additional NCT descriptions
 
 And while these three terms provide a framework through which we can classify the movement of all non-chord tones, there are other aspects of their function and characteristics that we may need to discuss.
 - Accented vs unaccented
@@ -44,7 +48,7 @@ And while these three terms provide a framework through which we can classify th
 - Upper vs lower (*neighbor tones only*)
     - Neighbor tones can be divided into two categories based on whether they are above or below the chord tone that they are embellishing.
 
-One note on these labels: Because some methods for musical analysis only focus on music of certain periods (e.g. the Classical era), they may be overly specific in describing certain non-chord tones in a way that does not fully address the nature of the non-chord tone. For example, some texts say that suspensions must be accented, but because accented refers to a metric position ('on' or 'off' the beat) rather than a harmonic position, this is not always true in later styles. This is likely always true in the music of Mozart or even Beethoven, but it is not always true for the music of Gustav Mahler or John Lennon. It would be better to say that suspensions are always *on-chord*, because this allows for a suspension to happen in a weaker metric position. Harmony and rhythm exist independently, so we should use labels that help us understand all types of tonal music.
+One note on these labels: Because some methods for musical analysis only focus on music of certain periods (e.g. the Classical era), they may be overly specific in describing certain non-chord tones in a way that does not fully address the nature of the non-chord tone. For example, some texts say that suspensions must be accented, but because accented refers to a metric position ('on' or 'off' the beat) rather than a harmonic position, this is not always true in later styles. This is likely always true in the music of Mozart or even Beethoven, but it is not always true for the music of Gustav Mahler or John Lennon. It is more specific to state that suspensions are always *on-chord*, because this allows for a suspension to happen in a weaker metric position. Harmony and rhythm exist independently, so we should use labels that help us understand all types of tonal music.
 
 ## Passing tones, neighbor tones, and suspensions
 
@@ -85,9 +89,8 @@ w:F:I ii6 V7 _ I IV6 ii6 _ V I{% endcapture %}
 ### Conclusions
 
 When we analyze non-chord tones, we *label* a single pitch that does not belong to the chord, however, we are actually *classifying* the motion between the non-chord tone and its surrounding pitches, and you can see this in these straightforward definitions:
-- A *passing tone* (PT) is a non-chord tone which is approached by step and left by step in the same direction.
-- A *neighbor tone* (NT) is a non-chord tone which is approached by step and left by step in the opposite direction.
-- A *suspension* (SUS) is a non-chord tone which is approached by static motion and resolves downward by step.
+-The A in the soprano of measure 1 is a *passing tone*.
+- The D in the tenor on beat 2 of measure 1 is a *suspension*
 
 Let's look at each of these in more detail. The following descriptions are lightly edited versions taken from *Open Music Theory*.
 
@@ -112,7 +115,7 @@ Like the passing tone, a neighbor tone is a melodic embellishment that occurs be
 A suspension is formed of three critical parts: the *preparation* (accented or unaccented), the *suspension* itself (accented), and the *resolution* (unaccented). The preparation is a chord tone (consonance). The suspension is *the same note* as the preparation and *will always be on-chord*, **which means that all suspensions require two chords**, because the preparation will be on a different chord than the NCT itself. The suspension then resolves downward by step to the resolution, which occurs over the same harmony as the suspension. 
 
 Of note, it is a common misconception among students that a suspension is only present if you see a *tied* note. This is not true; the tone can be re-articulated. It only needs to follow the pattern of 
-- chord tone -> non-chord tone approached by static motion on a new chord -> resolution within the same chord
+- chord tone on the first chord-> non-chord tone approached by static motion on a second chord -> resolution within the second chord
 
 The suspension is in many respects the opposite of an anticipation (see the next topic, Unit 9b); if the anticipation is an early arrival of a tone belonging to the following chord, a suspension is a lingering of a chord tone belonging to the previous chord that forces the late arrival of the new chord’s chord tone. However, in composition and improvisation, the suspension must be treated with a great deal more care than an anticipation. The most common suspensions (and their resolutions) in upper voices form the following intervallic patterns against the bass: 9–8, 7–6, 4–3. (With the exception of 9–8, the pitch class of the resolution tone should never sound in another voice simultaneous with the suspended tone.)
 
