@@ -80,10 +80,14 @@ L:1/2
 Q:1/4=80
 K:F
 V:1
-[FA]| [D/2G/2][D/2A/2] [EB]| [F/2A/2][F/2G/2] [F/2D/2][E/2D/2]| [DD] [CE]| H[C2F2]|]
-V:2 clef=bass
-[F,C]| [B,,D] [D/2C,/2][C/2C,/2]| [CF,] [D,B,]| [B,,/2G,/2][B,,/2A,/2] [G,C,]| H[A,2F,,2]|]
-w:F:I ii6 V7 _ I IV6 ii6 _ V I{% endcapture %}
+C/4D/4 E/4F/4| [G/2][A/2] [B]| [A] [F]| [D] [E]| H[F2]|]
+V:2
+[C]| [D][E]| [F] [D]| [D]-[D/2][C/2]| H[C2]|]
+V:3 clef=bass
+[A,]| [D] [C/2][D/2]| [C] [B,]| [G,] [G,]| H[A,2]|]
+V:4 clef=bass
+[F,]| [B,,] [C,]| [F,/2][E,/2][D,/2][C,/2]| [B,,][C,]| H[F,,2]|]
+w:F:I ii6 V7 I _ IV6 _ ii6 V I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 ### Conclusions
