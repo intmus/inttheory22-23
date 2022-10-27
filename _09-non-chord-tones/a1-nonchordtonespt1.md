@@ -61,9 +61,13 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[FA]| [DG] [EB]| [FA] [FD]| [DD] [CE]| H[C2F2]|]
-V:2 clef=bass
-[F,C]| [B,,D] [CC,]| [CF,] [D,B,]| [B,,G,] [G,C,]| H[A,2F,,2]|]{% endcapture %}
+[F]| [G] [B]| [A] [F]| [D] [E]| H[F2]|]
+V:2
+[C]| [D] [E]| [C] [D]| [D] [C]| H[C2]|]
+V:3 clef=bass
+[A,]| [G,] [G,]| [F,] [B,]| [G,] [G,]| H[A,2]|]
+V:4 clef=bass
+[F,]| [B,,] [C,]| [F,] [D,]| [B,,] [C,]| H[F,,2]|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 **The following exercise incorporates multiple examples of three types of NCT to create an (overly) embellished example. They are:**
@@ -77,17 +81,17 @@ Identify each of the non-chord tones in the following example by comparing it to
 T:With added suspensions, passing tones, and neighbor tones
 M:4/4
 L:1/2
-Q:1/4=80
+Q:1/4=100
 K:F
 V:1
-C/4D/4 E/4F/4| [G/2][A/2] [B]| [A] [F]| [D] [E]| H[F2]|]
+[C/4][D/4] [E/4][F/4]| [G] [B]| [A] [F]| [D] [E]| H[F2]|]
 V:2
-[C]| [D][E]| [F] [D]| [D]-[D/2][C/2]| H[C2]|]
+[C]| [D] [E]| [C] [D]| [D]-[D/2][C/2]| H[C2]|]
 V:3 clef=bass
-[A,]| [D] [C/2][D/2]| [C] [B,]| [G,] [G,]| H[A,2]|]
+[A,]| [G,/2][A,/2] [G,]| [F,] [B,]| [G,] [G,]| H[A,2]|]
 V:4 clef=bass
-[F,]| [B,,] [C,]| [F,/2][E,/2][D,/2][C,/2]| [B,,][C,]| H[F,,2]|]
-w:F:I ii6 V7 I _ IV6 _ ii6 V I{% endcapture %}
+[F,]| [B,,] [C,/2] [D,/4][E,/4]| [F,][D,/2][C,/2]| [B,,] [C,]| H[F,,2]|]
+w:F:I ii6 V7 _ _ I IV6 _ ii6 V I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 ### Conclusions
