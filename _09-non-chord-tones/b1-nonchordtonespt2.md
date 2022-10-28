@@ -13,7 +13,7 @@ Understanding non-chord tones is critical for increasing the accuracy and speed 
 **We will use the same simple progression that we used in the previous topic as a template for demonstrating non-chord tones. If you do not still have this analyzed, you may wish to do so again before proceeding.**
 
 {% capture ex1 %}X:1
-T:A simple phrase
+T:Two simple phrases
 M:4/4
 L:1/2
 Q:1/4=100
@@ -44,11 +44,11 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[F] |[G] [B] |[A2] |[F/4][G/4] [E/4][F/4] [F]| [E] H[F]|]
+[F] |[G] [B] |[A2] |[F/4][G/4] "ng"[E/4][F/4] [F]| [E] H[F]|]
 V:2
 [C]| [D] [E]| [C2]| [D] [D]| [C] H[C]|]
 V:3 clef=bass
-[A,]| [G,/2][A,/4][F,/4] [G,]| [F,2]| [B,] [G,]| [G,] H[A,]|]
+[A,]| [G,/2]"ng"[A,/4][F,/4] [G,]| [F,2]| [B,] [G,]| [G,] H[A,]|]
 V:4 clef=bass
 [F,]| [B,,] [C,]| [F,2]| [D,] [B,,]| [C,] H[F,,]|]
 w:F:I ii6 V7 I IV6 ii6/5 V I{% endcapture %}
@@ -76,13 +76,13 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[F] |[G/2][c/2] [B] |[A2] |[F] [F]| [E] H[F]|]
+[F] |[G/2]"app"[c/2] [B] |[A2] |[F] [F]| [E] H[F]|]
 V:2
 [C]| [D] [E]| [C2]| [D] [D]| [C] H[C]|]
 V:3 clef=bass
-[A,]| [G,] [G,/2][E,/2]| [F,2]| [B,] [G,]| [G,] H[A,]|]
+[A,]| [G,] [G,/2]"app fig"[E,/2]| [F,2]| [B,] [G,]| [G,] H[A,]|]
 V:4 clef=bass
-[F,]| [B,,] [C,]| [F,2]| [D,/2][A,,/2] [B,,]| [C,] H[F,,]|]
+[F,]| [B,,] [C,]| [F,2]| [D,/2]"app"[A,,/2] [B,,]| [C,] H[F,,]|]
 w:F:I ii6 V7 I IV6 _ ii6/5 V I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
@@ -95,17 +95,21 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[FA]| [DG] [E/2B/2]"et fig"[E/2c/2]| [F/2A/2]"et"[F/2B/2] [FD]| [DD] [CE]| H[C2F2]|]
-V:2 clef=bass
-[F,C]| [B,,D] [CC,]| [CF,] [D,/2B,/2]"et"[D,/2C/2]| [B,,G,] [G,C,]| H[A,2F,,2]|]
-w:F:I ii6 V7 I IV6 _ ii6 V I{% endcapture %}
+[F] |[G] [B/2]"et fig"[c/2] |[A2] |[F] [F]| [E] H[F]|]
+V:2
+[C]| [D] [E]| [C2]| [D] [D]| [C] H[C]|]
+V:3 clef=bass
+[A,]| [G,] [G,]| [F,2]| [B,] [G,]| [G,] H[A,]|]
+V:4 clef=bass
+[F,]| [B,,/2]"et"[A,,/2] [C,]| [F,2]| [D,] [B,,]| [C,] H[F,,]|]
+w:F:I ii6 _ V7 I IV6 ii6/5 V I{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
 #### Conclusions
 
 ![][appoggiatura]
 
-An appoggiatura is a kind of incomplete neighbor tone that is *approached by leap, and followed by step in the opposite direction*.
+An appoggiatura is *approached by leap, and followed by step in the opposite direction*.
 
 ![][escape]
 
@@ -122,10 +126,14 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[FA]| [DG] [E/2B/2]"ant"[E/2A/2]| [FA] [FD]| [DD] [C/2E/2]"ant"[C/2F/2]| H[C2F2]|]
-V:2 clef=bass
-[F,C]| [B,,D] [CC,]| [CF,] [D,/2B,/2]"ant"[D,/2G,/2]| [B,,G,] [G,C,]| H[A,2F,,2]|]
-w:F:I ii6 V7 I IV6 _ ii6 V I{% endcapture %}
+[F] |[G] [B] |[A2] |[F] [F]| [E/2]"ant"[F/2] H[F]|]
+V:2
+[C]| [D/2]"ant"[E/2] [E]| [C2]| [D] [D]| [C] H[C]|]
+V:3 clef=bass
+[A,]| [G,] [G,]| [F,2]| [B,/2]"ant fig"[G,/2] [G,]| [G,] H[A,]|]
+V:4 clef=bass
+[F,]| [B,,] [C,]| [F,2]| [D,] [B,,]| [C,] H[F,,]|]
+w:F:I ii6 V7 I IV6 ii6/5 V I{% endcapture %}
 {% include abc-example.html number="7" abc=ex7 %}
 
 #### Conclusions
