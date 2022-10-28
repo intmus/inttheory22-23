@@ -152,9 +152,13 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[FA]| [DG] "ret"[D/2B/2][E/2B/2]| [FA] [FD]| [DD] [CE]| "ret"[C/2E/2]H[C/2F/2]|]
-V:2 clef=bass
-[F,C]| [B,,D] [CC,]| [CF,] [D,B,]| [B,,G,] [G,C,]| H[A,F,,]|]
+[F] |[G] [B] |[A2] |[F] [F]| [E] E/2 H[F/2]|]
+V:2
+[C]| [D] [D/2][E/2]| [C2]| [D] [D]| [C] H[C]|]
+V:3 clef=bass
+[A,]| [G,] [G,]| [F,2]| [B,] [G,]| [G,] H[A,]|]
+V:4 clef=bass
+[F,]| [B,,] [C,]| [F,2]| [D,] [B,,]| [C,] H[F,,]|]
 w:F:I ii6 V7 I IV6 ii6 V I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
