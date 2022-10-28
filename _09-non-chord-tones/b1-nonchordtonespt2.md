@@ -61,8 +61,6 @@ w:F:I ii6 V7 I IV6 ii6/5 V I{% endcapture %}
 
 Like neighbor tones, a *neighbor group*, also known as a *double neighbor tone*, begins and ends on the *same* chord tone. Between those two instances of the chord tone are two embellishing tones--one a step above and the other a step below the stable tone being embellished. Though individually we may consider each of the two embellishing tones to be incomplete neighbor tones, the two tones of the neighbor group balance each other and create a contiguous whole, with the overall stability of a complete neighbor. A neighbor group is typically unaccented and off-chord, although it could be both accented and on-chord. It may occur within a single chord or across two chords, and either the upper or lower neighbor can be chromatically altered to strengthen the resolution.
 
-There is a variation of neighbor groups called *incomplete neighbor groups (ING)*. These are less common than neighbor groups and should be a last resort in your analyses, but they occur often enough that we need this label. An incomplete neighbor group occurs when a chord tone is approached by two pitches as if they were a part of a neighbor group--meaning one NCT a step above and one NCT a step below--but unlike a neighbor group, the first chord tone is "missing". For reference, if the image below were missing the first `E` and the `F` and `D` were stretched to fill that space, you could consider labeling that as an incomplete neighbor group.
-
 ![][doubleNeighbor]
 
 ### Appoggiaturas (APP)
@@ -149,16 +147,16 @@ This NCT must be a chord tone taken from the chord to which it resolves, meaning
 
 #### Syncopation versus anticipations
 
-![][syncopatedNote]
-
 Some theorists classify syncopated rhythmic figures as separate from anticipations, but this is more a discussion of re-articulation. For those that classify these differently, [syncopation](http://openmusictheory.com/syncopation.html) occurs when a rhythmic pattern that typically occurs on strong beats or strong parts of the beat occurs instead on weak beats or weak parts of the beat. Like the anticipation, the syncopated note is an early arrival--it tends to belong to the chord on the following beat. Unlike the anticipation, the syncopation is tied into a note in that chord and is not rearticulated. Rather than anticipating a note in the chord that follows, a syncopation is simply a disjointed and repeated arrival of the chord itself. Of course, you should consider context when making this decision as this difference is subtle, but if there is a pattern of syncopated rhythms in a passage, you could be more likely to label syncopation for the passage as a whole, rather than many anticipations.
+
+![][syncopatedNote]
 
 ### Pedals (PED)
 
 Pedals, often referred to as pedal tones or pedal points, most often occur in the bass voice but can occur in any voice. They can be difficult to spot if the texture is broken into arpeggiated chords, so it may be necessary to reduce a complicated texture down to block chords to more easily find the pedals.
 
 {% capture ex8 %}X:8
-T:With an added pedals
+T:With added pedals
 M:4/4
 L:1/2
 Q:1/4=100
@@ -176,13 +174,30 @@ w:F:I ii6/5 V7 I IV6 ii6/5 V I IV6/4 I{% endcapture %}
 
 #### Conclusions
 
-Pedals are *approached by static motion and left by static motion*; essentially, this is just a pitch that refuses to leave regardless of whether it belongs to the chord. Pedals are one of the most interesting non-chord tones because they have a dual nature--they create some of the strongest dissonances in tonal harmony, but their repetitive nature provides an unusual stability. As a pedal continues, it will often alternate between acting as a chord tone and non-chord tone, so it can be helpful to label the chord tones as "pedal figures" to show the continuation of the pedal.
+Pedals are *approached by static motion and left by static motion*; essentially, this is a note that refuses to leave regardless of whether it belongs to the chord. Pedals are one of the most interesting non-chord tones because they have a dual nature--they create some of the strongest dissonances in tonal harmony, but their repetitive nature provides an unusual stability. As a pedal continues, it will often alternate between acting as a chord tone and non-chord tone, so it can be helpful to label the chord tones as "pedal figures" to show the continuation of the pedal as demonstrated in the first measure above.
 
-## A less common non-chord tone
+### Incomplete Neighbor Tone (INT) and Incomplete Neighbor Group (ING)
 
-### Incomplete Neighbor Tone (INT)
+While less common than those above, you will occasionally encounter non-chord tones that are approached by leap and left by step in the *same* direction; resembling an appoggiatura but not resolving in the opposite direction. For our analyses, we will label these as *incomplete neighbor tones*, although some theorists use this term to refer to appoggiaturas and escape tones as well. Broadly speaking, you should not resort to an incomplete neighbor tone NCT unless you have exhausted all other options, because it is far more likely that this melodic shape is part of a chordal skip rather than an actual NCT. You should always check for other harmonic possibilities before committing to an INT.
 
-While less common than those above, you will occasionally encounter an unaccented non-chord tone that is approached by leap and left by step in the *same* direction; resembling an appoggiatura but not resolving in the opposite direction. For our analyses, we will label these as *incomplete neighbor tones*, although some theorists use this term to refer to appoggiaturas and escape tones as well. Broadly speaking, you should not resort to an incomplete neighbor tone NCT unless you have exhausted all other options, because it is far more likely for this shape is part of a chordal skip rather than an NCT.
+There is also an additional variation of incomplete neighbor tones called *incomplete neighbor groups (ING)*. An incomplete neighbor group occurs when a chord tone is approached by two pitches as if they were a part of a neighbor group--meaning one NCT a step above and one NCT a step below--but unlike a neighbor group, the first instance of the chord tone is not present. Like incomplete neighbor tones, these should be a last resort in your analyses, but they occur often enough that we need this label.
+
+{% capture ex9 %}X:9
+T:Incomplete neighbor tones and groups
+M:4/4
+L:1/2
+Q:1/4=100
+K:F
+V:1
+c/2>"int"G/2F|| [c/2]"ing"[B/4][G/4][A]|]
+V:2
+[C2]|| [F2]|]
+V:3 clef=bass
+[A,2]|| [C2]|]
+V:4 clef=bass
+[F,2]|| [F,2]|]
+w:F:I I{% endcapture %}
+{% include abc-example.html number="9" abc=ex9 %}
 
 
 [INT]: {{ site.baseurl }}/images/embellishingTones/INT.png
