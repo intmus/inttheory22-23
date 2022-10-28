@@ -61,17 +61,18 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[F]| [G] [B]| [A] [F]| [D] [E]| H[F2]|]
+[F] |[G] [B] |[A2] |[F] [D]| [E] H[F]|]
 V:2
-[C]| [D] [E]| [C] [D]| [D] [C]| H[C2]|]
+[C]| [D] [E]| [C2]| [D] [D]| [C] H[C]|]
 V:3 clef=bass
-[A,]| [G,] [G,]| [F,] [B,]| [G,] [G,]| H[A,2]|]
+[A,]| [G,] [G,]| [F,2]| [B,] [G,]| [G,] H[A,]|]
 V:4 clef=bass
-[F,]| [B,,] [C,]| [F,] [D,]| [B,,] [C,]| H[F,,2]|]{% endcapture %}
+[F,]| [B,,] [C,]| [F,2]| [D,] [B,,]| [C,] H[F,,]|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-**The following exercise incorporates multiple examples of three types of NCT to create an (overly) embellished example. They are:**
+**The following exercise incorporates multiple examples of three types of non-chord tones to create an embellished example. They are:**
 - passing tone
+  - double passing tone (a sub-classification of a passing tone)
 - neighbor tone
 - suspension
 
@@ -84,23 +85,30 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[C/4][D/4] [E/4][F/4]| [G] [B]| [A] [F]| [D] [E]| H[F2]|]
+[C/4][D/4] [E/4][F/4]| [G] [B]| [A2]| [F] [D]| [E] H[F]|]
 V:2
-[C]| [D] [E]| [C] [D]| [D]-[D/2][C/2]| H[C2]|]
+[C]| [D] [E]| [C2]| [D] [D]-|[D/2][C/2] H[C]|]
 V:3 clef=bass
-[A,]| [G,/2][A,/2] [G,]| [F,] [B,]| [G,] [G,]| H[A,2]|]
+[A,]| [G,/2][A,/2] [G,]| [F,2]| [B,] [G,]| [G,] H[A,]|]
 V:4 clef=bass
-[F,]| [B,,] [C,/2] [D,/4][E,/4]| [F,][D,/2][C,/2]| [B,,] [C,]| H[F,,2]|]
+[F,]| [B,,] [C,/2] [D,/4][E,/4]| [F,2]| [D,/2][C,/2] [B,,]| [C,] H[F,,]|]
 w:F:I ii6 V7 _ _ I IV6 _ ii6 V I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 ### Conclusions
 
-When we analyze non-chord tones, we *label* a single pitch that does not belong to the chord, however, we are actually *classifying* the motion between the non-chord tone and its surrounding pitches, and you can see this in these straightforward definitions:
--The A in the soprano of measure 1 is a *passing tone*.
-- The D in the tenor on beat 2 of measure 1 is a *suspension*
+After studying the motion of each new note introduced in this examlpe, you were likely able to figure out how to classify each of these non-chord tones based on the name alone.
+- Passing tones
+  - The D in the bass line of measure 1
+  - The C in the bass line of measure 3
+- Double passing tone
+  - The D and E in the soprano line of the pick-up measure
+- Neighbor tone
+  - The A in the tenor line in measure 1
+- Suspension
+  - The D in the alto line in measure 4
 
-Let's look at each of these in more detail. The following descriptions are lightly edited versions taken from *Open Music Theory*.
+When we analyze non-chord tones, we *label* a single pitch that does not belong to the chord, however, we are actually *classifying* the motion between the non-chord tone and its surrounding pitches. The following descriptions are lightly edited discussions of these three NCTs taken from *Open Music Theory*.
 
 #### Passing tone (pt)
 
@@ -108,7 +116,7 @@ Let's look at each of these in more detail. The following descriptions are light
 
 A passing tone is a melodic embellishment that occurs between two stable tones, creating stepwise motion. *It is approached by stepwise motion and left by stepwise motion in the same direction.* A passing tone can be either accented or unaccented as well as on-chord or off-chord.
 
-The typical figure is *chord tone – passing tone – chord tone*, filling in a third (see example), but multiple adjacent passing tones can also be used to fill in the space between two chord tones, and these would be labeled by their number as appropriate--*double passing tone (dpt), triple passing tone (tpt), or quadruple passing tone (qpt)*. The only time you can have a *diatonic* double passing tone is between the chordal fifth and root of a triad (e.g. sol-(la-ti)-do within a I chord). You can have a double passing tone to fill in a third if there are chromatic tones, and all triple and quadruple passing tones require chromatic pitches.
+The typical figure is *chord tone – passing tone – chord tone*, filling in a third (see example), but multiple adjacent passing tones can also be used to fill in the space between two chord tones, and these would be labeled by their number as appropriate--*double passing tone (dpt), triple passing tone (tpt), or quadruple passing tone (qpt)*. The only time you can have a *diatonic* double passing tone is between the chordal fifth and root of a triad (e.g. sol-(la-ti)-do within a I chord) as shown in in the pick-up measure. A double passing tone can fill in a third if there are chromatic tones, and all triple and quadruple passing tones require chromatic pitches.
 
 #### Neighbor tone (nt)
 
