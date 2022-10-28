@@ -153,7 +153,7 @@ Some theorists classify syncopated rhythmic figures as separate from anticipatio
 
 ### Pedals (PED)
 
-Pedals, often referred to as pedal tones or pedal points, most often occur in the bass voice but can occur in any voice. They can be difficult to spot if the texture is broken into arpeggiated chords, so it may be necessary to reduce a complicated texture down to block chords to more easily find the pedals.
+*Pedals*, often referred to as *pedal tones* or *pedal points*, most often occur in the bass voice but can occur in any voice. They can be difficult to spot if the texture is broken into arpeggiated chords, so it may be necessary to reduce a complicated texture down to block chords to more easily find the pedals.
 
 {% capture ex8 %}X:8
 T:With added pedals
