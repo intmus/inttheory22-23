@@ -19,9 +19,14 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[FA]| [DG] [EB]| [FA] [FD]| [DD] [CE]| H[C2F2]|]
-V:2 clef=bass
-[F,C]| [B,,D] [CC,]| [CF,] [D,B,]| [B,,G,] [G,C,]| H[A,2F,,2]|]{% endcapture %}
+[F] |[G] [B] |[A2] |[F] [F]| [E] H[F]|]
+V:2
+[C]| [D] [E]| [C2]| [D] [D]| [C] H[C]|]
+V:3 clef=bass
+[A,]| [G,] [G,]| [F,2]| [B,] [G,]| [G,] H[A,]|]
+V:4 clef=bass
+[F,]| [B,,] [C,]| [F,2]| [D,] [B,,]| [C,] H[F,,]|]
+w:F:I ii6 V7 I IV6 ii6/5 V I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 ## More non-chord tones
@@ -39,10 +44,14 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[FA]| [DG] [EB]| [FA] [FD]| [DD] [CE]| [C/2F/2]"ng"[C/4G2/4][C/4E/4]H[CF]|]
-V:2 clef=bass
-[F,C]| [B,,D] "ng"[C/4C,/4][D/4C,/4][C/4C,/4][B,/4C,/4]| [CF,] [D,B,]| [B,,/2G,/2]"ng"[B,,/4F,/4][B,,/4A,/4] [G,C,]| H[A,2F,,2]|]
-w:F:I ii6 V7 _ _ _ I IV6 ii6 _ _ V I{% endcapture %}
+[F] |[G] [B] |[A2] |[F/4][G/4] [E/4][F/4] [F]| [E] H[F]|]
+V:2
+[C]| [D] [E]| [C2]| [D] [D]| [C] H[C]|]
+V:3 clef=bass
+[A,]| [G,/2][A,/4][F,/4] [G,]| [F,2]| [B,] [G,]| [G,] H[A,]|]
+V:4 clef=bass
+[F,]| [B,,] [C,]| [F,2]| [D,] [B,,]| [C,] H[F,,]|]
+w:F:I ii6 V7 I IV6 ii6/5 V I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
 #### Conclusions
