@@ -76,10 +76,14 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[FA]| [D/2G/2]"app"[D/2c/2] [EB]| [FA] [FD]| [DD] [CE]| H[C2F2]|]
-V:2 clef=bass
-[CF,]| [B,,D] [C/2C,/2]"app fig"[C/2G,/2]| [CF,] "app"[D,/2A,/2][D,/2B,/2]| [B,,G,/2][G,C,]| H[A,2F,,2]|]
-w:F:I _ ii6 V7 _ I IV6 _ ii6 V I{% endcapture %}
+[F] |[G/2][c/2] [B] |[A2] |[F] [F]| [E] H[F]|]
+V:2
+[C]| [D] [E]| [C2]| [D] [D]| [C] H[C]|]
+V:3 clef=bass
+[A,]| [G,] [G,/2][E,/2]| [F,2]| [B,] [G,]| [G,] H[A,]|]
+V:4 clef=bass
+[F,]| [B,,] [C,]| [F,2]| [D,/2][A,,/2] [B,,]| [C,] H[F,,]|]
+w:F:I ii6 V7 I IV6 _ ii6/5 V I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
 ### Escape tones (ET)
