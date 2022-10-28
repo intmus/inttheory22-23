@@ -55,7 +55,7 @@ One note on these labels: Because some methods for musical analysis only focus o
 **Analyze the following chorale. We will use this as a framework to add a variety of NCTs.**
 
 {% capture ex1 %}X:1
-T:A simple phrase
+T:Two simple phrases
 M:4/4
 L:1/2
 Q:1/4=100
@@ -85,13 +85,13 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[C/4][D/4] [E/4][F/4]| [G] [B]| [A2]| [F] [F]| [E] H[F]|]
+[C/4]"dpt"[D/4] [E/4][F/4]| [G] [B]| [A2]| [F] [F]| [E] H[F]|]
 V:2
-[C]| [D] [E]| [C2]| [D] [D]-|[D/2][C/2] H[C]|]
+[C]| [D] [E]| [C2]| [D] [D]-|"sus"[D/2][C/2] H[C]|]
 V:3 clef=bass
-[A,]| [G,/2][A,/2] [G,]| [F,2]| [B,] [G,]| [G,] H[A,]|]
+[A,]| [G,/2]"nt"[A,/2] [G,]| [F,2]| [B,] [G,]| [G,] H[A,]|]
 V:4 clef=bass
-[F,]| [B,,] [C,/2] [D,/4][E,/4]| [F,2]| [D,/2][C,/2] [B,,]| [C,] H[F,,]|]
+[F,]| [B,,] [C,/2] "pt"[D,/4][E,/4]| [F,2]| [D,/2]"pt"[C,/2] [B,,]| [C,] H[F,,]|]
 w:F:I ii6 V7 _ _ I IV6 _ ii6/5 V I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
@@ -152,9 +152,9 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[F] |[G] [B] |[A2] |[F] [F]| [E] E/2 H[F/2]|]
+[F] |[G] [B] |[A2] |[F] [F]| [E] "ret"E/2 H[F/2]|]
 V:2
-[C]| [D] [D/2][E/2]| [C2]| [D] [D]| [C] H[C]|]
+[C]| [D] "ret"[D/2][E/2]| [C2]| [D] [D]| [C] H[C]|]
 V:3 clef=bass
 [A,]| [G,] [G,]| [F,2]| [B,] [G,]| [G,] H[A,]|]
 V:4 clef=bass
