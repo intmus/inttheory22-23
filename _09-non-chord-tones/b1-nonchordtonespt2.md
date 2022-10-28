@@ -80,7 +80,7 @@ V:1
 V:2
 [C]| [D] [E]| [C2]| [D] [D]| [C] H[C]|]
 V:3 clef=bass
-[A,]| [G,] [G,/2]"app fig"[E,/2]| [F,2]| [B,] [G,]| [G,] H[A,]|]
+[A,]| [G,] [G,/2]"app fig"[E,/2]| [F,2]| [B,] [G,]| [G,] "app"[B,/2]H[A,/2]|]
 V:4 clef=bass
 [F,]| [B,,] [C,]| [F,2]| [D,/2]"app"[A,,/2] [B,,]| [C,] H[F,,]|]
 w:F:I ii6 V7 I IV6 _ ii6/5 V I{% endcapture %}
