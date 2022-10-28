@@ -92,7 +92,7 @@ V:3 clef=bass
 [A,]| [G,/2][A,/2] [G,]| [F,2]| [B,] [G,]| [G,] H[A,]|]
 V:4 clef=bass
 [F,]| [B,,] [C,/2] [D,/4][E,/4]| [F,2]| [D,/2][C,/2] [B,,]| [C,] H[F,,]|]
-w:F:I ii6 V7 _ _ I IV6 _ ii6 V I{% endcapture %}
+w:F:I ii6 V7 _ _ I IV6 _ ii6/5 V I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 ### Conclusions
@@ -159,7 +159,7 @@ V:3 clef=bass
 [A,]| [G,] [G,]| [F,2]| [B,] [G,]| [G,] H[A,]|]
 V:4 clef=bass
 [F,]| [B,,] [C,]| [F,2]| [D,] [B,,]| [C,] H[F,,]|]
-w:F:I ii6 V7 I IV6 ii6 V I{% endcapture %}
+w:F:I ii6 V7 I IV6 ii6/5 V I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
 ### Conclusion (RET)
