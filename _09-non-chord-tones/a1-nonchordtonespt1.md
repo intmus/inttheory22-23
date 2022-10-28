@@ -97,18 +97,7 @@ w:F:I ii6 V7 _ _ I IV6 _ ii6/5 V I{% endcapture %}
 
 ### Conclusions
 
-After studying the motion of each new note introduced in this examlpe, you were likely able to figure out how to classify each of these non-chord tones based on the name alone.
-- Passing tones
-  - The D in the bass line of measure 1
-  - The C in the bass line of measure 3
-- Double passing tone
-  - The D and E in the soprano line of the pick-up measure
-- Neighbor tone
-  - The A in the tenor line in measure 1
-- Suspension
-  - The D in the alto line in measure 4
-
-When we analyze non-chord tones, we *label* a single pitch that does not belong to the chord, however, we are actually *classifying* the motion between the non-chord tone and its surrounding pitches. The following descriptions are lightly edited discussions of these three NCTs taken from *Open Music Theory*.
+When we analyze non-chord tones, we *label* all pitches that do not belong to the chord, and in doing so, our goal is to *classify* the motion between the non-chord tone(s) and its surrounding pitches. The following definitions are lightly edited descriptions taken from *Open Music Theory*.
 
 #### Passing tone (pt)
 
@@ -164,9 +153,9 @@ w:F:I ii6 V7 I IV6 ii6/5 V I{% endcapture %}
 
 ### Conclusion (RET)
 
-![][retardation]
+A retardation is essentially an upward-resolving suspension. It is almost always reserved for the final chord of a large formal division (or a movement), and it frequently appears simultaneously with a suspension (as seen in the picture below--the retardation is the upper-most voice). Like suspensions, retardations must be accented and on-chord, yet unlike suspensions, it is not necessary to label the intervals against the bass, although you may do so if you wish.
 
-A retardation is essentially an upward-resolving suspension. It is almost always reserved for the final chord of a large formal division (or a movement), and it frequently appears simultaneously with a suspension (as seen in the picture above--the retardation is the upper-most voice). Like suspensions, retardations must be accented and on-chord, yet unlike suspensions, it is not necessary to label the intervals against the bass, although you may do so if you wish.
+![][retardation]
 
 ## A few last notes
 
