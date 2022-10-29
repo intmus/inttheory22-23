@@ -3,7 +3,35 @@ layout: chapter
 title: 9b Lesson - Non-chord Tones, Part 2
 ---
 
-# Class discussion
+## Class Discussion
+
+More Non-chord Tones
+
+Double Neighbor Tones or Neighbor groups
+
+- Surrounding a chord tone with both possible neighbor tones. Neighbor groups are when a chord tone steps to a neighbor tone, then skips a third in the opposite direction to the other neighbor tone, then resolves. It can also step through the original chord tone before moving to the other neighbor tone instead of skipping to it. Labeled NG or DNT.
+
+Appoggiaturas 
+
+- Approached by step and left by a skip in the opposite direction.
+
+Escape Tones
+
+- Approached by a skip and left by a step in the opposite direction.
+
+Anticipation
+
+- When a chord tone from the following chord is played early, or on the previous chord.
+
+Pedal Points
+
+- When a tone stays the same through one chord into another chord making it a non-chord tone, and then becomes a chord tone again.
+
+Incomplete Neighbor Tones
+
+- Approached by leap and left by step in the same direction.
+
+## Class discussion 2021
 
 **Double Neighbor Tones** 
 Decorates a single pitch, has to come back to the original pitch.
