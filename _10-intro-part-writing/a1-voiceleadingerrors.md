@@ -4,9 +4,13 @@ title: Lesson 10a - Basic Voice Leading Errors
 abc: true
 ---
 
-Before we move on to fully analyzing harmonic function, we must define the stylistic rules of the music we will be studying. If you remember from our discussion of laws, rules, and strategies, rules are necessary to create a style. They are the binding agents that create a genre, but they also provide enough flexibility for composers within a style to carve out a unique voice. 
+Before we move on to fully analyzing harmonic function, we must define the stylistic rules of the music we will be studying. If you remember from the Unit 6 readings discussing laws, rules, and strategies, rules are the practices that define a style. They are the binding agents that create a genre, but they also must be flexible enough for composers to carve out a unique voice within the style. 
 
-We will be studying basic diatonic harmony in a chorale style. We will use this not because it is "superior" to any other style, but because it is relatively straightforward in its approach when compared to styles of music that came later. There are countless styles of tonal music that have evolved over the last four centuries, but a chorale style gives us the best starting place to study this evolution. So as we progress through rules that might seem outdated, do not lose sight of the *process* that we are creating. If you understand why each decision is made in this style, you will be able to intuit the next leap forward. And as we add complexity, you will eventually be able to apply these principles to *any* style of tonal music, even those that do not employ the underpinnings of tonic-dominant relationships. 
+We will be studying basic diatonic harmony in a chorale style. We will use this not because it is "superior" to any other style, but because it has two advantages for teaching harmony when compared to other styles of music:
+- Chorales have been consistently composed over the last three centuries, therefore giving us multiple levels of complexity to study the evolution of tonal harmony.
+- Chorales are easier to understand visually, because they don't often have as much embellishment as other styles. 
+
+So as we progress through rules of early styles that might seem outdated, do not lose sight of the *process* that we are creating. If you understand why each decision is made in this style, you will be able to intuit the next leap forward. And as we add complexity, you will eventually be able to apply these principles to *any* style of tonal music, even those that do not employ the underpinnings of tonic-dominant relationships. 
 
 ## Voice-leading errors
 
@@ -46,7 +50,7 @@ When voicing triads in four-part harmony, at least one note must be doubled.
 
 1. Doubling the root is usually the ideal choice on root position chords and is almost always a reasonable option, regardless of inversion.
 2. Doubling the fifth is generally the second best option for triads, and it is often the best option for second inversion triads.
-3. Doubling the third is generally *unacceptable*, although there are certain cases in which this can be necessary, such as *some* first inversion chords. As a rule of thumb, do not double the third unless you are working on a chord in which you've already been told that doubling the third is the best option.
+3. Doubling the third is generally *unacceptable*, although there are certain cases in which this can be necessary, such as *some* first inversion chords. As a rule of thumb, do not double the third unless you are voicing a chord and/or inversion in which you've already been told that doubling the third is the best option.
 4. If you need to omit a voice, the fifth is the only option, because the root and third are required to define the chord. Diminished triads are the only diatonic harmony in which the chordal fifth is a critical chord tone, but even in these situations, the fifth might be the best omission if necessary (albeit unlikely).
 4. You can triple the root if necessary, but this voicing lacks the depth of a chord with a fifth and can create a difficult voicing to continue writing afterwards. This is most commonly used as an ending chord of the piece (often after a V7).
 
