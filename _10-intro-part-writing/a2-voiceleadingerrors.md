@@ -4,7 +4,17 @@ title: Discussion 10a - Basic Voice Leading Errors
 abc: true
 ---
 
-## Class discussion
+## Class Discussion
+
+When voiceleading, it is important o consider which pitches are required for the chord, and which are doubled more often. 
+
+- It is ok to omit the fifth of a chord, especially to allow for smooth voiceleading and to prevent errors.
+
+- You cannot omit the third or the seventh of a chord, because they are necessary in defining a chord. 
+
+- You should never double the third or the seventh of a chord, only the root or the fifth, but doubling the root is much more common.
+
+## Class discussion 2021
 
 **Things to consider before you start part writing**
 - Harmonic Rhythm; pitches could switch between being a chord tone and a NCT depending on the harmonic rhythm
