@@ -6,9 +6,9 @@ abc: true
 
 ## Class Discussion
 
-When voiceleading, it is important o consider which pitches are required for the chord, and which are doubled more often. 
+When writing parts, it is important to consider which pitches are required for the chord, and which are doubled more often. 
 
-- It is ok to omit the fifth of a chord, especially to allow for smooth voiceleading and to prevent errors.
+- It is ok to omit the fifth of a chord, especially to allow for smooth voice leading and to prevent errors.
 
 - You cannot omit the third or the seventh of a chord, because they are necessary in defining a chord. 
 
