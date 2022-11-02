@@ -14,6 +14,10 @@ When writing parts, it is important to consider which pitches are required for t
 
 - You should never double the third or the seventh of a chord, only the root or the fifth, but doubling the root is much more common.
 
+- Don't cross voices.
+
+- You should never have more than an octave of space between you tenor and alto voices, and alto and soprano voices.
+
 ## Class discussion 2021
 
 **Things to consider before you start part writing**
