@@ -6,23 +6,22 @@ abc: true
 
 ## Part-writing
 
-The term *part-writing* can imply many things depending on its context, but for our purposes, this will be our first attempt to combine the fundamentals of melody (counterpoint) and harmony (voice-leading from circle-of-fifths progressions) into functional music using diatonic tonality. 
+The term *part-writing* can imply many things depending on its context, but for our purposes, this will be our first attempt to combine the fundamentals of melody (counterpoint) and harmony (voice-leading derived from circle-of-fifths progressions) into functional music using diatonic tonality. 
 
 By applying the various rules and techniques that we have studied thus far, we will be able to:
-- Harmonize a melody
-- Compose a melody given a harmony
-- Fully voice four-part harmonies
-- Create independent melodic lines that function harmonically together
+- Propose a functional harmonization for a melody
+- Compose a melody given a harmonic progression
+- Provide a four-voice arrangement of independent melodic lines that function harmonically together
 
-Units 10 and 11 will help you solidify this process. First, we will establish a reference model by looking at the rules--and resulting errors from breaking those rules--that occur when writing in a four-part chorale style. We will then apply these guidelines to our own attempts to compose basic four-part chorales in order to better understand the voice-leading principles of diatonic music.
+Units 10 and 11 will help you solidify this process. First, we will establish a reference model by looking at the rules--and resulting errors from breaking those rules--that occur when writing in a four-voice structure. We will then apply these guidelines to our own attempts to compose basic four-voice chorales in order to better understand the voice-leading principles of diatonic music.
 
 We will be referring to this handout, [Part-Writing Error Checklist and Guide](https://docs.google.com/document/d/1s9Xd3LPqoaEevshTopxHzLX9jCzxVCZocOBLD_dceMU/edit?usp=sharing), for the next two units, so you may want to print this out or open it in a separate window.
 
 ## Why part-writing?
 
-Before we begin, I would like to address a question that I have received many times from students. Why do we study part-writing rather than just analysis, particularly in a strict style that is not performed regularly by modern musicians?
+Before we begin, I would like to address a question that I have received many times from students. Why do we study part-writing rather than just analysis, particularly in a strict style that is not applicable to all modern styles of composition?
 
-There are many answers for this, but there is one in particular that I think justifies the study of this in this course. Part-writing is the simplest way to study *how* voice-leading creates harmony. Even though most of its rules are archaic, and a modern student's ear is unlikely to be "offended" by certain style characteristics (e.g. parallel perfect fifths), this is the most direct way to study every aspect of how music functions: voice-leading, chord progressions, voicing chords, chordal structure, tendency tones, melodic construction, and so on.
+For our purposes, the study of basic part-writing is the simplest way to learn *how* voice-leading creates harmony. Even though most of its rules are archaic--and perhaps more damning is that a modern student's ear is unlikely to dislike certain style characteristics (e.g. parallel perfect fifths)--four-voice composition is the most direct way to study every aspect of how music functions: voice-leading, chord progressions, voicing chords, chordal structure, tendency tones, melodic construction, and so on.
 
 We could attempt to focus on only one style of modern music--whether pop, jazz, classical, or otherwise--but because each is a fully developed, complex language, you would still need to learn basic harmonic movement before beginning to write in that style. And because each of these musics has its roots in diatonic harmony, an understanding of basic chorale style part-writing will allow you to study and develop a process to analyze *all* of these styles, rather than focusing your studies into only one area and being ignorant of the others.
 
@@ -46,27 +45,23 @@ In the last [topic]({{ site.baseurl }}/10-intro-harmonic/a1-voiceleadingerrors.h
     - You can double the root of a chord when possible.
     - For triads, you may double the fifth instead of the root if necessary.
         - This is actually preferable if the triad is in second inversion.
-    - **Do not** double the third because if it is a tendency tone. (e.g. circle-of-fifths progressions)If this is doubled, it will force you to choose between the incorrect resolution of a tendency tone or unacceptable parallel octaves. Also, the third should also be least present chord tone in the balance for the chord to sound best.
-    - **Do not** double the seventh because it is a tendency tone. If this is doubled, it will force you to choose between the incorrect resolution of a tendency tone or unacceptable parallel octaves.
-    - **Do not** double the fifth of a seventh chord. This would require omitting the root, third, or seventh, and none of these are expendable.
+    - Do not double the chordal third because *if it is a tendency tone*--meaning that it has a desired resolution based on voice leading (e.g. the chordal third in a circle-of-fifths progression). If this is doubled, it will force you to choose between the incorrect resolution of a tendency tone or unacceptable parallel voices.
+        - Additionally, the third should usually be the least present chord tone for a triad to sound balanced.
+    - Do not double the chordal seventh because *it is a tendency tone*. Just as with the chordal third tendency tone, doubled chordal sevenths will force you to choose between the incorrect resolution of a tendency tone or unacceptable parallel voices.
+    - **Do not** double the chordal fifth of a seventh chord. This would require omitting the root, third, or seventh, and none of these are expendable.
 
 ## Part-writing errors
 
-In addition to the voicing rules, there are a number of standard part-writing errors that should be avoided as well:
-1. Parallel perfect octaves or perfect fifths 
-2. Similar octaves or fifths (sometimes referred to as "direct", "hidden", or "exposed")
-3. Unacceptable unequal fifths
-4. Contrary perfect octaves or perfect fifths
+**An important caveat**: Before you begin examining each of the four errors below, please remember two things:
+1. All voice-leading errors *must occur within the same two voices*. 
+      - Due to the effects of consistently doubling roots, there will almost always be consecutive perfect octaves and perfect fifths between two triads, but this is not *parallel*. For example, a root position C major triad moving to a root position G triad likely will have two voices on C in the first chord and two voices on G in the second chord, if standard doubling practices are observed. This is fine as long as its not in the *same* two voices in both chords (e.g. soprano and bass both have C and then both have a G).
+2. Each of the four primary categories of part-writing errors are *symptoms* of voice-leading issues. If you understand the underlying voice-leading issues of each of these errors, you can find them more easily and avoid them in your own part-writing. 
 
-Please note that these errors *must be within the same two voices* across both chords. Due to the effects of consistently doubling roots, there will almost always be consecutive perfect octaves and perfect fifths between two triads, but this is not *parallel*. For example, a root position C major triad moving to a root position G triad likely will have two voices on C in the first chord and two voices on G in the second chord, if standard doubling practices are observed. This is fine as long as its not in the *same* two voices in both chords (e.g. soprano and bass both have C and then both have a G).
-
-Each of the four primary categories of part-writing errors are *symptoms* of voice-leading issues. If you understand the underlying voice-leading issues of each of these errors, you can find them more easily and avoid them in your own part-writing. 
-
-**Once you are comfortable with the descriptions of each of the errors below, try to fix each of the errors using the interface. What do you have to change? Do you have to alter the harmony? Voice-leading? Voicing? In trying to fix it, do you just create further errors?**
+Once you are comfortable with the descriptions of each of the errors below, try to fix each of the errors and listen to the playback. What do you have to change? Do you have to alter the harmony? Voice-leading? Voicing? In trying to fix it, do you just create further errors?
 
 ## Parallel perfect fifths and perfect octaves (PP5, PP8)
 
-Part-writing errors result from poor voice-leading. For example, look at the progression below and try to find our first major error: *parallel perfect octaves* (PP8). Once you have found it, look to see if a voicing rule (e.g. spacing, doubling, etc.) has been broken. If the voicing error is not fixed, is there any way to avoid the parallel octaves without incorrectly resolving a tendency tone?
+Part-writing errors result from poor voice-leading. For example, look at the progression below and try to find our first major error: *parallel perfect octaves* (PP8). The name of the error should be enough of a clue as to what you are searching for, and once you have found it, look to see if a voicing rule (e.g. spacing, doubling, etc.) has been broken. If the voicing error is not fixed, is there any way to avoid the parallel octaves without incorrectly resolving a tendency tone?
 
 {% capture ex1 %}X:1
 T:Parallel perfect octaves (PP8)
