@@ -4,7 +4,33 @@ title: Discussion 10b - Part-writing Errors
 abc: true
 ---
 
-# Class discussion
+## Clas Discussion
+
+In this style of part writing (16th century counterpoint), we want each voice to be a strong melody. Certain errors make voices blend together and resolve incorrectly.
+
+Part Writing Errors:
+
+Parallel Perfect Fifths
+
+- when two voices that are a P5 (or 12th) away moving in parallel motion.
+
+Parrallel Perfect Octaves
+
+- when two voices that are a P8 (or 15th) away moving in parallel motion.
+
+Unacceptable Unequal Fifths
+
+- When a d5 moves to a P5. This is cause when the seventh of a chord does not resolve down to the third of the next chord.
+
+Similar Perfect Fifths or Octaves
+
+- Must be between the soprano and the bass, and require a leap of a third of more.
+
+- When the voices move in similar motion and create a P5 or P8
+
+- This is avoided y using stepwise motion in the soprano voice.
+
+## Class discussion 2021
 
 See 10a for the rules.
 
