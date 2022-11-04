@@ -220,18 +220,6 @@ w:C:I vi IV V7 I{% endcapture %}
 
 ### Conclusions
 
-Similar perfect fifths/octaves occur when 1) the soprano and bass voices 2) move in similar motion to a 3) perfect fifth/octave, and 4) the soprano voice has a skip of a third or larger. You can see an example of this between the first two chords in this example.
+As described above, similar perfect fifths/octaves have the highest number of restrictions in place. They can only occur when 1) the soprano and bass voices 2) move in similar motion to a 3) perfect fifth/octave, and 4) the soprano voice has a skip of a third or larger. You can see an example of this between the first two chords in the above example.
 
-{% capture ex11 %}X:11
-T:Similar octaves (SP8)
-M:4/4
-L:1/2
-K:C
-V:1
-[Ge] [AA]| [FA] [FB]| [c2E2]|]
-V:2 clef=bass
-[C,C] [CA,,]| [F,,C] [DG,,]| [C2C,2]|]
-w:C:I vi IV V7 I{% endcapture %}
-{% include abc-example.html number="11" abc=ex11 %}
-
-Similar fifths/octaves are sometimes called "exposed" fifths/octaves, and both of these terms demonstrate a key feature about the part-writing error. Obviously, they must move in similar motion, but the term "exposed" highlights the fact that these must occur between the outer voices. By having similar motion to a perfect interval in the outer voices, it creates the impression of a parallel perfect interval. Most importantly, the leap in the soprano typically creates a poor soprano line in which the melody outlines/implies an unintentional harmony. In the example above, if you sing the melody line without the harmony it outlines A minor instead of C major.
+Similar fifths/octaves are sometimes called "exposed" fifths/octaves, and both of these terms demonstrate a key feature about the part-writing error. Obviously, they must move in similar motion, but the term "exposed" highlights the fact that these must occur between the outer voices. By having similar motion to a perfect interval in the outer voices, it creates the impression of a parallel perfect interval. Most importantly, the leap in the soprano typically creates a poor soprano line in which the melody outlines/implies an unintentional harmony. In the example above, if you sing the melody line without the harmony it outlines an A minor triad instead of C major triad.
