@@ -37,7 +37,7 @@ After looking at the list of concepts that are needed to harmonize a melody, you
 
 ### CONCEPT 1 - Manage the horizontal aspect through melody and tendency tones
 
-First, you should always prioritize making smooth, singable part in this style. Your bass line will likely have more leaps, but the upper three voices should predominantly use stepwise motion. Any leaps should be followed by stepwise motion in the opposite direction.
+First, you should always prioritize making smooth, singable parts in this style. Your bass line will likely have more leaps if you prioritize root-position chords, but the upper three voices should predominantly use stepwise motion. Any leaps should be followed by stepwise motion in the opposite direction; not only does this make for singable, interesting melodies, but it also minimizes the possibility of issues such as voice crossing and spacing.
 
 In Unit 7a, we showed that by studying the voice-leading of a simple V (or V<sup>7</sup>) to I progression, we can propose a broad set of voice-leading rules that explain circle-of-fifths diatonicism. Specifically:
 - For chords that have roots separated by a P5:
@@ -61,9 +61,9 @@ Voice-leading governs the horizontal axis of music by shaping the melodies withi
     - Your upper three voices should never have more than an octave between adjacent voices. The soprano and tenor *can* be more than an octave apart though.
     - Your bass can be as more than an octave from the tenor. 
 - Doubling
-    - If you need to double a pitch, you can double (or even triple!) the root of most chords, and you should generally avoid doubling the chordal third and seventh. You can omit the chordal fifth if necessary, but the other pitches cannot be omitted entirely. 
+    - If you need to double a pitch, you can double (or even triple!) the root of most chords, and you should generally avoid doubling the chordal third and seventh in root-position chords. You can omit the chordal fifth if necessary, but the other pitches cannot be omitted entirely. 
 - Voice-crossing
-     - In your early attempts at part-writing, do not allow your voices to cross.
+     - In our early attempts at part-writing, do not allow your voices to cross.
 
 ## A first attempt at part-writing
 
