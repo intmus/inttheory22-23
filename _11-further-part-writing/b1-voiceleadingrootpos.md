@@ -18,7 +18,7 @@ In [Unit 11a]({{ site.baseurl }}/11-further-part-writing/a1-funds-of-part-writin
 5. Compose a bass line based on your harmonization.
 6. Fill in the alto and tenor voices.
 
-And we employed the stylistic guidelines that we studied in Unit 10 to act as the framework for our part-writeing.
+And we employed the stylistic guidelines that we studied in Unit 10 to act as the framework for our part-writing.
 - follow the standard harmonic progressions outlined by circle-of-fifths progressions
 - correctly use cadences
 - use functions such as tonic, dominant, and pre-dominant as general guides
