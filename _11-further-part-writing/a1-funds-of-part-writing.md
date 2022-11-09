@@ -147,7 +147,7 @@ K:C
 V:1
 [cE] [A]| [B] [c]|]
 V:2 clef=bass
-[C,G,] [F,] | [G,] [C,]|]
+[C,G,] [F,,] | [G,,] [C,]|]
 w:C:I ii6 V7 I
 w:T P D T{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
@@ -166,7 +166,7 @@ K:C
 V:1
 [cE] [AD]| [BF] [cE]|]
 V:2 clef=bass
-[C,G,] [F,A,] | [G,G,] [C,G,]|]
+[C,G,] [F,,A,] | [G,,G,] [C,G,]|]
 w:C:I ii6 V7 I
 w:T P D T{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
