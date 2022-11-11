@@ -76,7 +76,7 @@ Because the chord progression provides a vertical framework and the focus on smo
 
 ## Adding the seventh
 
-In studying music theory, we will often spend more time discussing the exceptions to rules than the actual rule itself. And even though the general rule for resolving chordal sevenths--*Chordal sevenths resolve down by step*--is fairly consistent, there are common situtations in which you will be forced to break this rule (e.g. pre-determined melodies, sequences, etc.) Make downward stepwise resolution your default until you are forced to choose otherwise. 
+In studying music theory, we will often spend more time discussing the exceptions to rules than the actual rule itself. And even though the general rule for resolving chordal sevenths--*chordal sevenths resolve down by step*--is fairly consistent, there are common situtations in which you will be forced to break this rule (e.g. pre-determined melodies, sequences, etc.) Make downward stepwise resolution your default until you are forced to choose otherwise. 
 
 Try adding the following two seventh chords to our circle-of-fifths progression, making sure to pay attention to how your chordal thirds and sevenths are resolving. The first chord is fully voiced to force you into certain decisions, so you will need to start from the beginning rather than working your way backward.
 
@@ -126,7 +126,7 @@ V:2 clef=bass
 w:C:I vi7 ii V7 I{% endcapture %}
 {% include abc-example.html number="9" abc=ex9 %}
 
-Notice that the chordal third in the alto voice of the ii chord defies its tendency to resolve upwards to the root, and instead, uses static motion to become the chordal seventh of the V<sup>7</sup>. This is our first example of having to make a choice between two guidelines; is it better to prioritize smooth part writing or tendency tone resolution. In this case, the smooth voice-leading creates a stronger overall texture, so I prefer that option. You could, however, prefer the other sound and prioritize your tendency tones.
+Notice that the chordal third in the alto voice of the ii chord defies its tendency to resolve upwards to the root, and instead, uses static motion to become the chordal seventh of the V<sup>7</sup>. This is our first example of having to make a choice between two guidelines--is it better to prioritize smooth part writing or tendency tone resolution? In this case, the smooth voice-leading creates a fuller overall texture by allowing for less doubling and tripling, so I prefer that option. You could, however, prefer the other sound and prioritize your tendency tones.
 
 ## Exploring options
 
@@ -220,7 +220,10 @@ w:C:I IV V I{% endcapture %}
 
 ## Common exceptions
 
-There are some commonly used exceptions to our general part-writing conventions. For example, when a chord progression has a root that moves down by P5, we expect the chordal third to resolve up by step to the root of the following chord. However, if you need to change the texture of your part-writing to be more or less compact, you may choose to have the chordal third leap to the following chordal third which changes the entire voicing possibilities of the two chords. (Note that you can only use this on the leading tone if it is in an inner voice.) Use this method to fill in the inner voices in the following example to change the voicing of the final chord.
+### Third to third
+There are some commonly used exceptions to our general part-writing conventions. For example, when a chord progression has a root that moves down by P5, we expect the chordal third to resolve up by step to the root of the following chord. However, if you need to change the texture of your part-writing to be more or less compact, you may choose to have the chordal third leap to the following chordal third which changes the entire voicing possibilities of the two chords. (Note that you can only use this on the leading tone if it is in an inner voice.) 
+
+As you can see in the example below, the third of the V chord leaps to the third of the I chord. It is awkward to sing, but it allows the chords to transition for an open voicing (more than an octave between soprano and tenor) to closed voicing (less than an octave between soprano and tenor). This kind of resolution should be used sparingly.
 
 {% capture ex6 %}X:6
 T:Chordal third to chordal third
@@ -229,13 +232,15 @@ L:1/4
 Q:1/4=60
 K:C
 V:1
-[eG] [d] [c2]|]
+[eG] [dG] [c2G]|]
 V:2 clef=bass
-[C,C] [G,,] [C,2]|]
+[C,C] [G,,B,] [C,2E]|]
 w:C:I V I{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
-Another common exception is called the *frustrated leading tone*. While not considered ideal, you can choose to have the leading tone resolve by skipping downward to the root of the tonic chord, *if the leading-tone is in an inner voice*. This can solve doubling issues if you are trying to fix an incomplete triad by adding the chordal fifth. Try it in the tenor voice on the following two progressions. Notice that this allows you to create a deceptive cadence without having to double the chordal third of the vi chord.
+### Frustrated leading tone
+
+Another common exception is called the *frustrated leading tone*. While not considered ideal voice-leading, you can occasionally choose to resolve the leading tone by skipping downward to the root of the tonic chord, **if the leading-tone is in an inner voice**. This can solve doubling issues if you are trying to fix an incomplete triad by adding the chordal fifth. You can see examples of this in the tenor voice in the following two progressions. Notice that this allows you to create a deceptive cadence without having to double the chordal third of the vi chord.
 
 {% capture ex7 %}X:7
 T:Frustrated leading tone
@@ -244,9 +249,9 @@ L:1/4
 Q:1/4=60
 K:C
 V:1
-[eG] [d] [c]|| [eG] [d] [c]|]
+[eG] [dF] [cE]|| [eG] [dF] [cE]|]
 V:2 clef=bass
-[C,C] [G,,] [C,]|| [C,C] [G,,] [A,,]|]
+[C,C] [G,,B,] [C,G,]|| [C,C] [G,,B,] [A,,A,]|]
 w:C:I V7 I I V7 vi{% endcapture %}
 {% include abc-example.html number="7" abc=ex7 %}
 
