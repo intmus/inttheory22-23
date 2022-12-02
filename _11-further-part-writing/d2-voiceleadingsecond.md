@@ -3,7 +3,34 @@ layout: chapter
 title: Discussion 11d - Voice-leading for Second Inversion Chords
 ---
 
-# Class Discussion
+## Class Discussion 
+
+Second Inversion chords
+
+Third inversion chords will probably only be when using continuous stepwise motion in the bass. Third inversion chords force the seventh to be in the bass, which must resolve down to the third of the next chord. On a V4/2 chord, the seventh in the bass will resolve down to the third of the I chord (Fa to Mi), which then will likely step down to Re, making a V6/4 chord which wants to step down to a I chord with Do in the bass. Our bassline is now "Fa Mi Re Do".
+
+Never use a seven diminished chord in root position with a dominant function. If you want to use Ti in the bass, make it a V6/5. 
+
+If you write a first inversion ii chord, you can double the third because it is similar to the IV chord.
+
+Second inversion chords are almost always some kind of tertiary function. Second inversion chords are, in general, less stable than root position chords.
+
+There are only four ways a second inversion chord can function. Four tertiary functions:
+
+Cadential
+
+- The only type of cadential 6/4 chord is the I6/4 chord. Because the fifth is in the bass, it sounds more dominant, and is therefore always labeled as dominant because it extends the function of the V chord. In general, the cadential I6/4 chord resolves to a root position V chord or root position V7 chord. **Always double the fifth on these chords.**
+
+Passing
+
+ - A passing 6/4 chord is the result of having smooth voice leading in the bass voice. In these chords, like most 6/4, it is often preferable to double the fifth of the chord.
+Pedal
+
+Arpeggiated
+
+- An arpeggiated chord is when the bass voice changes to another pitch that is in the chord in a way that effects the harmony. We will rarely ever label a chord this in music.
+
+## Class Discussion 2021
 
 Secondary Functions: replace the primary functions
 Tertiary chords: take on the function of those around them by extending/embellishing; they work in chromatic and diatonic harmony
