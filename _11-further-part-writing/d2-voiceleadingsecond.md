@@ -7,12 +7,6 @@ title: Discussion 11d - Voice-leading for Second Inversion Chords
 
 Second Inversion chords
 
-Third inversion chords will probably only be when using continuous stepwise motion in the bass. Third inversion chords force the seventh to be in the bass, which must resolve down to the third of the next chord. On a V4/2 chord, the seventh in the bass will resolve down to the third of the I chord (Fa to Mi), which then will likely step down to Re, making a V6/4 chord which wants to step down to a I chord with Do in the bass. Our bassline is now "Fa Mi Re Do".
-
-Never use a seven diminished chord in root position with a dominant function. If you want to use Ti in the bass, make it a V6/5. 
-
-If you write a first inversion ii chord, you can double the third because it is similar to the IV chord.
-
 Second inversion chords are almost always some kind of tertiary function. Second inversion chords are, in general, less stable than root position chords.
 
 There are only four ways a second inversion chord can function. Four tertiary functions:
