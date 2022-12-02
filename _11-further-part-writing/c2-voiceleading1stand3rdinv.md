@@ -3,7 +3,16 @@ layout: chapter
 title: Discussion 11c - Voice-leading for First and Third Inversion Chords
 ---
 
-# Class Discussion
+## Class Discussion
+
+Inversions allow for more possibilities, or wiggle room in your part writing. Inversions allow for smooth voice leading in the bass voice.
+
+First Inversion chords have a tendency tone in the bass that wants to resolve up the the root of the next chord. For example, a V chord in first inversion would have Ti in the bass, which wants to resolve up to Do. 
+
+Third inversion chords also use a tendency tone in the bass: the seventh of the chord. This needs to resolve down to the third of the next chord, which means third inversion chords go to first inversion chords.
+
+
+## Class Discussion 2021
 
 **First- and third-inversion chords in circle-of-fifths progressions**
 - I - V6 - I
