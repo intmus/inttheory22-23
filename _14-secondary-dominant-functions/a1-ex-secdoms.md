@@ -6,11 +6,11 @@ abc: true
 
 ## Beginning chromatic harmony
 
-This unit will be your first introduction of *functional* accidentals--meaning altered notes that are critical to the function of a chord rather than embellishing non-chord tone accidentals of diatonic harmony. So this marks the beginning of our studies of *chromatic* harmony. As you read on, remember that *all* tonal harmony relates back to the function and voice-leading that we established in studying diatonic harmony. 
+This unit will be our first introduction of *functional* accidentals--meaning altered notes that are critical to the function of a chord rather than the embellishing non-chord tone accidentals. This marks the beginning of our studies of *chromatic* harmony. As you read on, remember that *all* tonal harmony relates back to the function and voice-leading that we established in studying basic diatonic harmony. 
 
 ## Introducing secondary dominant chords
 
-Secondary dominant chords are a logical extension to diatonic progressions and an obvious starting point for studying chromatic harmony, because they are simply an elaboration of circle-of-fifths progressions. Let's begin by harmonizing the following progression in four-part harmony. Because it is full of root position triads, you will need to use multiple incomplete chords to use smooth voice-leading while avoiding errors.
+To this point in our curriculum, we have spent the majority of our time studying the primary functions of tonal harmony: tonic, dominant, and pre-dominant chords. We also looked at the tertiary functions--meaning chords thats *extend* primary function--such as cadential, passing, pedal, and arpeggiated chords. The observant among you will notice that we have skipped secondary function, but we now that we are ready to study chromatic harmony, we will use secondary dominant chords as our starting point because they are simply an logical extension of circle-of-fifths progressions. Let's begin by harmonizing the following progression in four-part harmony. Because it is full of root position triads, you will need to use multiple incomplete chords to use smooth voice-leading while avoiding errors.
 
 {% capture ex1 %}X:1
 T:A standard progression
