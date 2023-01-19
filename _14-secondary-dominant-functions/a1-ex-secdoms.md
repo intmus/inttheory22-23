@@ -6,11 +6,13 @@ abc: true
 
 ## Beginning chromatic harmony
 
-This unit will be our first introduction of *functional* accidentals--meaning altered notes that are critical to the function of a chord rather than the embellishing non-chord tone accidentals. This marks the beginning of our studies of *chromatic* harmony. As you read on, remember that *all* tonal harmony relates back to the function and voice-leading that we established in studying basic diatonic harmony. 
+Having fully established the foundations of tonal harmony, we are now ready to expand our studies to include *chromatic* harmony. This unit will be our first introduction of *functional* accidentals--meaning altered notes that are critical to the function of a chord rather than accidentals that are only used to embellish through non-chord tones. As you read on, remember that *all* tonal harmony relates back to the function and voice-leading that we established in studying basic diatonic harmony. 
 
 ## Introducing secondary dominant chords
 
-To this point in our curriculum, we have spent the majority of our time studying the primary functions of tonal harmony: tonic, dominant, and pre-dominant chords. We also looked at the tertiary functions--meaning chords thats *extend* primary function--such as cadential, passing, pedal, and arpeggiated chords. The observant among you will notice that we have skipped secondary function, but we now that we are ready to study chromatic harmony, we will use secondary dominant chords as our starting point because they are simply an logical extension of circle-of-fifths progressions. Let's begin by harmonizing the following progression in four-part harmony. Because it is full of root position triads, you will need to use multiple incomplete chords to use smooth voice-leading while avoiding errors.
+To this point in our curriculum, we have spent the majority of our time studying the primary functions of tonal harmony: tonic, dominant, and pre-dominant chords. We also looked at the tertiary functions--meaning chords thats *extend* primary function--such as cadential, passing, pedal, and arpeggiated chords. The observant among you will notice that we have skipped secondary function, but we are now ready to study chromatic harmony and therefore introduce secondary function. Secondary dominant chords are the most logical starting point because they are a logical extension of circle-of-fifths progressions. 
+
+Let's begin by harmonizing the following progression in four-part harmony. Because it is full of root position triads, you may need to use incomplete chords to create smooth voice-leading while avoiding errors.
 
 {% capture ex1 %}X:1
 T:A standard progression
