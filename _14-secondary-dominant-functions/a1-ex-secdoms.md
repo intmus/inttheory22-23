@@ -10,9 +10,9 @@ Having fully established the foundations of tonal harmony, we are now ready to e
 
 ## Introducing secondary dominant chords
 
-To this point in our curriculum, we have spent the majority of our time studying the primary functions of tonal harmony: tonic, dominant, and pre-dominant chords. We also looked at the tertiary functions--meaning chords thats *extend* primary function--such as cadential, passing, pedal, and arpeggiated chords. The observant among you will notice that we have skipped secondary function, but we are now ready to study chromatic harmony and therefore introduce secondary function. Secondary dominant chords are the most logical starting point because they are a logical extension of circle-of-fifths progressions. 
+To this point in our curriculum, we have spent the majority of our time studying the **primary functions** in tonal harmony--tonic, dominant, and pre-dominant chords--as well as the ways in which we can extend primary functions through the **tertiary functions** of cadential, passing, pedal, and arpeggiated chords. The observant among you will notice that we have skipped secondary function, but we are now ready to study chromatic harmony and therefore introduce this missing concept. Secondary dominant chords will be our starting point because they are a logical extension of circle-of-fifths progressions. 
 
-Let's begin by harmonizing the following progression in four-part harmony. Because it is full of root position triads, you may need to use incomplete chords to create smooth voice-leading while avoiding errors.
+Before we add chromaticism, let's establish a voice-leading standard by harmonizing the following progression in four-part harmony. Because it is full of root position triads, you may need to use incomplete chords to create smooth voice-leading while avoiding errors.
 
 {% capture ex1 %}X:1
 T:A standard progression
@@ -42,10 +42,10 @@ V:2 clef=bass
 w:C:ii V G:? ?{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-As you can see, these two progressions are identical with the exception of one accidental. The ii-V progression in C major has a weaker pull than the V-I progression in G major, but they are functionally similar. Therefore, we could strengthen the ii-V progression in C major by adding one accidental to the ii chord to have it mimic the dominant chord in a secondary key. To try this, take your completed progression from the first example above and alter the one pitch necessary in the ii chord to "borrow" the dominant chord from G major. (I have provided you with my voicing if you deleted yours, but feel free to copy your voices into the appropriate lines of the ABC notation.)
+As you can see, these two progressions are identical with the exception of one accidental. The ii-V progression in C major has a weaker pull than the V-I progression in G major, but they are functionally similar. Therefore, we could strengthen the ii-V progression in C major by adding one accidental to the ii chord to have it mimic the dominant chord in a secondary key. To try this, take your completed progression from the first example above and alter the one pitch necessary in the ii chord to "steal" the dominant chord from G major. (I have provided you with my voicing if you deleted yours, but feel free to copy your voices into the appropriate lines of the ABC notation.)
 
 {% capture ex3 %}X:3
-T:Changing ii into a dominant chord
+T:Changing ii into a secondary function chord
 M:4/4
 L:1/2
 K:C
@@ -59,10 +59,10 @@ w:C:I vi ii V I{% endcapture %}
 
 ### Conclusion
 
-To do this, you only need to raise the third of the ii chord to create a D major triad--the V chord in the key of G major. This creates a temporary V chord instead of a ii chord which you can hear by playing the following example.
+To steal the chord from G major, you only need to raise the third of the ii chord to create a D major triad--the V chord in the key of G major. This creates a temporary V chord instead of a ii chord. You can hear the finished product in the following example.
 
 {% capture ex6 %}X:6
-T:Changing ii into a dominant chord
+T:Changing ii into a secondary dominant chord
 M:4/4
 L:1/2
 K:C
@@ -76,9 +76,9 @@ w:C:I vi ?? V I{% endcapture %}
 
 ## Tonicization and secondary function
 
-In this case, the progression is momentarily acting as if a non-tonic chord--in this case, the V chord--*has become* the tonic. We call this *tonicization*. It is the process of borrowing the dominant function from a non-tonic chord's key to provide emphasis and prolong a chord's function. 
+For a brief moment, the progression is acting as if a non-tonic chord--in this case, the V chord--*has become* the tonic. We call this *tonicization*, and this is the first example in our studies of *secondary function*. Tonicization is one of those rare logical names in musical theory because we briefly treat a non-tonic chord as if it were a tonic. And for those wondering, this is *not* modulation; we will discuss the difference between the two in the upcoming Unit on modulation.
 
-Tonicization is a *secondary function*. When studying function in diatonic contexts we discussed the primary functions of tonic, dominant, and pre-dominant, as well as tertiary functions such as cadential, passing, pedal, and arpeggiated. Secondary function is yet another category of functions in which the primary functions--i.e. the tonic and dominant relationship--*of a second key* are used in our original key.
+Primary function stems from the voice-leading in our standard circle-of-fifths progressions, and the dominant-tonic relationship acts as the basis for all diatonic tonal harmony. As mentioned in the introduction above, tertiary function chords *extend* the function of the primary chords on either side of them. Secondary function chords are different because they can stand on their own and *substitute* for a primary function chord. In the example that we created above, we replaced our standard ii chord by substituting a V chord from a different key.
 
 ## Labeling secondary dominant chords
 
