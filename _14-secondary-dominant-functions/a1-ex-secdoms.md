@@ -6,11 +6,11 @@ abc: true
 
 ## Beginning chromatic harmony
 
-Having fully established the foundations of tonal harmony, we are now ready to expand our studies to include *chromatic* harmony. This unit will be our first introduction of *functional* accidentals--meaning altered notes that are critical to the function of a chord rather than accidentals that are only used to embellish through non-chord tones. As you read on, remember that *all* tonal harmony relates back to the function and voice-leading that we established in studying basic diatonic harmony. 
+Having fully established the foundations of tonal harmony, we are now ready to expand our studies to include *chromatic* harmony, so this unit will be our first introduction of *functional* accidentals--meaning altered notes that are critical to the function of a chord as opposed to non-chord tones accidentals that are only used to embellish other pitches. As you read on, remember that *all* tonal harmony relates back to the function and voice-leading that we established in studying basic diatonic harmony. 
 
 ## Introducing secondary dominant chords
 
-To this point in our curriculum, we have spent the majority of our time studying the **primary functions** in tonal harmony--tonic, dominant, and pre-dominant chords--as well as the ways in which we can extend primary functions through the **tertiary functions** of cadential, passing, pedal, and arpeggiated chords. The observant among you will notice that we have skipped secondary function, but we are now ready to study chromatic harmony and therefore introduce this missing concept. Secondary dominant chords will be our starting point because they are a logical extension of circle-of-fifths progressions. 
+To this point in our curriculum, we have spent the majority of our time studying the **primary functions** in tonal harmony--tonic, dominant, and pre-dominant chords--as well as the ways in which we can extend primary functions through the **tertiary functions** of cadential, passing, pedal, and arpeggiated chords. The observant among you will notice that we have skipped secondary function, but we are now ready to study chromatic harmony and therefore introduce this missing concept. Secondary dominant chords, a small set of chords with secondary function, will be our starting point because they are a logical extension of circle-of-fifths progressions. 
 
 Before we add chromaticism, let's establish a voice-leading standard by harmonizing the following progression in four-part harmony. Because it is full of root position triads, you may need to use incomplete chords to create smooth voice-leading while avoiding errors.
 
@@ -82,7 +82,9 @@ Primary function stems from the voice-leading in our standard circle-of-fifths p
 
 ## Labeling secondary dominant chords
 
-In the example above, the ii chord becomes a major chord once the sharp is added, so it is no longer a ii chord. To denote this in our Roman numerals, we use two Roman numerals separated by a slash: V/V. We read this as "five of five". In this labeling, the Roman numeral before the backslash is the chord's function as if it were *in the key of* the Roman numeral after the slash. In our example above, the D minor chord becomes a D major chord, so it now acts as the V chord in the key of G major: a "five of five".
+Remember that when using Roman numerals analysis, it is best practice to explain any chords that do not have their "standard" function. If a I chord has a dominant function, such as a cadential I 6/4 chord, you should denote in some way that this particular chord is tertiary function rather than the I chord's standard tonic function. If a vii<sup>o6</sup> is not acting with its standard dominant function and instead acting as a passing chord, that should be noted in your Roman numerals. Secondary function chords are no different. 
+
+In the example above, the ii chord transforms into a major chord once the sharp is added, so it is no longer a "standard" ii chord. To denote this in our Roman numerals, we use two Roman numerals separated by a slash: V/V. We read this as "five of five". In this labeling, the Roman numeral before the backslash is the chord's function as if it were *in the key of* the Roman numeral after the slash. In our example above, the D minor chord becomes a D major chord, so it now acts as the V chord in the key of G major: a "five of five".
 
 One important note, standard practice for secondary function chords allows you to tonicize any chord that is *not* a diminished triad. This means that vii<sup>o</sup> in major and minor as well as ii<sup>o</sup> in minor should not be tonicized.
 
