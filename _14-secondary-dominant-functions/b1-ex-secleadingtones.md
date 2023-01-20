@@ -61,11 +61,23 @@ w:C:I vi viio/V V I{% endcapture %}
 
 ### Conclusions
 
-If you tried to create your vii<sup>o</sup>/V based on the V<sup>7</sup>/V voicing from above, it is likely that you immediately ran into issues in trying to eliminate the D from the bass. Substituting an A in the same octave creates parallel octaves against the tenor. If we do not alter our upper voices from the completed V<sup>7</sup>/V example, substituting an F-sharp in the bass creates parallel octaves against the alto. You could frustrate the leading tone in the alto as a workaround, but the fact remains: vii<sup>o</sup> *triads* are difficult to use as a dominant function with good voice-leading, and there is no straightforward answer to the above exercise that does not result in some compromise. 
+If you tried to create your vii<sup>o</sup>/V based on the V<sup>7</sup>/V voicing from above, it is likely that you immediately ran into issues in trying to eliminate the D from the bass. Substituting an A in the same octave creates parallel octaves against the tenor. If we do not alter our upper voices from the completed V<sup>7</sup>/V example, substituting an F-sharp in the bass creates parallel octaves against the alto. You could frustrate the leading tone in the alto as a workaround, but the fact remains: vii<sup>o</sup> *triads* are difficult to use as a dominant function with good voice-leading, and there is no straightforward answer to the above exercise that does not require manipulating the chords around the secondary leading-tone chord. For example, the following progression solves this through creating a leap in the tenor voice and tripling the tonic on the final chord.
+
+{% capture ex8 %}X:8
+M:4/4
+L:1/2
+K:C
+V:1
+[cE] [cE]| [cA] [BG]| [c2E]|]
+V:2 clef=bass
+[C,G,] [A,,A,]| [^F,,A,] [G,,D]| [C,2C]|]
+w:C:I vi viio/V V I{% endcapture %}
+{% include abc-example.html number="8" abc=ex8 %}
+
 
 ## Adding a seventh
 
-It is much easier to use a vii<sup>o</sup> as a seventh chord. In the following example, try to using a vii<sup>o7</sup>/V using the provided bass line. You may use either a fully diminished or half-diminished seventh chord in this example.
+It is much easier to use a vii<sup>o</sup> as a seventh chord. In the following example, try to using a vii<sup>&oslash;7</sup>/V using the provided bass line. You may use either a fully diminished or half-diminished seventh chord in this example.
 
 {% capture ex5 %}X:5
 T:Using a secondary leading-tone seventh chord
@@ -81,7 +93,7 @@ w:C:I vi vii%7/V V I{% endcapture %}
 
 ### Conclusion
 
-As you can see, the part-writing mostly takes care of itself in voicing this chord as long as you resolve the tendency tones correctly. The most obvious solution is listed below. Notice that the resolutions are smooth and allow every tendency tone to resolve correctly without creating objectionable parallels.
+The most obvious solution is written below, and it feels like the part-writing takes care of itself. In this usage however, the vii<sup>&oslash;7</sup> creates parallel fifths between the alto and tenor voices.
 
 {% capture ex6 %}X:6
 T:A completed secondary leading-tone seventh chord
@@ -95,7 +107,7 @@ V:2 clef=bass
 w:C:I vi vii%7/V V I{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
-Because this is a functional substitution for a V/V chord, the root and fifth of the vii<sup>o7</sup>/V are acting as if they were the third and seventh of the V<sup>6/5</sup>/V chord. You can see this when you voice the two chords side-by-side.
+Because this is a functional substitution for a V/V chord, the root and fifth of the vii<sup>&oslash;7</sup>/V are acting as if they were the third and seventh of the V<sup>6/5</sup>/V chord. You can see this when you voice the two chords side-by-side.
 
 {% capture ex7 %}X:7
 T:Comparing a viio7/V to a V7/V
