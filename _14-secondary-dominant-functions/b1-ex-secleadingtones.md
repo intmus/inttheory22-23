@@ -67,6 +67,7 @@ If you tried to create your vii<sup>o</sup>/V based on the V<sup>7</sup>/V voici
 M:4/4
 L:1/2
 K:C
+Q:1/4=90
 V:1
 [cE] [cE]| [cA] [BG]| [c2E]|]
 V:2 clef=bass
@@ -74,10 +75,9 @@ V:2 clef=bass
 w:C:I vi viio/V V I{% endcapture %}
 {% include abc-example.html number="8" abc=ex8 %}
 
-
 ## Adding a seventh
 
-It is much easier to use a vii<sup>o</sup> as a seventh chord. In the following example, try to using a vii<sup>&oslash;7</sup>/V using the provided bass line. You may use either a fully diminished or half-diminished seventh chord in this example.
+It is easier, but still restrictive, to use a vii<sup>o</sup> as a seventh chord. In the following example, try to using a vii<sup>&oslash;7</sup>/V using the provided bass line. You may use either a fully diminished or half-diminished seventh chord in this example.
 
 {% capture ex5 %}X:5
 T:Using a secondary leading-tone seventh chord
@@ -93,7 +93,7 @@ w:C:I vi vii%7/V V I{% endcapture %}
 
 ### Conclusion
 
-The most obvious solution is written below, and it feels like the part-writing takes care of itself. In this usage however, the vii<sup>&oslash;7</sup> creates parallel fifths between the alto and tenor voices.
+The most obvious solution is written below, and it feels like the part-writing takes care of itself. In this usage however, the vii<sup>&oslash;7</sup>/V creates parallel fifths between the alto and tenor voices.
 
 {% capture ex6 %}X:6
 T:A completed secondary leading-tone seventh chord
@@ -107,7 +107,23 @@ V:2 clef=bass
 w:C:I vi vii%7/V V I{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
-Because this is a functional substitution for a V/V chord, the root and fifth of the vii<sup>&oslash;7</sup>/V are acting as if they were the third and seventh of the V<sup>6/5</sup>/V chord. You can see this when you voice the two chords side-by-side.
+Instead, you must figure out a way to get the chordal third above chordal seventh in your voicing. This is restrictive in your spacing, but it does solve the objectionable parallels:
+
+{% capture ex9 %}X:9
+T:A completed secondary leading-tone seventh chord
+M:4/4
+L:1/2
+K:C
+Q:1/4=90
+V:1
+[cE] [cE]| [AE] [DG]| [G2E]|]
+V:2 clef=bass
+[C,G,] [A,,A,]| [^F,,C] [G,,B,]| [C,2C]|]
+w:C:I vi vii%7/V V I{% endcapture %}
+{% include abc-example.html number="9" abc=ex9 %}
+
+
+Remember that because a secondary leading tone chord (e.g. vii<sup>o</sup>/V) or vii<sup>&oslash;7</sup>/V) is a functional substitution for a secondary dominant chord (e.g. V/V) chord, the root and fifth of the vii<sup>&oslash;7</sup>/V are acting as if they were the third and seventh of the V<sup>6/5</sup>/V chord. You can see this when you voice the two chords side-by-side.
 
 {% capture ex7 %}X:7
 T:Comparing a viio7/V to a V7/V
@@ -128,10 +144,10 @@ It is also helpful to approach secondary leading-tone chords by exploring the du
 
 This can be applied to vii<sup>o7</sup>/x as well. Notice that the roots of both dominant function chords--V and vii<sup>o</sup>--and the roots of pre-dominant chords--ii and IV--are separated by the interval of a third. If we add this observation to the idea that a V/V chord is a functional substitution for a ii chord, it reasons that a vii<sup>o</sup> chord is therefore a functional substitution for a IV chord. They share a function and have a root that is a third higher than their more commonly used counterpart.
 
-You can demonstrate this by harmonizing the following diatonic progression. Once you have a harmonization with good voice-leading, alter the IV<sup>6</sup> chord to become the vii<sup>o7</sup> chord from the key of the chord you will be tonicizing--in this case, the vii<sup>o7</sup> from G major. What note(s) do you have to alter to achieve this? How do these notes relate to a V<sup>7</sup>/V? Did you have to re-voice this to accommodate the alterations?
+You can demonstrate this by harmonizing the following diatonic progression. Once you have a harmonization with good voice-leading, alter the IV<sup>6</sup> chord to become the vii<sup>&oslash;7</sup> chord from the key of the chord you will be tonicizing--in this case, the vii<sup>&oslash;7</sup> from G major. What note(s) do you have to alter to achieve this? How do these notes relate to a V<sup>7</sup>/V? Did you have to re-voice this to accommodate the alterations?
 
 {% capture ex2 %}X:2
-T:viio7/V as it relates to IV
+T:vii%7/V as it relates to IV
 M:4/4
 L:1/2
 K:C
