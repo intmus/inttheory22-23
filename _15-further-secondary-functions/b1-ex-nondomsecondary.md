@@ -31,6 +31,19 @@ At first glance (and hearing), the G minor triad seems starkly out of place. We 
 
 The chord following the G minor triad is a clear V<sup>4/2</sup>/ii which then resolves to a ii<sup>6</sup> chord. If you look through your leadsheet symbols, you can clearly see a pattern that extends backwards if you continue thinking in the key of ii (D minor). In the key of ii, a G minor chord is a diatonic iv chord, which would make this a iv-V-i progression in that key. Therefore, the correct labeling of this example is iv/ii -- V<sup>4/2</sup>/ii -- ii<sup>6</sup>. Without a stable cadence, we have not changed keys, but this progression clearly emphasizes and extends our pre-dominant harmony.
 
+{% capture ex3 %}X:3
+T:Other secondary functions
+M:4/4
+L:1/2
+K:C
+Q:1/2=60
+V:1
+[c/2E][B/2F][cE]| [dG][^cA]| [d2A]| [d2F]| [c2E]|]
+V:2 clef=bass
+[C,/2G,][D,/2G,][C,G,]| [G,,_B,][G,,A,]| [F,,2D]| [G,,2B,]| [C,2G,]|]
+w:C:I V4/3 I ii/ii V4/2/ii ii6 V7 I{% endcapture %}
+{% include abc-example.html number="3" abc=ex3 %}
+
 ## Secondary or diatonic?
 
 Because of the nature of diatonic progressions, there is a great deal of crossover between non-dominant secondary functions and the actual diatonic chords of a key. Provide a Roman numeral analysis of the following chorale, paying particular attention to the second chord. Is it diatonic or a secondary function?
