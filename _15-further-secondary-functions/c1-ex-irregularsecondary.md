@@ -22,7 +22,7 @@ w:C:ii7 V4/3 I{% endcapture %}
 
 ### Conclusion
 
-In order to use complete chords, the chordal third of the ii<sup>7</sup> chord must remain static to become the chordal seventh of the V<sup>7</sup> like so:
+In order to use complete chords, the chordal third of the ii<sup>7</sup> chord must remain static to become the chordal seventh of the V<sup>7</sup>:
 
 {% capture ex5 %}X:5
 T:Harmonizing consecutive seventh chords
@@ -131,7 +131,7 @@ w:C:I V7/vi IV V4/2 I6{% endcapture %}
 
 ### Conclusions
 
-In this progression, the E7 chord is likely to function as the dominant in the key of A major/minor. But instead of resolving to an A minor chord--the diatonic vi of the current key of C major--it resolves to an F major triad. At first this seems almost nonsensical, but if you examine the tonicization in the key of A minor, you will realize that this is a common progression in that key--a deceptive progression of V7 to VI. In labeling this in our secondary key, you do not need to label anything further, but feel free to use the abbreviation of "dec" in parentheses between the two chords if you would like to make a note of this uncommon use of secondary dominants.
+In this progression, the E7 chord is likely to function as the dominant in the key of A major/minor. But instead of resolving to an A minor chord--the diatonic vi of the current key of C major--it resolves to an F major triad. At first this seems nonsensical, but if you thinkn of the tonicization in the key of A minor, you will realize that this is a common progression in that key--a deceptive progression of V7 to VI. This also neatly explains why the F major chord has a double chordal third, the standard doubling in a deceptive progression for the VI chord. In labeling this in our secondary key, you do not need to label anything further, but feel free to use the abbreviation of "dec" in parentheses between the two chords if you would like to make a note of this uncommon use of secondary dominants.
 
 In short, if you find a root-position secondary dominant chord that does not resolve to its normally tonicized chord, check to see if it instead resolves to a diatonic chord with a root that is a step (M2/m2) above the root of the secondary dominant. If so, this is a deceptive resolution in a secondary key, so you should still label the secondary dominant in the secondary key.
 
