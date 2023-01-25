@@ -24,7 +24,7 @@ w:C:I vi ii7 V7 I{% endcapture %}
 
 ### Conclusions
 
-The previous example has multiple chords that are connected by root movement of a descending P5, which is the reason that it provides multiple opportunities for secondary dominant chords. In the example below, you can see the secondary chords next to their closely related diatonic counterparts. By placing them next to each other, you can see not only how similar the secondary dominant chords are to their diatonic counterparts, but it is also easy to see that they share a function with the chord with the chord that precedes them. This includes a secondary dominant chord that we had not looked at yet: V<sup>7</sup>/ii. You will notice that this chord is as closely related to the vi<sup>7</sup> chord as the V<sup>7</sup>/V was related to the ii<sup>7</sup> chord. 
+The previous example has multiple chords that are connected by root movement of a descending P5, which is the reason that it provides multiple opportunities for secondary dominant chords. In the example below, the secondary chords are placed next to their closely related diatonic counterparts so that you can see not only how similar the pitches are but also how they share voice-leading and function. This includes a secondary dominant chord that we had not looked at yet: V<sup>7</sup>/ii. You will notice that this chord is as closely related to the vi<sup>7</sup> chord as the V<sup>7</sup>/V was related to the ii<sup>7</sup> chord. 
 
 {% capture ex4 %}X:4
 T:Possible secondary dominant functions
@@ -44,12 +44,12 @@ w:C:I vi7 V7/ii ii7 V7/V V I{% endcapture %}
 In music, secondary dominant functions can appear anywhere the composer would like to emphasize a chord or prolong its function. *Any major, minor, or dominant quality can be tonicized.* 
 
 For secondary leading-tone chords:
-- For minor chords, you may use a V, a V<sup>7</sup>, a vii<sup>o</sup>, or a vii<sup>o7</sup>. You may not use a vii<sup>&oslash;7</sup> (half-diminshed seventh chord) because the chordal seventh will sound strange.
+- For minor chords, you may use a V, a V<sup>7</sup>, a vii<sup>o</sup>, or a vii<sup>o7</sup>. You should avoid using vii<sup>&oslash;7</sup> (half-diminshed seventh chord) because the chordal seventh will resolve more "weakly" than the standard fully diminished seventh chord.
 - For major and dominant chords, you may use a V, a V<sup>7</sup>, a vii<sup>o</sup>, *vii<sup>&oslash;7</sup>, or a vii<sup>o7</sup>*. Notice that you may use either a fully diminished or half-diminished seventh chord, even though the naturally-ocurring seventh chord built off the 7th scale degree in a major key will always be a half-diminished chord. For tonicizing a major chord, fully diminished chords actually appear more often than half-diminished chords, because they further strengthen the voice-leading.
 
 ## Altering root movement
 
-The following example uses a IV chord instead of a ii chord, and this changes the root movement for much of the passage. Try adding secondary dominant or leading-tone chords in the spots marked with an "x". The note in the bass is just a placeholder, so please feel free to change it. You should  experiment with various inversions to see if you can create more melodic bass lines as well.
+The following example uses a IV chord instead of a ii chord, and this changes the root movement for much of the passage. Try adding secondary dominant or leading-tone chords in the spots marked with an "x". **The note in the bass is only there as a placeholder**, so please feel free to change it. You should  experiment with various inversions to see if you can create more melodic bass lines as well.
 
 {% capture ex2 %}X:2
 T:Inserting secondary dominant functions 
@@ -69,14 +69,14 @@ Which chords created the smoothest voice-leading? Were you able to create a harm
 
 ### Conclusions
 
-Your most straightforward option is to use root-position secondary dominant functions in each spot creating a progression that would look something like this:
+The most straightforward option is to use root-position secondary dominant functions in each spot creating a progression that would look something like this:
 
 {% capture ex5 %}X:5
 T:Inserting secondary dominant functions 
 T:in root positions
 M:4/4
 L:1/2
-Q:1/4=80
+Q:1/4=90
 K:C
 V:1
 [cE][dE]| [cE][cE]| [cF][d^F]| [d2F]| [c2E]|]
@@ -85,18 +85,18 @@ V:2 clef=bass
 w:C:I V7/vi vi V7/IV IV V7/V V7 I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
-The voice-leading is easy to determine as long as you follow the standard resolutions for the tendency tones in each secondary dominant chord. In this progression, you must alternate between complete and incomplete chords to avoid objectional parallels.
+The voice-leading follows the standard resolutions for the tendency tones in each secondary dominant chord. In this progression, you must alternate between complete and incomplete chords to avoid objectional parallels.
 
 ## Secondary functions used to create a smooth bass line
 
-There are countless other options you could use to embellish this progression though. You probably noticed the disjunct bass line in the root-position harmonization example, but the three upper voices had smooth voice-leading. By using inversions of secondary dominant chords and/or secondary leading-tone chords, you can create much more melodic bass lines. Take your previous harmonization (or use the clean version below), and alter it by inserting secondary dominant functions at each spot marked with an x. You should be able to create an entirely stepwise bass line. Remember that if you need to change the openness of a chord's voicing, it can be helpful to have one voice jump a fourth by moving from the third of the first chord to the third of the second chord.
+There are countless other options you could use to embellish this progression though. You probably noticed the disjunct bass line in the root-position harmonization example, but the three upper voices had smooth voice-leading. By using inversions of secondary dominant chords and/or secondary leading-tone chords, you can create more melodic bass lines. Take your previous harmonization (or use the clean version below), and alter it by inserting secondary dominant functions at each spot marked with an x. You should be able to create an entirely stepwise bass line. Remember that if you need to change the openness of a chord's voicing, it can be helpful to have one voice jump a fourth by moving from the third of the first chord to the third of the second chord in an inner voice.
 
 {% capture ex3 %}X:3
 T:Creating a step-wise bass line
 M:4/4
 L:1/2
 K:C
-Q:1/4=80
+Q:1/4=90
 V:1
 [cE][d]| [e][e]| [f][d]| [d2]| [c2]|]
 V:2 clef=bass
