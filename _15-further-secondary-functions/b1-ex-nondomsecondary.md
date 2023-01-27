@@ -29,7 +29,7 @@ w:C:{% endcapture %}
 
 At first glance (and hearing), the G minor triad seems starkly out of place. We have seen minor v chords in previous examples, but in each case, they followed the defined conventions of one of our alternate functions such as a passing or pedal functions. Here, the minor v chord does not fit the typical voice-leading of tertiary functions--it does not create the passing bass line typical of passing chords, nor does it have an obvious pedal voice--so we need to examine the context of this example. 
 
-The chord following the G minor triad is a clear V<sup>6/5</sup>/ii which then resolves to a ii chord. If you look through your leadsheet symbols, you can clearly see a pattern that extends backwards if you continue thinking in the key of ii (D minor). In the key of ii, a G minor chord is a diatonic iv chord, which would make this a iv-V-i progression in that key. Therefore, the correct labeling of this example is iv<sup>6/4</sup>/ii -- V<sup>6/5</sup>/ii -- ii. Without a stable cadence, we have not changed keys, but this progression clearly emphasizes and extends our pre-dominant harmony.
+The chord following the G minor triad is a clear V<sup>6/5</sup>/ii which then resolves to a ii chord. If you look through your leadsheet symbols, you can see a pattern that extends backwards if you continue thinking in the key of ii (D minor). In the key of ii, a G minor chord is a diatonic iv chord, which would make this a iv-V-i progression in that key. Therefore, the correct labeling of this example is iv<sup>6/4</sup>/ii -- V<sup>6/5</sup>/ii -- ii. Without a stable cadence, we have not changed keys, but this progression clearly emphasizes and extends our pre-dominant harmony.
 
 {% capture ex3 %}X:3
 T:Other secondary functions
