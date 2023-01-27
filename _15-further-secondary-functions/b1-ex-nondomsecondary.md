@@ -19,17 +19,17 @@ L:1/2
 K:C
 Q:1/2=60
 V:1
-[c/2E][B/2F][cE]| [dG][^cA]| [d2A]| [d2F]| [c2E]|]
+[c/2E][B/2F][cE]| [dG][eG]| [dF][dF]| [c2E]|]
 V:2 clef=bass
-[C,/2G,][D,/2G,][C,G,]| [G,,_B,][G,,A,]| [F,,2D]| [G,,2B,]| [C,2G,]|]
+[C,/2G,][D,/2G,][C,G,]| [_B,D,][A,^C,]| [A,D,][G,,B,]| [C,2G,]|]
 w:C:{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 ### Conclusion
 
-At first glance (and hearing), the G minor triad seems starkly out of place. We have seen minor v chords in previous examples, but in each case, they followed the defined conventions of one of our alternate functions such as a passing or pedal functions. Here, the minor v chord does not fit any of our known functions, so we need to examine the context of this example. 
+At first glance (and hearing), the G minor triad seems starkly out of place. We have seen minor v chords in previous examples, but in each case, they followed the defined conventions of one of our alternate functions such as a passing or pedal functions. Here, the minor v chord does not fit the typical voice-leading of tertiary functions--it does not create the passing bass line typical of passing chords, nor does it have an obvious pedal voice--so we need to examine the context of this example. 
 
-The chord following the G minor triad is a clear V<sup>4/2</sup>/ii which then resolves to a ii<sup>6</sup> chord. If you look through your leadsheet symbols, you can clearly see a pattern that extends backwards if you continue thinking in the key of ii (D minor). In the key of ii, a G minor chord is a diatonic iv chord, which would make this a iv-V-i progression in that key. Therefore, the correct labeling of this example is iv/ii -- V<sup>4/2</sup>/ii -- ii<sup>6</sup>. Without a stable cadence, we have not changed keys, but this progression clearly emphasizes and extends our pre-dominant harmony.
+The chord following the G minor triad is a clear V<sup>6/5</sup>/ii which then resolves to a ii chord. If you look through your leadsheet symbols, you can clearly see a pattern that extends backwards if you continue thinking in the key of ii (D minor). In the key of ii, a G minor chord is a diatonic iv chord, which would make this a iv-V-i progression in that key. Therefore, the correct labeling of this example is iv<sup>6/4</sup>/ii -- V<sup>6/5</sup>/ii -- ii. Without a stable cadence, we have not changed keys, but this progression clearly emphasizes and extends our pre-dominant harmony.
 
 {% capture ex3 %}X:3
 T:Other secondary functions
@@ -38,10 +38,10 @@ L:1/2
 K:C
 Q:1/2=60
 V:1
-[c/2E][B/2F][cE]| [dG][^cA]| [d2A]| [d2F]| [c2E]|]
+[c/2E][B/2F][cE]| [dG][eG]| [dF][dF]| [c2E]|]
 V:2 clef=bass
-[C,/2G,][D,/2G,][C,G,]| [G,,_B,][G,,A,]| [F,,2D]| [G,,2B,]| [C,2G,]|]
-w:C:I V4/3 I ii/ii V4/2/ii ii6 V7 I{% endcapture %}
+[C,/2G,][D,/2G,][C,G,]| [_B,D,][A,^C,]| [A,D,][G,,B,]| [C,2G,]|]
+w:C:I V4/3 I iv6/4/ii V6/5/ii ii V7 I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
 ## Secondary or diatonic?
