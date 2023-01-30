@@ -4,7 +4,15 @@ title: 15a Discussion - More Secondary Dominant Functions
 abc: true
 ---
 
-# Class discussion
+# Class Discussion 
+
+Other secondary chords
+
+The ii and the V/V chords aren’t the only ones that are interchangeable. In fact, almost every chord on our “chord flowchart” can be replaced by a secondary dominant chord that resolves to the next chord. For example, a V/ii chord can be placed before a ii chord by replacing the vi chord. A V/vi chord can be placed before a vi chord by replacing the iii chord. These can all also be seventh chords
+
+When tonicizing a major chord, you can use a vii%7 of the next chord, or a viio7 of the next chord.  
+
+# Class discussion 2022
 
 Harmonization of "Inserting secondary dominant functions into various root movement patterns"
 
