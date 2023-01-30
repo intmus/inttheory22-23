@@ -3,7 +3,17 @@ layout: chapter
 title: 15b Discussion - Non-dominant Function Secondary Chords
 abc: true
 ---
-# Class discussion
+# Class Discussion 
+
+Non-Dominant Function Secondary Chords
+
+Not all secondary chords are dominant. Secondary dominant chords function to tonicize (go to the key of) the next chord. We can extend that further to include chords that would appear before a V chord in that new key. For example, we can have progressions like ii, V, I in another key. If we are going to IV, this would look like ii/IV, V/IV, IV.
+
+These chords are rare! Most of the time, the chord that appears before a secondary dominant chord will be diatonic, and therefore not a non-dominant secondary chord.
+
+Deceptive motion can also exist in other keys (for example, V7/vi can go to IV).
+
+# Class discussion 2022
 ## Non-dominant Function Secondary Chords
 
 **Other secondary functions**
