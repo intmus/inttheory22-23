@@ -4,7 +4,19 @@ title: 14a Discussion - Secondary Dominant Chords
 abc: true
 ---
 
-# Class discussion
+# Class Discussion 
+
+Secondary chords are chords that are borrowed from other keys. 
+
+You can substitute the diagonal slash for the words “in the key of”. For example, V/V is the same as saying “V in the key of V”. If you find yourself labeling a chord that doesn’t exist in the key (non-diatonic) it might be a secondary dominant chord!
+
+When a secondary dominant has a chordal seventh, make sure it resolves down to the third of the next chord.
+
+Functional substitution is when a chord is functioning like another chord, (viio and V, ii and IV, vi and I). so we can apply the doubling rules for the other chord. A viio chord functions like a V chord. In this case, you want to double the same tones in either chord: the non-tendency tones. In a V chord, you could 
+
+V/V chords are predominant because they replace ii chords.
+
+# Class discussion 2022
 ## Secondary Dominant Chords
 
 **In a minor key, are i and iv diatonic or chromatic?**
