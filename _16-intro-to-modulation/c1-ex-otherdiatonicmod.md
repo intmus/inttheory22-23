@@ -30,7 +30,7 @@ We first hear the modulation on the second beat of the fifth measure. The B dimi
 
 Even though there is no common chord pivot available, this excerpt still relies on the voice-leading and a functional progression to modulate. The listener expects the F major triad (m.5, beat 1) to resolve to a B-flat triad. Instead, Bach alters one pitch from the B-flat triad turning the B-flat triad into a B diminished triad, and thereby creates a pivot on a secondary function. This is a *secondary function pivot modulation*.
 
-We label these using the same bracket system that we use for common chord pivot modulations, but one or both of the chords will be a secondary function. In this case, the top part of the bracket will contain "vii<sup>o6</sup>/ii", and the bottom part will containing "c: vii<sup>o6</sup>".
+We label these using the same bracket system that we use for common chord pivot modulations, but one or both of the chords will be a secondary function. In this case, the top part of the bracket will contain "vii<sup>o6</sup>/ii", and the bottom part will containing "Cm: vii<sup>o6</sup>".
 
 #### Secondary function pivot modulation principles
 
