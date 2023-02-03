@@ -62,7 +62,7 @@ Because you first hear the modulation on beat 4 of the measure 2, it would make 
 
 The crucial factor for this modulation is that it occurs across two phrases. The first phrase clearly ends on an IAC in E major, and the following chord immediately begins the new key. A modulation that relies on the phrase is called a *direct modulation* or *phrase modulation*.
 
-Because there is no pivot chord in these types of modulations, we label direct modulations without a bracket. Simply put the upper- or lower-case letter for the new key followed by a colon and the first chord in the new key. For this excerpt, the Roman numeral for beat 4 of the measure 2 would be: *c#:ii<sup>o6</sup>*. 
+Because there is no pivot chord in these types of modulations, we label direct modulations without a bracket. Simply put the upper- or lower-case letter for the new key followed by a colon and the first chord in the new key. For this excerpt, the Roman numeral for beat 4 of the measure 2 would be: *C#m:ii<sup>o6</sup>*. 
 
 Because direct modulations are the only modulations we label without a bracket, you should know that if you choose to label a modulation that is not a direct modulation without using a modulation bracket, someone reading your analysis will assume that you misunderstood the modulation.
 
