@@ -38,9 +38,9 @@ We label these using the same bracket system that we use for common chord pivot 
 - Unlike common chord pivot modulations, there will not be a chord that is common to both keys before the modulation point. This then necessitates pivoting on a secondary chord.
 - Typically occurs mid-phrase because of its reliance on a functional progression on both sides of the pivot.
 
-## Direct modulation (or phrase modulation)
+## Phrase modulation (or direct modulation)
 
-Analyze the following chorale excerpt. While you should be able to find a common chord pivot, how strong are the progressions on either side of the pivot? What aspect of the music mitigates the strangeness of these progressions? In other words, why doesn't this sound like a "bad" progression leading into the modulation point? (Hint: Even though our MIDI playback does not play the fermatas, you should consider that the choir would breathe after the natural resolution of that phrase. Play it on piano if you are able to simulate this.)
+Analyze the following chorale excerpt. While you should be able to find a common chord pivot, how strong are the progressions on either side of the pivot? What aspect of the music mitigates the strangeness of these progressions? In other words, why doesn't this sound like a "bad" progression leading into the modulation point? (Hint: Even though our MIDI playback does not hold for the fermatas, you should consider that the choir would breathe after the natural resolution of that phrase. Play it on piano if you are able to simulate this.)
 
 {% capture ex2 %}X:2
 T:Bach - Chorale - Erkenne mich, mein Huter
@@ -60,13 +60,13 @@ w:E:{% endcapture %}
 
 Because you first hear the modulation on beat 4 of the measure 2, it would make sense to pivot on the previous chord (the fermata), an E major triad. Pivoting on this chord would give you a modulation bracket with a "I" on top and "c#: III" on bottom. The issue is that the modulation point is a B-sharp diminished triad, which is the ii<sup>o6</sup> in the key of C-sharp minor. III-ii not a diatonically functional progression, so this is not a pivot chord modulation.
 
-The crucial factor for this modulation is that it occurs across two phrases. The first phrase clearly ends on an IAC in E major, and the following chord immediately begins the new key. A modulation that relies on the phrase is called a *direct modulation* or *phrase modulation*.
+The crucial factor for this modulation is that it occurs across two phrases. The first phrase clearly ends on an IAC in E major, and the following chord immediately begins the new key. A modulation that relies on the phrase is called a *phrase modulation* or *direct modulation*.
 
-Because there is no pivot chord in these types of modulations, we label direct modulations without a bracket. Simply put the upper- or lower-case letter for the new key followed by a colon and the first chord in the new key. For this excerpt, the Roman numeral for beat 4 of the measure 2 would be: *C#m:ii<sup>o6</sup>*. 
+Because there is no pivot chord in these types of modulations, we label phrase modulations without a bracket. Simply put the upper- or lower-case letter for the new key followed by a colon and the first chord in the new key. For this excerpt, the Roman numeral for beat 4 of the measure 2 would be: *C#m:ii<sup>o6</sup>*. 
 
-Because direct modulations are the only modulations we label without a bracket, you should know that if you choose to label a modulation that is not a direct modulation without using a modulation bracket, someone reading your analysis will assume that you misunderstood the modulation.
+Because phrase modulations are the only modulations we label without a bracket, you should know that if you choose to label a modulation that is not a direct modulation without using a modulation bracket, someone reading your analysis will assume that you misunderstood the modulation.
 
-#### Direct modulation principles
+#### Phrase modulation principles
 
 - Occurs when a modulation begins abruptly after a phrase ending.
 - May or may not have a possible pivot chord, but it will create a non-functional progression between the last chord of the first phrase and the first chord of second phrase.
