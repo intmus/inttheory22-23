@@ -4,11 +4,11 @@ title: 17a Lesson - An introduction to mode mixture
 abc: true
 ---
 
-Tonal harmony is easiest to study when when it follows strict rules, and because of this, we have studied harmonic function thus far through the lens of major and minor keys. In real music however, the relationship between modes is more fluid. 
+When first studying tonal harmony, the seemingly endless options for musical progression is daunting, so it can be helpful to look through the lens of rigid structure. Because of this, we have studied harmonic function thus far through the diatonic framing of separate major and minor keys, however in most tonal music, the relationship between modes is more fluid. 
 
 ## Mode mixture (modal interchange)
 
-Look at the following chart of the chords of parallel major and minor keys. Compare the chords built off each diatonic scale degree. (e.g. I to i, ii to ii<sup>o</sup> How many of these chords match qualities? Does this fit with your perception of two keys that are distantly-related?
+Look at the following chart of the chords of parallel major and minor keys. Compare the chords built off each diatonic scale degree. (e.g. I to i, ii to ii<sup>o</sup> How many of these chords match qualities? Does this fit with your perception of distantly-related keys as we defined in the previous unit?
 
 C major | Chord | Chord | C minor
  --- | --- | --- | ---
@@ -40,7 +40,7 @@ w:c:i VI iio V7 i{% endcapture %}
 
 ### Conclusion
 
-Even at a glance, you can see that the voice-leading in these two progressions is identical with the only differences between the two resulting from the altered pitches in the key signature. In particular, the resolution from the sixth scale degree to the fifth scale degree is strengthened in minor, because the resolution becomes a half-step between le and sol.
+Even at a glance, you should see that the voice-leading in these two progressions is identical with the only differences between the two resulting from the altered pitches in the key signature. In particular, the resolution from the sixth scale degree to the fifth scale degree is strengthened in minor, because the resolution becomes a half-step between le and sol.
 
 ## Borrowing from the parallel minor
 
@@ -48,7 +48,7 @@ When studying the voice-leading of these two parallel modes, they seem almost in
 
 And they are.
 
-Alter the following progression in C major to "borrow" either the VI or ii<sup>o</sup> chords from minor. What chordal members do you have to alter for each chord? What scale degrees are these? When you play it back does it sound acceptable? What if you only alter both chords? Does this make it more or less jarring?
+Alter the following progression in C major to "borrow" either the VI or ii<sup>o</sup> chords from minor. What chordal members do you have to alter for each chord? What scale degrees are these? When you play it back does it sound acceptable? What if you alter both chords? Does this make it more or less jarring?
 
 {% capture ex2 %}X:2
 T:Borrowing chords from the parallel minor
@@ -65,7 +65,7 @@ w:C:I vi>VI ii>iio V I{% endcapture %}
 
 ### Conclusions
 
-To borrow either ii<sup>o</sup> or VI from minor, you must alter the sixth scale degree for both, and the VI also requires an altered third scale degree. Regardless of which chord you alter--or both--the progression is fairly convincing. Borrowing from the minor mode greatly darkens the progression without changing any of the voice-leading functions. Also, take note of how the roots of chords are affected. The ii chord has a root of `re` in either the major or minor mode and changes only in quality from a D minor to a D diminished chord. The vi chord undergoes a more substantial change, because not only does its quality change from minor to major, but it does this by changing the actual root of the chord from `la` to `le`. Forgetting to alter the root when borrowing chords from different modes is one of the most common mistakes that students make when studying borrowed chords in mode mixture, so always check your roots before building the chord.
+To borrow either ii<sup>o</sup> or VI from minor, you must alter the sixth scale degree for both, and the VI also requires an altered third scale degree. Regardless of which chord you alter--or both--the progression is functional and convincing. Borrowing from the parallel minor mode darkens the progression without changing any of the voice-leading functions. Also, take note of how the roots of chords are affected. The ii chord has a root of `re` in either the major or minor mode and changes only in quality from a D minor to a D diminished chord. The vi chord undergoes a more substantial change, because not only does its quality change from minor to major, but it does this by changing the actual root of the chord from `la` to `le`. Forgetting to alter the root when borrowing chords from different modes is one of the most common mistakes that students make when studying borrowed chords in mode mixture, so always check your roots before building the chord.
 
 Perhaps more importantly than even understanding which chords can be borrowed, you must look at how they function. In this example, we are borrowing chords directly from a circle-of-fifths progression. *They are still fulfilling their diatonic function, because the voice-leading is tendencies are the same regardless of mode.* As with all Roman numeral analysis, its purpose is to explain the function and provide context for a progression. So even though the quality of this ii chord has changed and is no longer diatonic, the meaning of the Roman numeral doesn't change unless you alter it with further information such as labeling it as a passing or pedal chord. If you put ii<sup>o</sup> without further explanation, you are saying that it still has a pre-dominant function in this context.
 
@@ -113,7 +113,7 @@ w:c:i iio6 V7 VI iv6 viio7 i{% endcapture %}
 
 ## Roman numeral notation of mode mixture
 
-It is because of mode mixture that we have followed such strict guidelines when labeling Roman numerals to this point. By having each part of a Roman numeral describe an isolated chord tone, we are able to accurately describe even borrowed chords.
+It is because of mode mixture that we have followed strict guidelines when labeling Roman numerals to this point. By having each part of a Roman numeral describe an isolated chord tone, we are able to accurately describe even borrowed chords.
 
 Chordal member | Default implied pitch | To raise by semitone from default | To lower by semitone from default
  --- | --- | --- | ---
