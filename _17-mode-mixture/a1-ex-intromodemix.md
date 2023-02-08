@@ -60,7 +60,7 @@ V:1
 [cE] [cE]| [dF] [BF]| [c2E]|]
 V:2 clef=bass
 [K:C] [C,G,] [A,,A,]| [D,A,] [G,,G,]| [G,2C,2]|]
-w:C:I vi>VI ii>iio V I{% endcapture %}
+w:C:I vi>bVI ii>iio V7 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 ### Conclusions
