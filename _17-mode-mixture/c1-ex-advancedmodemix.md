@@ -10,7 +10,7 @@ Please watch this wonderfully-made video on modal interchange -- another name fo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1dRA28cdt5c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-This video does a great job of explaining the concept of mode mixture, but as he mentioned near the end of the video, he is only "scratching the surface". Having watched the video, you probably feel that you understand the extended *concept* of mode mixture, but if you were asked to compose a progression and melody the incorporated mode mixture, do you feel that you would be able to implement it? Where would you start? In short, this video explains the "what is it?", but it does not begin to approach the "why it works?" or "how it works?".
+This video does a great job of explaining the concept of mode mixture, but as he mentioned near the end of the video, he is only "scratching the surface". Having watched the video, you probably feel that you understand the extended *concept* of mode mixture, but if you were asked to compose a progression and melody using this advanced language of mode mixture, do you feel that you would be able to implement it? Where would you start? Why did he choose these particular chords? How did he know where they would sound convincing? In short, this video explains the questions of "what is it?", but it does not approach the questions of "why it works" or "how it works".
 
 To begin exploring this, use the score below to try voicing one of the progressions taken from the video. Take risks, and break the "rules" as you try this. You must use the chord progression below, but you may alter the bass and soprano lines if you would like. You may also add as many or as few of the pitches as you need. Are you able to make this progression sound as pleasing as it does in the video? If not, what are the factors making this difficult? From a technical viewpoint, is it lack of knowledge or is it the medium (MIDI keyboard)? From a musical viewpoint, what aspects make the biggest improvement when you alter them?
 
@@ -36,30 +36,31 @@ Even though this is an entirely new style of progression, you can focus on the f
 - Avoid objectional parallels when possible
 - Don't double tendency tones
 
-If you do these things, it is fairly easy to write a smooth soprano line and then work your way backward through the progression to create something such as this:
+If you do these things, it is fairly easy to write smooth soprano and bass lines and then work your way backward through the progression to create something such as this:
 
 {% capture ex4 %}X:4
 T:Voiced sample mode mixture
+T:(inversions not notated in Roman numerals)
 M:4/4
 L:1/2
 Q:1/4=90
 K:C
 V:1
-[EG] [F_B]| [EA] [F_A]| [E2G]|]
+[GC] [_BD]| [AE] [_AC]| [G2C]|]
 V:2 clef=bass
-[C,C] [_B,,D]| [F,B,] [D,C]| [C,2C]|]
+[C,E,] [_B,,F,]| [B,,F,] [D,F,]| [C,2E,]|]
 w:C:I bVII IVM7(#11) ii%7 I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
 ## Functional mode mixture
 
-As you have hopefully come to realize, all tonal harmony -- even the chromatic alterations -- rely on voice-leading to create a sense of natural progression, and each harmony can be viewed through the lens of how it functions. From this, we derive primary harmonic functions such as tonic, dominant, and pre-dominant as well as embellishing functions such as passing, pedal, and cadential. Even the exceptions to these can be viewed as functional substitutions (e.g. deceptive progressions).
+As you have hopefully come to realize, all tonal harmony--even the chromatic alterations--rely on voice-leading to create a sense of natural progression, and each harmony can be viewed through the lens of how it functions. From this, we derive primary harmonic functions such as tonic, dominant, and pre-dominant as well as embellishing functions such as passing, pedal, and cadential. Even the exceptions to these can be viewed as functional substitutions (e.g. deceptive progressions).
 
-At its core, mode mixture borrows altered tones from parallel modes -- thus altering chord *qualities* -- but retains standard chord function. If a diatonic chord would have a pre-dominant function, altering an individual tone by a half-step will not alter the function. It creates color and often *strengthens* the voice-leading by changing whole-step resolutions into half-step resolutions. Moreover, if a chord functions as an embellishing chord such as a passing or pedal chord, then it will retain that function even if one or two pitches are borrowed from a parallel mode. 
+At its core, mode mixture borrows altered tones from parallel modes, thus altering chord *qualities*, but retains standard chord function. If a diatonic chord would have a pre-dominant function, altering an individual tone by a half-step will not alter the function. It creates color and often *strengthens* the voice-leading by changing whole-step resolutions into half-step resolutions. Moreover, if a chord functions as an embellishing chord such as a passing or pedal chord, then it will retain that function even if one or two pitches are borrowed from a parallel mode. 
 
-Even seemingly inexplicable choices can be explained -- such as the ii<sup>&oslash;7</sup> from the chord progression above -- if you look at the voice-leading and compare it to standard diatonic function.
+Even seemingly inexplicable choices can be explained, such as the ii<sup>&oslash;7</sup> from the chord progression above, if you look at the voice-leading and compare it to standard diatonic function.
 1. The ii<sup>&oslash;7</sup> is inserted into the position where we would normally expect a dominant function.
-2. If you compare the pitches within ii<sup>&oslash;7</sup> to the pitches of vii<sup>o7</sup>, you will realize that three of the pitches are the same (D, F, and A-flat) and the remaining pitch only changes by a half-step (B to C). In this progression, the C works best when it acts as an anticipation of the tonic chord, and this strengthens the voice-leading resolutions of ii<sup>&oslash;7</sup>. Therefore, the ii<sup>&oslash;7</sup> can be viewed as an altered dominant function chord.
+2. If you compare the pitches within ii<sup>&oslash;7</sup> to the pitches of vii<sup>o7</sup>, you will realize that three of the pitches are the same (D, F, and A-flat) and the remaining pitch only changes by a half-step (B to C). In this progression, the C works best when it acts as an anticipation of the tonic chord, and this strengthens the voice-leading resolutions of ii<sup>&oslash;7</sup>. Therefore, the ii<sup>&oslash;7</sup> can be viewed as a dominant function chord.
 
 With this in mind, look at the following reduction of an excerpt from Mahler's Symphony No. 2. How would you explain each of these borrowed chords? How do they function? Is this similar to the progression from above?
 
