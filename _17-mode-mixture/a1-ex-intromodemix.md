@@ -117,14 +117,16 @@ It is because of mode mixture that we have followed strict guidelines when label
 
 Chordal member | Default implied pitch | To raise by semitone from default | To lower by semitone from default
  --- | --- | --- | ---
- root | diatonic scale degree | sharp symbol in front of Roman numeral* | flat symbol in front of Roman numeral*
+ root | diatonic scale degree* | sharp symbol in front of Roman numeral** | flat symbol in front of Roman numeral**
  third | based on case of Roman numeral | upper case (M3) | lower case (m3)
  fifth | P5 above root | add <sup>+</sup> after Rom num | add <sup>o</sup> after Rom num
- seventh | m7 above root | add <sup>M</sup> before inversion figure | add <sup>o</sup> before inversion figure**
+ seventh | m7 above root | add <sup>M</sup> before inversion figure | add <sup>o</sup> before inversion figure***
 
- *For clarity's sake, we **always** use a sharp or flat symbol to show that we are raising or lowering the root, even if you are actually adding a natural.
+* - Because a raised leading tone is necessary for *diatonic* function in minor, it is not necessary to show the raised root of the vii<sup>o</sup> chord in the Roman numeral (i.e. #vii<sup>o</sup>). This is the only chord in this system for which you have to make an assumption regarding an altered pitch. This also means that in minor, there are two possible chords that will have different roots but not have Roman numeral alterations. The assumed diatonic chord, vii<sup>o</sup> built off of the leading tone `ti`, as well as the the naturally occurring VII chord, built off of the subtonic `te`.
+* 
+ ** - For clarity's sake, we **always** use a sharp or flat symbol to show that we are raising or lowering the root, even if you are actually adding a natural.
 
- **Because the diminished <sup>o</sup> implies the interval of a d5 AND a d7, you must use the half-diminished symbol if you wish to alter the fifth but leave the chordal seventh as a m7 above the root.
+ *** - Because the diminished <sup>o</sup> implies the interval of a d5 AND a d7, you must use the half-diminished symbol if you wish to alter the fifth but leave the chordal seventh as a m7 above the root.
 
 Test your knowledge of this by writing the correct borrowed chords for every diatonic chord in a parallel major and minor. You may use the following chart as a model. With all of these make sure that you build the chord off of the correct root. For example, students often forget that to build a major VI chord in major, the root is altered thereby changing the entire chord. (In C major for example, the borrowed bVI chord is *not* an A major triad.)
 
