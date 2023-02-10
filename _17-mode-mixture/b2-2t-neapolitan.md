@@ -14,6 +14,8 @@ The Neapolitan 6 chord can also resolve to a viio7/V. In this case, we respell t
 
 Because the root and fifth of a neapolitan chord are tendency tones, we need to double the third.
 
+Another chord that the bII chord can move to is the IVM7(#11) because of very smooth voiceleading.
+
 
 # Class discussion
 
