@@ -4,6 +4,17 @@ title: 17b Discussion - Neapolitan chords (bII<sup>6</sup>)
 abc: true
 ---
 
+# Class Discussion
+
+The bII chord.
+
+Another chord that we can borrow is the bII chord from the phrygian mode. This chord is called a Neapolitan 6 chord and has a very smooth resolution to either a I6/4 or a V chord. The Neapolitan 6 chord always acts as a predominant function. When moving to a V chord, do not resolve ra (in the key of C major, Db) to re (D). Instead resolve it down to ti, the third of the V chord. 
+
+The Neapolitan 6 chord can also resolve to a viio7/V. In this case, we respell the flat sixth scale degree (Ab in the key of C major) as a sharp fifth scale degree in order to resolve correctly.
+
+Because the root and fifth of a neapolitan chord are tendency tones, we need to double the third.
+
+
 # Class discussion
 
 **Standard progressions using the bII**
