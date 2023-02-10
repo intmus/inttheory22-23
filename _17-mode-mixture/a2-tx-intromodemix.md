@@ -3,6 +3,13 @@ layout: chapter
 title: 17a Discussion - An introduction to mode mixture
 abc: true
 ---
+# Class Discussion
+
+Borrowed chords are when a chord is replaced by how it would show up in another mode. A common way to borrow chords is taking chords from the minor key (aeolian mode) and putting them in major pieces. This often adds lowered notes that resolve downward to create smoother voice leading.
+
+It is also common to borrow chords from a major key while in a minor key. For example, using the major IV chord in first inversion will allow us to have a “La Ti Do” bassline.
+
+Because the V and V7 chords are diatonic in both major and minor keys, we cannot borrow it. We can however borrow the viio7 chord from minor, and the vii%7 from major, although the former is much more common.
 
 # Class discussion
 
