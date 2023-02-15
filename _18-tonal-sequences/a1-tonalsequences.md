@@ -74,7 +74,7 @@ c'bc'g a^gae| fefc d^cdA| B^AB^F G^FGD| E^DEB, C4||{% endcapture %}
 
 ## Harmonic sequences
 
-Sequences occur harmonically as well, and when they do, they can supplant standard function or inversion conventions. As mentioned in the introduction, sequences work because they establish a pattern for the listener and then fulfill this new goal. Look at the following example of a two voice pattern. The first bar establishes tonic, and then a sequence begins in the second measure. After listening to it, discuss with your classmates whether it *sounds* functional. If you were going to describe this to another person, how would you describe it? Once you finish your discussion, propose a harmonic progression that fits the melody.
+When two or more melodic sequences are combined, they create a harmonic sequence that can supplant standard harmonic function and conventions. As mentioned in the introduction, sequences work because they establish a pattern for the listener and then fulfill this new goal. Look at the following example of a two voice pattern. The first bar establishes tonic, and then a sequence begins in the second measure. After listening to it, discuss with your classmates whether it *sounds* functional. If you were going to describe this to another person, how would you describe it? Once you finish your discussion, propose a harmonic progression that fits the melody.
 
 {% capture ex2 %}X:2
 T:A two voice sequence
@@ -210,7 +210,7 @@ C G,| A, E,| F, C,| F, G,:|
 w:C:I V vi iii IV I IV V{% endcapture %}
 {% include abc-example.html number="9" abc=ex9 %}
 
-This sequence takes its name from the German Baroque composer, Johann Pachelbel, who composed a canon using this sequence as its foundation. Since then, the harmonic progression has become a common structure on which to build multiple styles of music. The comedian Rob Paravonian satired many of these takes in his now famous "Pachelbel Rant". **(Caution: contains strong language)**
+This sequence takes its name from the German Baroque composer, Johann Pachelbel, who composed a canon using this sequence as its foundation. Since then, the harmonic progression has become a common structure on which to build multiple styles of music. The comedian Rob Paravonian satired many of these takes in his now famous "Pachelbel Rant". **(Caution: contains language not suitable for all ages)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JdxkVQy7QLM" frameborder="0" allowfullscreen></iframe>
 
