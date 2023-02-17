@@ -144,7 +144,7 @@ C G,| A, E,| F, C,| F, G,:|
 w:C:I V vi iii IV I IV V{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
-Hopefully you were able to identify that the sequence only covers the first three measures, the final measure is simply a way to allow the pattern to repeat smoothly. For the sequence, there are two possibilities to describe it. You could consider each measure a pattern in which case you would say that this is a diatonic sequence that descends by 3rd. If you consider the pattern to be a half note, though, it has multiple parts. It is a diatonic sequence of triads that moves down by 4th and then up by 2nd. Either is correct, but the second version communicates a clearer picture of the pattern.
+Hopefully you were able to identify that the sequence only covers the first three measures, the final measure is simply a way to allow the pattern to repeat smoothly. For the sequence, there are two possibilities to describe it. You could consider each measure a pattern in which case you would say that this is a diatonic sequence that descends by 3rd. If you consider the pattern to be a half note, though, it has multiple parts. It is a diatonic sequence of triads that moves down by 4th and then up by 2nd. Either is correct, but they have different uses. The larger iteration makes for a cleaner, simpler analysis, but the smaller iteration communicates a more detailed explanation of the pattern. Choose the method that best suits your needs.
 
 How does your description of the sequence change if we change some of the voices to alter the chords' inversions as in the example below?
 
@@ -164,7 +164,7 @@ w:C:I V6 vi iii6 IV I6 IV V{% endcapture %}
 
 #### Seventh chords following the circle-of-fifths
 
-While any sequence that establishes a pattern and has clear voice-leading can function, there are common sequences that many composers have relied upon. We discussed the first of these in [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html) when exploring how voice-leading led to the standard circle-of-fifths progression. Now that we understand the structure of sequences, how would you describe this sequence?
+While any sequence that establishes a pattern and has clear voice-leading can function, there are common sequences that many composers have relied upon. We discussed the first of these in [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html) when exploring the voice-leading that creates the strong pull of the standard circle-of-fifths progression. Now that we understand the nature of sequences, look at each voice here as a melodic sequence. Does this change your view of standard voice-leading practices? Can you come up with a sequence description for this progression?
 
 {% capture ex7 %}X:7
 T:Circle of fifths sequence of triads
