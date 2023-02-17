@@ -4,7 +4,32 @@ title: 18a Discussion - Tonal Sequences
 abc: true
 ---
 
-# Class Discussion
+## Class Discussion
+
+Sequences
+
+Sequences are repeated melodic or harmonic material that is transposed up or down by a constant interval. The interval that the sequence is moved is called the interval of transposition.
+
+There are two types of sequences: diatonic, and chromatic. Diatonic sequences have starting notes that appear in the key you are in without needing accidentals to alter them. Chromatic sequences have an interval of transposition that is fixed and doesn’t fit the key you’re in. 
+
+Even though some of the notes in a sequence are chromatic, if each iteration of the sequence starts on a diatonic note in the key it is a diatonic sequence and not a chromatic sequence.
+
+When labeling chromatic sequences you must include the interval’s quality and size. 
+
+Harmonic Sequences
+
+When dealing with sequences, especially when two voices or more voices are acting as melodic sequences at one time, a harmonic sequence might form. A harmonic sequence is when the roots of the chords in a progression are moving like a sequence. We only ever look at the roots of the chords in a harmonic sequence: the bass notes are usually something different than the root of the chord ( inverted).	
+
+Labeling Sequences
+
+When labeling sequences, put an arrow in the direction that the sequence is moving (up or down), and the interval of transposition in between every iteration of the sequence. Put another arrow arching from one iteration to the next, going over the arrow and interval of transposition.
+
+Draw a line over the sequence and label it “seq”.
+
+You still need to label the roman numerals correctly and every iteration must be labeled. When labeling the function of a sequence, it will always extend the function (like a tertiary function).
+
+
+# Class Discussion 2022
 
 ***Melodic sequences***
 
