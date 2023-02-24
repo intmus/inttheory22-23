@@ -4,7 +4,9 @@ title: 19a Discussion - Augmented sixth chords
 abc: true
 ---
 
-###Augmented Sixth Chords
+## Class Discussion
+
+#### Augmented Sixth Chords
 
 The augmented sixth chord is not actually a triad. Instead, it is a collection of tones that resolve very smoothly in a specific way. These chords include the scale degrees Fi and Le (sharp fourth and sharp sixth scale degrees of the key you are currently in) which both resolve by half step to Sol. Because of this, they almost always resolve to a root position five chord. The interval between low Le and Fi above it is an augmented sixth. 
 
