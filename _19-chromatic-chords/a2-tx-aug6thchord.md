@@ -4,7 +4,31 @@ title: 19a Discussion - Augmented sixth chords
 abc: true
 ---
 
-# Class discussion
+###Augmented Sixth Chords
+
+The augmented sixth chord is not actually a triad. Instead, it is a collection of tones that resolve very smoothly in a specific way. These chords include the scale degrees Fi and Le (sharp fourth and sharp sixth scale degrees of the key you are currently in) which both resolve by half step to Sol. Because of this, they almost always resolve to a root position five chord. The interval between low Le and Fi above it is an augmented sixth. 
+
+These chords also all share another common tone: Do (the tonic). This tone often resolves down by step to Ti (seventh scale degree), becoming the third of the V chord. “Do” in an augmented sixth chord can also remain on Do and become the root of a I 6/4 chord.
+
+###Types of Augmented
+
+***Italian Augmented Sixth Chords***
+
+In an Italian augmented sixth chord, the root of the key is always doubled. Therefore, there are only three unique notes in an italian augmented sixth chord: Le, Fi, and Do. These are also the only tones required for any type of augmented sixth chord.
+
+***French Augmented Sixth Chords***
+
+French augmented sixth chords include  Le, Fi, and Do, but they also include  Re, or the second scale degree. This tone often stays on Re to become the fifth of the V chord. If the french augmented sixth chord resolves to a I 6/4, the Re can resolve up to the third, or down to the root of the I 6/4 chord.
+
+***German Augmented Sixth Chords***
+
+German augmented sixth chords include Le, Fi, and Do, but they also include Me. German augmented sixth chords prefer to resolve to a I 6/4 chord. When they do this, Me often resolves up to the third of the I 6/4 chord. 
+
+
+The augmented sixth chord is almost always predominant, because they almost always resolve to V, or I6/4, both of which are always dominant.
+
+
+# Class discussion 2022
 
 **Augmented sixth chords**
 - Not based in tertian harmony, so their "Roman numerals" are written differently than normal
