@@ -12,7 +12,7 @@ The augmented sixth chord is not actually a triad. Instead, it is a collection o
 
 These chords also all share another common tone: Do (the tonic). This tone often resolves down by step to Ti (seventh scale degree), becoming the third of the V chord. “Do” in an augmented sixth chord can also remain on Do and become the root of a I 6/4 chord.
 
-###Types of Augmented
+#### Types of Augmented Sixth Chords
 
 ***Italian Augmented Sixth Chords***
 
@@ -26,9 +26,9 @@ French augmented sixth chords include  Le, Fi, and Do, but they also include  Re
 
 German augmented sixth chords include Le, Fi, and Do, but they also include Me. German augmented sixth chords prefer to resolve to a I 6/4 chord. When they do this, Me often resolves up to the third of the I 6/4 chord. 
 
+The roman numeral notation is always either It+6, Fr+6, or Ger+6. There are no inversions to these chords, because they aren't actually triads. **The leadsheet notation for these chords are the same as the roman numerals.**
 
 The augmented sixth chord is almost always predominant, because they almost always resolve to V, or I6/4, both of which are always dominant.
-
 
 # Class discussion 2022
 
