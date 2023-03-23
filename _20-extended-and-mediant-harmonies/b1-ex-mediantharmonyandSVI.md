@@ -18,10 +18,11 @@ V:2 clef=bass
 w:C:I vi ii V I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-Most students when presented with these questions determine that the strength of the progression comes from three things:
+Most students when presented with these questions determine that the strength of the progression comes from four things:
 - The overall smoothness of the voice-leading in the upper voices 
 - The "pull" from certain tendency tones toward another
-- The strong, repetitive pattern of the bass voice 
+- The strong, repetitive pattern of the bass voice
+- The importance of the relationship of a resolution by ascending P4/descending P5
 
 Between any two chords with roots separated by descending P5, there is one common tone and two voices that resolve by step. The large leaps of the bass line contrast the smoothness of the upper voices and create a sense of obvious movement, but if we remove the bass voice, we can clearly see (and hear) the smooth voice-leading between these chords while still using complete chords. (The tenor voice has been written in treble clef to make it easier to see the voice-leading. Its octave is not altered.)
 
@@ -50,9 +51,11 @@ When counting the half-steps in the the above progression, you hopefully found t
 
 Let's take this one step further. Before reading on, take a moment to find the SVI between a **C major triad** and all triads that are **diatonic to C major or C minor**.* Rank them in order of smoothest voice-leading to least.
 
-As you can see the smoothest voice-leading possible between a C major triad and a different triad is the one half-step necessary to create E minor, the mediant. In the next closest category (two half-steps), there are three chords: A minor (the submediant), A-flat major (the borrowed submediant), and F minor (the borrowed subdominant). Of the four smoothest chords, three are chords whose roots are separated by a third.
+Of all those chords, you should find that the lowest SVI--and therefore the smoothest voice leading--between a C major triad and the other triads is the one half-step necessary to create E minor, the mediant. In the next closest category (two half-steps), there are three chords: A minor (the submediant), A-flat major (the borrowed submediant), and F minor (the borrowed subdominant). Of the four smoothest chords, three are chords whose roots are separated by a third.
 
-Anytime a progression has two chords whose roots are separated by a M3 or a m3, we call this *mediant harmony*. (Do not confuse this with tertian harmony; tertian harmony is any harmony that uses chords built by stacking thirds. This has nothing to do with the root movement within a progression.) Rather than the structured rules and tendency tones of standard diatonic harmony, mediant harmony relies on the smoothness of voice-leading between two chords to create interesting new colors and progressions within a somewhat tonal framework.
+Anytime a progression has two chords whose roots are separated by a M3 or a m3, we call this *mediant harmony*. Do not confuse mediant harmony with tertian harmony; tertian harmony is any harmony that uses chords built by stacking thirds and exists independently of the distance between chordal roots in a progression. 
+
+Rather than the structured rules and tendency tones of standard diatonic harmony, mediant harmony relies solely on the smoothness of voice-leading between two chords to create progression. And because of its flexibility, it creates interesting new colors and progressions within a framework that relies on tonal structures such as triads and seventh chords.
 
 ## Finding and labeling mediants
 
@@ -109,7 +112,11 @@ w:Cmaj Abmaj Fmin Fmaj Dmin Bbmaj{% endcapture %}
 
 In this progression, Roman numerals cease to have a meaningful role because the chords do not follow standard function, nor are we able to identify a sequence with a stable repetitive pattern as we did in our unit on sequences. What good is using Roman numerals if a iii chord can function directly before the tonic chord? You *could* label this passage as beginning in C major and moving through I-bVI-iv, and you would then need to pivot on the F major chord to become the V chord in B-flat major. You could even analyze the D minor chord as just the arrival of the B-flat major triad with a retardation on the A.
 
-But none of this truly explains why this works. This passage uses small, smooth alterations in voice-leading to create a sense of motion. To be clear, it is always preferable to analyze a passage using standard diatonic function (i.e. primary, secondary, and tertiary function) or a sequence if either is possible; there is no need to overcomplicate your analyses. But in passages like the one above--those that rely more on an interesting but irregular pattern of voice-leading--you should include an SVI number between each pair of chords within a box to show that you understand how this works. I still recommend that you write the correct Roman numerals under each chord in order to show the pitches of the written chord, but they will be placeholders in this situation:
+But none of this truly explains why this works. This passage uses small, smooth alterations in voice-leading to create a sense of motion. To be clear, it is always preferable to analyze a passage using standard diatonic function (i.e. primary, secondary, and tertiary function) or a sequence if either is possible; there is no need to overcomplicate your analyses. But in passages like the one above--those that function due to an interesting but irregular pattern of voice-leading--you should include an SVI number in place of your standard functional analysis (i.e. T,D, or P). 
+
+## Labeling SVI
+
+To label chords that function through their voice-leading, you should place an SVI number inside of box below your Roman numerals and between the pair of chords. This replaces your standard functional analysis. You should still write the correct Roman numerals under each chord in order to show the pitches of the written chord, but SVI explains why the non-standard function works in the same way that labeling passing or cadential chords shows tertiary functions.
 
 Key | Chord 1 | Chord 2 | Chord 3 | Chord 4 | Chord 5 | Chord 6
  --- | --- | --- | --- | --- | --- | ---
@@ -118,4 +125,4 @@ Key | Chord 1 | Chord 2 | Chord 3 | Chord 4 | Chord 5 | Chord 6
 
 ## The limits of SVI
 
-As with all tools, you must be careful with how you use Simplified Voice-leading Intervals and mediant harmony. For example, when looking at diatonic progressions, the order in which the chords appear matters as much as the smoothness of the voice-leading. If you try to resolve V to ii, you have created a regression that will likely sound displeasing to someone familiar with tonal harmony. Also, many would say that adding a seventh to a chord (e.g. V becoming V7) strengthens the progression, because we have added a second tendency tone and therefore more tonal gravity between the two chords. But if you were to only look at SVI, adding the seventh would *weaken* the progression because it adds an extra half-step of resolution. In general, ISVI is most useful when looking at non-standard tonal progressions.
+As with all tools, you must be careful with how you use Simplified Voice-leading Intervals and mediant harmony. For example, when looking at diatonic progressions, the order in which the chords appear matters as much as the smoothness of the voice-leading. If you try to resolve V to ii, you have created a regression that will likely sound displeasing to someone familiar with tonal harmony. Also, many would say that adding a seventh to a chord (e.g. V becoming V7) strengthens the progression, because we have added a second tendency tone and therefore more tonal gravity between the two chords. But if you were to only look at SVI, adding the seventh would *weaken* the progression because it adds an extra half-step of resolution. In general, SVI is most useful when looking at non-standard tonal progressions.
