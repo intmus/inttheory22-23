@@ -22,9 +22,9 @@ Most students when presented with these questions determine that the strength of
 - The overall smoothness of the voice-leading in the upper voices 
 - The "pull" from certain tendency tones toward another
 - The strong, repetitive pattern of the bass voice
-- The importance of the relationship of a resolution by ascending P4/descending P5
+- The stability of resolutions by ascending P4/descending P5
 
-Between any two chords with roots separated by descending P5, there is one common tone and two voices that resolve by step. The large leaps of the bass line contrast the smoothness of the upper voices and create a sense of obvious movement, but if we remove the bass voice, we can clearly see (and hear) the smooth voice-leading between these chords while still using complete chords. (The tenor voice has been written in treble clef to make it easier to see the voice-leading. Its octave is not altered.)
+Between any two chords with roots separated by descending P5, there is one common tone and two voices that resolve by step. The large leaps of the bass line contrast the smoothness of the upper voices and create a sense of movement, but if we remove the bass voice, we can clearly see (and hear) the smooth voice-leading between these chords while still using complete chords. (The tenor voice has been written in treble clef to make it easier to see the voice-leading. Its octave is not altered.)
 
 {% capture ex2 %}X:2
 T:A simplified basic diatonic progression
