@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 22a Discussion - Advanced rhythm and meters
+title: 22b Discussion - Advanced rhythm and meters
 abc: true
 ---
 

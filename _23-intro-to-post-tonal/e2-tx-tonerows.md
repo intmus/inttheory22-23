@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 24d Discussion - Serialism and Tone Rows
+title: 23e Discussion - Serialism and Tone Rows
 abc: true
 ---
 # Class discussion

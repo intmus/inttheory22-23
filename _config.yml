@@ -85,15 +85,12 @@ collections:
   21-advanced-modulatory-techniques:
     output: true
     name: 21) Advanced Modulatory Techniques
-  22-beyond-simple-compound-meters:
+  22-advanced-scales-and-meters:
     output: true
-    name: 22) Beyond Simple and Compound Meters
-  23-intro-to-non-diatonic-materials:
+    name: 22) Modern Scales and Meters
+  23-intro-to-post-tonal:
     output: true
-    name: 23) An Introduction to Non-Diatonic Materials
-  24-intro-to-post-tonal:
-    output: true
-    name: 24) An Introduction to Post-Tonal Analysis
+    name: 23) An Introduction to Post-Tonal Analysis
 #  final-project:
 #    output: true
 #    name: Final Project Notes and Discussion

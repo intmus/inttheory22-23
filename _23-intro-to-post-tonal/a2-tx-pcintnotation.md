@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 23b Discussion - Pitch-class integer notation
+title: 23a Discussion - Pitch-class integer notation
 abc: true
 ---
 

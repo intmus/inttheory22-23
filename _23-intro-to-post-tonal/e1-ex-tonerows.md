@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 24d Lesson - Serialism and Tone Rows
+title: 23e Lesson - Serialism and Tone Rows
 abc: true
 ---
 

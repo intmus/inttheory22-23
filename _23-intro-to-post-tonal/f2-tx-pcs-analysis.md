@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 24e Discussion - Using Pitch Class Sets in Analysis
+title: 23f Discussion - Using Pitch Class Sets in Analysis
 abc: true
 ---
 

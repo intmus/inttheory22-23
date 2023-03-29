@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 24a Discussion - Basic PC Set Manipulation
+title: 23b Discussion - Basic PC Set Manipulation
 abc: true
 ---
 
