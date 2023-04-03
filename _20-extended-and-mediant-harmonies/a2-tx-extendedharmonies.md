@@ -3,7 +3,12 @@ layout: chapter
 title: 20a Discussion - Extended Tertian Harmonies and Non-chord Tones
 abc: true
 ---
-# Class discussion
+
+# Class Discussion
+
+Sometimes a tone that doesn’t fit within a standard triad or seventh chord is so present that it is functionally a chord tone. These intervals above the root of the chord are written as a superscript in the lead sheet chord symbol. These are chords such as 9 chords, 11 chords, and 13 chords. As we know, when a seventh chord is labeled with just a letter and a number (C7), it implies that the seventh is dominant. In the same way, if a chord has only a letter and a number that implies an interval above the seventh, the quality of the seventh is assumed dominant (C9).
+
+# Class discussion 2021
 
 How do we know if a note is a non-chord tone?
 
