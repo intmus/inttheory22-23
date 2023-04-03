@@ -4,7 +4,29 @@ title: 22a Discussion - Non-diatonic scales
 abc: true
 ---
 
-# Class discussion
+# Class Discussion 
+
+Non Diatonic Scales
+
+Whole Tone Scale
+A whole tone “scale” is a collection of six tones that are built entirely using whole steps. 
+There are only two whole unique tones scales, because once you create one whole tone scale, and then move that shape up by half step, you have included all twelve tones. This is a symmetrical scale.
+
+Mediant Harmony 
+In western music, we are often looking at chord progressions in which the roots of the chords move down by fifths (ii, vi, ii, V, I). Mediant harmony is when chords have roots that move in thirds. In the past, we have talked about how some chords can replace other chords because the share one or more tones. For example, the IV chord can replace the II chord, the viio chord can replace the V chord, etc. This is similar to how mediant harmony works. Mediant harmony works because of smooth voice leading and resolution by step. Let's look at the chords C and Emin. These chords share two notes (E and G) and in order to move from C to Emin using smooth voice leading, you would only need to move one note one half step (C to B).
+
+Any chord can now move to any other chord that has a root a M3 or m3 away. For example, Bb can move to D, Dmin, Db, Dbmin, G, Gmin, Gb, and Gbmin. These are the eight “mediants” of the chord Bb. There are two diatonic mediants, which don’t need any alteration to exist in the key (Dmin and Gmin). There are four chromatic mediants: two that are the other form of the diatonic mediants (major or minor), and two that are taken from the relative minor (Db and Gb). There are also two doubly chromatic mediants, which are altered from the relative minor (Dbmin and Gbmin).
+
+
+Hexatonic Scales
+Hexatonic scales are scales built on alternating minor thirds and half steps. There are four unique hexatonic scales - two 3+1, and two 1+3. They are similar to the whole tone scale but shifted over by a half step. Also symmetrical.
+
+
+Octatonic Scales
+The octatonic scale is a scale built on alternating half steps and whole steps. There for there are “whole-half octatonic” scales and “half-whole octatonic” scales (often labeled WH, or HW octatonic). There are three unique octatonic scales. Because scales usually have seven unique pitches, and the octatonic scale has eight tones, it will include a diminished third.
+
+
+# Class discussion 2021
 
 **What is a collection?**
 - A collection is an organized group of pitches. It's kind of a squares and rectangles situation. All scales are collections, but not all collections are scales.
