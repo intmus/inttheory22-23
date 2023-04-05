@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 23c Discussion - PC Set Inversion
+title: 23d Discussion - PC Set Inversion
 abc: true
 ---
 

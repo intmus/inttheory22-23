@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 23d Discussion - PC Set Prime Form
+title: 23e Discussion - PC Set Prime Form
 abc: true
 ---
 

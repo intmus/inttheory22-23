@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 23d Lesson - PC Set Prime Form
+title: 23e Lesson - PC Set Prime Form
 abc: true
 ---
 

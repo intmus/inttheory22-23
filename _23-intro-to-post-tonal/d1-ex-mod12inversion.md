@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 23c Lesson - PC Set Inversion
+title: 23d Lesson - PC Set Inversion
 abc: true
 ---
 

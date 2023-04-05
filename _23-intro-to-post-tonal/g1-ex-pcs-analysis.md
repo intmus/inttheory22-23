@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 23f Lesson - Using Pitch Class Sets in Analysis
+title: 23g Lesson - Using Pitch Class Sets in Analysis
 abc: true
 ---
 
