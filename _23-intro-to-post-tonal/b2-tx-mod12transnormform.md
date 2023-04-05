@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 23b Discussion - Basic PC Set Manipulation
+title: 23b Discussion - Labeling Pitch-class Sets and Basic Manipulation
 abc: true
 ---
 

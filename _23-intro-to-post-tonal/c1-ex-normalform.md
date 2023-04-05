@@ -4,11 +4,11 @@ title: 23c Lesson - Finding the Normal Form of a PCS
 abc: true
 ---
 
-## Normal form (normal order)
-
 In order to make comparing pc sets more useful, we need to use standardized orders to create consistent comparisons. You can imagine how difficult it would be to make sense of multiple pc sets if each set was in a random order. For this, we use *normal form*.
 
-Normal form is similar to the way in which we analyze standard tonal harmony. For example, how would you condense the following open voicing of a seventh chord in its simplest form while retaining its inversion?
+## Normal form (normal order)
+
+Reducing a pitch-class set to its normal form, also called normal order, is similar to the way in which we analyze chords in standard diatonic harmony. For example, how would you condense the following open voicing of a seventh chord to its simplest form? In doing so, make sure to retain its inversion.
 
 {% capture ex1 %}X: 1
 T:C major seventh chord
