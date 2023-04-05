@@ -4,11 +4,11 @@ title: 23c Lesson - Finding the Normal Form of a PCS
 abc: true
 ---
 
-In order to make comparing pc sets more useful, we need to use standardized orders to create consistent comparisons. You can imagine how difficult it would be to make sense of multiple pc sets if each set was in a random order. For this, we use *normal form*.
+In studying tonal music, you quickly learn that any melody or chord can be transposed to start on 12 different pitches, and we will still hear those as related as long as the *relative* interval structure remains intact. In order to make comparing pitch-class sets possible, we need some way to ensure that we are comparing like intervallic patterns. You can imagine how difficult it would be to make sense of multiple pc sets if each set was in a random order. For this, we use *normal form*.
 
 ## Normal form (normal order)
 
-Reducing a pitch-class set to its normal form, also called normal order, is similar to the way in which we analyze chords in standard diatonic harmony. For example, how would you condense the following open voicing of a seventh chord to its simplest form? In doing so, make sure to retain its inversion.
+Reducing a pitch-class set to its normal form, also called normal order, is similar to the way in which we analyze chords in standard diatonic harmony. For example, how would you condense the following open voicing of a seventh chord to its simplest form? When reducing it, make sure to retain its inversion.
 
 {% capture ex1 %}X: 1
 T:C major seventh chord
@@ -38,7 +38,7 @@ V:1
 
 (1,7,t)
 
-More precisely, find the ascending order that has the smallest interval between the outside pitch classes. As discussed above, you should know that a triad has three ascending forms, so you should use that as your starting point. You may use any method that works, but common methods include using mod12, notating the pitches on a staff, or even drawing the pitches on a clock face to visualize the shortest distance. As you work through this, consider the speed and efficacy of each method that you try.
+More precisely, find the ascending order that has the smallest interval between the outside pitch classes. As discussed above, you should know that a triad has three ascending forms, so you should use that as your starting point. You may use any method that works, but common methods include checking each interval using mod12, notating the pitches on a staff, or even drawing the pitches on a clock face to visualize the shortest distance. As you work through this, consider the speed and efficacy of each method that you try.
 
 ### Conclusions
 
@@ -46,7 +46,7 @@ For your first attempt at this basic trichord, you will probably find it easiest
 
 [7,t,1]
 
-**Notice that when notating a pc set in normal form, the parentheses are replaced by brackets.** (This notation method is outlined by Joseph Straus in his *Introduction to Post-Tonal Theory*.)
+**Remember that when notating a pc set in normal form, we use brackets, not parentheses.** Parentheses with commas imply an unordered or ascending form. This notation method is outlined by Joseph Straus in his *Introduction to Post-Tonal Theory*.
 
 ## Breaking "ties" for ordering pcs
 
