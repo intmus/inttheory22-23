@@ -15,9 +15,9 @@ For the rest of our introduction to post-tonal analysis, we will employ *integer
 
 There have been numerous refinements and alterations to this method since the first publication of Forte's text in 1973, so this unit will attempt to distill the basics into a foundation that will make this sort of analysis more accessible.
 
-## Notating pitch-class sets
+## Notating unordered pitch-class sets
 
-When we introduced pc sets (pcs) in Unit 22, we did not formalize their notation, however, because we will study various levels of organization within pc sets, it is important to establish a standard form for writing an *unordered* pcs--a pitch class set that you have not specifically organized according to a predetermined, formalized sorting method. For unordered pcs, you should always notate this using **parentheses with a comma between each pitch class**. The following are all examples of unordered pc sets:
+When we introduced pitch-class sets (pcs) in the previous topic, we did not formalize their notation, however, because we will study various levels of organization within pc sets, it is important to establish a standard form for writing an *unordered* pcs--a pitch class set that you have not organized according to a predetermined, formalized sorting method. For unordered pcs, you should always notate this using **parentheses with a comma between each pitch class**. The following are all examples of unordered pc sets:
 
 - (0,8,5,t)
 - (B-flat,C,G,D)
@@ -27,17 +27,35 @@ When we introduced pc sets (pcs) in Unit 22, we did not formalize their notation
 
 You will notice that it doesn't matter if you use pitch names or integer notation; a pitch class set is any collection of pitch classes.
 
-We can then take each of these unordered pitch class sets and put them in an *ascending form*. This is notated the same way.
+## Finding the ascending forms of pitch-class sets
+
+We can then take each of these *unordered* pitch class sets and put them in an *ascending form*. This is notated the same way, but with an obvious order now applied.
 - (0,5,8,t)
 - (B-flat,C,D,G)
 - (4,9)
 - (0,2,3,6,7,8,9,t,e)
 - (B,C,D,E,F,G,A)
 
-There are always as many ascending forms for any pcs as pitch classes within the set, because each pitch class has an ascending form. Here, I've only listed the ascending forms for the first pitch class in the examples above. For example, the first pcs listed would also have three additional ascending forms:
-- (5,8,t,0)
-- (8,t,0,5)
-- (t,0,5,8)
+For each of those five pitch-class sets, I've listed the ascending forms based on the first pitch class listed, but any pitch-class set will *always have as many ascending forms as there are pitch classes within the set*. Meaning that all tetrachords will have four ascending forms, and all pentachords will have five ascending forms, and so on, because we are able to create an ascending form built off of each pitch class. For example, the first pcs listed above would also have three additional ascending forms:
+- (0,5,8,t) = ascending form built off of 0
+- (5,8,t,0) = ascending form built off of 5
+- (8,t,0,5) = ascending form built off of 8
+- (t,0,5,8) = ascending form built off of t
+
+At first glance, it seems silly that an "ascending" form would have bigger numbers before smaller numbers, but if you think of each of these numbers as pitches, it will make more sense. Is C higher than F? That depends on which octave you place the C and F; either could be higher. The only thing that matters when determining an ascending form is that you don't skip over a pitch class. In our example tetrachord, you can imagine the four pitches on a staff using fixed-zero notation (i.e. C, F, A-flat, and B-flat), and you should be able to see that each of these ascending forms creates the smallest arrangement of the pitches given the starting note.
+
+{% capture ex4 %}X: 4
+T:Tetrachords represented in ascending forms
+T:using the (0,5,8,t) collection in fixed-zero (C=0)
+M:4/4
+L:1
+K:C
+V:1
+[CF_A_B][F_A_Bc][_A_Bcf][_Bcf_a]|]
+w:0 5 8 t{% endcapture %}
+{% include abc-example.html number="4" abc=ex4 %}
+
+It may help you to compare ascedning form to traditional tertian harmony. When looking at seventh chord, you know that there are four inversions--root position, 1st inversion, 2nd inversion, and 3rd inversion. And if you were to write out each of these inversions in its simplest form, you would end up with a representation of the seventh chord in four different ways--one for each pitch in the chord. The ascending forms of pitch class sets are the same; there is one ascending form built off of a each pitch class within the set.  
 
 ## Modulo 12 arithmetic
 
