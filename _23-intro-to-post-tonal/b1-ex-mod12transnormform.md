@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 23b Lesson - Basic PC Set Manipulation
+title: 23b Lesson - Labeling Pitch-class Sets and Basic Manipulation
 abc: true
 ---
 
@@ -55,11 +55,11 @@ V:1
 w:0 5 8 t{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-It may help you to compare ascedning form to traditional tertian harmony. When looking at seventh chord, you know that there are four inversions--root position, 1st inversion, 2nd inversion, and 3rd inversion. And if you were to write out each of these inversions in its simplest form, you would end up with a representation of the seventh chord in four different ways--one for each pitch in the chord. The ascending forms of pitch class sets are the same; there is one ascending form built off of a each pitch class within the set.  
+It may help you to compare ascending form to traditional tertian harmony. When looking at seventh chord, you know that there are four inversions--root position, 1st inversion, 2nd inversion, and 3rd inversion. And if you were to write out each of these inversions in its simplest form, you would end up with a representation of the seventh chord in four different ways--one for each pitch in the chord. The ascending forms of pitch class sets are the same; there is one ascending form built off of a each pitch class within the set.  
 
 ## Modulo 12 arithmetic
 
-Before we begin using integer notation to study pitch classes and pitch-class sets, we must establish the mathematical method necessary for manipulating pitches. Because music uses twelve equally-spaced pitches but our standard counting system is based around tens, we must create a specific equivalency around the number 12. For this, we use modulo 12 (mod12) arithmetic. You already use modulo 12 arithmetic every time you count time in hours, assuming that you use a 12-hour system. For example, if it is 11:00 and you have a meeting in three hours, what time is your meeting? From experience, you understand that when you reach 12, you must reset your counting to find the meeting's start time at 2:00--not 14:00. (Again, this assumes that you are not using a 12-hour clock cycle, not 24-hour.)
+Before we begin using integer notation to study pitch classes and pitch-class sets, we must establish our first mathematical method for manipulating pitches. Our standard counting system is based around ten and its multiples (ones, tens, hundreds, thousands, etc.), but music uses twelve equally-spaced pitches. Because of this, we must figure out a way to count, and create equivalency, around the number 12. For this, we use modulo 12 (mod12) arithmetic. You already use modulo 12 arithmetic every time you count time in hours, assuming that you use a 12-hour system. For example, if it is 11:00 and you have a meeting in three hours, what time is your meeting? From experience, you understand that when you reach 12, you must reset your counting to find the meeting's start time at 2:00--not 14:00. Again, this assumes that you are not using a 12-hour clock cycle, not 24-hour.
 
 This is exactly how pitch-class integer notation works, although the system begins numbering on 0 instead of 12. In this system, each time you pass 11, you begin again at zero, therefore making every multiple of 12 equal to zero. Complete the following chart to show the first two equivalencies for every number in this system. Can you create a method to quickly find any level of equivalency? What would happen if you crossed below zero?
 
@@ -233,7 +233,7 @@ V:1
 
 (1,7,t)
 
-More precisely, find the ascending arrangement that has the smallest interval between the outside pitch classes. You may use any method that works, but common methods include using mod12, notating the pitches on a staff, or even drawing the pitches on a clock face. As you work through this, consider the speed and efficacy of each method that you try.
+More precisely, find the ascending order that has the smallest interval between the outside pitch classes. As discussed above, you should know that a triad has three ascending forms, so you should use that as your starting point. You may use any method that works, but common methods include using mod12, notating the pitches on a staff, or even drawing the pitches on a clock face to visualize the shortest distance. As you work through this, consider the speed and efficacy of each method that you try.
 
 ### Conclusions
 
@@ -245,7 +245,7 @@ For your first attempt at this basic trichord, you will probably find it easiest
 
 ## Breaking "ties" for ordering pcs
 
-Before we create our integer-based system for finding normal form, we need to understand one more issue with normal form. With many pitch class sets, it is possible that there are multiple arrangements that have the same interval between the outside pitches. Try putting the following trichord into normal form.
+Before we create a full integer-based system for finding normal form, we need to understand one more issue. With many pitch class sets, it is possible that there are multiple arrangements that have the same interval between the outside pitches. Try putting the following trichord into normal form.
 
 (0,5,7)
 
