@@ -4,11 +4,11 @@ title: 23b Lesson - Basic PC Set Manipulation
 abc: true
 ---
 
-In Unit 22, we introduced *integer notation* for *pitch classes*. Allen Forte first formalized this system in his seminal work, *The Structure of Atonal Music*, creating a broad analytical framework to compensate for tonal analytical methods inadequacy when music leaves tonality. His *set theory* is a specialized form of analysis that looks for intervallic patterns equally across all twelve chromatic pitches, rather than focusing on the relationship between a central pitch (i.e. tonic) and others. 
+For the rest of our introduction to post-tonal analysis, we will employ *integer notation* for *pitch classes*. Allen Forte first formalized this system in his seminal work, *The Structure of Atonal Music*, creating a broad analytical framework to compensate for the inadequacy of tonal analytical methods to address music that does not follow the structure and rules of diatonicism. His *set theory* is a specialized form of analysis that looks for intervallic patterns equally across all twelve chromatic pitches, rather than focusing on the relationship between a central pitch (i.e. tonic) and others. 
 
 ## Scratching the surface
 
-*Set theory* is a broad field of theoretical study, and we will only introduce a few basic concepts in this unit. If you would like to explore this topic further--and if you intend to go beyond the undergraduate level of music study, you should--I highly recommend that you read some of the many fine books written on the subject. My favorites include:
+*Set theory* is a broad field of theoretical study, and we will only introduce a few basic concepts in this unit. If you would like to explore this topic further--and if you intend to go beyond the undergraduate level of music study, you should have at least a passing familiarity with these concepts--I highly recommend that you read some of the many fine books written on the subject. My favorites include:
 - *The Structure of Atonal Music* - Allen Forte
 - *Introduction to Post-tonal Theory* - Joseph Straus
 - *Basic Atonal Theory* - John Rahn
@@ -19,13 +19,25 @@ There have been numerous refinements and alterations to this method since the fi
 
 When we introduced pc sets (pcs) in Unit 22, we did not formalize their notation, however, because we will study various levels of organization within pc sets, it is important to establish a standard form for writing an *unordered* pcs--a pitch class set that you have not specifically organized according to a predetermined, formalized sorting method. For unordered pcs, you should always notate this using **parentheses with a comma between each pitch class**. The following are all examples of unordered pc sets:
 
-- (0,1,5,t)
-- (B-flat,C,D,G)
-- (2,4)
-- (0,1,3,5,6,7,8,9,e)
-- (B,C,D,E,F,G,A)
+- (0,8,5,t)
+- (B-flat,C,G,D)
+- (9,4)
+- (0,t,3,e,6,7,8,9,2)
+- (B,C,A,E,F,G,D)
 
 You will notice that it doesn't matter if you use pitch names or integer notation; a pitch class set is any collection of pitch classes.
+
+We can then take each of these unordered pitch class sets and put them in an *ascending form*. This is notated the same way.
+- (0,5,8,t)
+- (B-flat,C,D,G)
+- (4,9)
+- (0,2,3,6,7,8,9,t,e)
+- (B,C,D,E,F,G,A)
+
+There are always as many ascending forms for any pcs as pitch classes within the set, because each pitch class has an ascending form. Here, I've only listed the ascending forms for the first pitch class in the examples above. For example, the first pcs listed would also have three additional ascending forms:
+- (5,8,t,0)
+- (8,t,0,5)
+- (t,0,5,8)
 
 ## Modulo 12 arithmetic
 
@@ -114,7 +126,7 @@ This is relatively simple to memorize, but it is more important to consider what
 First, transpose these pitches up a P4 using our traditional intervallic method for transposition, and as you do this, pay careful attention to the process that you use for transposing. Do you think of each pitch as part of a key? If so, what scale degree do you use for each pitch? Do you count half-steps? Do you find the first pitch and then as the base for finding the rest of the intervals?
 
 Next:
-- Convert this pitch-class set into integer notation
+- Convert this pitch-class set into integer notation *using fixed-zero*
 - Then add 5 to each number
 - For any resulting number greater that 11, convert that number to its lowest possible integer using mod12 from above. 
     - For example, if you were to get 13, you would need to subtract 12 to get 1.
@@ -124,7 +136,7 @@ Did you get the same result as when you transposed the pitches using the traditi
 
 ## Notating transposition
 
-Hopefully, you came to the same result using both methods of transposition. The pc set becomes (4,5,7,t), and then when you add 5 to each integer it becomes (9,t,12,15). All numbers greater than 11 must be reduced by mod12, so the set becomes (9,t,0,3). When these numbers are converted back into pitch letter names, you get (A,B-flat,C,E-flat) which is exactly a P4 above the original pc set.
+Hopefully, you came to the same result using both methods of transposition. The pc set becomes (4,5,7,t), and then when you add 5 to each integer it becomes (9,t,12,15). All numbers greater than 11 must be reduced by mod12, so the set becomes (9,t,0,3). When these numbers are converted back into pitch letter names *using fixed-zero*, you get (A,B-flat,C,E-flat) which is exactly a P4 above the original pc set.
 
 This works, of course, because *the numbers in integer notation actually represent the number of half-steps above a given pitch*. When using fixed zero, each integer represents that many half-steps above C. From this, we derive the following chart, although if you have already memorized the integers for fixed-zero notation, you can always "reverse engineer" this chart using your knowledge of intervals within the C major scale.
 
@@ -207,19 +219,15 @@ More precisely, find the ascending arrangement that has the smallest interval be
 
 ### Conclusions
 
-For this trichord, it is probably easiest to translate the pitches into standard pitch letters, and then just treat it as a triad. In this case, the pitches D-flat, G, and B-flat form a G diminished triad, so you can quickly tell that the normal form for this should be:
+For your first attempt at this basic trichord, you will probably find it easiest to translate the pitches into standard pitch letters, and then just treat it as a triad. In this case, the pitches D-flat, G, and B-flat form a G diminished triad, so you can quickly tell that the normal form for this should be:
 
 [7,t,1]
 
-Notice that when notating a pc set in normal form, the parentheses are replaced by brackets. (This notation method is outlined by Joseph Straus in his *Introduction to Post-Tonal Theory*.)
-
-But what happens when you have a more complicated and ambiguous pc set? Try putting the next pentachord into normal form. What difficulties do you find? Which method seems to get the quickest result? Which seems the most consistent?
-
-(1,3,7,t)
+**Notice that when notating a pc set in normal form, the parentheses are replaced by brackets.** (This notation method is outlined by Joseph Straus in his *Introduction to Post-Tonal Theory*.)
 
 ## Breaking "ties" for ordering pcs
 
-With any pcs, it is possible that there are multiple arrangements that have the same interval between the outside pitches. Try putting the following trichord into normal form.
+Before we create our integer-based system for finding normal form, we need to understand one more issue with normal form. With many pitch class sets, it is possible that there are multiple arrangements that have the same interval between the outside pitches. Try putting the following trichord into normal form.
 
 (0,5,7)
 
@@ -240,7 +248,9 @@ After looking at this on the staff, it is obvious that you can eliminate the las
 
 ## Developing a method for normal form
 
-Let's try to create a step-by-step process for finding normal form by using a more difficult example. The following pentachord has multiple ties and will require you to work through multiple levels. Try to develop this method without using a staff or clock faces. While working through this, how many permutations in ascending order are there for a this set? How does that number relate to the cardinality for any set? Remember that each tie is broken by measuring the first pitch against the next closest pitch.
+But how could we find normal form without relying on our familiarity with the traditional musical notation system? And what happens when we have a more complicated and ambiguous pc set? Imagine a more complicated set that doesn't translate into a traditional tonal structure like a triad or seventh chord. What difficulties do you imagine there will be? Do you have a method that seems to get a quick and reliable result? Which seems the most consistent?
+
+Let's try to create a step-by-step process by using a more difficult example. The following pentachord has multiple ties and will require you to work through multiple levels. Try to develop this method without using a staff or clock faces. While working through this, how many permutations in ascending order are there for a this set? How does that number relate to the cardinality for any set? Remember that each tie is broken by measuring the first pitch against the next closest pitch.
 
 (3,e,5,2,8)
 
