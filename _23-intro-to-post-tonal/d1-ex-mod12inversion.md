@@ -22,11 +22,36 @@ Before tackling the mathematical approach to inverting pitch-class integers, let
  --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
  C# | D | D# | E | F | F# | G | G# | A | A# | B | C |  C# | D | D# | E | F | F# | G | G# | A | A# | B
 
-Your first chart should have 12 pc sets, although two of them are technically only one pitch name -- C/0 and F#/6 end up inverting on top of themselves meaning that they are monads. However, as you look at the pairs, do you see a pattern? How many *unique* pc sets are there if you only look at pitch letter names?
+### Conclusions
+
+Your first chart should have 12 pc sets, although two of them are technically only one pitch name -- C/0 and F#/6 end up inverting on top of themselves. However, as you look at the pairs, do you see a pattern? How many *unique* pc sets are there if you only look at pitch letter names?
+
+Inversion Pair 1 | Inversion Pair 2
+ --- | ---
+ C | C
+ C# | B
+ D | A#
+ D# | A
+ E | G#
+ F | G
+ F# | F#
+ G | F
+ G# | E
+ A | D#
+ A# | D
+ B | C#
+
+As you hopefully can see, there are only six *unique* inversion pairs once you eliminate duplicates by examining pitch letters. For example, 5 and -5 are F and G respectively, but 7 and -7 are G and F respectively. This creates a phenomenon that we will refer to as inversion pairs. Anytime that you are using fixed-zero notation (C=0), you can simply memorize these six pairs as written above and always have access to all inversions. If you change your center point, however, it will change the pairs. You can see this by shifting all of the letters in the above number line in either direction. As soon as you assign zero to a different center pitch, you have to create a new chart of inversion pairs. You can see what would happen if we shifted all of the letters one space to the left, making C# our new zero (C#=0):
+
+ -e | -t | -9 | -8 | -7 | -6 | -5 | -4 | -3 | -2 | -1 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | t | e
+ --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ D | D# | E | F | F# | G | G# | A | A# | B | C |  C# | D | D# | E | F | F# | G | G# | A | A# | B | C
+
+Any function that may involve inversion is the main reason that we employ fixed-zero notation: the calculations are easier if you can memorize only one set of inversion pairs.
 
 ## Applying Mod12
 
-As you hopefully can see, there are only six *unique* inversion pairs once you eliminate duplicates by examining pitch letters. However, when we instead look at the pitch-class integers, you still have 12 unique pc sets because negative numbers differentiate the sets. You have just demonstrated the importance of using Mod12 to simplify all pc sets to only include integers between 0 and 11. (This is also a visual demonstration of how *octave equivalency* works.) If you look at the chart below, you can see what happens when we apply Mod12 to a series of integers; it creates a continuously repeating set of integers between 0 and 11, which means that inversion is as simple as memorizing six pairs...as long as you are using fixed zero/six as your inversion axis. If you decide to invert around a different pitch class, you will  end up with six different pairs.
+When we were to only look at the pitch-class *integers* in the above pairings, we still have 12 unique pc sets because negative numbers differentiate the sets. But we also know that in dealing with pitch-class integers, we can represent *any* integer as a pitch class between 0 and 11 using Mod12. (This is also a visual demonstration of how *octave equivalency* works.) If you look at the chart below, you can see what happens when we apply Mod12 to a series of integers; it creates a continuously repeating set of integers between 0 and 11, which means that inversion is as simple as memorizing the six pairs above as long as you are using fixed-zero as your inversion axis--the specific pitch class around which we are inverting.
 
 -e | -t | -9 | -8 | -7 | -6 | -5 | -4 | -3 | -2 | -1 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | t | e
  --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---

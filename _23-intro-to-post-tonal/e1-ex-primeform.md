@@ -4,7 +4,7 @@ title: 23e Lesson - PC Set Prime Form
 abc: true
 ---
 
-Pitch-class integer notation and the two primary forms of manipulation -- transposition and inversion -- allow for a tremendous amount of flexibility in analysis. This flexibility comes with the drawback of making comparison difficult, because there is no guarantee that a pc set is in the same order. For this reason, we use normal form to ensure that our comparisons between pc sets are built in a consistent manner. This is also why you should always normalize a pc set after inverting it.
+Pitch-class integer notation and the two primary forms of manipulation--transposition and inversion--allow for a tremendous amount of flexibility in analysis. This flexibility comes with the drawback of making comparison difficult, because there is no guarantee that a pc set is in the same order. For this reason, we use normal form to ensure that our comparisons between pc sets are built in a consistent manner. This is also why you should always normalize a pc set after inverting it.
 
 ## How many are there?
 
