@@ -4,7 +4,30 @@ title: 23b Discussion - Labeling Pitch-class Sets and Basic Manipulation
 abc: true
 ---
 
-# Class discussion
+Post Tonal Music
+
+When talking in post tonal music, we can’t use our normal letter names to name notes, because we aren’t working in any specific key. We will now label each note with a number (zero through eleven) counting up in half steps from the first note present in a piece. A pitch class is all of the possible enharmonic equivalents of a note, labeled with a number. The numbers that we label pitch classes with are 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, t, and e. We substitute t and e for 10 and 11 because when we put pitch classes together, we will need to be able to differentiate the numbers.
+
+
+Pitch Class Sets
+
+If we were to label scales using pitch classes, they would look like a string of numbers. For example, a major scale would be “0 2 4 5 7 9 e”. This is true, but we usually break down scales into smaller groups, called pitch class sets. If we label the major scale using four-note pitch class sets, it would look like this: “0 2 4 5 0 2 4 5”. This shows that the major scale is actually two groups of four notes (0 2 4 5) that are the same. 
+
+Ascending Form
+
+Let's put this pitch class set into ascending form: 4692. The most basic and easiest way to put this set into ascending form would be by putting each number into ascending order: 2469. This is one version of ascending form, but we can also think of the pitch “2” as being up an octave. If we then start with the number 4, the ascending form would be this: 4692. This is still in ascending form because we don’t skip any tones as we move up. This is a way to invert chords. The other two ascending forms are 6924, and 9246. 
+
+
+Modulo 12
+
+In almost all aspects in our life, we think about numbers in base 10. For serialism, we will think in base 12, or mod 12. This means that once we have numbers 12 or over, we can subtract 12 to find what number they are equivalent to from 0 - e. Think of it like military time. If the time is 13:00 and we need to translate that to what it would be in standard time, we would subtract 12 (13 - 12 = 1) 1:00 pm.
+
+Transposition
+
+Transposition in music is really just adding or subtracting the pitches by specific intervals. Therefore, if we want to transpose a pitch class set, we can simply add or subtract numbers. 
+
+
+# Class discussion 2021
 
 **Refresher: what is a pitch class (pc)?**
 - A number to represent all enharmonic equivalents of a pitch. We use 0 to e
