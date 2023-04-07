@@ -11,7 +11,7 @@ Pitch-class integer notation and the two primary forms of manipulation--transpos
 If you were to group all of the unique transpositions and inversions of a pc set, how many permutations would there be? To explore these ideas, first write out all unique inversions and transpositions of the following prime form pc set. This set represents a typical pc set in that every transposition and inversion is unique.
 - (014)
 
-Because there are twelve possible starting pitches and for both the starting set and its inversion, there are typically twenty-four possible pc sets within a set class. And because we use normal form to represent each pc set within a set class, this means there is *only* one arrangement of the pc set for each starting pitch. (If every unique order of pitch classes was considered as well, there would be vastly more options depending on the cardinality of (i.e. the number of pitch classes within) a pc set.
+Because there are twelve possible starting pitches and for both the starting set and its inversion, there are typically twenty-four possible pc sets within a set class. And because we use normal form to represent each pc set within a set class, this means there is *only* one arrangement of the pc set for each starting pitch. If every unique order of pitch classes was considered as well, there would be vastly more options depending on the cardinality--the number of pitch classes within the set--of a given pitch-class set.
 
 ## Set class
 
@@ -56,7 +56,7 @@ In the above trichords, we had two possible prime forms [0,3,7] and [0,4,7]. The
 
 (037)
 
-Notice the notation of prime form. For this we use parentheses only with no commas. (All of the notation that we use for pc sets--unordered, normal, and prime forms--was standardized by Joseph Straus in his *Introduction to Post-tonal Theory*.)
+Notice the notation of prime form. For this we use parentheses only with no commas. (All of the notation that we use for pc sets--unordered, normal, and prime forms--was standardized by Joseph Straus in his *Introduction to Post-tonal Theory*. He did not create a specific notation for ascending forms, so we use the same notation as unordered sets for those.)
 
 ## Finding prime form for any pc set
 
@@ -86,3 +86,9 @@ What could reduce the number of pc sets within a set class? Write out all unique
 - (0158)
 
 The number of pc sets in a set class can be reduced if the pc set is symmetrical: augmented triads, diminished seventh chords, the whole tone scale, and the octatonic scales are all symmetrical set classes with less than twenty-four unique pc sets, but there are many others that have symmetry reducing the number of pc sets in the set class.
+
+## Moving forward
+
+There are a number of helpful online resources that will help you quickly find the normal and prime forms of a pitch-class set, but these tools are only useful if you know *where* to use them. In order to do so, you must understand how the pcs calculator finds the new forms, so I hope that you will continue to practice these basic manipulations to further your knowledge of this. 
+
+Notably, as AI generation becomes more prevalent in all fields, it is only a matter of time before melodic and harmonic generation becomes commmon place. Given that pitch-class sets are an obvious way to represent pitches, a basic knowledge of set theory will likely become a vital part of music theory education as the field progresses.
