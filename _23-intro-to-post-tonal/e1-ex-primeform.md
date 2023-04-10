@@ -68,14 +68,16 @@ Hopefully you came to the answer of (0157)
 
 To find prime form, you:
 1. Put the pc set into normal form.
-2. Transpose that set to begin with 0.
-    - Remember this pc set, because it will be one of two possible options at the end of the process
+    - Refer to the step-by-step process in the Unit 23c if you need help with this step.
+2. Transpose that normal form set to begin with 0.
+    - Circle this pc set, because it will be one of two possible pc sets that we will need to compare at the end of the process.
 3. Invert your pc set.
-    - You may use either the normal form of the original or the reduced version that begins with 0. They will get you to the same answer after Step 5.
-4. Put the new pc set into normal form.
-5. Transpose this new pc set to begin with 0.
+    - While you may technically invert either a) the normal form of the original pc set OR b) the reduced version that begins with 0, it is easiest to use the "zeroed out" set that you just completed. Both will get you to the same answer by the end of step 5 below, but it makes it easier to follow the logic of your work if you make a mistake if you aren't jumping between multiple points.
+4. Put the new, inverted pc set from step 3 into normal form.
+    - After inverting a pc set *that was already in normal form*, the normal form of that inverted set is almost always going to be the inverted set backwards. This should make intuitive sense because the process of inversion simply mirrors the interval pattern. But because there are some edge cases where this is not true due to pc set symmetry, it is safer to follow the full procedure for finding normal form.
+5. Transpose this normal form of your inverted pc set to begin with 0.
 6. Compare the two pc sets that begin with 0 using the tie-breaker system that we outlined for identifying normal form.
-    - These are the final forms taken from steps 2 and 5.
+    - These are the final forms taken from steps 2 and 5. You should have circled the first one in step 2 to make it easier to find in your work.
     - You will always end with a pc set that begins with 0.
 7. Notate your prime form using parentheses and no commas.
 
